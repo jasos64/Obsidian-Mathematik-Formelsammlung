@@ -159,7 +159,151 @@ Da neben $h$ auch $r$ verändert betrachtet werden kann, so kann $A_{g}$ durch $
 Um eine so wie hier gespaltene Funktion zu vermeiden, so werde ich die Perspektive verändern. Die Funktion, welche ich zunächst benutzt hatte werde ich von links nach rechts schieben um die fehlenden negativen Werte zu umgehen.
 $a_{o}^{-1}(x)=\sqrt{r^{2}-\left(x-h+r\right)^{2}}$ werde ich dafür benutzen, mit $0\leq h\leq 2r$.
 
+---
+## Berechnung des Flächeninhaltes
+Durch $A(x)$ wird der Flächeninhalt dargestellt.
+$$\begin{align}
+	A_{o}(x)&=\bigg|\int^{x_r}_{x_{l}}a^{-1}_{o}(x)dx\bigg|\\
+	&=\bigg|\int^{x_r}_{x_{l}}\sqrt{r^{2}-\left(x-h+r\right)^{2}}~~dx\bigg|\\
+\end{align}$$
+Weil die Funktion $a^{-1}_{o}(x)$ eine x-Achsen Symmetrie besitzen würde, so muss für das Kreissegment der Flächeninhalt dupliziert werden. Die Integralgrenzen sind hier nun bei $0$ und $h$, weil $h$ die Verschiebung des Kreises gen x-Achse beschreibt $\Rightarrow$ Distanz zwischen Tangente und Sekante.
 
+$$\begin{align}
+	A_{o}(x)&=2\cdot\bigg|\int^{h}_{0}a^{-1}_{o}(x)dx\bigg|\\
+	&=2\cdot\bigg|\int^{h}_{0}\sqrt{r^{2}-\left(x-h+r\right)^{2}}~~dx\bigg|\\
+	
+	&=2\cdot\left|\sqrt{
+		\left(
+			x-h
+		\right)
+		\left(
+			h-2r-x
+		\right)
+		}
+		\cdot
+		\left(
+			-\frac
+				{r^{\frac{3}{2}}\sin^{-1}\left(\frac{\sqrt{h-x}}{\sqrt{2r}}\right)}
+				{\sqrt{h-x}\sqrt{-\frac{h-2r-x}{r}}}
+			-\frac{h}{2}
+			+\frac{r}{2}
+			+\frac{x}{2}
+		\right)\right|^{h}_{0}\\
+	
+	&=2\cdot\left(
+		\sqrt{
+			\left(
+				h-h
+			\right)
+			\left(
+				h-2r-h
+			\right)
+			}
+		\cdot
+		\left(
+			-\frac
+				{r^{\frac{3}{2}}\sin^{-1}\left(\frac{\sqrt{h-h}}{\sqrt{2r}}\right)}
+				{\sqrt{h-h}\sqrt{-\frac{h-2r-h}{r}}}
+			-\frac{h}{2}
+			+\frac{r}{2}
+			+\frac{h}{2}
+		\right)
+		-
+		\sqrt{
+			\left(
+				0-h
+			\right)
+			\left(
+				h-2r-0
+			\right)
+			}
+		\cdot
+		\left(
+			-\frac
+				{r^{\frac{3}{2}}\sin^{-1}\left(\frac{\sqrt{h-0}}{\sqrt{2r}}\right)}
+				{\sqrt{h-0}\sqrt{-\frac{h-2r-0}{r}}}
+			-\frac{h}{2}
+			+\frac{r}{2}
+			+\frac{0}{2}
+		\right)
+		\right)
+	\\
+	&=2\cdot\left(
+		\sqrt{
+			\left(
+				0
+			\right)
+			\left(
+				-2r
+			\right)
+			}
+		\cdot
+		\left(
+			-\frac
+				{r^{\frac{3}{2}}\sin^{-1}\left(\frac{\sqrt{0}}{\sqrt{2r}}\right)}
+				{\sqrt{0}\sqrt{-\frac{-2r}{r}}}
+			+\frac{r}{2}
+		\right)
+		-
+		\sqrt{
+			\left(
+				0-h
+			\right)
+			\left(
+				h-2r-0
+			\right)
+			}
+		\cdot
+		\left(
+			-\frac
+				{r^{\frac{3}{2}}\sin^{-1}\left(\frac{\sqrt{h-0}}{\sqrt{2r}}\right)}
+				{\sqrt{h-0}\sqrt{-\frac{h-2r-0}{r}}}
+			-\frac{h}{2}
+			+\frac{r}{2}
+			+\frac{0}{2}
+		\right)
+		\right)
+	\\
+	&=2\cdot\left(
+			0
+		\cdot
+		\left(
+			-\frac{0}{0}
+			+\frac{r}{2}
+		\right)
+		-
+		\sqrt{
+			\left(
+				-h
+			\right)
+			\left(
+				h-2r
+			\right)
+			}
+		\cdot
+		\left(
+			-\frac
+				{r^{\frac{3}{2}}\sin^{-1}\left(\frac{\sqrt{h}}{\sqrt{2r}}\right)}
+				{\sqrt{h}\sqrt{-\frac{h-2r}{r}}}
+			-\frac{h}{2}
+			+\frac{r}{2}
+		\right)
+		\right)
+	\\
+	&=2\cdot\left(
+		\sqrt{\left(-h\right)\left(h-2r\right)}\cdot\left(\frac
+			{r^{\frac{3}{2}}\sin^{-1}\left(\frac{\sqrt{h}}{\sqrt{2r}}\right)}
+			{\sqrt{h}\sqrt{\frac{2r-h}{r}}}+\frac{h}{2}-
+			\frac{r}{2}\right)\right)\\
+	
+	&A_{g}(h)=\left(
+		\sqrt{r^{2}-(h-r)^{2}}\cdot\left(\frac
+			{2r^{\frac{3}{2}}\sin^{-1}\left(\frac{\sqrt{h}}{\sqrt{2r}}\right)}
+			{\sqrt{\frac{2r^{2}-(h-r)^{2}}{r}}}+h-r\right)\right)\\
+\end{align}$$
+
+
+---
 ---
 ---
 # Schneiden von Kugeln in $\mathbb{R}^{3}$

@@ -464,6 +464,7 @@ Fsj
 FUa
 Fky
 FgO
+Fällen
 beliebigen
 besitzen
 berührt
@@ -2008,6 +2009,8 @@ mgN
 mUxP
 mCky
 mmf
+meisten
+maximal
 durchgeführt
 dem
 den
@@ -2185,6 +2188,8 @@ dYK
 derivative
 darf
 drückt
+dafür
+dupliziert
 Abhängigkeit
 Aufgaben
 Achsen
@@ -2364,6 +2369,7 @@ AlVg
 ANda
 AHM
 Anti
+Abitur
 zu
 zwei
 zunächst
@@ -2700,6 +2706,8 @@ gjMd
 gCC
 gDC
 gDD
+gespaltene
+gen
 sodass
 sind
 so
@@ -2907,6 +2915,7 @@ svT
 saXw
 swTM
 sOO
+schieben
 neben
 nach
 nun
@@ -3066,6 +3075,7 @@ nQF
 npDp
 noJ
 nnW
+negativen
 Klammern
 Kettenregel
 Kriterium
@@ -3235,6 +3245,8 @@ KUL
 KmG
 KOs
 Konstante
+Komplexen
+Kreissegment
 Variable
 Veränderung
 Veränderungsrate
@@ -3543,6 +3555,7 @@ PnL
 PDO
 PKn
 Polynomfunktion
+Perspektive
 Zahl
 Zwei
 Zeitraum
@@ -4359,6 +4372,7 @@ ujo
 ueW
 uyD
 update
+umgehen
 verwendet
 visuell
 von
@@ -4537,6 +4551,7 @@ vhp
 vLn
 vKJ
 vFGt
+vermeiden
 frei
 für
 finden
@@ -4673,6 +4688,7 @@ fFkx
 fzpX
 fCd
 fhZ
+fehlenden
 haben
 handelt
 hier
@@ -4828,6 +4844,7 @@ hn
 hCoM
 hehehehehe
 heißt
+hatte
 Sei
 Stellen
 Sie
@@ -5763,6 +5780,7 @@ GpZ
 GNT
 GgS
 Großbuchstaben
+Ganzrationale
 Um
 Unendlichen
 Ursprung
@@ -7071,6 +7089,7 @@ tXlE
 tF
 twwk
 toi
+ten
 yW
 yT
 yN
