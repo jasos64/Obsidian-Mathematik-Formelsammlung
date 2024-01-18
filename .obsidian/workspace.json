@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "teeeeesststststststs.md",
+                "file": "Allgemeines/Variable(n).md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -115,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "teeeeesststststststs.md",
+                "file": "Allgemeines/Variable(n).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "teeeeesststststststs.md",
+                "file": "Allgemeines/Variable(n).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "teeeeesststststststs.md"
+                "file": "Allgemeines/Variable(n).md"
               }
             }
           }
@@ -172,7 +172,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "teeeeesststststststs.md",
+                "file": "Allgemeines/Variable(n).md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -227,8 +227,9 @@
   },
   "active": "329b97db6fbc4bd1",
   "lastOpenFiles": [
-    "Allgemeines/Ein-Ausklammern.md",
     "Allgemeines/Halli hallo hallöleee.md",
+    "Allgemeines/Variable(n).md",
+    "Allgemeines/Ein-Ausklammern.md",
     "teeeeesststststststs.md",
     "Probeabi Aufgabenpool/2023 P-A.md",
     "Analysis/Allgemein/Integrationsregeln.md",
@@ -247,7 +248,6 @@
     "Analysis/Allgemein/Verschieben von Funktionen.md",
     "Analysis/Allgemein/Ableitung.md",
     "Analysis/Allgemein/Ableitung der Umkehrfunktion.md",
-    "Allgemeines/Variable(n).md",
     "Allgemeines/Äquivalenzumformung(en).md",
     "Analysis/Allgemein/Umkehrfunktion.md",
     "Analysis/Kurvendiskussion/Integralrechnung.md",
