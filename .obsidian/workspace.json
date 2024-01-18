@@ -19,22 +19,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "afdc2623cade12ba",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "test.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -129,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "test.md",
+                "file": "Allgemeines/Variable(n).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "test.md",
+                "file": "Allgemeines/Variable(n).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "test.md"
+                "file": "Allgemeines/Variable(n).md"
               }
             }
           },
@@ -195,7 +181,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "test.md",
+                "file": "Allgemeines/Variable(n).md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -247,10 +233,10 @@
       "3d-graph:3D Graph": false
     }
   },
-  "active": "afdc2623cade12ba",
+  "active": "329b97db6fbc4bd1",
   "lastOpenFiles": [
-    "Allgemeines/Variable(n).md",
     "test.md",
+    "Allgemeines/Variable(n).md",
     "Allgemeines/Halli hallo hallöleee.md",
     "Allgemeines/Ein-Ausklammern.md",
     "teeeeesststststststs.md",
