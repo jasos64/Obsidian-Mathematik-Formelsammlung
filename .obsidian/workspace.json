@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Analysis/Allgemein/Ableitungsregeln.md",
+                "file": "Z_Spielereien/Schneiden von Kreisen und Kugeln.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -115,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Analysis/Allgemein/Ableitungsregeln.md",
+                "file": "Z_Spielereien/Schneiden von Kreisen und Kugeln.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Analysis/Allgemein/Ableitungsregeln.md",
+                "file": "Z_Spielereien/Schneiden von Kreisen und Kugeln.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Analysis/Allgemein/Ableitungsregeln.md"
+                "file": "Z_Spielereien/Schneiden von Kreisen und Kugeln.md"
               }
             }
           },
@@ -168,7 +168,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 6
       },
       {
         "id": "8fc54a68b3dde7a5",
@@ -180,7 +181,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Analysis/Allgemein/Ableitungsregeln.md",
+                "file": "Z_Spielereien/Schneiden von Kreisen und Kugeln.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -234,43 +235,42 @@
   },
   "active": "329b97db6fbc4bd1",
   "lastOpenFiles": [
-    "Analysis/Allgemein/Ableitung der Umkehrfunktion.md",
-    "Analysis/Allgemein/Definitionsbereich.md",
+    "Z_Spielereien/Schneiden von Kreisen.pdf",
+    "Z_Spielereien/Pasted image 20240103145623.png",
+    "Z_Spielereien/desmos-graph.svg",
+    "Analytische Geometrie/Ebenen/Normalenform einer Ebene.md",
+    "Analytische Geometrie/Ebenen/Hessesche Normalform.md",
+    "Analytische Geometrie/Ebenen/Ebene(n).md",
+    "Analytische Geometrie/Geraden/Überprüfung der Ausrichtung von Geraden.md",
+    "Analytische Geometrie/Geraden/Schnittpunkt von zwei Geraden.md",
+    "Analytische Geometrie/Geraden/Punktprobe.md",
+    "Analytische Geometrie/Geraden/Lagebeziehungen von Geraden.md",
+    "Analytische Geometrie/Geraden/Geradengleichung.md",
+    "Analytische Geometrie/Ebenen/Parameterform einer Ebene.md",
+    "Analytische Geometrie/Ebenen/Koordinatenform einer Ebene.md",
     "Analysis/Allgemein/Ableitungsregeln.md",
+    "Analysis/Allgemein/Integration.md",
+    "Analysis/Allgemein/Umkehrfunktion.md",
+    "Analysis/Allgemein/Verschieben von Funktionen.md",
+    "Analysis/Allgemein/Integrationsregeln.md",
+    "Analysis/Allgemein/Definitionsbereich.md",
+    "Analysis/Allgemein/Ableitung der Umkehrfunktion.md",
     "Analysis/Allgemein/Differenzialquotient.md",
     "Analysis/Allgemein/Grenzverhalten.md",
-    "Analysis/Allgemein/Integration.md",
     "Allgemeines/Variable(n).md",
     "test.md",
     "Allgemeines/Halli hallo hallöleee.md",
     "Allgemeines/Ein-Ausklammern.md",
     "teeeeesststststststs.md",
     "Probeabi Aufgabenpool/2023 P-A.md",
-    "Analysis/Allgemein/Integrationsregeln.md",
-    "Z_Spielereien/Pasted image 20240103145623.png",
-    "Z_Spielereien/Schneiden von Kreisen.pdf",
     "Z_Spielereien/Schneiden von Kreisen und Kugeln.pdf",
-    "Z_Spielereien/Schneiden von Kreisen und Kugeln.md",
-    "Z_Spielereien/desmos-graph.svg",
     "Z_Spielereien",
     "_Spielereien",
     "New folder",
-    "Analysis/Allgemein/Verschieben von Funktionen.md",
-    "Analysis/Allgemein/Ableitung.md",
-    "Allgemeines/Äquivalenzumformung(en).md",
-    "Analysis/Allgemein/Umkehrfunktion.md",
-    "Analysis/Kurvendiskussion/Integralrechnung.md",
-    "Analysis/Komplexe Zahlen/Komplexe Zahlen.md",
-    "Schneiden von Kreisen und Kugeln.md",
     "Schneiden von Kreisen und Kugeln.pdf",
     "Schneiden von Kreisen.pdf",
     "Pasted image 20240103145623.png",
     "desmos-graph.svg",
-    "Arcsin shit whatsoever.md",
-    "Analytische Geometrie/LGS/Gaußsches Lösungsverfahren.md",
-    "Analytische Geometrie/LGS/LGS.md",
-    "Analysis/Nullstellen/pq-Formel und Mitternachtsformel.md",
-    "Analytische Geometrie/Geraden/Geradengleichung.md",
     "Analysis/Komplexe Zahlen",
     "Probeabi Aufgabenpool/ProbeAbi Analysis.pdf",
     "Probeabi Aufgabenpool",
