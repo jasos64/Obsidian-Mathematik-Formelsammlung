@@ -1,0 +1,1 @@
+Ein Stützvektor verschiebt eine Funktion, sodass diese durch einen hier gegebenen Punkt verläuft.

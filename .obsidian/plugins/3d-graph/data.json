@@ -1,0 +1,24 @@
+{
+  "filters": {
+    "doShowOrphans": true,
+    "doShowAttachments": true
+  },
+  "groups": {
+    "groups": [
+      {
+        "query": "Analysis",
+        "color": "#e32b2b"
+      },
+      {
+        "query": "Analytische Geometrie",
+        "color": "#0fae22"
+      }
+    ]
+  },
+  "display": {
+    "nodeSize": 2,
+    "linkThickness": 1,
+    "particleSize": 2,
+    "particleCount": 5
+  }
+}
