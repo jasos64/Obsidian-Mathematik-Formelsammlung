@@ -156,6 +156,10 @@ Da neben $h$ auch $r$ verändert betrachtet werden kann, so kann $A_{g}$ durch $
 ![[desmos-graph.svg]]
 
 ---
+Um eine so wie hier gespaltene Funktion zu vermeiden, so werde ich die Perspektive verändern. Die Funktion, welche ich zunächst benutzt hatte werde ich von links nach rechts schieben um die fehlenden negativen Werte zu umgehen.
+$a_{o}^{-1}(x)=\sqrt{r^{2}-\left(x-h+r\right)^{2}}$ werde ich dafür benutzen, mit $0\leq h\leq 2r$.
+
+
 ---
 ---
 # Schneiden von Kugeln in $\mathbb{R}^{3}$
