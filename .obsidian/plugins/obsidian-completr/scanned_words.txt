@@ -1185,6 +1185,7 @@ igD
 iXH
 iMcE
 iZS
+integriere
 eine
 eines
 einem
@@ -1547,6 +1548,7 @@ BHc
 Bfu
 BXt
 Bedenke
+Bestand
 Rechenvorganges
 Rest
 Rechnung
@@ -2182,6 +2184,7 @@ dLYo
 dYK
 derivative
 darf
+drückt
 Abhängigkeit
 Aufgaben
 Achsen
@@ -4824,6 +4827,7 @@ hQYM
 hn
 hCoM
 hehehehehe
+heißt
 Sei
 Stellen
 Sie
@@ -5758,6 +5762,7 @@ GsuXF
 GpZ
 GNT
 GgS
+Großbuchstaben
 Um
 Unendlichen
 Ursprung
