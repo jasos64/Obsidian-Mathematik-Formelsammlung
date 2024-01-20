@@ -26,7 +26,7 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "DOWNLOAD/HowToDownload.pdf"
+                "file": "HowToDownload.pdf"
               }
             }
           }
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DOWNLOAD/HowToDownload.pdf",
+                "file": "HowToDownload.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DOWNLOAD/HowToDownload.pdf",
+                "file": "HowToDownload.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DOWNLOAD/HowToDownload.pdf"
+                "file": "HowToDownload.pdf"
               }
             }
           },
@@ -192,7 +192,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "DOWNLOAD/HowToDownload.pdf",
+                "file": "HowToDownload.pdf",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -244,10 +244,10 @@
       "3d-graph:3D Graph": false
     }
   },
-  "active": "309545f87a786d47",
+  "active": "5f9375a6f0895173",
   "lastOpenFiles": [
     "DOWNLOAD/DOWNLOAD.md",
-    "DOWNLOAD/HowToDownload.pdf",
+    "HowToDownload.pdf",
     "README.md",
     "DOWNLOAD",
     "DOWNLOAD.md",
