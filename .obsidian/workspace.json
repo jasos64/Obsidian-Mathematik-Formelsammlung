@@ -13,14 +13,25 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Z_Spielereien/Schneiden von Kreisen und Kugeln.md",
+                "file": "README.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
+          },
+          {
+            "id": "309545f87a786d47",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "DOWNLOAD/HowToDownload.pdf"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -115,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Z_Spielereien/Schneiden von Kreisen und Kugeln.md",
+                "file": "DOWNLOAD/HowToDownload.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Z_Spielereien/Schneiden von Kreisen und Kugeln.md",
+                "file": "DOWNLOAD/HowToDownload.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Z_Spielereien/Schneiden von Kreisen und Kugeln.md"
+                "file": "DOWNLOAD/HowToDownload.pdf"
               }
             }
           },
@@ -181,7 +192,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Z_Spielereien/Schneiden von Kreisen und Kugeln.md",
+                "file": "DOWNLOAD/HowToDownload.pdf",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -233,11 +244,25 @@
       "3d-graph:3D Graph": false
     }
   },
-  "active": "329b97db6fbc4bd1",
+  "active": "309545f87a786d47",
   "lastOpenFiles": [
+    "DOWNLOAD/DOWNLOAD.md",
+    "DOWNLOAD/HowToDownload.pdf",
+    "README.md",
+    "DOWNLOAD",
+    "DOWNLOAD.md",
+    "Pasted image 20240120174944.png",
+    "Analysis/Allgemein/Definitionsbereich.md",
+    "Analysis/Kurvendiskussion/Funktion(en).md",
+    "Allgemeines/Äquivalenzumformung(en).md",
+    "Analysis/Allgemein/Verschieben von Funktionen.md",
+    "Analysis/Allgemein/Umkehrfunktion.md",
+    "Analysis/Allgemein/Integrationsregeln.md",
+    "Analysis/Allgemein/Integration.md",
+    "Analysis/Allgemein/Ableitung.md",
+    "Z_Spielereien/Schneiden von Kreisen und Kugeln.md",
     "Z_Spielereien/Schneiden von Kreisen und Kugeln.pdf",
     "Z_Spielereien/Schneiden von Kreisen.pdf",
-    "Z_Spielereien/Schneiden von Kreisen und Kugeln.md",
     "Analysis/Nullstellen/Komplexe Nullstellen.md",
     "Analysis/Komplexe Zahlen/Komplexe Zahlen.md",
     "Analytische Geometrie/Ebenen/Hessesche Normalform.md",
@@ -253,17 +278,6 @@
     "Analytische Geometrie/Geraden/Geradengleichung.md",
     "Analytische Geometrie/Ebenen/Parameterform einer Ebene.md",
     "Analysis/Allgemein/Ableitungsregeln.md",
-    "Analysis/Allgemein/Integration.md",
-    "Analysis/Allgemein/Umkehrfunktion.md",
-    "Analysis/Allgemein/Verschieben von Funktionen.md",
-    "Analysis/Allgemein/Integrationsregeln.md",
-    "Analysis/Allgemein/Definitionsbereich.md",
-    "Analysis/Allgemein/Ableitung der Umkehrfunktion.md",
-    "Analysis/Allgemein/Differenzialquotient.md",
-    "Analysis/Allgemein/Grenzverhalten.md",
-    "Allgemeines/Variable(n).md",
-    "test.md",
-    "Allgemeines/Halli hallo hallöleee.md",
     "Z_Spielereien",
     "_Spielereien",
     "New folder",
@@ -272,8 +286,6 @@
     "Pasted image 20240103145623.png",
     "desmos-graph.svg",
     "Analysis/Komplexe Zahlen",
-    "Probeabi Aufgabenpool/ProbeAbi Analysis.pdf",
-    "Probeabi Aufgabenpool",
     "Untitled.canvas",
     "Pasted image 20231224174421.png"
   ]
