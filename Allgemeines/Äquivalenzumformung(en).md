@@ -5,11 +5,14 @@ Als Beispiel ist diese Funktion gegen $a$ gesetzt. Es werden Werte für $x$ gesu
 Sei $f(x)=x^2-2$, so würde gelten:
 $$ \begin{aligned}
 a&=f(x)\\
-a &= x^2-2 &|+2\\
-a+2 &= x^{2}&|\sqrt{x}\\
+a &= x^2-2 &&|+2\\
+a+2 &= x^{2}&&|\sqrt{x}\\
 x_{1,2}&=\pm \sqrt{a+2}
 \end{aligned} $$
 Die Stellen $x=\pm\sqrt{a+2}$ geben somit an, dass $f$ dort $=a$ ist.
 
 ---
 ![[Ein-Ausklammern]]
+
+---
+![[Operationsregeln]]

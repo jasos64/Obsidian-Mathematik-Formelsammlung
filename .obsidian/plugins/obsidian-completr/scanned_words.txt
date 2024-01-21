@@ -147,6 +147,7 @@ DYn
 DDDDDfIf
 DHT
 Description
+Distributivgesetz
 Eine
 Eingangswert
 Einsetzen
@@ -486,6 +487,7 @@ FOI
 Fgv
 Fmd
 Formelsammlung
+FOIL
 beliebigen
 besitzen
 berührt
@@ -665,6 +667,10 @@ beschäftigt
 bip
 begin
 beheben
+beinhalten
+besagt
+bloß
+beider
 Namens
 Nullstelle
 Nullstellen
@@ -956,6 +962,7 @@ Okc
 OneColumn
 ONLYOFFICE
 Obsidian
+Operatorrangfolge
 oder
 oft
 oftmals
@@ -1228,6 +1235,7 @@ integriere
 iBWf
 ipRw
 iEz
+irst
 eine
 eines
 einem
@@ -1428,6 +1436,10 @@ eek
 end
 eingesehen
 einsehbar
+einige
+eingeordnet
+einmal
+englischen
 Beschreibung
 Besondere
 Beispiel
@@ -1774,6 +1786,8 @@ Richtigkeit
 RwP
 RNSwl
 RDF
+Regeln
+Rangfolge
 welcher
 wird
 werden
@@ -2088,6 +2102,7 @@ mNmA
 mEwk
 meta
 manuelle
+merken
 durchgeführt
 dem
 den
@@ -2459,6 +2474,9 @@ Asm
 ASY
 ALD
 AhP
+Anwendungen
+Ausdrücke
+Angewendet
 zu
 zwei
 zunächst
@@ -2803,6 +2821,7 @@ gnj
 gAA
 gqa
 gedacht
+gegebenen
 sodass
 sind
 so
@@ -3180,6 +3199,8 @@ nEs
 nDDDDD
 nzNM
 nDDDDDV
+nennt
+nner
 Klammern
 Kettenregel
 Kriterium
@@ -3673,6 +3694,9 @@ PageMode
 Pattern
 PaintType
 PatternType
+Potenzierung
+Potenzierungen
+Potenzgesetze
 Zahl
 Zwei
 Zeitraum
@@ -4026,6 +4050,8 @@ aIF
 aqq
 adobe
 about
+auflisten
+ast
 kann
 können
 kleines
@@ -4519,6 +4545,7 @@ uAL
 uEa
 ukF
 umB
+uter
 verwendet
 visuell
 von
@@ -4701,6 +4728,10 @@ vermeiden
 voE
 vKwb
 vceq
+verschiebt
+verläuft
+vorziehen
+vorhergesehen
 frei
 für
 finden
@@ -5196,6 +5227,9 @@ Srdi
 Sammlung
 SSiwg
 SyY
+Summen
+Summanden
+Summand
 jede
 jedes
 jeden
@@ -5346,6 +5380,7 @@ jqH
 jXt
 jqsS
 jSy
+jedem
 reelle
 rechnen
 rechts
@@ -5500,6 +5535,7 @@ rsd
 rPn
 rbb
 rdf
+richtige
 Tut
 Termumformung
 Tiefpunkt
@@ -5976,6 +6012,8 @@ GCy
 Gcq
 Gki
 GitHub
+Gesetze
+Grundlage
 Um
 Unendlichen
 Ursprung
@@ -6721,6 +6759,7 @@ Installation
 üT
 übertragen
 übereinstimmen
+übliche
 Limes
 Lösungsweg
 Lösung
@@ -7316,6 +7355,7 @@ ten
 tRp
 tKn
 tMi
+theoretisch
 yW
 yT
 yN
