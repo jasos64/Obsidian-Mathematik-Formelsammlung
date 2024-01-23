@@ -20,6 +20,19 @@ $$\begin{align}
 Angewendet wurde hier eine Potenzregel
 
 ---
+---
+## Assoziativgesetz
+Das Assoziativgesetz besagt, dass bei Additionen und Produkten Klammern beliebig gesetzt werden können, da diese das Ergebnis nicht beeinträchtigen.
+*Wichtig: Additionen positiver Zahlen, nicht negativer!*
+
+---
+## Kommutativgesetz
+Das Kommutativgesetz besagt, dass Additionen und Produkte in ihrem Aufschrieb beliebig verschoben werden können.
+$$a+b=b+a$$
+Wenn ein Wert negativ ist und verschoben wird, dann muss das Vorzeichen mit verschoben werden!
+$$a-b=-b+a$$
+
+---
 ## Distributivgesetz
 Das Distributivgesetz oder auch Verteilungsgesetz besagt, dass bei multiplizierten Summen der Faktor mit jedem Summanden der Klammer multipliziert werden muss. (Ausklammern)
 $$a\cdot\left(b+c\right)=a\cdot b + a\cdot c$$

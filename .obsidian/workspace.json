@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "05098e87d4bd6ea5",
+            "id": "9cb606ab00a24d90",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Analysis/Allgemein/Definitionsbereich.md",
+                "file": "Allgemeines/Zahlen/Brüche/Kürzen und erweitern.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -115,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Analysis/Allgemein/Definitionsbereich.md",
+                "file": "Allgemeines/Zahlen/Brüche/Kürzen und erweitern.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Analysis/Allgemein/Definitionsbereich.md",
+                "file": "Allgemeines/Zahlen/Brüche/Kürzen und erweitern.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Analysis/Allgemein/Definitionsbereich.md"
+                "file": "Allgemeines/Zahlen/Brüche/Kürzen und erweitern.md"
               }
             }
           },
@@ -181,7 +181,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Analysis/Allgemein/Definitionsbereich.md",
+                "file": "Allgemeines/Zahlen/Brüche/Kürzen und erweitern.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -233,11 +233,31 @@
       "3d-graph:3D Graph": false
     }
   },
-  "active": "05098e87d4bd6ea5",
+  "active": "9cb606ab00a24d90",
   "lastOpenFiles": [
-    "Allgemeines/Operationsregeln.md",
-    "Allgemeines/Äquivalenzumformung(en).md",
-    "Allgemeines/Ein-Ausklammern.md",
+    "Allgemeines/Zahlen/Brüche/Brüche(n).md",
+    "Allgemeines/Zahlen/Brüche/Arten von Brüchen.md",
+    "Allgemeines/Zahlen/Zahlensets.md",
+    "Allgemeines/Zahlen/Variable(n).md",
+    "Allgemeines/Zahlen/Runden.md",
+    "Allgemeines/Zahlen/Operationsgesetze.md",
+    "Allgemeines/Zahlen/Ein-Ausklammern.md",
+    "Allgemeines/Zahlen/Dezimale(n).md",
+    "Allgemeines/Zahlen/Äquivalenzumformung(en).md",
+    "Allgemeines/Zahlen/Brüche/Kürzen und erweitern.md",
+    "Allgemeines/Zahlen/Brüche",
+    "Allgemeines/Zahlen/Teilbarkeit/Teilbarkeitsregeln.md",
+    "Allgemeines/Zahlen",
+    "Allgemeines/Zahlen/Teilbarkeit/Primzahl(en).md",
+    "Allgemeines/Zahlen/Teilbarkeit/Teilbarkeit.md",
+    "Allgemeines/Zahlen/Teilbarkeit/Primfaktorzerlegung.md",
+    "Allgemeines/Zahlen/Teilbarkeit",
+    "Probeabi Aufgabenpool/2023 P-A.md",
+    "Analysis/Nullstellen/Polynomdivision.md",
+    "Z_Spielereien/Schneiden von Kreisen.pdf",
+    "Z_Spielereien/Schneiden von Kreisen und Kugeln.md",
+    "Z_Spielereien/Pasted image 20240103145623.png",
+    "Analysis/Allgemein/Definitionsbereich.md",
     "Analysis/Kurvendiskussion/Funktion(en).md",
     "Analytische Geometrie/Vektoren/Richtungsvektor(en).md",
     "Stochastik/Gaußsche Normalverteilung.md",
@@ -245,37 +265,16 @@
     "Analytische Geometrie/LGS/Gaußsches Lösungsverfahren.md",
     "Analytische Geometrie/Ebenen/Parameterform einer Ebene.md",
     "Analytische Geometrie/Ebenen/Normalenform einer Ebene.md",
-    "Analytische Geometrie/Ebenen/Koordinatenform einer Ebene.md",
-    "Analytische Geometrie/Ebenen/Hessesche Normalform.md",
-    "Analytische Geometrie/Ebenen/Ebene(n).md",
-    "Analytische Geometrie/Geraden/Überprüfung der Ausrichtung von Geraden.md",
-    "Analytische Geometrie/Geraden/Schnittpunkt von zwei Geraden.md",
-    "Analytische Geometrie/Geraden/Punktprobe.md",
-    "Analytische Geometrie/Geraden/Lagebeziehungen von Geraden.md",
-    "Analytische Geometrie/Geraden/Geradengleichung.md",
-    "Analytische Geometrie/Vektoren/Winkel zwischen Vektoren.md",
-    "Analytische Geometrie/Vektoren/Verbindungsvektor(en).md",
-    "Analytische Geometrie/Vektoren/Vektor(en).md",
-    "Analytische Geometrie/Vektoren/Stützvektor.md",
-    "Analytische Geometrie/Vektoren/Skalarprodukt.md",
-    "Analytische Geometrie/Vektoren/Ortsvektor(en).md",
-    "Analytische Geometrie/Vektoren/Nullvektor.md",
-    "Analytische Geometrie/Vektoren/Normiert.md",
     "HowToDownload.pdf",
     "DOWNLOAD",
     "Pasted image 20240120174944.png",
     "Z_Spielereien/Schneiden von Kreisen und Kugeln.pdf",
-    "Z_Spielereien/Schneiden von Kreisen.pdf",
-    "Z_Spielereien/Pasted image 20240103145623.png",
     "Z_Spielereien/desmos-graph.svg",
     "Z_Spielereien",
     "_Spielereien",
     "New folder",
-    "Schneiden von Kreisen und Kugeln.pdf",
-    "Schneiden von Kreisen.pdf",
     "Pasted image 20240103145623.png",
     "desmos-graph.svg",
-    "Analysis/Komplexe Zahlen",
     "Untitled.canvas",
     "Pasted image 20231224174421.png"
   ]

@@ -15,4 +15,4 @@ Die Stellen $x=\pm\sqrt{a+2}$ geben somit an, dass $f$ dort $=a$ ist.
 ![[Ein-Ausklammern]]
 
 ---
-![[Operationsregeln]]
+![[Operationsgesetze]]
