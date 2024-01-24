@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Allgemeines/Zahlen/Brüche/Kürzen und erweitern.md",
+                "file": "Allgemeines/Zahlen/Teilbarkeit/Teilbarkeit.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -115,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Allgemeines/Zahlen/Brüche/Kürzen und erweitern.md",
+                "file": "Allgemeines/Zahlen/Teilbarkeit/Teilbarkeit.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Allgemeines/Zahlen/Brüche/Kürzen und erweitern.md",
+                "file": "Allgemeines/Zahlen/Teilbarkeit/Teilbarkeit.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Allgemeines/Zahlen/Brüche/Kürzen und erweitern.md"
+                "file": "Allgemeines/Zahlen/Teilbarkeit/Teilbarkeit.md"
               }
             }
           },
@@ -181,7 +181,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Allgemeines/Zahlen/Brüche/Kürzen und erweitern.md",
+                "file": "Allgemeines/Zahlen/Teilbarkeit/Teilbarkeit.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -235,6 +235,18 @@
   },
   "active": "9cb606ab00a24d90",
   "lastOpenFiles": [
+    "Allgemeines/Zahlen/Teilbarkeit/Primzahl(en).md",
+    "Allgemeines/Zahlen/Teilbarkeit/Primfaktorzerlegung.md",
+    "Allgemeines/Zahlen/Teilbarkeit/Modulo.md",
+    "Analysis/Allgemein/Ableitung.md",
+    "Analysis/Allgemein/Ableitung der Umkehrfunktion.md",
+    "Analysis/Allgemein/Ableitungsregeln.md",
+    "Analysis/Allgemein/Verschieben von Funktionen.md",
+    "Analysis/Allgemein/Umkehrfunktion.md",
+    "Analysis/Allgemein/Integrationsregeln.md",
+    "Analysis/Allgemein/Grenzverhalten.md",
+    "Analysis/Allgemein/Integration.md",
+    "Allgemeines/Zahlen/Brüche/Kürzen und erweitern.md",
     "Allgemeines/Zahlen/Brüche/Brüche(n).md",
     "Allgemeines/Zahlen/Brüche/Arten von Brüchen.md",
     "Allgemeines/Zahlen/Zahlensets.md",
@@ -244,27 +256,16 @@
     "Allgemeines/Zahlen/Ein-Ausklammern.md",
     "Allgemeines/Zahlen/Dezimale(n).md",
     "Allgemeines/Zahlen/Äquivalenzumformung(en).md",
-    "Allgemeines/Zahlen/Brüche/Kürzen und erweitern.md",
     "Allgemeines/Zahlen/Brüche",
     "Allgemeines/Zahlen/Teilbarkeit/Teilbarkeitsregeln.md",
     "Allgemeines/Zahlen",
-    "Allgemeines/Zahlen/Teilbarkeit/Primzahl(en).md",
     "Allgemeines/Zahlen/Teilbarkeit/Teilbarkeit.md",
-    "Allgemeines/Zahlen/Teilbarkeit/Primfaktorzerlegung.md",
     "Allgemeines/Zahlen/Teilbarkeit",
     "Probeabi Aufgabenpool/2023 P-A.md",
     "Analysis/Nullstellen/Polynomdivision.md",
     "Z_Spielereien/Schneiden von Kreisen.pdf",
     "Z_Spielereien/Schneiden von Kreisen und Kugeln.md",
     "Z_Spielereien/Pasted image 20240103145623.png",
-    "Analysis/Allgemein/Definitionsbereich.md",
-    "Analysis/Kurvendiskussion/Funktion(en).md",
-    "Analytische Geometrie/Vektoren/Richtungsvektor(en).md",
-    "Stochastik/Gaußsche Normalverteilung.md",
-    "Analytische Geometrie/LGS/LGS.md",
-    "Analytische Geometrie/LGS/Gaußsches Lösungsverfahren.md",
-    "Analytische Geometrie/Ebenen/Parameterform einer Ebene.md",
-    "Analytische Geometrie/Ebenen/Normalenform einer Ebene.md",
     "HowToDownload.pdf",
     "DOWNLOAD",
     "Pasted image 20240120174944.png",

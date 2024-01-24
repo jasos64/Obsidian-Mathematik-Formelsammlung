@@ -1,4 +1,4 @@
-Eine Primzahl ist eine Zahl zugehörig der ganzen Zahlen $\mathbb{N}$, welche durch [[Teilbarkeit]] *genau* 2 Teiler aufweisen.
+Eine Primzahl ist eine Zahl zugehörig der natürlichen Zahlen $\mathbb{N}$, welche durch [[Teilbarkeit]] *genau* 2 Teiler aufweisen.
 
 Mit dieser Definition einer Primzahl beginnt die Liste an Primzahlen mit $2$.
 $$\begin{align}

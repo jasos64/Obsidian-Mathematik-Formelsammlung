@@ -5806,6 +5806,7 @@ Teiler
 Teilbarkeit
 Teilbarkeiten
 Teilbarkeitsregel
+Teilen
 Mathematisch
 Maxima
 Möglichkeiten
@@ -5979,6 +5980,7 @@ MAE
 MCE
 MpCehiHzreSzNTczkc
 ModifyDate
+Modulo
 Gleichsetzen
 Gegeben
 Generalisiert
