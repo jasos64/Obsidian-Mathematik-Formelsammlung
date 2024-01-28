@@ -25,3 +25,5 @@ x_{1,2}&=-\frac{\frac{b}{a}}{2}\pm\sqrt{\left(\frac{\frac{b}{a}}{2}\right)^{2}-\
 &=-\frac{b}{2a}\pm \frac{\sqrt{b^{2}-4ac}}{2a}\\
 x_{1,2}&=\frac{-b\pm\sqrt{b^{2}-4ac}}{2a}
 \end{align}$$
+
+---

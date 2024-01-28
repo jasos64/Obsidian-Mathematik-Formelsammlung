@@ -32,3 +32,5 @@ $$\begin{align}
 f(x)&=x^3-3x\\
 &=x\cdot(x^2-3)
 \end{align}$$
+
+---

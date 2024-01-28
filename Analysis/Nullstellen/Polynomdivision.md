@@ -56,3 +56,5 @@ $$\begin{align}
 ---
 ## Ergebnis
 Führt man diese Schritte nun fort, so bildet sich als neue Funktion $g(x)=x^2-x-1$, von welcher man nun Nullstellen einfacher finden kann.
+
+---

@@ -52,3 +52,5 @@ Nachdem alle Nullstellen analysiert wurden wird der Befund zum Schluss erneut fo
 >weil ___ an dieser Stelle ___ hat.
 
 Zusätzlich werden Punkte der Wendepunkte angegeben, wobei man die Stelle dieser in $f(x)$ einsetzt.
+
+---

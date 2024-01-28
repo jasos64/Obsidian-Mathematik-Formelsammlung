@@ -11,3 +11,5 @@ $$\begin{align}
 \end{align}$$
 Daraus folgt für alle $m=0$, dass $a$ und $b$ durch eine Division eine Zahl aus $\mathbb{Z}$ hervorbringt.
 Somit gilt für alle Teiler von $a$: $a\bmod T_{a}=0$
+
+---

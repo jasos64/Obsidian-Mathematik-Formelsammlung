@@ -21,3 +21,16 @@ q_2 &= x^2 &|\sqrt{x}\\
 x_{1,4}&=\pm \sqrt{q_2}
 \end{aligned} $$
 Die Funktion $f$ hat somit die folgenden Nullstellen:
+$$\begin{align}
+	x_{1}&=-\sqrt{q_{2}}
+		~~~\vee~~~ x_{2}=-\sqrt{q_{1}}
+		~~~&&\vee~~~ x_{3}=\sqrt{q_{1}}
+		~~~\vee~~~ x_{4}=\sqrt{q_{2}}\\
+	&\Downarrow\\
+	x_{1}&=-\sqrt{2+\sqrt{2}}~~~&&\vee\\
+	x_{1}&=-\sqrt{2-\sqrt{2}}~~~&&\vee\\ 
+	x_{1}&=\sqrt{2-\sqrt{2}}~~~&&\vee\\ 
+	x_{1}&=\sqrt{2+\sqrt{2}}
+\end{align}$$
+
+---

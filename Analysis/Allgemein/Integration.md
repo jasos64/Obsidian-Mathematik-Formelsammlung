@@ -11,3 +11,5 @@ $$\int f(x)~dx\equiv F(x)$$
 $f$ drückt die Veränderung an $F$ aus, wodurch $F'(x)=f(x)$ ersichtlich wird.
 $f$ beschreibt die *Veränderung* und $F$ den *Bestand*.
 $F$ ist der Flächeninhalt von $f$ von $0$ bis $x$ auf zur x-Achse.
+
+---

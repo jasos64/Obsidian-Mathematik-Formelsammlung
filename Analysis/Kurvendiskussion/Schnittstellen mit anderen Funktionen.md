@@ -38,3 +38,5 @@ P_2(x_2&|f(x_2))~~~~~~~=&P_2(x_2&|g(x_2))\\
 &\vdots&\vdots\\
 P_n(x_n&|f(x_n))~~~~~~~=&P_n(x_n&|g(x_n))\\
 \end{aligned} $$
+
+---

@@ -14,3 +14,5 @@ Die Existenz einer Zahl als Teiler kann mittels Teilbarkeitsregel analysiert wer
 
 ---
 Um weitere Teilbarkeiten von einer Zahl zu überprüfen, beispielsweise $38$, so muss diese auf Teilbarkeiten ihrer [[Primfaktorzerlegung]] überprüft werden (Hier also $2$ und $19$)
+
+---

@@ -151,6 +151,8 @@ Distributivgesetz
 Dezimalen
 Dezimale
 Definitionsmenge
+Dann
+Daraus
 Eine
 Eingangswert
 Einsetzen
@@ -687,6 +689,10 @@ beispielsweise
 beliebig
 beeinträchtigen
 beachten
+bestimmten
+bekannt
+beide
+bilden
 Namens
 Nullstelle
 Nullstellen
@@ -847,6 +853,8 @@ Nachkommaziffern
 Nachkommastelle
 Nenner
 Notiert
+Neutrales
+Neutrale
 Oftmals
 Operation
 Ortsvektor
@@ -1114,6 +1122,7 @@ omg
 oocQo
 ocs
 oGW
+orientiertem
 ist
 in
 im
@@ -1261,6 +1270,7 @@ irst
 inkusive
 ihrer
 ihrem
+img
 eine
 eines
 einem
@@ -1471,6 +1481,8 @@ erweitern
 echter
 echten
 einzustufen
+eingebaut
+etwas
 Beschreibung
 Besondere
 Beispiel
@@ -1827,6 +1839,7 @@ Rangfolge
 Regel
 Rationale
 Reelle
+Rechtecksumme
 welcher
 wird
 werden
@@ -2145,6 +2158,8 @@ manuelle
 merken
 möglichst
 mehrerer
+mal
+matrix
 durchgeführt
 dem
 den
@@ -2328,6 +2343,7 @@ dIYq
 dHu
 dxm
 ddY
+displaystyle
 Abhängigkeit
 Aufgaben
 Achsen
@@ -2676,6 +2692,8 @@ zek
 zRU
 zRR
 zugehörig
+zerlegt
+zusammen
 gesetzt
 gegeben
 gelten
@@ -3096,6 +3114,7 @@ schreibt
 seine
 sucht
 sowohl
+stetig
 neben
 nach
 nun
@@ -4140,6 +4159,8 @@ allen
 aufgeteilt
 aber
 absehbar
+align
+aria
 kann
 können
 kleines
@@ -4646,6 +4667,9 @@ ungleich
 unecht
 unechten
 umgewandelt
+unverändert
+underbrace
+use
 verwendet
 visuell
 von
@@ -4837,6 +4861,9 @@ vergleicht
 vorhanden
 vielfachen
 verdoppel
+vertical
+viewBox
+vorgezogen
 frei
 für
 finden
@@ -4982,6 +5009,8 @@ fDz
 folgt
 folgendem
 folgend
+focusable
+false
 haben
 handelt
 hier
@@ -5143,6 +5172,9 @@ hDF
 huW
 hQDqFU
 heee
+hervorbringt
+hidden
+href
 Sei
 Stellen
 Sie
@@ -5344,6 +5376,11 @@ Symbol
 Stammbruch
 Scheinbruch
 Schreibweise
+Schnittpunkt
+Somit
+Summe
+Subtrahend
+SVG
 jede
 jedes
 jeden
@@ -5651,6 +5688,8 @@ rbb
 rdf
 richtige
 resultierend
+reinen
+role
 Tut
 Termumformung
 Tiefpunkt
@@ -5807,6 +5846,10 @@ Teilbarkeit
 Teilbarkeiten
 Teilbarkeitsregel
 Teilen
+Tangentenfunktion
+Teilintervalle
+Teilt
+Title
 Mathematisch
 Maxima
 Möglichkeiten
@@ -5981,6 +6024,10 @@ MCE
 MpCehiHzreSzNTczkc
 ModifyDate
 Modulo
+Minuend
+MJMATHI
+MJMAIN
+MJSZ
 Gleichsetzen
 Gegeben
 Generalisiert
@@ -6137,6 +6184,8 @@ Gesetze
 Grundlage
 Ganze
 Gemischte
+Gesetzlichkeiten
+Gesprochen
 Um
 Unendlichen
 Ursprung
@@ -6448,6 +6497,7 @@ WwN
 Wählen
 Wertes
 Wertemenge
+Weiterhin
 lauten
 lokale
 links
@@ -6606,6 +6656,7 @@ lXA
 lul
 letzte
 lang
+labelledby
 Quotientenregel
 QL
 Qb
@@ -6884,6 +6935,7 @@ Installation
 Italic
 Irrationale
 Imaginäre
+Integrationsgrenzen
 überprüfen
 übrig
 über
@@ -7179,6 +7231,7 @@ pMbi
 pdf
 paar
 positiver
+positive
 Äquivalenzumformung
 ÄI
 ÄP
@@ -8327,6 +8380,9 @@ cwK
 cTOR
 cvs
 cfD
+cdot
+cdots
+currentColor
 qyy
 qF
 qZ

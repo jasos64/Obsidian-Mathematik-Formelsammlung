@@ -13,14 +13,54 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Allgemeines/Zahlen/Teilbarkeit/Teilbarkeit.md",
+                "file": "Allgemeines/Operatoren/Addition.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "62247f5bbeef6c9a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Allgemeines/Operatoren/Subtraktion.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "43156fea258084c7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Allgemeines/Operatoren/Multiplikation.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "299f526492ae5e2f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Allgemeines/Gesetze/Potenzgesetz(e).md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -115,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Allgemeines/Zahlen/Teilbarkeit/Teilbarkeit.md",
+                "file": "Allgemeines/Gesetze/Potenzgesetz(e).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +172,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Allgemeines/Zahlen/Teilbarkeit/Teilbarkeit.md",
+                "file": "Allgemeines/Gesetze/Potenzgesetz(e).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +196,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Allgemeines/Zahlen/Teilbarkeit/Teilbarkeit.md"
+                "file": "Allgemeines/Gesetze/Potenzgesetz(e).md"
               }
             }
           },
@@ -181,7 +221,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Allgemeines/Zahlen/Teilbarkeit/Teilbarkeit.md",
+                "file": "Allgemeines/Gesetze/Potenzgesetz(e).md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -204,7 +244,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.7132754626224425,
+                  "scale": 0.3628873693012126,
                   "close": true
                 }
               }
@@ -233,47 +273,47 @@
       "3d-graph:3D Graph": false
     }
   },
-  "active": "9cb606ab00a24d90",
+  "active": "299f526492ae5e2f",
   "lastOpenFiles": [
-    "Allgemeines/Zahlen/Teilbarkeit/Primzahl(en).md",
-    "Allgemeines/Zahlen/Teilbarkeit/Primfaktorzerlegung.md",
-    "Allgemeines/Zahlen/Teilbarkeit/Modulo.md",
-    "Analysis/Allgemein/Ableitung.md",
-    "Analysis/Allgemein/Ableitung der Umkehrfunktion.md",
-    "Analysis/Allgemein/Ableitungsregeln.md",
-    "Analysis/Allgemein/Verschieben von Funktionen.md",
-    "Analysis/Allgemein/Umkehrfunktion.md",
-    "Analysis/Allgemein/Integrationsregeln.md",
-    "Analysis/Allgemein/Grenzverhalten.md",
-    "Analysis/Allgemein/Integration.md",
-    "Allgemeines/Zahlen/Brüche/Kürzen und erweitern.md",
-    "Allgemeines/Zahlen/Brüche/Brüche(n).md",
-    "Allgemeines/Zahlen/Brüche/Arten von Brüchen.md",
+    "Allgemeines/Operatoren/Addition.md",
+    "Allgemeines/Operatoren/Division.md",
+    "Allgemeines/Operatoren/Subtraktion.md",
+    "Allgemeines/Operatoren/Multiplikation.md",
+    "d7edfaa75620ef8825e4faecb555ebcddf6d7a8e.svg",
+    "Allgemeines/Gesetze/Assoziativgesetz.md",
+    "Allgemeines/Gesetze/Distributivgesetz.md",
+    "Allgemeines/Gesetze/Kommutativgesetz.md",
+    "Allgemeines/Gesetze/Potenzgesetz(e).md",
+    "Allgemeines/Gesetze/Operationsrangfolge.md",
+    "Allgemeines/Gesetze",
     "Allgemeines/Zahlen/Zahlensets.md",
+    "Allgemeines/Operatoren",
     "Allgemeines/Zahlen/Variable(n).md",
+    "Analysis/Allgemein/Definitionsbereich.md",
     "Allgemeines/Zahlen/Runden.md",
-    "Allgemeines/Zahlen/Operationsgesetze.md",
     "Allgemeines/Zahlen/Ein-Ausklammern.md",
     "Allgemeines/Zahlen/Dezimale(n).md",
     "Allgemeines/Zahlen/Äquivalenzumformung(en).md",
-    "Allgemeines/Zahlen/Brüche",
-    "Allgemeines/Zahlen/Teilbarkeit/Teilbarkeitsregeln.md",
-    "Allgemeines/Zahlen",
     "Allgemeines/Zahlen/Teilbarkeit/Teilbarkeit.md",
-    "Allgemeines/Zahlen/Teilbarkeit",
-    "Probeabi Aufgabenpool/2023 P-A.md",
-    "Analysis/Nullstellen/Polynomdivision.md",
-    "Z_Spielereien/Schneiden von Kreisen.pdf",
-    "Z_Spielereien/Schneiden von Kreisen und Kugeln.md",
+    "Allgemeines/Zahlen/Teilbarkeit/Teilbarkeitsregeln.md",
+    "Allgemeines/Zahlen/Teilbarkeit/Primzahl(en).md",
+    "Allgemeines/Zahlen/Teilbarkeit/Primfaktorzerlegung.md",
+    "Allgemeines/Zahlen/Teilbarkeit/Modulo.md",
+    "Allgemeines/Zahlen/Brüche/Kürzen und erweitern.md",
+    "Allgemeines/Zahlen/Brüche/Brüche(n).md",
+    "Allgemeines/Zahlen/Brüche/Arten von Brüchen.md",
+    "Analysis/Allgemein/Ableitung.md",
     "Z_Spielereien/Pasted image 20240103145623.png",
+    "Z_Spielereien/desmos-graph.svg",
     "HowToDownload.pdf",
+    "Allgemeines/Zahlen/Brüche",
+    "Allgemeines/Zahlen",
+    "Allgemeines/Zahlen/Teilbarkeit",
+    "Z_Spielereien/Schneiden von Kreisen.pdf",
     "DOWNLOAD",
     "Pasted image 20240120174944.png",
     "Z_Spielereien/Schneiden von Kreisen und Kugeln.pdf",
-    "Z_Spielereien/desmos-graph.svg",
     "Z_Spielereien",
-    "_Spielereien",
-    "New folder",
     "Pasted image 20240103145623.png",
     "desmos-graph.svg",
     "Untitled.canvas",

@@ -8,3 +8,5 @@ $$\begin{align}
 &f(x)=\frac{1}{x};\quad &&D=x\in\mathbb{R}\backslash\set{0}\\
 &&&D=\{t\in\mathbb{R}|0\leq t\leq 1\}\\
 \end{align}$$
+
+---

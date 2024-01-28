@@ -56,3 +56,5 @@ Zusätzlich werden Punkte der Extrema angegeben, wobei man die Stelle dieser in 
 Falls zusätzlich nach globalen Maxima gesucht werden, so muss folgendes zusätzlich betrachtet werden:
 
 ![[Grenzverhalten]]
+
+---

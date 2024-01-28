@@ -4,3 +4,5 @@ Um globale Extrema in dieser Situation zu bestimmen, so wird zunächst normal di
 Falls es kein Intervall gibt, oder dieses offen ist, so müssen wir mittels des Limes einen Grenzwert im Unendlichen ermitteln.
 Hierfür gilt folgendes:
 $$\lim_{x\rightarrow\infty^\pm}f(x)$$
+
+---

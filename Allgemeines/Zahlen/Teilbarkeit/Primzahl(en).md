@@ -5,3 +5,5 @@ $$\begin{align}
 T_{1}&=\{1\}\\
 \left|T_{1}\right|&=1~~~~\neq 2
 \end{align}$$
+
+---

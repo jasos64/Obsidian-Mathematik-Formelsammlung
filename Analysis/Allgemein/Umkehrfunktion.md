@@ -49,3 +49,5 @@ Als Bedingung hierfür gilt, dass eine Funktion keine Umkehrfunktion haben kann,
 Eine ganzrationale Funktion zweiten Grades hat keine Umkehrfunktion, da für $g(x)=x^2$ jeder verwendete Y-Wert (exklusive 0 (naja, eigentlich schon.... $-0$)) doppelt vorkommt
 
 >Eine Funktion mit einer [Y-Achsen-Symmetrie](Achsensymmetrie) hat folglich **nie** eine Umkehrfunktion
+
+---
