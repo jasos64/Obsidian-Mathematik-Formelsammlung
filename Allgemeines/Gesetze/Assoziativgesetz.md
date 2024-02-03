@@ -4,8 +4,8 @@ Das Assoziativgesetz besagt, dass bei reinen Additionen und Produkten Klammern b
 Wenn eine negative Zahl mit einer Klammer eingebaut wird, so ist es wichtig, dass das Vorzeichen bei der Zahl und nicht der Klammer bleibt.
 $$
 \begin{array}{}
-& a-b+c & \nrightarrow&a-\left(b+c\right)\\
-&\downarrow &\not\searrow &\downarrow\\
+& a-b+c & \nRightarrow&a-\left(b+c\right)\\
+&\Downarrow &\not\searrow &\Downarrow\\
 &a+\left(-b+c\right) & & a-b-c
 \end{array}
 $$

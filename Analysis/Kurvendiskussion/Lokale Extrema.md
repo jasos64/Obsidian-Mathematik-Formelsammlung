@@ -9,7 +9,7 @@ Gegeben sei eine Funktion $f$. Diese wird zunächst nach den [[Ableitungsregeln]
 Nachdem dieser folgende Satz angepasst formuliert wurde:
 > Notwendiges Kriterium für lokale Extrema: $f'(x)=0$
 
-Nun kann so wie beschrieben die [Ableitungsfunktion](Ableitung) nach [[Nullstellen]] untersucht werden. Wichtig hierbei ist es, dass folgender erster Aufbau (hier für $f$) nicht fehlen sollte:
+Nun kann so wie beschrieben die [Ableitungsfunktion](Ableitung.md) nach [[Nullstellen]] untersucht werden. Wichtig hierbei ist es, dass folgender erster Aufbau (hier für $f$) nicht fehlen sollte:
 $$ \begin{aligned}
 \text{Notwendiges Kriterium}&\text{ für lokale Extrema:}\quad f'(x)=0 \\
 0&=f'(x)\\

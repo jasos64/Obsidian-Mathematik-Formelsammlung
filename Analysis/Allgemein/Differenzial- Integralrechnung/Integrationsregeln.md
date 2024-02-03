@@ -1,7 +1,7 @@
-**Bedenke: Nach jeder Funktion darf eine Konstante nicht fehlen*
+**Bedenke: Nach jeder Funktion darf eine Konstante theoretisch nicht fehlen**
 
 ---
-Eine Polynomfunktion $f~x\rightarrowtail y$ sei gegeben, die integriert werden soll. So gilt für jedes Polynom folgendes:
+Eine Potenzfunktion $f~x\rightarrowtail y$ sei gegeben, die integriert werden soll. So gilt:
 $$\begin{align}
 f(x)&=ax^{n}\\
 F(x)&=\frac{1}{n+1}\cdot ax^{n+1}&n\in\mathbb{R}\backslash\{-1\}\\

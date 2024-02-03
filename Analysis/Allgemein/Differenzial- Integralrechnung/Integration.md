@@ -3,13 +3,8 @@ Man schreibt $\int^{a}_{b}f(x)~~dx=\lim \limits_{n \to \infty}A_{n}$ zwischen $
 Beim bestimmten Integral sind die *Integrationsgrenzen* bekannt
 
 ---
-Die Integration beschreibt den Vorgang einer Anti-[[Ableitung]]
-(*eng.: antiderivative*). Wird in der [[Integralrechnung]] verwendet.
 
-Eine integriere Funktion von $f$ heißt Stammfunktion und wird mit einem Großbuchstaben ausgedrückt.
-$$\int f(x)~dx\equiv F(x)$$
-$f$ drückt die Veränderung an $F$ aus, wodurch $F'(x)=f(x)$ ersichtlich wird.
-$f$ beschreibt die *Veränderung* und $F$ den *Bestand*.
-$F$ ist der Flächeninhalt von $f$ von $0$ bis $x$ auf zur x-Achse.
+Eine Funktion $F$ heißt Stammfunktion zu einer Funktion $f$ auf einem Intervall $I$, wenn für alle $x\in I$ gilt:
+$$F'(x)=f(x)$$
 
 ---
