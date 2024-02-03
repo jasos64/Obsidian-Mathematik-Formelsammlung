@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Analysis/Allgemein/Umkehrfunktion.md",
+                "file": "Allgemeines/Zahlen/Teilbarkeit/Modulo.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -115,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Analysis/Allgemein/Umkehrfunktion.md",
+                "file": "Allgemeines/Zahlen/Teilbarkeit/Modulo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Analysis/Allgemein/Umkehrfunktion.md",
+                "file": "Allgemeines/Zahlen/Teilbarkeit/Modulo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Analysis/Allgemein/Umkehrfunktion.md"
+                "file": "Allgemeines/Zahlen/Teilbarkeit/Modulo.md"
               }
             }
           },
@@ -181,7 +181,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Analysis/Allgemein/Umkehrfunktion.md",
+                "file": "Allgemeines/Zahlen/Teilbarkeit/Modulo.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -233,8 +233,9 @@
       "3d-graph:3D Graph": false
     }
   },
-  "active": "5f9375a6f0895173",
+  "active": "9cf5971aafdc181b",
   "lastOpenFiles": [
+    "Analysis/Allgemein/Umkehrfunktion.md",
     "HowToDownload.pdf",
     "CODE_OF_CONDUCT.md",
     "Hausaufgaben vom Mittwoch.md",
@@ -246,7 +247,6 @@
     "Analysis/Allgemein/Verschieben von Funktionen.md",
     "Analysis/Allgemein/Definitionsbereich.md",
     "Analysis/Allgemein/Grenzverhalten.md",
-    "Analysis/Allgemein/Umkehrfunktion.md",
     "Analysis/Allgemein/Ableiten/Differenzialquotient.md",
     "Analysis/Allgemein/Ableiten/Ableitung.md",
     "Analysis/Allgemein/Ableiten",
