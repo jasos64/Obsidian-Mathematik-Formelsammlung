@@ -165,6 +165,8 @@ DAMAGES
 DATA
 Demonstrating
 Differential
+Dividend
+Divisor
 Eine
 Eingangswert
 Einsetzen
@@ -342,6 +344,7 @@ EVEN
 END
 Examples
 Enforcement
+Einheiten
 Funktion
 Funktionsnamen
 Form
@@ -537,6 +540,7 @@ FAILURE
 Focusing
 FAQ
 Flächeninhalte
+Folgender
 beliebigen
 besitzen
 berührt
@@ -752,6 +756,8 @@ behavior
 ban
 bestimmtes
 bestätigen
+border
+beginn
 Namens
 Nullstelle
 Nullstellen
@@ -924,6 +930,7 @@ Network
 NOT
 NECESSARY
 New
+Normalparabel
 Oftmals
 Operation
 Ortsvektor
@@ -1456,6 +1463,8 @@ incident
 involved
 interactions
 inspired
+iframe
+integrierbar
 eine
 eines
 einem
@@ -1736,6 +1745,8 @@ explanation
 external
 ergibt
 einfachste
+erkennt
+eintrifft
 Beschreibung
 Besondere
 Beispiel
@@ -1929,6 +1940,9 @@ Bestimmtes
 Beweis
 Buch
 Bestimmen
+Boxen
+Ben
+Beide
 Rechenvorganges
 Rest
 Rechnung
@@ -2322,6 +2336,9 @@ wiki
 wtnet
 warning
 weit
+würden
+wöchentlich
+wer
 mit
 man
 müssen
@@ -2519,6 +2536,7 @@ mistakes
 moderation
 media
 max
+machen
 durchgeführt
 dem
 den
@@ -2976,6 +2994,8 @@ Also
 AGPL
 Accepting
 Attribution
+Aufhören
+Ansparens
 zu
 zwei
 zunächst
@@ -3131,6 +3151,7 @@ zRR
 zugehörig
 zerlegt
 zusammen
+zusätzliches
 gesetzt
 gegeben
 gelten
@@ -3356,6 +3377,11 @@ gmail
 generell
 gewünscht
 geht
+gerechnet
+gut
+grün
+gefärbten
+grundlegende
 sodass
 sind
 so
@@ -3660,6 +3686,9 @@ serious
 sustained
 sort
 selbst
+src
+solid
+sobald
 neben
 nach
 nun
@@ -4032,6 +4061,10 @@ Kombination
 Knowingly
 KIND
 Kopf
+Keine
+Konzepte
+Kreislauf
+Kreislaufaufleitungen
 Variable
 Veränderung
 Veränderungsrate
@@ -4209,6 +4242,8 @@ Versions
 Violating
 Vorwissen
 Vorstellen
+Visualisiert
+Verkürzung
 Platzhalter
 Punkte
 Punkt
@@ -4395,6 +4430,7 @@ Programs
 Pledge
 Publishing
 Permanent
+Paula
 Zahl
 Zwei
 Zeitraum
@@ -4567,6 +4603,7 @@ Zur
 Ziffer
 Zahlensets
 Zähler
+Zum
 annehmen
 aufzeichnet
 ausgerechnet
@@ -4867,6 +4904,11 @@ adapted
 answers
 aufweist
 ableiten
+alternativ
+angespart
+angespartem
+angeben
+ausgeben
 kann
 können
 kleines
@@ -5620,6 +5662,7 @@ viewpoints
 via
 vorstellen
 vorhin
+verkettete
 frei
 für
 finden
@@ -5800,6 +5843,9 @@ full
 found
 feedback
 fairly
+funktioniert
+frameborder
+funktionieren
 haben
 handelt
 hier
@@ -5981,6 +6027,7 @@ harassment
 healthy
 harmful
 harassing
+hervorbringen
 Sei
 Stellen
 Sie
@@ -6204,6 +6251,8 @@ See
 Standards
 Scope
 Stammfunktionen
+Sets
+Schule
 jede
 jedes
 jeden
@@ -6590,6 +6639,7 @@ reviewed
 reporter
 requested
 rechne
+resultierende
 Tut
 Termumformung
 Tiefpunkt
@@ -7117,6 +7167,9 @@ GPL
 Giving
 Guidelines
 Gegenzahl
+Geld
+Gebe
+Gibt
 Um
 Unendlichen
 Ursprung
@@ -7447,6 +7500,9 @@ WILL
 WHO
 Warning
 Wellenlänge
+Wochenende
+Wochen
+Wann
 lauten
 lokale
 links
@@ -7639,6 +7695,8 @@ leaders
 level
 learning
 lead
+letzten
+länger
 Quotientenregel
 QL
 Qb
@@ -7937,6 +7995,7 @@ Integrationsgrenze
 Intervalle
 Intervalllänge
 Integralrechnung
+Ich
 überprüfen
 übrig
 über
@@ -8736,6 +8795,8 @@ toward
 threatening
 temporary
 tätigen
+täglich
+trigonometrische
 yW
 yT
 yN
@@ -9312,6 +9373,7 @@ JPO
 JTW
 JJjL
 Jede
+Jahre
 XH
 XQ
 XJ
@@ -9826,6 +9888,7 @@ questions
 Öffnungsfaktor
 ÜzA
 ÜS
+Übergeordnet
 öwm
 övA
 äGv

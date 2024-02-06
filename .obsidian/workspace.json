@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9cf5971aafdc181b",
+            "id": "1f9279ae4776d8ae",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Allgemeines/Zahlen/Teilbarkeit/Modulo.md",
+                "file": "Analysis/Allgemein/Definitionsbereich.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -115,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Allgemeines/Zahlen/Teilbarkeit/Modulo.md",
+                "file": "Analysis/Allgemein/Definitionsbereich.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Allgemeines/Zahlen/Teilbarkeit/Modulo.md",
+                "file": "Analysis/Allgemein/Definitionsbereich.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Allgemeines/Zahlen/Teilbarkeit/Modulo.md"
+                "file": "Analysis/Allgemein/Definitionsbereich.md"
               }
             }
           },
@@ -165,6 +165,14 @@
             "type": "leaf",
             "state": {
               "type": "git-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "f167b0d831169713",
+            "type": "leaf",
+            "state": {
+              "type": "side-panel-control-view",
               "state": {}
             }
           }
@@ -181,7 +189,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Allgemeines/Zahlen/Teilbarkeit/Modulo.md",
+                "file": "Analysis/Allgemein/Definitionsbereich.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -233,37 +241,39 @@
       "3d-graph:3D Graph": false
     }
   },
-  "active": "9cf5971aafdc181b",
+  "active": "1f9279ae4776d8ae",
   "lastOpenFiles": [
+    "Stochastik/Gaußsche Normalverteilung.md",
+    "CODE_OF_CONDUCT.md",
+    "Allgemeines/Zahlen/Komplexe Zahlen/Komplexe Zahlen.md",
+    "Allgemeines/Zahlen/Variable(n).md",
+    "Allgemeines/Zahlen/Zahlensets.md",
+    "Allgemeines/Zahlen/Runden.md",
+    "Allgemeines/Zahlen/Ein-Ausklammern.md",
+    "Allgemeines/Zahlen/Dezimale(n).md",
+    "Allgemeines/Zahlen/Äquivalenzumformung(en).md",
+    "Allgemeines/Zahlen/Teilbarkeit/Teilbarkeitsregeln.md",
+    "Allgemeines/Zahlen/Teilbarkeit/Teilbarkeit.md",
+    "Allgemeines/Zahlen/Teilbarkeit/Primfaktorzerlegung.md",
+    "Allgemeines/Zahlen/Teilbarkeit/Modulo.md",
+    "Analysis/Kurvendiskussion/Achsensymmetrie.md",
+    "Analysis/Kurvendiskussion/Lokale Extrema.md",
+    "Analysis/Kurvendiskussion/Integralrechnung.md",
+    "Z_Spielereien/Schneiden von Kreisen und Kugeln.md",
+    "Analysis/Nullstellen/pq-Formel und Mitternachtsformel.md",
+    "Analysis/Allgemein/Differenzial- Integralrechnung/Integrationsregeln.md",
+    "Analysis/Allgemein/Ableiten/Ableitungsregeln.md",
+    "Analysis/Allgemein/Ableiten/Ableitung der Umkehrfunktion.md",
+    "Analysis/Allgemein/Ableiten/Ableitung.md",
+    "Analysis/Allgemein/Differenzial- Integralrechnung/Integration.md",
+    "Z_Kleiner Aufgabenpool für unsortierte Aufgaben/Äquivalenzumformungen mit linearen Funktionen zum anwenden.md",
+    "Z_Kleiner Aufgabenpool für unsortierte Aufgaben",
     "Analysis/Allgemein/Umkehrfunktion.md",
     "HowToDownload.pdf",
-    "CODE_OF_CONDUCT.md",
     "Hausaufgaben vom Mittwoch.md",
-    "Mathestunde vom Mittwoch.md",
-    "Untitled.md",
-    "Analysis/Allgemein/Differenzial- Integralrechnung/Integrationsregeln.md",
-    "Analysis/Allgemein/Differenzial- Integralrechnung/Integration.md",
     "Z_Spielereien/Mathestunde vom Mittwoch.pdf",
-    "Analysis/Allgemein/Verschieben von Funktionen.md",
-    "Analysis/Allgemein/Definitionsbereich.md",
-    "Analysis/Allgemein/Grenzverhalten.md",
-    "Analysis/Allgemein/Ableiten/Differenzialquotient.md",
-    "Analysis/Allgemein/Ableiten/Ableitung.md",
     "Analysis/Allgemein/Ableiten",
-    "Analysis/Allgemein/Ableiten/Ableitungsregeln.md",
     "Analysis/Allgemein/Differenzial- Integralrechnung",
-    "Analysis/Allgemein/Untitled.md",
-    "Allgemeines/Gesetze/Kommutativgesetz.md",
-    "Allgemeines/Gesetze/Distributivgesetz.md",
-    "Allgemeines/Gesetze/Assoziativgesetz.md",
-    "Allgemeines/Operatoren/Addition.md",
-    "Allgemeines/Operatoren/Subtraktion.md",
-    "Allgemeines/Operatoren/Multiplikation.md",
-    "LICENSE.md",
-    "README.md",
-    "Analysis/Allgemein/Differenzialrechnung.md",
-    "Allgemeines/Zahlen/Dezimale(n).md",
-    "Allgemeines/Gesetze/Potenzgesetz(e).md",
     "d7edfaa75620ef8825e4faecb555ebcddf6d7a8e.svg",
     "Allgemeines/Gesetze",
     "Allgemeines/Operatoren",
@@ -272,7 +282,6 @@
     "Allgemeines/Zahlen/Brüche",
     "Allgemeines/Zahlen",
     "Allgemeines/Zahlen/Teilbarkeit",
-    "Z_Spielereien/Schneiden von Kreisen.pdf",
     "Pasted image 20240120174944.png",
     "Pasted image 20240103145623.png",
     "desmos-graph.svg",

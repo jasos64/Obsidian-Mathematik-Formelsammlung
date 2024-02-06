@@ -27,3 +27,14 @@ x_{1,2}&=\frac{-b\pm\sqrt{b^{2}-4ac}}{2a}
 \end{align}$$
 
 ---
+## Herleitung der pq-Formel
+Eine Normalparabel wird durch $f(x)=x^{2}+bx+c$ verschoben betrachtet. Die Nullstellen dieser werden gesucht.
+$$\begin{align}
+	x^{2}+bx+c&=0&&\mid-c\\
+	x^{2}+bx&=-c&&\mid\boxed{\text{Quadratische Erzänzung}}\\
+	x^{2}+bx+\left(\frac{b}{2}\right)^{2}-\left(\frac{b}{2}\right)^{2}&=-c&&\mid+\left(\frac{b}{2}\right)^{2}\\
+	x^{2}+bx+\left(\frac{b}{2}\right)^{2}&=\left(\frac{b}{2}\right)^{2}-c&&\mid\boxed{\text{Binomische Formel}}\\
+	\left(x+\frac{b}{2}\right)^{2}&=\left(\frac{b}{2}\right)^{2}-c&&\mid\sqrt{}\\
+	x+\frac{b}{2}&=\pm\sqrt{\left(\frac{b}{2}\right)^{2}-c}&&\mid-\frac{b}{2}\\
+	x_{1,2}&=-\frac{b}{2}\pm\sqrt{\left(\frac{b}{2}\right)^{2}-c}
+\end{align}$$
