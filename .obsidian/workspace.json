@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Analysis/Nullstellen/Substitution.md",
+                "file": "Analysis/Kurvendiskussion/Monotonieverhalten.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -115,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Analysis/Nullstellen/Substitution.md",
+                "file": "Analysis/Kurvendiskussion/Monotonieverhalten.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Analysis/Nullstellen/Substitution.md",
+                "file": "Analysis/Kurvendiskussion/Monotonieverhalten.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Analysis/Nullstellen/Substitution.md"
+                "file": "Analysis/Kurvendiskussion/Monotonieverhalten.md"
               }
             }
           },
@@ -189,7 +189,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Analysis/Nullstellen/Substitution.md",
+                "file": "Analysis/Kurvendiskussion/Monotonieverhalten.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -243,6 +243,17 @@
   },
   "active": "1f9279ae4776d8ae",
   "lastOpenFiles": [
+    "Analysis/Kurvendiskussion/Schnittstellen mit anderen Funktionen.md",
+    "Analysis/Kurvendiskussion/Monotonieverhalten.md",
+    "Analysis/Kurvendiskussion/Achsensymmetrie.md",
+    "Analysis/Kurvendiskussion/Funktion(en).md",
+    "Analysis/Kurvendiskussion/Y-Achsen-Abschnitt.md",
+    "Analysis/Kurvendiskussion/Wendestellen-Wendepunkte.md",
+    "Analysis/Allgemein/Definitionsbereich.md",
+    "Analysis/Allgemein/Verschieben von Funktionen.md",
+    "Analysis/Allgemein/Umkehrfunktion.md",
+    "Analysis/Allgemein/Grenzverhalten.md",
+    "Analysis/Nullstellen/Substitution.md",
     "Analysis/Nullstellen/Satz vom Nullprodukt.md",
     "Analysis/Nullstellen/pq-Formel und Mitternachtsformel.md",
     "Analysis/Nullstellen/Polynomdivision.md",
@@ -251,10 +262,6 @@
     "Rand.md",
     "Z_Spielereien/Schneiden von Kreisen und Kugeln.md",
     "CODE_OF_CONDUCT.md",
-    "Analysis/Allgemein/Grenzverhalten.md",
-    "Analysis/Allgemein/Definitionsbereich.md",
-    "Analysis/Allgemein/Umkehrfunktion.md",
-    "Analysis/Allgemein/Verschieben von Funktionen.md",
     "Analysis/Allgemein/Differenzial- Integralrechnung/Integrationsregeln.md",
     "Analysis/Allgemein/Differenzial- Integralrechnung/Integration.md",
     "Stochastik/Gaußsche Normalverteilung.md",
@@ -262,13 +269,6 @@
     "Allgemeines/Zahlen/Variable(n).md",
     "Allgemeines/Zahlen/Zahlensets.md",
     "Allgemeines/Zahlen/Runden.md",
-    "Allgemeines/Zahlen/Ein-Ausklammern.md",
-    "Allgemeines/Zahlen/Dezimale(n).md",
-    "Allgemeines/Zahlen/Äquivalenzumformung(en).md",
-    "Allgemeines/Zahlen/Teilbarkeit/Teilbarkeitsregeln.md",
-    "Allgemeines/Zahlen/Teilbarkeit/Teilbarkeit.md",
-    "Allgemeines/Zahlen/Teilbarkeit/Primfaktorzerlegung.md",
-    "Allgemeines/Zahlen/Teilbarkeit/Modulo.md",
     "Z_Kleiner Aufgabenpool für unsortierte Aufgaben",
     "HowToDownload.pdf",
     "Z_Spielereien/Mathestunde vom Mittwoch.pdf",
