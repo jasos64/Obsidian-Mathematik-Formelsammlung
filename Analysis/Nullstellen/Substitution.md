@@ -11,7 +11,7 @@ f(q)&=0,5q^{2}-2q+1\\
 \end{aligned}$$
 Diese kann nun einfacher nach Nullstellen untersucht werden.
 $$q_1=2-\sqrt{2}\quad\vee\quad q_2=2+\sqrt{2}$$
-Da wir $q=x^2$ angenommen haben, so muss für jede erhaltene Nullstelle $x$ bestimmt werden.
+Da wir $q=x^2$ angenommen haben, so muss für jede erhaltene Nullstelle $x=\pm\sqrt{q}$ bestimmt werden.
 $$ \begin{aligned}
 q_1 &= x^2 &|\sqrt{x}\\
 x_{2,3}&=\pm \sqrt{q_1}
@@ -21,16 +21,14 @@ q_2 &= x^2 &|\sqrt{x}\\
 x_{1,4}&=\pm \sqrt{q_2}
 \end{aligned} $$
 Die Funktion $f$ hat somit die folgenden Nullstellen:
-$$\begin{align}
-	x_{1}&=-\sqrt{q_{2}}
-		~~~\vee~~~ x_{2}=-\sqrt{q_{1}}
-		~~~&&\vee~~~ x_{3}=\sqrt{q_{1}}
-		~~~\vee~~~ x_{4}=\sqrt{q_{2}}\\
-	&\Downarrow\\
-	x_{1}&=-\sqrt{2+\sqrt{2}}~~~&&\vee\\
-	x_{1}&=-\sqrt{2-\sqrt{2}}~~~&&\vee\\ 
-	x_{1}&=\sqrt{2-\sqrt{2}}~~~&&\vee\\ 
-	x_{1}&=\sqrt{2+\sqrt{2}}
-\end{align}$$
+$$\begin{array}
+	&x_{1}=-\sqrt{q_{2}} && \vee && x_{2}=-\sqrt{q_{1}} &&\vee\\ x_{3}=\sqrt{q_{1}}&&
+		\vee &&x_{4}=\sqrt{q_{2}}\\
+	&&\Downarrow\\
+	x_{1}=-\sqrt{2+\sqrt{2}}&&\vee&&
+	x_{2}=-\sqrt{2-\sqrt{2}}&&\vee\\ 
+	x_{3}=\sqrt{2-\sqrt{2}}&&\vee&& 
+	x_{4}=\sqrt{2+\sqrt{2}}
+\end{array}$$
 
 ---

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Analysis/Allgemein/Definitionsbereich.md",
+                "file": "Analysis/Nullstellen/Substitution.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -115,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Analysis/Allgemein/Definitionsbereich.md",
+                "file": "Analysis/Nullstellen/Substitution.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Analysis/Allgemein/Definitionsbereich.md",
+                "file": "Analysis/Nullstellen/Substitution.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Analysis/Allgemein/Definitionsbereich.md"
+                "file": "Analysis/Nullstellen/Substitution.md"
               }
             }
           },
@@ -189,7 +189,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Analysis/Allgemein/Definitionsbereich.md",
+                "file": "Analysis/Nullstellen/Substitution.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -243,8 +243,21 @@
   },
   "active": "1f9279ae4776d8ae",
   "lastOpenFiles": [
-    "Stochastik/Gaußsche Normalverteilung.md",
+    "Analysis/Nullstellen/Satz vom Nullprodukt.md",
+    "Analysis/Nullstellen/pq-Formel und Mitternachtsformel.md",
+    "Analysis/Nullstellen/Polynomdivision.md",
+    "Analysis/Nullstellen/Komplexe Nullstellen.md",
+    "Analysis/Nullstellen/Newtonverfahren.md",
+    "Rand.md",
+    "Z_Spielereien/Schneiden von Kreisen und Kugeln.md",
     "CODE_OF_CONDUCT.md",
+    "Analysis/Allgemein/Grenzverhalten.md",
+    "Analysis/Allgemein/Definitionsbereich.md",
+    "Analysis/Allgemein/Umkehrfunktion.md",
+    "Analysis/Allgemein/Verschieben von Funktionen.md",
+    "Analysis/Allgemein/Differenzial- Integralrechnung/Integrationsregeln.md",
+    "Analysis/Allgemein/Differenzial- Integralrechnung/Integration.md",
+    "Stochastik/Gaußsche Normalverteilung.md",
     "Allgemeines/Zahlen/Komplexe Zahlen/Komplexe Zahlen.md",
     "Allgemeines/Zahlen/Variable(n).md",
     "Allgemeines/Zahlen/Zahlensets.md",
@@ -256,21 +269,8 @@
     "Allgemeines/Zahlen/Teilbarkeit/Teilbarkeit.md",
     "Allgemeines/Zahlen/Teilbarkeit/Primfaktorzerlegung.md",
     "Allgemeines/Zahlen/Teilbarkeit/Modulo.md",
-    "Analysis/Kurvendiskussion/Achsensymmetrie.md",
-    "Analysis/Kurvendiskussion/Lokale Extrema.md",
-    "Analysis/Kurvendiskussion/Integralrechnung.md",
-    "Z_Spielereien/Schneiden von Kreisen und Kugeln.md",
-    "Analysis/Nullstellen/pq-Formel und Mitternachtsformel.md",
-    "Analysis/Allgemein/Differenzial- Integralrechnung/Integrationsregeln.md",
-    "Analysis/Allgemein/Ableiten/Ableitungsregeln.md",
-    "Analysis/Allgemein/Ableiten/Ableitung der Umkehrfunktion.md",
-    "Analysis/Allgemein/Ableiten/Ableitung.md",
-    "Analysis/Allgemein/Differenzial- Integralrechnung/Integration.md",
-    "Z_Kleiner Aufgabenpool für unsortierte Aufgaben/Äquivalenzumformungen mit linearen Funktionen zum anwenden.md",
     "Z_Kleiner Aufgabenpool für unsortierte Aufgaben",
-    "Analysis/Allgemein/Umkehrfunktion.md",
     "HowToDownload.pdf",
-    "Hausaufgaben vom Mittwoch.md",
     "Z_Spielereien/Mathestunde vom Mittwoch.pdf",
     "Analysis/Allgemein/Ableiten",
     "Analysis/Allgemein/Differenzial- Integralrechnung",

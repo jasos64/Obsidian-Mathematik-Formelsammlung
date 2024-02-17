@@ -9,7 +9,6 @@
   "obsidian-chartsview-plugin",
   "obsidian-mind-map",
   "obsidian-echarts",
-  "quick-latex",
   "dataview",
   "obsidian-image-toolkit",
   "obsidian-icon-folder",
@@ -23,5 +22,6 @@
   "obsidian-vega",
   "obsidian-enhancing-export",
   "3d-graph",
-  "obsidian-git"
+  "obsidian-git",
+  "obsidian-latex-suite"
 ]

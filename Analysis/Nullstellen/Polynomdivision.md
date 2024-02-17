@@ -53,6 +53,13 @@ $$\begin{align}
 &0~-~x~+~1
 \end{align}$$
 
+$$\begin{alignat}{}
+	&x^3&-&2x^2&+&1&\divsymbol(x-1)=x^{3}-x^2\\
+	-(&x^3&-&x^2)&&\downarrow\\
+	&&&&&\downarrow\\
+	&0&-&x&+&1
+\end{alignat}$$
+
 ---
 ## Ergebnis
 Führt man diese Schritte nun fort, so bildet sich als neue Funktion $g(x)=x^2-x-1$, von welcher man nun Nullstellen einfacher finden kann.

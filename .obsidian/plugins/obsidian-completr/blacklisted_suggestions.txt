@@ -3,3 +3,14 @@ front-matter
 \Upxi
 \Re
 \rm
+\vec{#}
+\vee
+\Vert
+\vert
+\varpi
+\varPi
+\varXi
+\vdash
+\vDash
+\Vdash
+\vdots
