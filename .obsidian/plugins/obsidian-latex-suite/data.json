@@ -6,7 +6,7 @@
   "loadSnippetsFromFile": false,
   "snippetsFileLocation": "",
   "concealEnabled": false,
-  "colorPairedBracketsEnabled": false,
+  "colorPairedBracketsEnabled": true,
   "highlightCursorBracketsEnabled": true,
   "mathPreviewEnabled": false,
   "autofractionEnabled": false,

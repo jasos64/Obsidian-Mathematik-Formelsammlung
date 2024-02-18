@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Analysis/Kurvendiskussion/Monotonieverhalten.md",
+                "file": "Analysis/Allgemein/Definitionsbereich.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -115,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Analysis/Kurvendiskussion/Monotonieverhalten.md",
+                "file": "Analysis/Allgemein/Definitionsbereich.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Analysis/Kurvendiskussion/Monotonieverhalten.md",
+                "file": "Analysis/Allgemein/Definitionsbereich.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Analysis/Kurvendiskussion/Monotonieverhalten.md"
+                "file": "Analysis/Allgemein/Definitionsbereich.md"
               }
             }
           },
@@ -189,7 +189,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Analysis/Kurvendiskussion/Monotonieverhalten.md",
+                "file": "Analysis/Allgemein/Definitionsbereich.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -243,16 +243,25 @@
   },
   "active": "1f9279ae4776d8ae",
   "lastOpenFiles": [
-    "Analysis/Kurvendiskussion/Schnittstellen mit anderen Funktionen.md",
-    "Analysis/Kurvendiskussion/Monotonieverhalten.md",
-    "Analysis/Kurvendiskussion/Achsensymmetrie.md",
-    "Analysis/Kurvendiskussion/Funktion(en).md",
-    "Analysis/Kurvendiskussion/Y-Achsen-Abschnitt.md",
-    "Analysis/Kurvendiskussion/Wendestellen-Wendepunkte.md",
-    "Analysis/Allgemein/Definitionsbereich.md",
-    "Analysis/Allgemein/Verschieben von Funktionen.md",
-    "Analysis/Allgemein/Umkehrfunktion.md",
     "Analysis/Allgemein/Grenzverhalten.md",
+    "Analysis/Allgemein/Partialbruchzerlegung.md",
+    "Analysis/Allgemein/Koeffizientenvergleich.md",
+    "Analysis/Allgemein/Umkehrfunktion.md",
+    "Analytische Geometrie/LGS/LGS Darstellungen.md",
+    "Analytische Geometrie/LGS/LGS.md",
+    "Analytische Geometrie/LGS/Gaußsches Lösungsverfahren.md",
+    "Stochastik/Gaußsche Normalverteilung.md",
+    "Z_Hausaufgaben/Seite 111 1).md",
+    "Z_Hausaufgaben",
+    "Analysis/Kurvendiskussion/Y-Achsen-Abschnitt.md",
+    "Analysis/Kurvendiskussion/Schnittstellen mit anderen Funktionen.md",
+    "Analysis/Allgemein/Verschieben von Funktionen.md",
+    "Analysis/Kurvendiskussion/Achsensymmetrie.md",
+    "Analysis/Allgemein/Definitionsbereich.md",
+    "Analysis/Kurvendiskussion/Funktion(en).md",
+    "Analysis/Kurvendiskussion/Lokale Extrema.md",
+    "Analysis/Kurvendiskussion/Monotonieverhalten.md",
+    "Analysis/Kurvendiskussion/Wendestellen-Wendepunkte.md",
     "Analysis/Nullstellen/Substitution.md",
     "Analysis/Nullstellen/Satz vom Nullprodukt.md",
     "Analysis/Nullstellen/pq-Formel und Mitternachtsformel.md",
@@ -261,14 +270,6 @@
     "Analysis/Nullstellen/Newtonverfahren.md",
     "Rand.md",
     "Z_Spielereien/Schneiden von Kreisen und Kugeln.md",
-    "CODE_OF_CONDUCT.md",
-    "Analysis/Allgemein/Differenzial- Integralrechnung/Integrationsregeln.md",
-    "Analysis/Allgemein/Differenzial- Integralrechnung/Integration.md",
-    "Stochastik/Gaußsche Normalverteilung.md",
-    "Allgemeines/Zahlen/Komplexe Zahlen/Komplexe Zahlen.md",
-    "Allgemeines/Zahlen/Variable(n).md",
-    "Allgemeines/Zahlen/Zahlensets.md",
-    "Allgemeines/Zahlen/Runden.md",
     "Z_Kleiner Aufgabenpool für unsortierte Aufgaben",
     "HowToDownload.pdf",
     "Z_Spielereien/Mathestunde vom Mittwoch.pdf",
@@ -281,7 +282,6 @@
     "Z_Spielereien/desmos-graph.svg",
     "Allgemeines/Zahlen/Brüche",
     "Allgemeines/Zahlen",
-    "Allgemeines/Zahlen/Teilbarkeit",
     "Pasted image 20240120174944.png",
     "Pasted image 20240103145623.png",
     "desmos-graph.svg",

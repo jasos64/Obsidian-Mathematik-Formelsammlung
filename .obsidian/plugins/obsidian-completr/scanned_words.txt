@@ -167,6 +167,7 @@ Demonstrating
 Differential
 Dividend
 Divisor
+Damit
 Eine
 Eingangswert
 Einsetzen
@@ -345,6 +346,7 @@ END
 Examples
 Enforcement
 Einheiten
+Erklärung
 Funktion
 Funktionsnamen
 Form
@@ -758,6 +760,8 @@ bestimmtes
 bestätigen
 border
 beginn
+bessere
+bereitstellen
 Namens
 Nullstelle
 Nullstellen
@@ -931,6 +935,7 @@ NOT
 NECESSARY
 New
 Normalparabel
+Nennerfunktion
 Oftmals
 Operation
 Ortsvektor
@@ -1251,6 +1256,7 @@ offline
 orientierten
 orientierte
 orientierter
+obwohl
 ist
 in
 im
@@ -1747,6 +1753,8 @@ ergibt
 einfachste
 erkennt
 eintrifft
+einzeln
+existent
 Beschreibung
 Besondere
 Beispiel
@@ -1943,6 +1951,8 @@ Bestimmen
 Boxen
 Ben
 Beide
+Beschreibungen
+Beispielfunktion
 Rechenvorganges
 Rest
 Rechnung
@@ -2537,6 +2547,9 @@ moderation
 media
 max
 machen
+monoton
+monotonen
+monotone
 durchgeführt
 dem
 den
@@ -2775,6 +2788,7 @@ discord
 during
 disparagement
 deshalb
+durchführen
 Abhängigkeit
 Aufgaben
 Achsen
@@ -2996,6 +3010,7 @@ Accepting
 Attribution
 Aufhören
 Ansparens
+Auch
 zu
 zwei
 zunächst
@@ -3382,6 +3397,8 @@ gut
 grün
 gefärbten
 grundlegende
+genannte
+gebrochen
 sodass
 sind
 so
@@ -3689,6 +3706,9 @@ selbst
 src
 solid
 sobald
+streng
+steigend
+strenge
 neben
 nach
 nun
@@ -4431,6 +4451,9 @@ Pledge
 Publishing
 Permanent
 Paula
+Punktuell
+Partialbruchzerlegung
+Partialbrüche
 Zahl
 Zwei
 Zeitraum
@@ -4604,6 +4627,8 @@ Ziffer
 Zahlensets
 Zähler
 Zum
+Zusatz
+Zählerfunktion
 annehmen
 aufzeichnet
 ausgerechnet
@@ -4909,6 +4934,8 @@ angespart
 angespartem
 angeben
 ausgeben
+andeutet
+angefertigt
 kann
 können
 kleines
@@ -5663,6 +5690,9 @@ via
 vorstellen
 vorhin
 verkettete
+verhält
+vom
+vorliegt
 frei
 für
 finden
@@ -5846,6 +5876,7 @@ fairly
 funktioniert
 frameborder
 funktionieren
+fallend
 haben
 handelt
 hier
@@ -6253,6 +6284,7 @@ Scope
 Stammfunktionen
 Sets
 Schule
+Sattelpunkte
 jede
 jedes
 jeden
@@ -6640,6 +6672,7 @@ reporter
 requested
 rechne
 resultierende
+richtig
 Tut
 Termumformung
 Tiefpunkt
@@ -7002,6 +7035,8 @@ March
 MERCHANTABILITY
 MODIFIES
 Möglichkeit
+Monotonieverhalten
+Monotonie
 Gleichsetzen
 Gegeben
 Generalisiert
@@ -7170,6 +7205,7 @@ Gegenzahl
 Geld
 Gebe
 Gibt
+Grad
 Um
 Unendlichen
 Ursprung
@@ -7336,6 +7372,7 @@ User
 Use
 UNLESS
 USE
+Unterschiede
 Wenn
 Wert
 Wichtig
@@ -8167,6 +8204,7 @@ Liability
 LIABLE
 LOSS
 LOSSES
+Linearfaktoren
 punktsymmetrisch
 passenden
 pss
@@ -8417,6 +8455,7 @@ periodische
 ÄI
 ÄP
 Äquivalent
+Äquivalenz
 Ce
 CL
 Cx
@@ -9889,6 +9928,7 @@ questions
 ÜzA
 ÜS
 Übergeordnet
+Übersichtlichkeit
 öwm
 övA
 äGv
