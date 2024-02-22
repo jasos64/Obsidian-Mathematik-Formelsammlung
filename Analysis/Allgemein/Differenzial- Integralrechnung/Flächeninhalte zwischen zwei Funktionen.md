@@ -62,13 +62,13 @@ $$
 	&\textbf{Vorzeichen von }d(x)\textbf{ auf }\left[-3,\overline{3};2\right]\text{:}\\
 	d(x)&=0,3x^3-0,8x^2-3,6x+8\\
 	d(0)&=8>0\\
-	&\textit{weil }d(0)>0\textit{ ist, so muss laut Definition gelten:}\\
+	&\textit{weil }d(0)>0\textit{, so nach Definition:}\\
 	&\forall x\in\left[-3,\overline{3};2\right],g(x)\ge f(x)\\
 	\\ \\
 	&\textbf{Vorzeichen von }d(x)\textbf{ auf }\left[2;4\right]\text{:}\\
 	d(x)&=0,3x^3-0,8x^2-3,6x+8\\
 	d(3)&=-1,9<0\\
-	&\textit{weil }d(3)<0\textit{ ist, so muss laut Definition gelten:}\\
+	&\textit{weil }d(3)<0\textit{, so nach Definition:}\\
 	&\forall x\in\left[2;4\right],g(x)\le f(x)
 \end{align}
 $$
