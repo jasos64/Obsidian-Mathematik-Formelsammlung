@@ -1,4 +1,4 @@
-Ein und Ausklammern sind beides Arten der [[Äquivalenzumformung(en)]] 
+Ein und Ausklammern sind beides Arten der [[Äquivalenzumformung(en)]].
 ## Ausklammern
 Gegeben sei der folgende Ausdruck:
 $$a\cdot(x+y)$$
@@ -29,8 +29,8 @@ Einklammern ist die Gegenoperation zu Ausklammern.
 Beim Einklammern wird in einem Ausdruck ein gemeinsamer Wert/Faktor gesucht, welcher mit Einklammern den Wert nicht verändern.
 In der [Nullstellenberechnung](Nullstellen) wird oftmals versucht aus einem Term ein $x$ zu entfernen, damit dadurch mittels des [[Satz vom Nullprodukt]] Nullstellen gefunden werden können.
 $$\begin{align}
-f(x)&=x^3-3x\\
-&=x\cdot(x^2-3)
+0&=x^3-3x\\
+0&=x\cdot(x^2-3)
 \end{align}$$
 
 ---

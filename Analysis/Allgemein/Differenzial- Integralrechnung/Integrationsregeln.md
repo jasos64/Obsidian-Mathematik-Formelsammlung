@@ -1,3 +1,5 @@
+Für [[Integration]] verwendet
+
 **Bedenke: Nach jeder Funktion darf eine Konstante theoretisch nicht fehlen**
 
 Für jede Funktion gelten folgende grundlegende Konzepte:

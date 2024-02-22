@@ -4,23 +4,32 @@
     "type": "split",
     "children": [
       {
-        "id": "9bdb9a582784d98f",
+        "id": "737cdf091cc7c512",
         "type": "tabs",
         "children": [
           {
-            "id": "1f9279ae4776d8ae",
+            "id": "8f7f9be7e6e11522",
+            "type": "leaf",
+            "state": {
+              "type": "3d_graph_view",
+              "state": {}
+            }
+          },
+          {
+            "id": "ea5225f5874b82fe",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Analysis/Allgemein/Definitionsbereich.md",
+                "file": "Allgemeines/Zahlen/Dezimale(n).md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -115,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Analysis/Allgemein/Definitionsbereich.md",
+                "file": "Allgemeines/Zahlen/Dezimale(n).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Analysis/Allgemein/Definitionsbereich.md",
+                "file": "Allgemeines/Zahlen/Dezimale(n).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Analysis/Allgemein/Definitionsbereich.md"
+                "file": "Allgemeines/Zahlen/Dezimale(n).md"
               }
             }
           },
@@ -189,7 +198,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Analysis/Allgemein/Definitionsbereich.md",
+                "file": "Allgemeines/Zahlen/Dezimale(n).md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -222,7 +231,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 379
+    "width": 248
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -241,47 +250,46 @@
       "3d-graph:3D Graph": false
     }
   },
-  "active": "1f9279ae4776d8ae",
+  "active": "ea5225f5874b82fe",
   "lastOpenFiles": [
-    "Analysis/Allgemein/Grenzverhalten.md",
-    "Analysis/Allgemein/Partialbruchzerlegung.md",
-    "Analysis/Allgemein/Koeffizientenvergleich.md",
-    "Analysis/Allgemein/Umkehrfunktion.md",
-    "Analytische Geometrie/LGS/LGS Darstellungen.md",
-    "Analytische Geometrie/LGS/LGS.md",
-    "Analytische Geometrie/LGS/Gaußsches Lösungsverfahren.md",
-    "Stochastik/Gaußsche Normalverteilung.md",
-    "Z_Hausaufgaben/Seite 111 1).md",
-    "Z_Hausaufgaben",
-    "Analysis/Kurvendiskussion/Y-Achsen-Abschnitt.md",
-    "Analysis/Kurvendiskussion/Schnittstellen mit anderen Funktionen.md",
-    "Analysis/Allgemein/Verschieben von Funktionen.md",
-    "Analysis/Kurvendiskussion/Achsensymmetrie.md",
+    "Probeabi Aufgabenpool/ProbeAbi Analysis.pdf",
+    "HowToDownload.pdf",
+    "Z_Spielereien/desmos-graph.svg",
+    "Z_Spielereien/Pasted image 20240103145623.png",
+    "Z_Spielereien/Schneiden von Kreisen und Kugeln.md",
+    "Z_Spielereien/Schneiden von Kreisen.pdf",
+    "Z_Spielereien/Schneiden von Kreisen und Kugeln.pdf",
+    "Allgemeines/Zahlen/Äquivalenzumformung(en).md",
+    "Allgemeines/Zahlen/Ein-Ausklammern.md",
+    "Allgemeines/Zahlen/Runden.md",
+    "Allgemeines/Zahlen/Brüche/Kürzen und erweitern.md",
+    "LICENSE.md",
+    "CODE_OF_CONDUCT.md",
+    "README.md",
+    "Allgemeines/Zahlen/Teilbarkeit/Teilbarkeit.md",
+    "Allgemeines/Zahlen/Teilbarkeit/Modulo.md",
+    "Allgemeines/Zahlen/Teilbarkeit/Teilbarkeitsregeln.md",
+    "Allgemeines/Zahlen/Teilbarkeit/Primzahl(en).md",
+    "Allgemeines/Zahlen/Teilbarkeit/Primfaktorzerlegung.md",
     "Analysis/Allgemein/Definitionsbereich.md",
     "Analysis/Kurvendiskussion/Funktion(en).md",
-    "Analysis/Kurvendiskussion/Lokale Extrema.md",
-    "Analysis/Kurvendiskussion/Monotonieverhalten.md",
-    "Analysis/Kurvendiskussion/Wendestellen-Wendepunkte.md",
-    "Analysis/Nullstellen/Substitution.md",
-    "Analysis/Nullstellen/Satz vom Nullprodukt.md",
-    "Analysis/Nullstellen/pq-Formel und Mitternachtsformel.md",
-    "Analysis/Nullstellen/Polynomdivision.md",
-    "Analysis/Nullstellen/Komplexe Nullstellen.md",
-    "Analysis/Nullstellen/Newtonverfahren.md",
-    "Rand.md",
-    "Z_Spielereien/Schneiden von Kreisen und Kugeln.md",
+    "Analysis/Allgemein/Ableiten/Ableitung.md",
+    "Analysis/Allgemein/Ableiten/Differenzialquotient.md",
+    "Analysis/Allgemein/Ableiten/Ableitungsregeln.md",
+    "Analysis/Allgemein/Ableiten/Ableitung der Umkehrfunktion.md",
+    "Analysis/Allgemein/Umkehrfunktion.md",
+    "Analysis/Kurvendiskussion/Achsensymmetrie.md",
+    "Analysis/Allgemein/Differenzial- Integralrechnung/Integrationsregeln.md",
+    "Analysis/Allgemein/Differenzial- Integralrechnung/Integration.md",
+    "Analysis/Allgemein/Differenzial- Integralrechnung/Flächeninhalte unter zwei Funktionen.md",
+    "[[Schnittstellen.md",
+    "Z_Hausaufgaben",
     "Z_Kleiner Aufgabenpool für unsortierte Aufgaben",
-    "HowToDownload.pdf",
     "Z_Spielereien/Mathestunde vom Mittwoch.pdf",
     "Analysis/Allgemein/Ableiten",
     "Analysis/Allgemein/Differenzial- Integralrechnung",
     "d7edfaa75620ef8825e4faecb555ebcddf6d7a8e.svg",
     "Allgemeines/Gesetze",
-    "Allgemeines/Operatoren",
-    "Z_Spielereien/Pasted image 20240103145623.png",
-    "Z_Spielereien/desmos-graph.svg",
-    "Allgemeines/Zahlen/Brüche",
-    "Allgemeines/Zahlen",
     "Pasted image 20240120174944.png",
     "Pasted image 20240103145623.png",
     "desmos-graph.svg",
