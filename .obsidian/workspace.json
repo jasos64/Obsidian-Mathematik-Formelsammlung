@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8f7f9be7e6e11522",
+            "id": "de604873304ce612",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Analysis/Allgemein/Differenzial- Integralrechnung/Flächeninhalte zwischen zwei Funktionen.md",
+                "file": "Stochastik/Allgemein/Mengen/Differenzmenge.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -115,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Analysis/Allgemein/Differenzial- Integralrechnung/Flächeninhalte zwischen zwei Funktionen.md",
+                "file": "Stochastik/Allgemein/Mengen/Differenzmenge.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Analysis/Allgemein/Differenzial- Integralrechnung/Flächeninhalte zwischen zwei Funktionen.md",
+                "file": "Stochastik/Allgemein/Mengen/Differenzmenge.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Analysis/Allgemein/Differenzial- Integralrechnung/Flächeninhalte zwischen zwei Funktionen.md"
+                "file": "Stochastik/Allgemein/Mengen/Differenzmenge.md"
               }
             }
           },
@@ -189,7 +189,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Analysis/Allgemein/Differenzial- Integralrechnung/Flächeninhalte zwischen zwei Funktionen.md",
+                "file": "Stochastik/Allgemein/Mengen/Differenzmenge.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -241,13 +241,26 @@
       "3d-graph:3D Graph": false
     }
   },
-  "active": "8f7f9be7e6e11522",
+  "active": "de604873304ce612",
   "lastOpenFiles": [
-    "Analysis/Allgemein/Differenzial- Integralrechnung/Integrationsregeln.md",
+    "Stochastik/Allgemein/Gegenwahrscheinlichkeit(en).md",
+    "Stochastik/Allgemein/Mengen/Differenzmenge.md",
+    "Probeabi Aufgabenpool/ProbeAbi Analysis.pdf",
+    "Stochastik/Allgemein/Mengen/Vereinigungsmenge.md",
+    "Stochastik/Allgemein/Mengen/Schnittmenge.md",
+    "Stochastik/Allgemein/Laplace-Wahrscheinlichkeiten.md",
+    "Stochastik/Allgemein/Ereignis(se).md",
+    "Allgemeines/Operatoren/Addition.md",
+    "Stochastik/Allgemein/Mengen",
+    "Stochastik/Gaußsche Normalverteilung.md",
+    "Stochastik/Allgemein/Omega.md",
+    "Allgemeines/Operatoren/Mächtigkeit.md",
+    "Stochastik/Allgemein",
+    "Stochastik/Allgemein.md",
     "Analysis/Allgemein/Differenzial- Integralrechnung/Flächeninhalte zwischen zwei Funktionen.md",
+    "Analysis/Allgemein/Differenzial- Integralrechnung/Integrationsregeln.md",
     "Analysis/Allgemein/Differenzial- Integralrechnung/Integration.md",
     "Allgemeines/Zahlen/Dezimale(n).md",
-    "Probeabi Aufgabenpool/ProbeAbi Analysis.pdf",
     "HowToDownload.pdf",
     "Z_Spielereien/desmos-graph.svg",
     "Z_Spielereien/Pasted image 20240103145623.png",
@@ -263,25 +276,11 @@
     "README.md",
     "Allgemeines/Zahlen/Teilbarkeit/Teilbarkeit.md",
     "Allgemeines/Zahlen/Teilbarkeit/Modulo.md",
-    "Allgemeines/Zahlen/Teilbarkeit/Teilbarkeitsregeln.md",
-    "Allgemeines/Zahlen/Teilbarkeit/Primzahl(en).md",
-    "Allgemeines/Zahlen/Teilbarkeit/Primfaktorzerlegung.md",
-    "Analysis/Allgemein/Definitionsbereich.md",
-    "Analysis/Kurvendiskussion/Funktion(en).md",
-    "Analysis/Allgemein/Ableiten/Ableitung.md",
-    "Analysis/Allgemein/Ableiten/Differenzialquotient.md",
-    "Analysis/Allgemein/Ableiten/Ableitungsregeln.md",
-    "Analysis/Allgemein/Ableiten/Ableitung der Umkehrfunktion.md",
-    "Analysis/Allgemein/Umkehrfunktion.md",
-    "Analysis/Kurvendiskussion/Achsensymmetrie.md",
-    "[[Schnittstellen.md",
     "Z_Hausaufgaben",
     "Z_Kleiner Aufgabenpool für unsortierte Aufgaben",
     "Z_Spielereien/Mathestunde vom Mittwoch.pdf",
     "Analysis/Allgemein/Ableiten",
-    "Analysis/Allgemein/Differenzial- Integralrechnung",
     "d7edfaa75620ef8825e4faecb555ebcddf6d7a8e.svg",
-    "Allgemeines/Gesetze",
     "Pasted image 20240120174944.png",
     "Pasted image 20240103145623.png",
     "desmos-graph.svg",

@@ -12,6 +12,10 @@
       {
         "query": "Analytische Geometrie",
         "color": "#0fae22"
+      },
+      {
+        "query": "Stochastik",
+        "color": "#f6fa29"
       }
     ]
   },
