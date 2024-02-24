@@ -1,8 +1,9 @@
-Die Schnittmenge zweier [[Ereignis(se)]] beschreibt, dass nur Elemente beider zusammen vorhanden sind.
-Hier veranschaulicht ist die Schnittmenge aus den Mengen (Ereignisse) $A$ und $B$:
+Die Schnittmenge zweier Mengen (u.a. [[Ereignis(se)]]) beschreibt, dass nur Elemente beider zusammen vorhanden sind.
+Hier veranschaulicht ist die Schnittmenge aus den Mengen $A$ und $B$:
 <iframe src="https://www.desmos.com/calculator/eshpzakyhk?embed" width="500" height="500" style="border: 1px solid #ccc" frameborder=0></iframe>
 
 Mathematisch Formuliert ist dies durch $A\cap B$.
+>A geschnitten B
 
 ---
 ### Beispiel

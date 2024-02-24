@@ -1,0 +1,9 @@
+![[Vereinigungsmenge]]
+
+---
+![[Schnittmenge]]
+
+---
+![[Differenzmenge]]
+
+---

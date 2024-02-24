@@ -1,6 +1,7 @@
-$\Omega$ beschreibt die Gesamtmenge an möglichen Ergebnissen eines Experimentes.
+$\Omega$ beschreibt die Gesamtmenge an möglichen Ergebnissen eines Experimentes. Diese kann für Wahrscheinlichkeiten als Obermenge aller [[Ereignis(se)]] gesehen werden
 
 ---
+### Beispiele
 Für einen $6$ seitigen Würfel können folgende Ergebnisse eintreffen:
 $$
 \Omega=\{1;2;3;4;5;6\}

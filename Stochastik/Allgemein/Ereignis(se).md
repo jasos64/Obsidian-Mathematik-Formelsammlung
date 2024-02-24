@@ -12,7 +12,7 @@ $$
 
 ---
 ### Auflistung aller zutreffender Ergebnisse
-Um alle möglichen, für das Ereignis treffenden, Ergebnisse zu listen, werden diese wie bei [[Omega]] aufgelistet.
+Um alle möglichen, für das Ereignis treffenden, Ergebnisse zu listen, werden diese wie bei [[Ergebnismenge]] aufgelistet.
 Sei erneut das Beispiel der zwei 3-Seitigen Würfel mit folgendem Ereignis:
 $$
 E:\text{"Augensumme bei einem Wurf von zwei 3-Seitigen würfeln ist ungerade"}

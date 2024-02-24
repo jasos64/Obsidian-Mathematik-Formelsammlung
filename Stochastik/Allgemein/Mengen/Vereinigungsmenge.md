@@ -1,8 +1,9 @@
-Die Vereinigungsmenge zweier [[Ereignis(se)]] beschreibt, dass Elemente beider zusammen vorhanden sind.
-Hier veranschaulicht ist die Vereinigungsmenge aus den Mengen (Ereignisse) $A$ und $B$:
+Die Vereinigungsmenge zweier Mengen (u.a. [[Ereignis(se)]]) beschreibt, dass Elemente beider zusammen vorhanden sind.
+Hier veranschaulicht ist die Vereinigungsmenge aus den Mengen $A$ und $B$:
 <iframe src="https://www.desmos.com/calculator/py1zywrpm6?embed" width="500" height="500" style="border: 1px solid #ccc" frameborder=0></iframe>
 
 Mathematisch Formuliert ist dies durch $A\cup B$.
+>A vereinigt B
 
 ---
 ### Beispiel

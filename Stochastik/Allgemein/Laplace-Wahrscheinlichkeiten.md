@@ -1,10 +1,11 @@
-Ein stochastisches Experiment heißt Laplace-Experiment (L-Experiment), wenn bei der zugehörigen Wahrscheinlichkeitsverteilung alle Elementarereignisse die gleiche Wahrscheinlichkeit besitzen.
+>Ein stochastisches Experiment heißt Laplace-Experiment (L-Experiment), wenn bei der zugehörigen Wahrscheinlichkeitsverteilung alle Elementarereignisse die gleiche Wahrscheinlichkeit besitzen.
+
 Bei einem Laplace-Experiment gilt für die Wahrscheinlichkeit eines Ereignisses $A$:
 $$
 P\left(A\right)=\frac{\left|A\right|}{\left|\Omega\right|}
 $$
 
-Das [[Ereignis(se)]] $A$ kann ebenfalls eine Kombination aus mehreren Ereignissen sein. [[Schnittmenge]] und [[Vereinigungsmenge]] können ebenfalls verwendet werden.
+Das [[Ereignis(se)]] $A$ kann ebenfalls eine Kombination aus mehreren Ereignissen sein. [[Schnittmenge]] und [[Vereinigungsmenge]] können ebenfalls verwendet werden. Erkennbar ist hier, dass die [[Mächtigkeit]] beider Komponenten verwendet ist.
 
 ---
 ### Beispiel
@@ -31,5 +32,6 @@ Folglich ist $\left|\Omega\right|=9$ und $\left|E\right|=4$. Die Wahrscheinlichk
 $$
 P\left(E\right)=\frac{\left|E\right|}{\left|\Omega\right|}=\frac{4}{9}=0,\overline{4}
 $$
+
 
 ---

@@ -1,8 +1,9 @@
-Die Differenzmenge zweier [[Ereignis(se)]] beschreibt, dass nur Elemente aus einem Ereignis vorkommen.
-Hier veranschaulicht ist die Differenzmenge aus den Mengen (Ereignisse) $A$ und $B$:
+Die Differenzmenge zweier Mengen (u.a. [[Ereignis(se)]]) beschreibt, dass nur Elemente aus einem Ereignis vorkommen.
+Hier veranschaulicht ist die Differenzmenge aus den Mengen $A$ und $B$:
 <iframe src="https://www.desmos.com/calculator/3pw2sumjl3?embed" width="500" height="500" style="border: 1px solid #ccc" frameborder=0></iframe>
 
 Mathematisch Formuliert ist dies durch $A\backslash B$.
+>A ohne B
 
 ---
 ### Beispiel
