@@ -4,15 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "737cdf091cc7c512",
+        "id": "bb3db93a58281676",
         "type": "tabs",
         "children": [
           {
-            "id": "57302015305292d7",
+            "id": "90558ca30bd5bd7b",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Analysis/Allgemein/Differenzial- Integralrechnung/Flächeninhalte zwischen zwei Funktionen.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -75,7 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 316
   },
   "right": {
     "id": "1b65db29e51e971a",
@@ -110,6 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Analysis/Allgemein/Differenzial- Integralrechnung/Flächeninhalte zwischen zwei Funktionen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,6 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Analysis/Allgemein/Differenzial- Integralrechnung/Flächeninhalte zwischen zwei Funktionen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +155,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Analysis/Allgemein/Differenzial- Integralrechnung/Flächeninhalte zwischen zwei Funktionen.md"
+              }
             }
           },
           {
@@ -180,6 +189,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Analysis/Allgemein/Differenzial- Integralrechnung/Flächeninhalte zwischen zwei Funktionen.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -231,20 +241,28 @@
       "3d-graph:3D Graph": false
     }
   },
-  "active": "57302015305292d7",
+  "active": "90558ca30bd5bd7b",
   "lastOpenFiles": [
+    "Stochastik/Allgemein/Zählstrategien/Geordnete Stichproben/Ziehen mit zurücklegen.md",
+    "Analysis/Allgemein/Differenzial- Integralrechnung/Flächeninhalte zwischen zwei Funktionen.md",
+    "README.md",
+    "Stochastik/Allgemein/Gegenereignis.md",
+    "Stochastik/Allgemein/Zählstrategien/Stichproben",
+    "Stochastik/Allgemein/Zählstrategien/Geordnete Stichproben",
+    "Stochastik/Allgemein/Zählstrategien/Untitled.md",
+    "Stochastik/Allgemein/Zählstrategien",
     "Stochastik/Allgemein/Ergebnismenge.md",
     "Stochastik/Allgemein/Ereignis(se).md",
-    "Stochastik/Allgemein/Mengen/Menge(en).md",
-    "Stochastik/Allgemein/Mengen/Differenzmenge.md",
-    "Analysis/Allgemein/Differenzial- Integralrechnung/Flächeninhalte zwischen zwei Funktionen.md",
-    "Stochastik/Allgemein/Gegenereignis.md",
-    "Stochastik/Allgemein/Gegenwahrscheinlichkeit(en).md",
     "Stochastik/Allgemein/Laplace-Wahrscheinlichkeiten.md",
+    "Stochastik/Allgemein/Gegenwahrscheinlichkeit(en).md",
     "Probeabi Aufgabenpool/ProbeAbi Analysis.pdf",
-    "Stochastik/Gaußsche Normalverteilung.md",
     "Stochastik/Allgemein/Mengen/Schnittmenge.md",
+    "Stochastik/Allgemein/Mengen/Menge(en).md",
+    "Stochastik/Allgemein/Mengen/Komplement einer Menge.md",
+    "Stochastik/Allgemein/Mengen/Differenzmenge.md",
+    "Z_Kleiner Aufgabenpool für unsortierte Aufgaben/Äquivalenzumformungen mit linearen Funktionen zum anwenden.md",
     "Stochastik/Allgemein/Mengen/Vereinigungsmenge.md",
+    "Stochastik/Gaußsche Normalverteilung.md",
     "Allgemeines/Operatoren/Addition.md",
     "Stochastik/Allgemein/Mengen",
     "Allgemeines/Operatoren/Mächtigkeit.md",
@@ -262,14 +280,7 @@
     "Allgemeines/Zahlen/Äquivalenzumformung(en).md",
     "Allgemeines/Zahlen/Ein-Ausklammern.md",
     "Allgemeines/Zahlen/Runden.md",
-    "Allgemeines/Zahlen/Brüche/Kürzen und erweitern.md",
-    "LICENSE.md",
-    "CODE_OF_CONDUCT.md",
-    "README.md",
     "Z_Hausaufgaben",
-    "Z_Kleiner Aufgabenpool für unsortierte Aufgaben",
-    "Z_Spielereien/Mathestunde vom Mittwoch.pdf",
-    "Analysis/Allgemein/Ableiten",
     "d7edfaa75620ef8825e4faecb555ebcddf6d7a8e.svg",
     "Pasted image 20240120174944.png",
     "Pasted image 20240103145623.png",

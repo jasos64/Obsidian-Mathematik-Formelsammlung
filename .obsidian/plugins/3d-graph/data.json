@@ -1,7 +1,7 @@
 {
   "filters": {
-    "doShowOrphans": true,
-    "doShowAttachments": true
+    "doShowOrphans": false,
+    "doShowAttachments": false
   },
   "groups": {
     "groups": [
@@ -20,7 +20,7 @@
     ]
   },
   "display": {
-    "nodeSize": 2,
+    "nodeSize": 3,
     "linkThickness": 1,
     "particleSize": 2,
     "particleCount": 5
