@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Stochastik/Allgemein/Zählstrategien/Ungeordnetes ziehen ohne zurücklegen (Binomialkoeffizient).md",
+                "file": "Stochastik/Allgemein/Ereignis(se).md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -115,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Stochastik/Allgemein/Zählstrategien/Ungeordnetes ziehen ohne zurücklegen (Binomialkoeffizient).md",
+                "file": "Stochastik/Allgemein/Ereignis(se).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Stochastik/Allgemein/Zählstrategien/Ungeordnetes ziehen ohne zurücklegen (Binomialkoeffizient).md",
+                "file": "Stochastik/Allgemein/Ereignis(se).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Stochastik/Allgemein/Zählstrategien/Ungeordnetes ziehen ohne zurücklegen (Binomialkoeffizient).md"
+                "file": "Stochastik/Allgemein/Ereignis(se).md"
               }
             }
           },
@@ -189,7 +189,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Stochastik/Allgemein/Zählstrategien/Ungeordnetes ziehen ohne zurücklegen (Binomialkoeffizient).md",
+                "file": "Stochastik/Allgemein/Ereignis(se).md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -243,17 +243,19 @@
   },
   "active": "90558ca30bd5bd7b",
   "lastOpenFiles": [
+    "Stochastik/Allgemein/Zufallsgröße/Wahrscheinlichkeitsverteilung.md",
+    "Stochastik/Allgemein/Zufallsgröße",
+    "Stochastik/Allgemein/Mengen/Differenzmenge.md",
+    "Stochastik/Allgemein/Mengen/Komplement einer Menge.md",
+    "Stochastik/Allgemein/Mengen/Vereinigungsmenge.md",
+    "Stochastik/Allgemein/Ereignis(se).md",
+    "Stochastik/Allgemein/Zählstrategien/Ungeordnetes ziehen ohne zurücklegen (Binomialkoeffizient).md",
     "Stochastik/Allgemein/Zählstrategien/Geordnetes ziehen mit zurücklegen.md",
     "Stochastik/Allgemein/Zählstrategien/Geordnetes ziehen ohne zurücklegen.md",
-    "Stochastik/Allgemein/Zählstrategien/Ungeordnetes ziehen ohne zurücklegen (Binomialkoeffizient).md",
     "Stochastik/Allgemein/Mengen/Schnittmenge.md",
     "Stochastik/Allgemein/Ergebnismenge.md",
     "Stochastik/Allgemein/Gegenereignis.md",
-    "Stochastik/Allgemein/Mengen/Differenzmenge.md",
-    "Stochastik/Allgemein/Mengen/Vereinigungsmenge.md",
-    "Stochastik/Allgemein/Mengen/Komplement einer Menge.md",
     "Stochastik/Allgemein/Mengen/Menge(en).md",
-    "Stochastik/Allgemein/Ereignis(se).md",
     "Stochastik/Allgemein/Laplace-Wahrscheinlichkeiten.md",
     "Stochastik/Allgemein/Gegenwahrscheinlichkeit(en).md",
     "Analysis/Nullstellen/Satz vom Nullprodukt.md",
@@ -269,9 +271,7 @@
     "Analysis/Allgemein/Verschieben von Funktionen.md",
     "Analytische Geometrie/LGS/Gaußsches Lösungsverfahren.md",
     "Analytische Geometrie/LGS/LGS.md",
-    "Analytische Geometrie/LGS/LGS Darstellungen.md",
     "2bbabc77f17920c2ff060582a9a7d77b4c43b32a.svg",
-    "Analysis/Allgemein/Differenzial- Integralrechnung/Flächeninhalte zwischen zwei Funktionen.md",
     "Stochastik/Allgemein/Zählstrategien/Stichproben",
     "Stochastik/Allgemein/Zählstrategien/Geordnete Stichproben",
     "Stochastik/Allgemein/Zählstrategien",
@@ -281,7 +281,6 @@
     "Z_Spielereien/desmos-graph.svg",
     "Z_Spielereien/Pasted image 20240103145623.png",
     "Z_Spielereien/Schneiden von Kreisen.pdf",
-    "Z_Spielereien/Schneiden von Kreisen und Kugeln.pdf",
     "d7edfaa75620ef8825e4faecb555ebcddf6d7a8e.svg",
     "Pasted image 20240120174944.png",
     "Pasted image 20240103145623.png",
