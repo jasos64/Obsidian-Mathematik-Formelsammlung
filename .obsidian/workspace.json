@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Analysis/Allgemein/Differenzial- Integralrechnung/Flächeninhalte zwischen zwei Funktionen.md",
+                "file": "Stochastik/Allgemein/Zählstrategien/Ungeordnetes ziehen ohne zurücklegen (Binomialkoeffizient).md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -80,7 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 316
+    "width": 399
   },
   "right": {
     "id": "1b65db29e51e971a",
@@ -115,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Analysis/Allgemein/Differenzial- Integralrechnung/Flächeninhalte zwischen zwei Funktionen.md",
+                "file": "Stochastik/Allgemein/Zählstrategien/Ungeordnetes ziehen ohne zurücklegen (Binomialkoeffizient).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Analysis/Allgemein/Differenzial- Integralrechnung/Flächeninhalte zwischen zwei Funktionen.md",
+                "file": "Stochastik/Allgemein/Zählstrategien/Ungeordnetes ziehen ohne zurücklegen (Binomialkoeffizient).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Analysis/Allgemein/Differenzial- Integralrechnung/Flächeninhalte zwischen zwei Funktionen.md"
+                "file": "Stochastik/Allgemein/Zählstrategien/Ungeordnetes ziehen ohne zurücklegen (Binomialkoeffizient).md"
               }
             }
           },
@@ -189,7 +189,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Analysis/Allgemein/Differenzial- Integralrechnung/Flächeninhalte zwischen zwei Funktionen.md",
+                "file": "Stochastik/Allgemein/Zählstrategien/Ungeordnetes ziehen ohne zurücklegen (Binomialkoeffizient).md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -243,44 +243,45 @@
   },
   "active": "90558ca30bd5bd7b",
   "lastOpenFiles": [
-    "Stochastik/Allgemein/Zählstrategien/Geordnete Stichproben/Ziehen mit zurücklegen.md",
-    "Analysis/Allgemein/Differenzial- Integralrechnung/Flächeninhalte zwischen zwei Funktionen.md",
-    "README.md",
-    "Stochastik/Allgemein/Gegenereignis.md",
-    "Stochastik/Allgemein/Zählstrategien/Stichproben",
-    "Stochastik/Allgemein/Zählstrategien/Geordnete Stichproben",
-    "Stochastik/Allgemein/Zählstrategien/Untitled.md",
-    "Stochastik/Allgemein/Zählstrategien",
+    "Stochastik/Allgemein/Zählstrategien/Geordnetes ziehen mit zurücklegen.md",
+    "Stochastik/Allgemein/Zählstrategien/Geordnetes ziehen ohne zurücklegen.md",
+    "Stochastik/Allgemein/Zählstrategien/Ungeordnetes ziehen ohne zurücklegen (Binomialkoeffizient).md",
+    "Stochastik/Allgemein/Mengen/Schnittmenge.md",
     "Stochastik/Allgemein/Ergebnismenge.md",
+    "Stochastik/Allgemein/Gegenereignis.md",
+    "Stochastik/Allgemein/Mengen/Differenzmenge.md",
+    "Stochastik/Allgemein/Mengen/Vereinigungsmenge.md",
+    "Stochastik/Allgemein/Mengen/Komplement einer Menge.md",
+    "Stochastik/Allgemein/Mengen/Menge(en).md",
     "Stochastik/Allgemein/Ereignis(se).md",
     "Stochastik/Allgemein/Laplace-Wahrscheinlichkeiten.md",
     "Stochastik/Allgemein/Gegenwahrscheinlichkeit(en).md",
-    "Probeabi Aufgabenpool/ProbeAbi Analysis.pdf",
-    "Stochastik/Allgemein/Mengen/Schnittmenge.md",
-    "Stochastik/Allgemein/Mengen/Menge(en).md",
-    "Stochastik/Allgemein/Mengen/Komplement einer Menge.md",
-    "Stochastik/Allgemein/Mengen/Differenzmenge.md",
-    "Z_Kleiner Aufgabenpool für unsortierte Aufgaben/Äquivalenzumformungen mit linearen Funktionen zum anwenden.md",
-    "Stochastik/Allgemein/Mengen/Vereinigungsmenge.md",
-    "Stochastik/Gaußsche Normalverteilung.md",
-    "Allgemeines/Operatoren/Addition.md",
-    "Stochastik/Allgemein/Mengen",
-    "Allgemeines/Operatoren/Mächtigkeit.md",
-    "Stochastik/Allgemein",
-    "Stochastik/Allgemein.md",
-    "Analysis/Allgemein/Differenzial- Integralrechnung/Integrationsregeln.md",
-    "Analysis/Allgemein/Differenzial- Integralrechnung/Integration.md",
-    "Allgemeines/Zahlen/Dezimale(n).md",
+    "Analysis/Nullstellen/Satz vom Nullprodukt.md",
+    "excalibrain.md",
     "HowToDownload.pdf",
+    "Analysis/Nullstellen/Komplexe Nullstellen.md",
+    "Allgemeines/Gesetze/Assoziativgesetz.md",
+    "Analysis/Allgemein/Definitionsbereich.md",
+    "Analysis/Allgemein/Differenzial- Integralrechnung/Integration.md",
+    "_Excalidraw_/Drawing 06.03.2024 20.50.excalidraw.md",
+    "Allgemeines/Operatoren/Fakultät.md",
+    "_Excalidraw_",
+    "Analysis/Allgemein/Verschieben von Funktionen.md",
+    "Analytische Geometrie/LGS/Gaußsches Lösungsverfahren.md",
+    "Analytische Geometrie/LGS/LGS.md",
+    "Analytische Geometrie/LGS/LGS Darstellungen.md",
+    "2bbabc77f17920c2ff060582a9a7d77b4c43b32a.svg",
+    "Analysis/Allgemein/Differenzial- Integralrechnung/Flächeninhalte zwischen zwei Funktionen.md",
+    "Stochastik/Allgemein/Zählstrategien/Stichproben",
+    "Stochastik/Allgemein/Zählstrategien/Geordnete Stichproben",
+    "Stochastik/Allgemein/Zählstrategien",
+    "Probeabi Aufgabenpool/ProbeAbi Analysis.pdf",
+    "Stochastik/Allgemein/Mengen",
+    "Stochastik/Allgemein",
     "Z_Spielereien/desmos-graph.svg",
     "Z_Spielereien/Pasted image 20240103145623.png",
-    "Z_Spielereien/Schneiden von Kreisen und Kugeln.md",
     "Z_Spielereien/Schneiden von Kreisen.pdf",
     "Z_Spielereien/Schneiden von Kreisen und Kugeln.pdf",
-    "Allgemeines/Zahlen/Äquivalenzumformung(en).md",
-    "Allgemeines/Zahlen/Ein-Ausklammern.md",
-    "Allgemeines/Zahlen/Runden.md",
-    "Z_Hausaufgaben",
     "d7edfaa75620ef8825e4faecb555ebcddf6d7a8e.svg",
     "Pasted image 20240120174944.png",
     "Pasted image 20240103145623.png",

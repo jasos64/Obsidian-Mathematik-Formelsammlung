@@ -196,6 +196,8 @@ DOF
 DBFT
 DNB
 Differenzmenge
+Drawing
+Definitionen
 Eine
 Eingangswert
 Einsetzen
@@ -412,6 +414,9 @@ Ereignissen
 Erkennbar
 Ergebnisraum
 Eingeschlossene
+EXCALIDRAW
+Elements
+Excalidraw
 Funktion
 Funktionsnamen
 Form
@@ -630,6 +635,7 @@ FLz
 Fae
 Formuliert
 Folgendes
+Fakultät
 beliebigen
 besitzen
 berührt
@@ -868,6 +874,10 @@ bLf
 bFG
 bxN
 begrenzenden
+blind
+befinden
+blaue
+blauer
 Namens
 Nullstelle
 Nullstellen
@@ -1231,6 +1241,9 @@ OBC
 OLNj
 OwVA
 Obermenge
+Operator
+OPTIONS
+Open
 oder
 oft
 oftmals
@@ -1418,6 +1431,7 @@ otr
 oFg
 oKt
 oywZ
+onload
 ist
 in
 im
@@ -1968,6 +1982,9 @@ ebfO
 eWd
 eintreffen
 eintritt
+existiert
+excalidraw
+export
 Beschreibung
 Besondere
 Beispiel
@@ -2187,6 +2204,11 @@ BWZP
 BoR
 Bus
 Beweisführung
+Bälle
+Binomialkoeffizienten
+Beschrieben
+Bällen
+Ball
 Rechenvorganges
 Rest
 Rechnung
@@ -2844,6 +2866,7 @@ mQW
 möglichen
 markiert
 mehreren
+mylk
 durchgeführt
 dem
 den
@@ -3103,6 +3126,9 @@ due
 dGofQ
 duC
 daher
+davorliegenden
+default
+dark
 Abhängigkeit
 Aufgaben
 Achsen
@@ -3360,6 +3386,7 @@ AHr
 AEb
 Auflistung
 Aufstellung
+Auf
 zu
 zwei
 zunächst
@@ -3813,6 +3840,8 @@ gezogen
 getauschtem
 gerecht
 geänderten
+gezogenen
+gelbe
 sodass
 sind
 so
@@ -4155,6 +4184,9 @@ seitigen
 seitige
 sämtliche
 spricht
+script
+started
+settings
 neben
 nach
 nun
@@ -4775,6 +4807,8 @@ Vhs
 Vqb
 Vereinigungsmenge
 Vorgänge
+Verwendet
+VIEW
 Platzhalter
 Punkte
 Punkt
@@ -4988,6 +5022,7 @@ PEi
 Pho
 PbP
 Pvp
+Permutationen
 Zahl
 Zwei
 Zeitraum
@@ -5509,6 +5544,14 @@ alp
 acJ
 aufgelistet
 auftreten
+abrufbar
+app
+another
+adjacent
+anderes
+allgemein
+anzugeben
+anwenden
 kann
 können
 kleines
@@ -5910,6 +5953,7 @@ Hxd
 HYv
 HkHZ
 Hilfsfunktion
+Hergeleitet
 usw
 und
 untersucht
@@ -6128,6 +6172,7 @@ umu
 uvKpnQ
 uIa
 uOva
+ungeordnetem
 verwendet
 visuell
 von
@@ -6359,6 +6404,7 @@ veranschaulicht
 vorkommen
 vereinigt
 vordefiniert
+verschiedener
 frei
 für
 finden
@@ -6761,6 +6807,7 @@ hix
 hbDKf
 hbhFMx
 heh
+hintereinander
 Sei
 Stellen
 Sie
@@ -7021,6 +7068,7 @@ Seitigen
 Schnittmenge
 Stochastische
 Stehen
+Switch
 jede
 jedes
 jeden
@@ -7448,6 +7496,9 @@ rdo
 ryu
 rLS
 rkDt
+rechte
+roten
+rote
 Tut
 Termumformung
 Tiefpunkt
@@ -7640,6 +7691,8 @@ Tiw
 TpF
 Tpt
 Treffende
+Text
+Transclusion
 Mathematisch
 Maxima
 Möglichkeiten
@@ -7853,6 +7906,7 @@ MNDiJ
 MwW
 Mächtigkeit
 Mächtigkeiten
+MORE
 Gleichsetzen
 Gegeben
 Generalisiert
@@ -8056,6 +8110,8 @@ Gegenwahrscheinlichkeiten
 Gegenereignis
 Genereller
 Gebildet
+Gamma
+GTR
 Um
 Unendlichen
 Ursprung
@@ -8240,6 +8296,7 @@ UZXw
 Uke
 UBd
 UcUz
+Urne
 Wenn
 Wert
 Wichtig
@@ -8436,6 +8493,7 @@ Wahrscheinlichkeit
 Würfel
 Wahrscheinlichkeiten
 Wiederholung
+Wahrscheinlich
 lauten
 lokale
 links
@@ -8656,6 +8714,8 @@ lPY
 lYm
 lOFr
 listen
+linkbutton
+leaf
 Quotientenregel
 QL
 Qb
@@ -9452,6 +9512,10 @@ ppZ
 pPD
 puG
 phi
+plugin
+parsed
+plugins
+pane
 Äquivalenzumformung
 ÄI
 ÄP
@@ -9890,6 +9954,9 @@ tmG
 taV
 tXKm
 treffenden
+tags
+transparent
+targetView
 yW
 yT
 yN
@@ -10990,6 +11057,7 @@ cZYs
 cULKB
 cBW
 cboH
+click
 qyy
 qF
 qZ

@@ -23,3 +23,5 @@ Für die Mächtigkeit von $A\backslash B$ gilt:
 $$
 \left|A\backslash B\right|=\left|A\right|-\left|A\cap B\right|
 $$
+
+---

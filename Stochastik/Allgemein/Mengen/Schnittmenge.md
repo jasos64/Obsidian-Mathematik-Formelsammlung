@@ -20,4 +20,5 @@ $$
 ---
 ### Mächtigkeit
 Für die [[Mächtigkeit]] einer Schnittmenge muss nichts bedacht werden, da Elemente jeweils nur einmal vorkommen.
-()
+
+---

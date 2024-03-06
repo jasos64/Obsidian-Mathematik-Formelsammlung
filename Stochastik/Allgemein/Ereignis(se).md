@@ -1,4 +1,5 @@
 Ein Ereignis beschreibt das Eintreten eines Ergebnisses durch ein Zufallsexperiment. Ereignisse werden mit Großbuchstaben beschrieben und werden dem Sachzusammenhang benannt.
+([[Laplace-Wahrscheinlichkeiten]])
 
 ---
 ### Beispiele
@@ -20,16 +21,16 @@ $$
 $$
 \Omega=
 \begin{Bmatrix}{}
-	(1,1);\textcolor{green}{(1,2)};(1,3);\\
-	\textcolor{green}{(2,1)};(2,2);\textcolor{green}{(2,3)};\\
-	(3,1);\textcolor{green}{(3,2)};(3,3)
+	(1,1);\textcolor{green}{(1;2)},(1;3),\\
+	\textcolor{green}{(2;1)},(2;2),\textcolor{green}{(2;3)},\\
+	(3;1),\textcolor{green}{(3;2)},(3;3)
 \end{Bmatrix}
 $$
 Treffende Ergebnisse sind markiert. Somit ist als Auflistung
 $$
 E=
 \begin{Bmatrix}
-	(1,2);(2,1);(2,3);(3,2)
+	(1;2),(2;1),(2;3),(3;2)
 \end{Bmatrix}
 $$
 
