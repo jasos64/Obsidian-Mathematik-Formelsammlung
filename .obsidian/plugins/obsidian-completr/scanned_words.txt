@@ -198,6 +198,7 @@ DNB
 Differenzmenge
 Drawing
 Definitionen
+Dreieck
 Eine
 Eingangswert
 Einsetzen
@@ -7069,6 +7070,7 @@ Schnittmenge
 Stochastische
 Stehen
 Switch
+Sierpinski
 jede
 jedes
 jeden

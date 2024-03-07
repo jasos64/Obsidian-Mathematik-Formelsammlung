@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Stochastik/Allgemein/Ereignis(se).md",
+                "file": "Stochastik/Allgemein/Zählstrategien/Ungeordnetes ziehen ohne zurücklegen (Binomialkoeffizient).md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -115,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Stochastik/Allgemein/Ereignis(se).md",
+                "file": "Stochastik/Allgemein/Zählstrategien/Ungeordnetes ziehen ohne zurücklegen (Binomialkoeffizient).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Stochastik/Allgemein/Ereignis(se).md",
+                "file": "Stochastik/Allgemein/Zählstrategien/Ungeordnetes ziehen ohne zurücklegen (Binomialkoeffizient).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Stochastik/Allgemein/Ereignis(se).md"
+                "file": "Stochastik/Allgemein/Zählstrategien/Ungeordnetes ziehen ohne zurücklegen (Binomialkoeffizient).md"
               }
             }
           },
@@ -189,7 +189,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Stochastik/Allgemein/Ereignis(se).md",
+                "file": "Stochastik/Allgemein/Zählstrategien/Ungeordnetes ziehen ohne zurücklegen (Binomialkoeffizient).md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -243,13 +243,14 @@
   },
   "active": "90558ca30bd5bd7b",
   "lastOpenFiles": [
+    "Allgemeines/Sierpinski-Dreieck.md",
+    "Stochastik/Allgemein/Zählstrategien/Ungeordnetes ziehen ohne zurücklegen (Binomialkoeffizient).md",
+    "Stochastik/Allgemein/Ereignis(se).md",
     "Stochastik/Allgemein/Zufallsgröße/Wahrscheinlichkeitsverteilung.md",
     "Stochastik/Allgemein/Zufallsgröße",
     "Stochastik/Allgemein/Mengen/Differenzmenge.md",
     "Stochastik/Allgemein/Mengen/Komplement einer Menge.md",
     "Stochastik/Allgemein/Mengen/Vereinigungsmenge.md",
-    "Stochastik/Allgemein/Ereignis(se).md",
-    "Stochastik/Allgemein/Zählstrategien/Ungeordnetes ziehen ohne zurücklegen (Binomialkoeffizient).md",
     "Stochastik/Allgemein/Zählstrategien/Geordnetes ziehen mit zurücklegen.md",
     "Stochastik/Allgemein/Zählstrategien/Geordnetes ziehen ohne zurücklegen.md",
     "Stochastik/Allgemein/Mengen/Schnittmenge.md",

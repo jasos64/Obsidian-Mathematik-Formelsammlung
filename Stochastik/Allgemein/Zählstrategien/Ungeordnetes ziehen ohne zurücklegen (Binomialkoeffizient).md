@@ -56,3 +56,21 @@ $$
 $$
 
 ---
+### Sierpinski-Dreieck
+Das [[Sierpinski-Dreieck]] kann verwendet werden um die Werte des Binomialkoeffizienten händisch zu bestimmen.
+Hierbei ist die Zeile dann der Wert für $n$, und von links nach rechts $k$.
+$$
+\begin{array}{}
+	&&&&&&1^{0}_{0}&&\\
+	&&&&&1^{1}_{0}&&1^{1}_{1}&\\
+	&&&&1^{2}_{0}&&2^{2}_{1}&&1^{2}_{2}\\
+	&&&1^{3}_{0}&&3^{3}_{1}&&3^{3}_{2}&&1^{3}_{3}\\
+	&&1^{4}_{0}&&4^{4}_{1}&&6^{4}_{2}&&4^{4}_{3}&&1^{4}_{4}\\
+	&1^{5}_{0}&&5^{5}_{1}&&10^{5}_{2}&&10^{5}_{3}&&5^{5}_{4}&&
+	1^{5}_{5}\\
+	\cdots&&\cdots&&\cdots&&\cdots&&\cdots&&\cdots&&\cdots\\
+	
+\end{array}
+$$
+
+---
