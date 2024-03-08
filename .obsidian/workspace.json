@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Stochastik/Allgemein/Zählstrategien/Ungeordnetes ziehen ohne zurücklegen (Binomialkoeffizient).md",
+                "file": "Stochastik/Allgemein/Zufallsgröße/Wahrscheinlichkeitsverteilung.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -115,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Stochastik/Allgemein/Zählstrategien/Ungeordnetes ziehen ohne zurücklegen (Binomialkoeffizient).md",
+                "file": "Stochastik/Allgemein/Zufallsgröße/Wahrscheinlichkeitsverteilung.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Stochastik/Allgemein/Zählstrategien/Ungeordnetes ziehen ohne zurücklegen (Binomialkoeffizient).md",
+                "file": "Stochastik/Allgemein/Zufallsgröße/Wahrscheinlichkeitsverteilung.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Stochastik/Allgemein/Zählstrategien/Ungeordnetes ziehen ohne zurücklegen (Binomialkoeffizient).md"
+                "file": "Stochastik/Allgemein/Zufallsgröße/Wahrscheinlichkeitsverteilung.md"
               }
             }
           },
@@ -189,7 +189,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Stochastik/Allgemein/Zählstrategien/Ungeordnetes ziehen ohne zurücklegen (Binomialkoeffizient).md",
+                "file": "Stochastik/Allgemein/Zufallsgröße/Wahrscheinlichkeitsverteilung.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -243,16 +243,24 @@
   },
   "active": "90558ca30bd5bd7b",
   "lastOpenFiles": [
-    "Allgemeines/Sierpinski-Dreieck.md",
-    "Stochastik/Allgemein/Zählstrategien/Ungeordnetes ziehen ohne zurücklegen (Binomialkoeffizient).md",
-    "Stochastik/Allgemein/Ereignis(se).md",
+    "Stochastik/Allgemein/Zufallsgröße/Erwartungswert.md",
+    "Stochastik/Allgemein/Zufallsgröße/Varianz.md",
+    "Stochastik/Allgemein/Zufallsgröße/Zufallsgröße.md",
     "Stochastik/Allgemein/Zufallsgröße/Wahrscheinlichkeitsverteilung.md",
+    "Stochastik/Allgemein/Zählstrategien/Ungeordnetes ziehen ohne zurücklegen (Binomialkoeffizient).md",
+    "Stochastik/Allgemein/Zählstrategien/Geordnetes ziehen ohne zurücklegen.md",
+    "Stochastik/Allgemein/Zählstrategien/Geordnetes ziehen mit zurücklegen.md",
+    "Analysis/Nullstellen/Newtonverfahren.md",
+    "Analysis/Nullstellen/Komplexe Nullstellen.md",
+    "Allgemeines/Zahlen/Zahlensets.md",
+    "Allgemeines/Operatoren/Fakultät.md",
+    "Ungeordnetes.md",
+    "Allgemeines/Sierpinski-Dreieck.md",
+    "Stochastik/Allgemein/Ereignis(se).md",
     "Stochastik/Allgemein/Zufallsgröße",
     "Stochastik/Allgemein/Mengen/Differenzmenge.md",
     "Stochastik/Allgemein/Mengen/Komplement einer Menge.md",
     "Stochastik/Allgemein/Mengen/Vereinigungsmenge.md",
-    "Stochastik/Allgemein/Zählstrategien/Geordnetes ziehen mit zurücklegen.md",
-    "Stochastik/Allgemein/Zählstrategien/Geordnetes ziehen ohne zurücklegen.md",
     "Stochastik/Allgemein/Mengen/Schnittmenge.md",
     "Stochastik/Allgemein/Ergebnismenge.md",
     "Stochastik/Allgemein/Gegenereignis.md",
@@ -262,16 +270,8 @@
     "Analysis/Nullstellen/Satz vom Nullprodukt.md",
     "excalibrain.md",
     "HowToDownload.pdf",
-    "Analysis/Nullstellen/Komplexe Nullstellen.md",
     "Allgemeines/Gesetze/Assoziativgesetz.md",
-    "Analysis/Allgemein/Definitionsbereich.md",
-    "Analysis/Allgemein/Differenzial- Integralrechnung/Integration.md",
-    "_Excalidraw_/Drawing 06.03.2024 20.50.excalidraw.md",
-    "Allgemeines/Operatoren/Fakultät.md",
     "_Excalidraw_",
-    "Analysis/Allgemein/Verschieben von Funktionen.md",
-    "Analytische Geometrie/LGS/Gaußsches Lösungsverfahren.md",
-    "Analytische Geometrie/LGS/LGS.md",
     "2bbabc77f17920c2ff060582a9a7d77b4c43b32a.svg",
     "Stochastik/Allgemein/Zählstrategien/Stichproben",
     "Stochastik/Allgemein/Zählstrategien/Geordnete Stichproben",

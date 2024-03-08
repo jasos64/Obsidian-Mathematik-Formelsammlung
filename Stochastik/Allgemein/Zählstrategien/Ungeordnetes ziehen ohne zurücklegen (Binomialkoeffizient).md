@@ -73,4 +73,27 @@ $$
 \end{array}
 $$
 
+Als Beispiel sei *5 über 3* gesucht:
+$$
+\begin{align}
+	\begin{pmatrix}5\\3\end{pmatrix}&=\frac{5!}{\left(5-3\right)!\cdot 3!}\\
+	&=\frac{5!}{2!\cdot3!}\\
+	&=\frac{5\cdot4\cdot\cancel{3!}}{2!\cdot\cancel{3!}}\\
+	&=\frac{5\cdot\cancelto{2}{4}}{\cancelto{1}{2}}\\
+	&=5\cdot2=10
+\end{align}
+$$
+Dies lässt sich ebenfalls mit dem Dreieck erkennen.
+$$
+\begin{array}{}
+	&&&&&&1^{0}_{0}&&\\
+	&&&&&1^{1}_{0}&&1^{1}_{1}&\\
+	&&&&1^{2}_{0}&&2^{2}_{1}&&1^{2}_{2}\\
+	&&&1^{3}_{0}&&3^{3}_{1}&&3^{3}_{2}&&1^{3}_{3}\\
+	&&1^{4}_{0}&&4^{4}_{1}&&6^{4}_{2}&&4^{4}_{3}&&1^{4}_{4}\\
+	&1^{5}_{0}&&5^{5}_{1}&&10^{5}_{2}&&\boxed{10^{5}_{3}}&&5^{5}_{4}&&
+	1^{5}_{5}
+\end{array}
+$$
+
 ---

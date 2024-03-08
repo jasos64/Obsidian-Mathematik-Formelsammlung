@@ -1,4 +1,4 @@
-Die Fakultät ist ein Operator, bei welchem von einer natürlichen Zahl alle davorliegenden Zahlen multipliziert werden.
+Die Fakultät ist ein Operator, bei welchem von einer [natürlichen Zahl](Zahlensets) alle davorliegenden Zahlen multipliziert werden.
 Es ist folgendermaßen definiert:
 $$
 n!\coloneqq\prod^{n}_{k=1}k= 1\cdot2\cdot3\cdot\,\cdots\,\cdot n

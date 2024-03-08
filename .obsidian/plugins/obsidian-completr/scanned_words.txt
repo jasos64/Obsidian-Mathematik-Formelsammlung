@@ -418,6 +418,9 @@ Eingeschlossene
 EXCALIDRAW
 Elements
 Excalidraw
+Einwand
+Endgewinn
+Ergebnismenge
 Funktion
 Funktionsnamen
 Form
@@ -2210,6 +2213,7 @@ Binomialkoeffizienten
 Beschrieben
 Bällen
 Ball
+Binomialkoeffizient
 Rechenvorganges
 Rest
 Rechnung
@@ -3388,6 +3392,7 @@ AEb
 Auflistung
 Aufstellung
 Auf
+Augensumme
 zu
 zwei
 zunächst
@@ -3843,6 +3848,8 @@ gerecht
 geänderten
 gezogenen
 gelbe
+gewürfelt
+geworfen
 sodass
 sind
 so
@@ -4810,6 +4817,7 @@ Vereinigungsmenge
 Vorgänge
 Verwendet
 VIEW
+Veranschaulichung
 Platzhalter
 Punkte
 Punkt
@@ -5024,6 +5032,7 @@ Pho
 PbP
 Pvp
 Permutationen
+Per
 Zahl
 Zwei
 Zeitraum
@@ -5216,6 +5225,7 @@ Zzhj
 Zufallsexperiment
 Zugehörigkeit
 Ziehen
+Zufallsgröße
 annehmen
 aufzeichnet
 ausgerechnet
@@ -5553,6 +5563,7 @@ anderes
 allgemein
 anzugeben
 anwenden
+ausdrücken
 kann
 können
 kleines
@@ -5955,6 +5966,7 @@ HYv
 HkHZ
 Hilfsfunktion
 Hergeleitet
+Hiermit
 usw
 und
 untersucht
@@ -6174,6 +6186,7 @@ uvKpnQ
 uIa
 uOva
 ungeordnetem
+umgeformt
 verwendet
 visuell
 von
@@ -6809,6 +6822,7 @@ hbDKf
 hbhFMx
 heh
 hintereinander
+händisch
 Sei
 Stellen
 Sie
@@ -8114,6 +8128,7 @@ Genereller
 Gebildet
 Gamma
 GTR
+Gewinn
 Um
 Unendlichen
 Ursprung
@@ -8299,6 +8314,7 @@ Uke
 UBd
 UcUz
 Urne
+Ungeordnetes
 Wenn
 Wert
 Wichtig
@@ -8496,6 +8512,8 @@ Würfel
 Wahrscheinlichkeiten
 Wiederholung
 Wahrscheinlich
+Wirkung
+Wurfbetrag
 lauten
 lokale
 links
@@ -9518,6 +9536,7 @@ plugin
 parsed
 plugins
 pane
+passend
 Äquivalenzumformung
 ÄI
 ÄP
