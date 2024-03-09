@@ -5,6 +5,8 @@ Dies wird mit dem folgendem **Binomialkoeffizienten** beschrieben:
 
 Hergeleitet wird dies mit Hilfe von [[Geordnetes ziehen ohne zurücklegen]], bei welchem die Reihenfolge ebenfalls wichtig ist. Damit die Mengen an Permutationen auf $k$ Stellen entfernt wird, so muss das Ergebnis durch den $nPr$ mit der Menge der möglichen Permutationen $k!$ geteilt werden.
 
+Verwendet wird hier die [[Fakultät]].
+
 ---
 ### Definitionen
 Für den Binomialkoeffizienten existieren Werte, die für alle $n$ und $k$ so folgend gelten:

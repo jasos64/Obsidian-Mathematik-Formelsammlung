@@ -199,6 +199,9 @@ Differenzmenge
 Drawing
 Definitionen
 Dreieck
+Durchschnitt
+Desto
+Dreiecks
 Eine
 Eingangswert
 Einsetzen
@@ -421,6 +424,8 @@ Excalidraw
 Einwand
 Endgewinn
 Ergebnismenge
+Erwartungswert
+Ecken
 Funktion
 Funktionsnamen
 Form
@@ -640,6 +645,7 @@ Fae
 Formuliert
 Folgendes
 Fakultät
+Fraktal
 beliebigen
 besitzen
 berührt
@@ -882,6 +888,7 @@ blind
 befinden
 blaue
 blauer
+befindet
 Namens
 Nullstelle
 Nullstellen
@@ -1671,6 +1678,7 @@ iUS
 ipl
 idBB
 identifizieren
+inwiefern
 eine
 eines
 einem
@@ -2214,6 +2222,8 @@ Beschrieben
 Bällen
 Ball
 Binomialkoeffizient
+Berechnet
+Beginnend
 Rechenvorganges
 Rest
 Rechnung
@@ -2651,6 +2661,9 @@ wDi
 wkoI
 woF
 weiteres
+würfelt
+weitläufige
+wiederholendes
 mit
 man
 müssen
@@ -2872,6 +2885,7 @@ möglichen
 markiert
 mehreren
 mylk
+mittig
 durchgeführt
 dem
 den
@@ -3134,6 +3148,9 @@ daher
 davorliegenden
 default
 dark
+dargestellten
+desto
+diagonal
 Abhängigkeit
 Aufgaben
 Achsen
@@ -3581,6 +3598,7 @@ zugehörigen
 zutreffender
 zurücklegen
 zufolge
+zusammenhängt
 gesetzt
 gegeben
 gelten
@@ -3850,6 +3868,7 @@ gezogenen
 gelbe
 gewürfelt
 geworfen
+generalisierten
 sodass
 sind
 so
@@ -4401,6 +4420,7 @@ nrN
 nqo
 nQo
 nSF
+niedrigen
 Klammern
 Kettenregel
 Kriterium
@@ -4818,6 +4838,8 @@ Vorgänge
 Verwendet
 VIEW
 Veranschaulichung
+Varianz
+Verteilung
 Platzhalter
 Punkte
 Punkt
@@ -5226,6 +5248,7 @@ Zufallsexperiment
 Zugehörigkeit
 Ziehen
 Zufallsgröße
+Zufallsexperimente
 annehmen
 aufzeichnet
 ausgerechnet
@@ -6187,6 +6210,9 @@ uIa
 uOva
 ungeordnetem
 umgeformt
+umgeben
+unten
+ungerade
 verwendet
 visuell
 von
@@ -7085,6 +7111,8 @@ Stochastische
 Stehen
 Switch
 Sierpinski
+Streuverhalten
+Standartabweichung
 jede
 jedes
 jeden
@@ -7515,6 +7543,7 @@ rkDt
 rechte
 roten
 rote
+risikounfreundlicher
 Tut
 Termumformung
 Tiefpunkt
@@ -7923,6 +7952,8 @@ MwW
 Mächtigkeit
 Mächtigkeiten
 MORE
+Münzen
+Mengenelementen
 Gleichsetzen
 Gegeben
 Generalisiert
@@ -8882,6 +8913,7 @@ Qxo
 QoD
 QjP
 QFm
+Quadratwurzel
 Intervall
 Intervallgrenzen
 Insgesamt
