@@ -296,7 +296,7 @@ $$\begin{align}
 			{\sqrt{h}\sqrt{\frac{2r-h}{r}}}+\frac{h}{2}-
 			\frac{r}{2}\right)\right)\\
 	
-	&A_{g}(h)=\left(
+	A_{g}(h)&=\left(
 		\sqrt{r^{2}-(h-r)^{2}}\cdot\left(\frac
 			{2r^{\frac{3}{2}}\sin^{-1}\left(\frac{\sqrt{h}}{\sqrt{2r}}\right)}
 			{\sqrt{\frac{2r^{2}-(h-r)^{2}}{r}}}+h-r\right)\right)\\

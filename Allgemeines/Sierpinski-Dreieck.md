@@ -16,3 +16,5 @@ $$
 \end{array}
 $$
 Jede ungerade Zahl wird nun markiert, und die Form nach unten unendlich weit erweitert. Das Resultat ist das Sierpinski-Dreieck.
+
+---

@@ -202,6 +202,7 @@ Dreieck
 Durchschnitt
 Desto
 Dreiecks
+Dazu
 Eine
 Eingangswert
 Einsetzen
@@ -426,6 +427,7 @@ Endgewinn
 Ergebnismenge
 Erwartungswert
 Ecken
+Elementen
 Funktion
 Funktionsnamen
 Form
@@ -889,6 +891,7 @@ befinden
 blaue
 blauer
 befindet
+bestehend
 Namens
 Nullstelle
 Nullstellen
@@ -1997,6 +2000,7 @@ eintritt
 existiert
 excalidraw
 export
+exakt
 Beschreibung
 Besondere
 Beispiel
@@ -2224,6 +2228,8 @@ Ball
 Binomialkoeffizient
 Berechnet
 Beginnend
+Bernoulli
+Binomialverteilung
 Rechenvorganges
 Rest
 Rechnung
@@ -2440,6 +2446,7 @@ RiV
 RAz
 Rwe
 RDLd
+Resultate
 welcher
 wird
 werden
@@ -3410,6 +3417,7 @@ Auflistung
 Aufstellung
 Auf
 Augensumme
+Angabe
 zu
 zwei
 zunächst
@@ -3599,6 +3607,7 @@ zutreffender
 zurücklegen
 zufolge
 zusammenhängt
+zusammengefasst
 gesetzt
 gegeben
 gelten
@@ -3869,6 +3878,7 @@ gelbe
 gewürfelt
 geworfen
 generalisierten
+gefragt
 sodass
 sind
 so
@@ -4214,6 +4224,7 @@ spricht
 script
 started
 settings
+stufigen
 neben
 nach
 nun
@@ -4626,6 +4637,8 @@ KLp
 Kei
 KuT
 Komplement
+Kompliment
+Kette
 Variable
 Veränderung
 Veränderungsrate
@@ -4840,6 +4853,8 @@ VIEW
 Veranschaulichung
 Varianz
 Verteilung
+Verkettung
+Vereint
 Platzhalter
 Punkte
 Punkt
@@ -5055,6 +5070,7 @@ PbP
 Pvp
 Permutationen
 Per
+Pfadregel
 Zahl
 Zwei
 Zeitraum
@@ -5587,6 +5603,7 @@ allgemein
 anzugeben
 anwenden
 ausdrücken
+ausdrückt
 kann
 können
 kleines
@@ -5806,6 +5823,7 @@ kdy
 kuH
 kRV
 kws
+komplementären
 Hier
 Hierbei
 Hierfür
@@ -6213,6 +6231,7 @@ umgeformt
 umgeben
 unten
 ungerade
+unveränderte
 verwendet
 visuell
 von
@@ -6445,6 +6464,7 @@ vorkommen
 vereinigt
 vordefiniert
 verschiedener
+vorzufinden
 frei
 für
 finden
@@ -7113,6 +7133,8 @@ Switch
 Sierpinski
 Streuverhalten
 Standartabweichung
+Stufe
+Stufen
 jede
 jedes
 jeden

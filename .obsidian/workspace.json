@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Stochastik/Allgemein/Zufallsgröße/Erwartungswert.md",
+                "file": "Stochastik/Allgemein/Zählstrategien/Ungeordnetes ziehen mit zurücklegen (Bernoulli).md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -89,7 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 399
+    "width": 343
   },
   "right": {
     "id": "1b65db29e51e971a",
@@ -124,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Stochastik/Allgemein/Zufallsgröße/Erwartungswert.md",
+                "file": "Stochastik/Allgemein/Zählstrategien/Ungeordnetes ziehen mit zurücklegen (Bernoulli).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Stochastik/Allgemein/Zufallsgröße/Erwartungswert.md",
+                "file": "Stochastik/Allgemein/Zählstrategien/Ungeordnetes ziehen mit zurücklegen (Bernoulli).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Stochastik/Allgemein/Zufallsgröße/Erwartungswert.md"
+                "file": "Stochastik/Allgemein/Zählstrategien/Ungeordnetes ziehen mit zurücklegen (Bernoulli).md"
               }
             }
           },
@@ -198,7 +198,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Stochastik/Allgemein/Zufallsgröße/Erwartungswert.md",
+                "file": "Stochastik/Allgemein/Zählstrategien/Ungeordnetes ziehen mit zurücklegen (Bernoulli).md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -252,20 +252,23 @@
   },
   "active": "d9f2fa96831eea10",
   "lastOpenFiles": [
-    "Stochastik/Allgemein/Zufallsgröße/Standartabweichung.md",
-    "Stochastik/Allgemein/Zufallsgröße/Varianz.md",
-    "Stochastik/Allgemein/Zufallsgröße/Wahrscheinlichkeitsverteilung.md",
-    "Stochastik/Allgemein/Zufallsgröße/Erwartungswert.md",
-    "Stochastik/Allgemein/Ereignis(se).md",
-    "Probeabi Aufgabenpool/ProbeAbi Analysis.pdf",
+    "Stochastik/Allgemein/Zählstrategien/Ungeordnetes ziehen ohne zurücklegen (Binomialkoeffizient).md",
+    "Stochastik/Allgemein/Zählstrategien/Ungeordnetes ziehen mit zurücklegen (Bernoulli).md",
+    "Stochastik/Allgemein/Zählstrategien/Geordnetes ziehen ohne zurücklegen.md",
+    "Stochastik/Allgemein/Zählstrategien/Geordnetes ziehen mit zurücklegen.md",
+    "Z_Spielereien/Schneiden von Kreisen und Kugeln.md",
     "Stochastik/Allgemein/Mengen/Vereinigungsmenge.md",
+    "Stochastik/Allgemein/Mengen/Schnittmenge.md",
     "Stochastik/Allgemein/Mengen/Menge(en).md",
     "Stochastik/Allgemein/Mengen/Komplement einer Menge.md",
     "Stochastik/Allgemein/Mengen/Differenzmenge.md",
-    "Stochastik/Allgemein/Zählstrategien/Geordnetes ziehen mit zurücklegen.md",
-    "Stochastik/Allgemein/Zählstrategien/Geordnetes ziehen ohne zurücklegen.md",
     "Allgemeines/Sierpinski-Dreieck.md",
-    "Stochastik/Allgemein/Zählstrategien/Ungeordnetes ziehen ohne zurücklegen (Binomialkoeffizient).md",
+    "Stochastik/Allgemein/Zufallsgröße/Erwartungswert.md",
+    "Stochastik/Allgemein/Zufallsgröße/Standartabweichung.md",
+    "Stochastik/Allgemein/Zufallsgröße/Wahrscheinlichkeitsverteilung.md",
+    "Stochastik/Allgemein/Zufallsgröße/Varianz.md",
+    "Stochastik/Allgemein/Ereignis(se).md",
+    "Probeabi Aufgabenpool/ProbeAbi Analysis.pdf",
     "Zufallsgröße.md",
     "Stochastik/Allgemein/Zufallsgröße/Zufallsgröße.md",
     "Analysis/Nullstellen/Newtonverfahren.md",
@@ -274,11 +277,9 @@
     "Allgemeines/Operatoren/Fakultät.md",
     "Ungeordnetes.md",
     "Stochastik/Allgemein/Zufallsgröße",
-    "Stochastik/Allgemein/Mengen/Schnittmenge.md",
     "Stochastik/Allgemein/Ergebnismenge.md",
     "Stochastik/Allgemein/Gegenereignis.md",
     "Stochastik/Allgemein/Laplace-Wahrscheinlichkeiten.md",
-    "Stochastik/Allgemein/Gegenwahrscheinlichkeit(en).md",
     "HowToDownload.pdf",
     "_Excalidraw_",
     "2bbabc77f17920c2ff060582a9a7d77b4c43b32a.svg",

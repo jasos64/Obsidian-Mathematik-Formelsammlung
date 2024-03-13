@@ -2,10 +2,11 @@ Für Stochastische Vorgänge, in welchen aus einer [[Menge(en)]] etwas gezogen w
 
 >$n$ Elemente auf $k$ Stellen gibt es $\frac{n!}{\left(n-k\right)!}$ Möglichkeiten, wie diese auftreten können. Auf einem GTR ist dies durch $\textbf{nPr}$ abrufbar ($n~\textbf{nPr}~k$)
 
-Per Definition des Binomialkoeffizienten ([[Ungeordnetes ziehen ohne zurücklegen (Binomialkoeffizient)]]), lässt sich $\textbf{nPr}$ ebenfalls durch diesen ausdrücken.
+Per Definition des Binomialkoeffizienten ([[Ungeordnetes ziehen ohne zurücklegen (Binomialkoeffizient)]]), lässt sich $\textbf{nPr}$ ebenfalls durch diesen ausdrücken:
 $$
 \begin{align}
-	\textbf{nPr}&=\begin{pmatrix}n\\k\end{pmatrix}\cdot k!\\
+	\textbf{nPr}&=\begin{pmatrix}n\\k\end{pmatrix}\cdot k!
+	\Leftrightarrow\textbf{nCr}\cdot k!\\
 	\frac{n!}{\left(n-k\right)!}&=\frac{n!}{\left(n-k\right)!\cdot \textcolor{red}{k!}}\cdot \textcolor{red}{k!}\\
 	\frac{n!}{\left(n-k\right)!}&=\frac{n!}{\left(n-k\right)!}
 \end{align}
