@@ -4,32 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "bb3db93a58281676",
+        "id": "f927bcab400cd9b7",
         "type": "tabs",
         "children": [
           {
-            "id": "90558ca30bd5bd7b",
-            "type": "leaf",
-            "state": {
-              "type": "3d_graph_view",
-              "state": {}
-            }
-          },
-          {
-            "id": "d9f2fa96831eea10",
+            "id": "755ed5c40f671c65",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Stochastik/Allgemein/Zählstrategien/Ungeordnetes ziehen mit zurücklegen (Bernoulli).md",
+                "file": "Allgemeines/Zahlen/Runden.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -124,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Stochastik/Allgemein/Zählstrategien/Ungeordnetes ziehen mit zurücklegen (Bernoulli).md",
+                "file": "Allgemeines/Zahlen/Runden.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Stochastik/Allgemein/Zählstrategien/Ungeordnetes ziehen mit zurücklegen (Bernoulli).md",
+                "file": "Allgemeines/Zahlen/Runden.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Stochastik/Allgemein/Zählstrategien/Ungeordnetes ziehen mit zurücklegen (Bernoulli).md"
+                "file": "Allgemeines/Zahlen/Runden.md"
               }
             }
           },
@@ -198,7 +189,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Stochastik/Allgemein/Zählstrategien/Ungeordnetes ziehen mit zurücklegen (Bernoulli).md",
+                "file": "Allgemeines/Zahlen/Runden.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -250,36 +241,38 @@
       "3d-graph:3D Graph": false
     }
   },
-  "active": "d9f2fa96831eea10",
+  "active": "755ed5c40f671c65",
   "lastOpenFiles": [
+    "Stochastik/Allgemein/Zufallsgröße/Wahrscheinlichkeitsverteilung.md",
     "Stochastik/Allgemein/Zählstrategien/Ungeordnetes ziehen ohne zurücklegen (Binomialkoeffizient).md",
-    "Stochastik/Allgemein/Zählstrategien/Ungeordnetes ziehen mit zurücklegen (Bernoulli).md",
-    "Stochastik/Allgemein/Zählstrategien/Geordnetes ziehen ohne zurücklegen.md",
-    "Stochastik/Allgemein/Zählstrategien/Geordnetes ziehen mit zurücklegen.md",
+    "Analysis/Nullstellen/pq-Formel und Mitternachtsformel.md",
+    "Analysis/Nullstellen/Polynomdivision.md",
+    "Analysis/Nullstellen/Satz vom Nullprodukt.md",
+    "Stochastik/Allgemein/Zufallsgröße/Standartabweichung.md",
+    "Stochastik/Allgemein/Zufallsgröße/Varianz.md",
+    "Stochastik/Allgemein/Zufallsgröße/Erwartungswert.md",
+    "Stochastik/Allgemein/Laplace-Wahrscheinlichkeiten.md",
+    "Stochastik/Allgemein/Ergebnismenge.md",
+    "Stochastik/Allgemein/Ereignis(se).md",
+    "Allgemeines/Zahlen/Runden.md",
+    "Analytische Geometrie/Vektoren/Richtungsvektor(en).md",
+    "Stochastik/Allgemein/Binomialverteilung.md",
     "Z_Spielereien/Schneiden von Kreisen und Kugeln.md",
+    "Stochastik/Allgemein/Zählstrategien/Ungeordnetes ziehen mit zurücklegen (Bernoulli).md",
+    "Stochastik/Allgemein/Gegenwahrscheinlichkeit(en).md",
+    "Stochastik/Allgemein/Zählstrategien/Geordnetes ziehen mit zurücklegen.md",
+    "Z_Spielereien/Pasted image 20240103145623.png",
+    "Z_Spielereien/desmos-graph.svg",
+    "Stochastik/Allgemein/Zählstrategien/Geordnetes ziehen ohne zurücklegen.md",
     "Stochastik/Allgemein/Mengen/Vereinigungsmenge.md",
     "Stochastik/Allgemein/Mengen/Schnittmenge.md",
     "Stochastik/Allgemein/Mengen/Menge(en).md",
     "Stochastik/Allgemein/Mengen/Komplement einer Menge.md",
     "Stochastik/Allgemein/Mengen/Differenzmenge.md",
     "Allgemeines/Sierpinski-Dreieck.md",
-    "Stochastik/Allgemein/Zufallsgröße/Erwartungswert.md",
-    "Stochastik/Allgemein/Zufallsgröße/Standartabweichung.md",
-    "Stochastik/Allgemein/Zufallsgröße/Wahrscheinlichkeitsverteilung.md",
-    "Stochastik/Allgemein/Zufallsgröße/Varianz.md",
-    "Stochastik/Allgemein/Ereignis(se).md",
     "Probeabi Aufgabenpool/ProbeAbi Analysis.pdf",
     "Zufallsgröße.md",
-    "Stochastik/Allgemein/Zufallsgröße/Zufallsgröße.md",
-    "Analysis/Nullstellen/Newtonverfahren.md",
-    "Analysis/Nullstellen/Komplexe Nullstellen.md",
-    "Allgemeines/Zahlen/Zahlensets.md",
-    "Allgemeines/Operatoren/Fakultät.md",
-    "Ungeordnetes.md",
     "Stochastik/Allgemein/Zufallsgröße",
-    "Stochastik/Allgemein/Ergebnismenge.md",
-    "Stochastik/Allgemein/Gegenereignis.md",
-    "Stochastik/Allgemein/Laplace-Wahrscheinlichkeiten.md",
     "HowToDownload.pdf",
     "_Excalidraw_",
     "2bbabc77f17920c2ff060582a9a7d77b4c43b32a.svg",
@@ -288,8 +281,6 @@
     "Stochastik/Allgemein/Zählstrategien",
     "Stochastik/Allgemein/Mengen",
     "Stochastik/Allgemein",
-    "Z_Spielereien/desmos-graph.svg",
-    "Z_Spielereien/Pasted image 20240103145623.png",
     "Z_Spielereien/Schneiden von Kreisen.pdf",
     "d7edfaa75620ef8825e4faecb555ebcddf6d7a8e.svg",
     "Pasted image 20240120174944.png",

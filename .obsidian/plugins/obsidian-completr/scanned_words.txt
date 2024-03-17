@@ -203,6 +203,7 @@ Durchschnitt
 Desto
 Dreiecks
 Dazu
+Durchführung
 Eine
 Eingangswert
 Einsetzen
@@ -428,6 +429,7 @@ Ergebnismenge
 Erwartungswert
 Ecken
 Elementen
+Einsatz
 Funktion
 Funktionsnamen
 Form
@@ -648,6 +650,8 @@ Formuliert
 Folgendes
 Fakultät
 Fraktal
+Frühlingsbeginn
+Faires
 beliebigen
 besitzen
 berührt
@@ -892,6 +896,7 @@ blaue
 blauer
 befindet
 bestehend
+binomialverteilt
 Namens
 Nullstelle
 Nullstellen
@@ -2001,6 +2006,7 @@ existiert
 excalidraw
 export
 exakt
+entnommenen
 Beschreibung
 Besondere
 Beispiel
@@ -2447,6 +2453,7 @@ RAz
 Rwe
 RDLd
 Resultate
+Rundungsklammern
 welcher
 wird
 werden
@@ -2893,6 +2900,8 @@ markiert
 mehreren
 mylk
 mittig
+macht
+mitgezählt
 durchgeführt
 dem
 den
@@ -3158,6 +3167,7 @@ dark
 dargestellten
 desto
 diagonal
+digital
 Abhängigkeit
 Aufgaben
 Achsen
@@ -3879,6 +3889,8 @@ gewürfelt
 geworfen
 generalisierten
 gefragt
+großen
+gedreht
 sodass
 sind
 so
@@ -4225,6 +4237,8 @@ script
 started
 settings
 stufigen
+stichprobenartig
+setzen
 neben
 nach
 nun
@@ -4432,6 +4446,7 @@ nqo
 nQo
 nSF
 niedrigen
+nächst
 Klammern
 Kettenregel
 Kriterium
@@ -4639,6 +4654,7 @@ KuT
 Komplement
 Kompliment
 Kette
+Klammerinhalt
 Variable
 Veränderung
 Veränderungsrate
@@ -4855,6 +4871,7 @@ Varianz
 Verteilung
 Verkettung
 Vereint
+Verlust
 Platzhalter
 Punkte
 Punkt
@@ -5071,6 +5088,7 @@ Pvp
 Permutationen
 Per
 Pfadregel
+Person
 Zahl
 Zwei
 Zeitraum
@@ -5265,6 +5283,7 @@ Zugehörigkeit
 Ziehen
 Zufallsgröße
 Zufallsexperimente
+Zusammenhängigkeit
 annehmen
 aufzeichnet
 ausgerechnet
@@ -5604,6 +5623,8 @@ anzugeben
 anwenden
 ausdrücken
 ausdrückt
+annähernd
+aktuelle
 kann
 können
 kleines
@@ -5824,6 +5845,9 @@ kuH
 kRV
 kws
 komplementären
+kürzere
+kurze
+keiner
 Hier
 Hierbei
 Hierfür
@@ -6008,6 +6032,7 @@ HkHZ
 Hilfsfunktion
 Hergeleitet
 Hiermit
+Hose
 usw
 und
 untersucht
@@ -6869,6 +6894,7 @@ hbhFMx
 heh
 hintereinander
 händisch
+hoch
 Sei
 Stellen
 Sie
@@ -7135,6 +7161,10 @@ Streuverhalten
 Standartabweichung
 Stufe
 Stufen
+Schülern
+Schüler
+Spiel
+Spielversuchen
 jede
 jedes
 jeden
@@ -7566,6 +7596,8 @@ rechte
 roten
 rote
 risikounfreundlicher
+runden
+restlichen
 Tut
 Termumformung
 Tiefpunkt
@@ -8182,6 +8214,12 @@ Gebildet
 Gamma
 GTR
 Gewinn
+Gewinns
+Generalisiertes
+Glücksrad
+Gewinne
+Gewinnbetrag
+Gaußklammer
 Um
 Unendlichen
 Ursprung
@@ -8368,6 +8406,7 @@ UBd
 UcUz
 Urne
 Ungeordnetes
+Unter
 Wenn
 Wert
 Wichtig
@@ -10032,6 +10071,7 @@ treffenden
 tags
 transparent
 targetView
+tragen
 yW
 yT
 yN

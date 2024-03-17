@@ -1,4 +1,4 @@
-Für Stochastische Vorgänge, in welchen aus einer [[Menge(en)]] etwas gezogen wird, ohne dass sich im Ende die Menge verändert, so spricht man von einem Ziehen ohne zurücklegen/ohne Wiederholung. Ist die Reihenfolge hierbei unwichtig, so spricht man von einem ungeordnetem Ziehen.
+Für stochastische Vorgänge, in welchen aus einer [[Menge(en)]] etwas gezogen wird, ohne dass sich im Ende die Menge verändert, so spricht man von einem Ziehen ohne zurücklegen/ohne Wiederholung. Ist die Reihenfolge hierbei unwichtig, so spricht man von einem ungeordnetem Ziehen.
 Dies wird mit dem folgendem **Binomialkoeffizienten** beschrieben:
 
 >$n$ Elemente auf $k$ Stellen ohne Reihenfolge gibt es $\begin{pmatrix}n\\k\end{pmatrix}=\frac{n!}{\left(n-k\right)!\cdot k!}$ Möglichkeiten, wie diese auftreten können. Auf einem GTR ist dies durch $\textbf{nCr}$ abrufbar ($n~\textbf{nCr}~k$).
