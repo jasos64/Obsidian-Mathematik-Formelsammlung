@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Allgemeines/Zahlen/Runden.md",
+                "file": "Stochastik/Allgemein/Binomialverteilung.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -115,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Allgemeines/Zahlen/Runden.md",
+                "file": "Stochastik/Allgemein/Binomialverteilung.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Allgemeines/Zahlen/Runden.md",
+                "file": "Stochastik/Allgemein/Binomialverteilung.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Allgemeines/Zahlen/Runden.md"
+                "file": "Stochastik/Allgemein/Binomialverteilung.md"
               }
             }
           },
@@ -189,7 +189,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Allgemeines/Zahlen/Runden.md",
+                "file": "Stochastik/Allgemein/Binomialverteilung.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -243,6 +243,10 @@
   },
   "active": "755ed5c40f671c65",
   "lastOpenFiles": [
+    "Stochastik/Allgemein/Ereignis(se).md",
+    "Stochastik/Allgemein/Binomialverteilung.md",
+    "Geo.md",
+    "Allgemeines/Zahlen/Runden.md",
     "Stochastik/Allgemein/Zufallsgröße/Wahrscheinlichkeitsverteilung.md",
     "Stochastik/Allgemein/Zählstrategien/Ungeordnetes ziehen ohne zurücklegen (Binomialkoeffizient).md",
     "Analysis/Nullstellen/pq-Formel und Mitternachtsformel.md",
@@ -253,10 +257,7 @@
     "Stochastik/Allgemein/Zufallsgröße/Erwartungswert.md",
     "Stochastik/Allgemein/Laplace-Wahrscheinlichkeiten.md",
     "Stochastik/Allgemein/Ergebnismenge.md",
-    "Stochastik/Allgemein/Ereignis(se).md",
-    "Allgemeines/Zahlen/Runden.md",
     "Analytische Geometrie/Vektoren/Richtungsvektor(en).md",
-    "Stochastik/Allgemein/Binomialverteilung.md",
     "Z_Spielereien/Schneiden von Kreisen und Kugeln.md",
     "Stochastik/Allgemein/Zählstrategien/Ungeordnetes ziehen mit zurücklegen (Bernoulli).md",
     "Stochastik/Allgemein/Gegenwahrscheinlichkeit(en).md",
@@ -271,7 +272,6 @@
     "Stochastik/Allgemein/Mengen/Differenzmenge.md",
     "Allgemeines/Sierpinski-Dreieck.md",
     "Probeabi Aufgabenpool/ProbeAbi Analysis.pdf",
-    "Zufallsgröße.md",
     "Stochastik/Allgemein/Zufallsgröße",
     "HowToDownload.pdf",
     "_Excalidraw_",
