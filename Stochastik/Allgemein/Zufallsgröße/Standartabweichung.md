@@ -4,3 +4,11 @@ $$
 $$
 
 ---
+### Standartabweichung bei Binomialverteilungen
+Für die Standartabweichung bei einer [[Binomialverteilung]] gilt das folgende:
+$$
+\sigma=\sqrt{n\cdot p\cdot (1-p)}
+$$
+Die Varianz ergibt sich somit als $V(X)=\sigma^{2}=n\cdot p\cdot (1-p)$
+
+---

@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "755ed5c40f671c65",
+            "id": "bc8dd7aa7cd09cdf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Stochastik/Allgemein/Binomialverteilung.md",
+                "file": "Stochastik/Allgemein/Zufallsgröße/Sigma-Umgebung.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -65,16 +65,6 @@
               "type": "bookmarks",
               "state": {}
             }
-          },
-          {
-            "id": "20b544dedb5d6302",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Probeabi Aufgabenpool/ProbeAbi Analysis.pdf"
-              }
-            }
           }
         ]
       }
@@ -115,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Stochastik/Allgemein/Binomialverteilung.md",
+                "file": "Stochastik/Allgemein/Zufallsgröße/Sigma-Umgebung.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Stochastik/Allgemein/Binomialverteilung.md",
+                "file": "Stochastik/Allgemein/Zufallsgröße/Sigma-Umgebung.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Stochastik/Allgemein/Binomialverteilung.md"
+                "file": "Stochastik/Allgemein/Zufallsgröße/Sigma-Umgebung.md"
               }
             }
           },
@@ -189,7 +179,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Stochastik/Allgemein/Binomialverteilung.md",
+                "file": "Stochastik/Allgemein/Zufallsgröße/Sigma-Umgebung.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -241,39 +231,39 @@
       "3d-graph:3D Graph": false
     }
   },
-  "active": "755ed5c40f671c65",
+  "active": "bc8dd7aa7cd09cdf",
   "lastOpenFiles": [
-    "Stochastik/Allgemein/Ereignis(se).md",
-    "Stochastik/Allgemein/Binomialverteilung.md",
-    "Geo.md",
     "Allgemeines/Zahlen/Runden.md",
-    "Stochastik/Allgemein/Zufallsgröße/Wahrscheinlichkeitsverteilung.md",
-    "Stochastik/Allgemein/Zählstrategien/Ungeordnetes ziehen ohne zurücklegen (Binomialkoeffizient).md",
-    "Analysis/Nullstellen/pq-Formel und Mitternachtsformel.md",
-    "Analysis/Nullstellen/Polynomdivision.md",
-    "Analysis/Nullstellen/Satz vom Nullprodukt.md",
+    "Stochastik/Allgemein/Zufallsgröße/Sigma-Umgebung.md",
     "Stochastik/Allgemein/Zufallsgröße/Standartabweichung.md",
-    "Stochastik/Allgemein/Zufallsgröße/Varianz.md",
+    "Stochastik/Allgemein/Zufallsgröße/Wahrscheinlichkeitsverteilung.md",
     "Stochastik/Allgemein/Zufallsgröße/Erwartungswert.md",
-    "Stochastik/Allgemein/Laplace-Wahrscheinlichkeiten.md",
-    "Stochastik/Allgemein/Ergebnismenge.md",
-    "Analytische Geometrie/Vektoren/Richtungsvektor(en).md",
-    "Z_Spielereien/Schneiden von Kreisen und Kugeln.md",
+    "Stochastik/Allgemein/Binomialverteilung.md",
+    "5b7c2ac95b24e79bbac75fe6141c23b48200a824.svg",
+    "Stochastik/Allgemein/Zählstrategien/Geordnetes ziehen ohne zurücklegen.md",
     "Stochastik/Allgemein/Zählstrategien/Ungeordnetes ziehen mit zurücklegen (Bernoulli).md",
-    "Stochastik/Allgemein/Gegenwahrscheinlichkeit(en).md",
+    "Stochastik/Allgemein/Zählstrategien/Ungeordnetes ziehen ohne zurücklegen (Binomialkoeffizient).md",
     "Stochastik/Allgemein/Zählstrategien/Geordnetes ziehen mit zurücklegen.md",
+    "Stochastik/Allgemein/Mengen/Differenzmenge.md",
+    "Probeabi Aufgabenpool/2023 P-A.md",
+    "README.md",
+    "Untitled.md",
+    "LICENSE.md",
+    "HowToDownload.pdf",
+    "CODE_OF_CONDUCT.md",
+    "Probeabi Aufgabenpool/ProbeAbi Analysis.pdf",
+    "Stochastik/Allgemein/Gegenereignis.md",
+    "Z_Spielereien/Schneiden von Kreisen und Kugeln.md",
+    "Stochastik/Allgemein/Zufallsgröße/Varianz.md",
+    "Stochastik/Allgemein/Laplace-Wahrscheinlichkeiten.md",
+    "Stochastik/Allgemein/Gegenwahrscheinlichkeit(en).md",
+    "Stochastik/Allgemein/Ereignis(se).md",
+    "Stochastik/Allgemein/Ergebnismenge.md",
+    "Z_Kleiner Aufgabenpool für unsortierte Aufgaben/Äquivalenzumformungen mit linearen Funktionen zum anwenden.md",
+    "Geo.md",
     "Z_Spielereien/Pasted image 20240103145623.png",
     "Z_Spielereien/desmos-graph.svg",
-    "Stochastik/Allgemein/Zählstrategien/Geordnetes ziehen ohne zurücklegen.md",
-    "Stochastik/Allgemein/Mengen/Vereinigungsmenge.md",
-    "Stochastik/Allgemein/Mengen/Schnittmenge.md",
-    "Stochastik/Allgemein/Mengen/Menge(en).md",
-    "Stochastik/Allgemein/Mengen/Komplement einer Menge.md",
-    "Stochastik/Allgemein/Mengen/Differenzmenge.md",
-    "Allgemeines/Sierpinski-Dreieck.md",
-    "Probeabi Aufgabenpool/ProbeAbi Analysis.pdf",
     "Stochastik/Allgemein/Zufallsgröße",
-    "HowToDownload.pdf",
     "_Excalidraw_",
     "2bbabc77f17920c2ff060582a9a7d77b4c43b32a.svg",
     "Stochastik/Allgemein/Zählstrategien/Stichproben",

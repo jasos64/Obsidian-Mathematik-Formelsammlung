@@ -6,7 +6,7 @@ Per Definition des Binomialkoeffizienten ([[Ungeordnetes ziehen ohne zurücklege
 $$
 \begin{align}
 	\textbf{nPr}&=\begin{pmatrix}n\\k\end{pmatrix}\cdot k!
-	\Leftrightarrow\textbf{nCr}\cdot k!\\
+	=\textbf{nCr}\cdot k!\\
 	\frac{n!}{\left(n-k\right)!}&=\frac{n!}{\left(n-k\right)!\cdot \textcolor{red}{k!}}\cdot \textcolor{red}{k!}\\
 	\frac{n!}{\left(n-k\right)!}&=\frac{n!}{\left(n-k\right)!}
 \end{align}

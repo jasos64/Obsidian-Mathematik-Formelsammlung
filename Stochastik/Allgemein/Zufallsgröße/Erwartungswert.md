@@ -57,3 +57,7 @@ $$
 Folglich muss der Verlust für $w$ bei $10\texteuro$ sein, da hier der Erwartungswert $0$ ist.
 
 ---
+### $\mu$ für Binomialverteilungen
+Der Erwartungswert einer Binomialverteilung befindet sich an der Stelle $\mu=n\cdot p$, wobei $n$ die Stichprobenanzahl, und $p$ die Wahrscheinlichkeit eines Treffers beschreiben.
+
+---
