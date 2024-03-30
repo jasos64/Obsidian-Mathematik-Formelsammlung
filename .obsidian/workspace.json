@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "f927bcab400cd9b7",
+        "id": "2b3772768122b3c7",
         "type": "tabs",
         "children": [
           {
-            "id": "bc8dd7aa7cd09cdf",
+            "id": "20eebc54d805654b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Stochastik/Allgemein/Zufallsgröße/Sigma-Umgebung.md",
+                "file": "Z_Exklusiv zur Formelsammlung/Seite 159, 11).md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Stochastik/Allgemein/Zufallsgröße/Sigma-Umgebung.md",
+                "file": "Z_Exklusiv zur Formelsammlung/Seite 159, 11).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Stochastik/Allgemein/Zufallsgröße/Sigma-Umgebung.md",
+                "file": "Z_Exklusiv zur Formelsammlung/Seite 159, 11).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Stochastik/Allgemein/Zufallsgröße/Sigma-Umgebung.md"
+                "file": "Z_Exklusiv zur Formelsammlung/Seite 159, 11).md"
               }
             }
           },
@@ -179,7 +179,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Stochastik/Allgemein/Zufallsgröße/Sigma-Umgebung.md",
+                "file": "Z_Exklusiv zur Formelsammlung/Seite 159, 11).md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -231,47 +231,47 @@
       "3d-graph:3D Graph": false
     }
   },
-  "active": "bc8dd7aa7cd09cdf",
+  "active": "20eebc54d805654b",
   "lastOpenFiles": [
-    "Allgemeines/Zahlen/Runden.md",
-    "Stochastik/Allgemein/Zufallsgröße/Sigma-Umgebung.md",
-    "Stochastik/Allgemein/Zufallsgröße/Standartabweichung.md",
-    "Stochastik/Allgemein/Zufallsgröße/Wahrscheinlichkeitsverteilung.md",
-    "Stochastik/Allgemein/Zufallsgröße/Erwartungswert.md",
-    "Stochastik/Allgemein/Binomialverteilung.md",
-    "5b7c2ac95b24e79bbac75fe6141c23b48200a824.svg",
-    "Stochastik/Allgemein/Zählstrategien/Geordnetes ziehen ohne zurücklegen.md",
-    "Stochastik/Allgemein/Zählstrategien/Ungeordnetes ziehen mit zurücklegen (Bernoulli).md",
-    "Stochastik/Allgemein/Zählstrategien/Ungeordnetes ziehen ohne zurücklegen (Binomialkoeffizient).md",
-    "Stochastik/Allgemein/Zählstrategien/Geordnetes ziehen mit zurücklegen.md",
-    "Stochastik/Allgemein/Mengen/Differenzmenge.md",
-    "Probeabi Aufgabenpool/2023 P-A.md",
-    "README.md",
-    "Untitled.md",
+    "Seite 159, 11).pdf",
+    "Z_Exklusiv zur Formelsammlung/Seite 159, 11).md",
+    "Analysis/Kurvendiskussion/Achsensymmetrie.md",
+    "Analysis/Kurvendiskussion/Wendestellen-Wendepunkte.md",
     "LICENSE.md",
+    "Z_Exklusiv zur Formelsammlung/tex2pdf.-04799eaa86122567/input.log",
+    "Z_Exklusiv zur Formelsammlung/tex2pdf.-04799eaa86122567/input.tex",
+    "Z_Exklusiv zur Formelsammlung/tex2pdf.-04799eaa86122567",
+    "Z_Exklusiv zur Formelsammlung/tex2pdf.-a1130694010320a8/input.log",
+    "Z_Exklusiv zur Formelsammlung/tex2pdf.-a1130694010320a8/input.tex",
+    "Z_Exklusiv zur Formelsammlung/tex2pdf.-a1130694010320a8",
+    "Stochastik/Allgemein/Binomialverteilung.md",
+    "Z_Exklusiv zur Formelsammlung/Schneiden von Kreisen und Kugeln.md",
+    "Analytische Geometrie/Vektoren/Stützvektor.md",
+    "Analytische Geometrie/Vektoren/Richtungsvektor(en).md",
+    "Analytische Geometrie/Vektoren/Normiert.md",
+    "Analytische Geometrie/Vektoren/Normalenvektor.md",
+    "Analytische Geometrie/Geraden/Schnittpunkt von zwei Geraden.md",
+    "Analytische Geometrie/Geraden/Punktprobe.md",
+    "Analytische Geometrie/Geraden/Geradengleichung.md",
+    "Analytische Geometrie/Geraden/Lagebeziehungen von Geraden.md",
+    "Analytische Geometrie/Ebenen/Ebene(n).md",
+    "Analytische Geometrie/Ebenen/Koordinatenform einer Ebene.md",
+    "Analytische Geometrie/Ebenen/Normalenform einer Ebene.md",
+    "Analytische Geometrie/Ebenen/Parameterform einer Ebene.md",
+    "Analytische Geometrie/Vektoren/Kreuzprodukt.md",
+    "Analytische Geometrie/Ebenen/Hessesche Normalform.md",
+    "Analytische Geometrie/Vektoren/Winkel zwischen Vektoren.md",
+    "Analytische Geometrie/Vektoren/Verbindungsvektor(en).md",
+    "Analytische Geometrie/Vektoren/Vektor(en).md",
+    "Analytische Geometrie/Vektoren/Skalarprodukt.md",
+    "Analytische Geometrie/Vektoren/Nullvektor.md",
     "HowToDownload.pdf",
-    "CODE_OF_CONDUCT.md",
-    "Probeabi Aufgabenpool/ProbeAbi Analysis.pdf",
-    "Stochastik/Allgemein/Gegenereignis.md",
-    "Z_Spielereien/Schneiden von Kreisen und Kugeln.md",
-    "Stochastik/Allgemein/Zufallsgröße/Varianz.md",
-    "Stochastik/Allgemein/Laplace-Wahrscheinlichkeiten.md",
-    "Stochastik/Allgemein/Gegenwahrscheinlichkeit(en).md",
-    "Stochastik/Allgemein/Ereignis(se).md",
-    "Stochastik/Allgemein/Ergebnismenge.md",
-    "Z_Kleiner Aufgabenpool für unsortierte Aufgaben/Äquivalenzumformungen mit linearen Funktionen zum anwenden.md",
-    "Geo.md",
-    "Z_Spielereien/Pasted image 20240103145623.png",
-    "Z_Spielereien/desmos-graph.svg",
-    "Stochastik/Allgemein/Zufallsgröße",
-    "_Excalidraw_",
+    "Untitled.pdf",
+    "aaaaa.pdf",
+    "Z_Exklusiv zur Formelsammlung/Pasted image 20240103145623.png",
+    "5b7c2ac95b24e79bbac75fe6141c23b48200a824.svg",
+    "Z_Exklusiv zur Formelsammlung/desmos-graph.svg",
     "2bbabc77f17920c2ff060582a9a7d77b4c43b32a.svg",
-    "Stochastik/Allgemein/Zählstrategien/Stichproben",
-    "Stochastik/Allgemein/Zählstrategien/Geordnete Stichproben",
-    "Stochastik/Allgemein/Zählstrategien",
-    "Stochastik/Allgemein/Mengen",
-    "Stochastik/Allgemein",
-    "Z_Spielereien/Schneiden von Kreisen.pdf",
     "d7edfaa75620ef8825e4faecb555ebcddf6d7a8e.svg",
     "Pasted image 20240120174944.png",
     "Pasted image 20240103145623.png",

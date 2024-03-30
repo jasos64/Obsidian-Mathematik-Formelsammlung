@@ -7,4 +7,6 @@ $$\begin{align}
 	864&=2\cdot432=2\cdot2\cdot216=2\cdot2\cdot2\cdot108=\cdots=2^{5}\cdot3^{3}
 \end{align}$$
 
+Ein GTR kann einem eine Zahl in Primfaktoren aufteilen. Hierzu wird die Zahl eingegeben und (am Beispiel vom $fx-991DEX$ "*FACT*" betätigt)
+
 ---

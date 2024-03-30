@@ -5,7 +5,7 @@
     "includeName": true,
     "pageSize": "Tabloid",
     "landscape": false,
-    "margin": "0",
+    "margin": "2",
     "downscalePercent": 68
   },
   "showLineNumber": true

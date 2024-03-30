@@ -52,8 +52,10 @@
   "defaultExportDirectoryMode": "Auto",
   "openExportedFile": true,
   "env": {},
+  "showExportProgressBar": true,
   "lastExportDirectory": {
-    "linux": "/home/max/Dokumente"
+    "linux": "/home/max/Dokumente",
+    "win32": "C:\\Users\\Acer Nitro\\Documents"
   },
   "lastExportType": "Markdown"
 }

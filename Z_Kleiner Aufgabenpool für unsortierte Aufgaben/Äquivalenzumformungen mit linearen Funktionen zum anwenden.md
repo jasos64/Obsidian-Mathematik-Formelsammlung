@@ -19,4 +19,4 @@ $$\begin{align}
 
 ### c) Gibt es einen Zeitpunkt, an dem beide die gleiche Menge an Geld haben? Gebe falls möglich einen Zeitpunkt an, an dem dies eintrifft.
 
-### d) 
+### d)
