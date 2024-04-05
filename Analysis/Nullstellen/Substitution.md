@@ -1,4 +1,4 @@
-Falls eine Funktion gegeben ist, welche eine [Y-Achsensymmetrie](Achsensymmetrie ) besitzt, so kann man durch die Substitution Nullstellen finden.
+Falls eine Funktion gegeben ist, welche eine [Y-Achsensymmetrie](Symmetrie.md ) besitzt, so kann man durch die Substitution Nullstellen finden.
 
 Für $f(x)=0,5x^{4}-2x^{2}+1$ kann jedes $x$ als $x^2$ dargestellt werden.
 $$\begin{aligned}

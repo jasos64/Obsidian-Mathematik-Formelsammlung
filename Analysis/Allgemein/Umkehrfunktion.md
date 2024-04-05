@@ -48,6 +48,6 @@ y&=ln(x)\\
 Als Bedingung hierfür gilt, dass eine Funktion keine Umkehrfunktion haben kann, insofern diese für mehrere Stellen den gleichen Wert hat.
 Eine ganzrationale Funktion zweiten Grades hat keine Umkehrfunktion, da für $g(x)=x^2$ jeder verwendete Y-Wert (exklusive 0 (naja, eigentlich schon.... $-0$)) doppelt vorkommt
 
->Eine Funktion mit einer [Y-Achsen-Symmetrie](Achsensymmetrie) hat folglich **nie** eine Umkehrfunktion
+>Eine Funktion mit einer [Y-Achsen-Symmetrie](Symmetrie.md) hat folglich **nie** eine Umkehrfunktion
 
 ---
