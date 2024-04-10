@@ -10712,6 +10712,8 @@ szP
 scn
 sQG
 soV
+sans
+serif
 neben
 nach
 nun
@@ -14304,6 +14306,7 @@ arI
 asr
 aIcp
 aSB
+arial
 kann
 können
 kleines
@@ -19561,6 +19564,7 @@ rfYBnx
 rKH
 rOym
 rGZL
+rotate
 Tut
 Termumformung
 Tiefpunkt
@@ -25130,6 +25134,7 @@ phQv
 pnN
 pxJ
 ptmm
+point
 Äquivalenzumformung
 ÄI
 ÄP

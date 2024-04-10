@@ -19,8 +19,8 @@ Eine Funktion $f$ sei auf $\text{I}$ differenzierbar:
 Der Zusatz zu diesen Beschreibungen ist der folgende Ausdruck, der so erfüllt strenge Monotonie andeutet:
 $$\begin{array}{}\nexists x{_1}\in\text{I,}~f(x{_1}+\varepsilon)-f(x{_1})=0&&\boxed{\varepsilon^{2}=0,~\varepsilon\neq0}
 \end{array}$$
-Es gibt keine $x_1$ auf $\text{I}$, sodass $f$ von $x_{1}$ aus auf $x_{1}+\varepsilon$ nicht vom Wert gleich ist. $f$ ist also an jeder Stelle steigend, obwohl $f'(x)=0$ sein kann, diese Steigung aber nur Punktuell vorliegt.
+Es gibt keine $x_1$ auf $\text{I}$, sodass $f(x_1+\varepsilon)$ und $f(x_1)$ nicht vom Wert gleich sind. $f$ ist also an jeder Stelle steigend, obwohl $f'(x)=0$ sein kann, diese Steigung aber nur Punktuell vorliegt.
 
-Sattelpunkte sind folglich durch $\nexists x{_1}\in\text{I,}~f(x{_1}+\varepsilon)-f(x{_1})=0$ immer streng monoton. Für alle ganzrationalen Funktionen liegt folglich zwischen Extrema immer eine streng monotone Steigung vor, da es keine Stellen gibt, bei der $x_{1}+\varepsilon=0$ sein kann.
+Sattelpunkte sind folglich durch $\nexists x{_1}\in\text{I,}~f(x{_1}+\varepsilon)-f(x{_1})=0$ immer streng monoton. Für alle ganzrationalen Funktionen liegt folglich zwischen Extrema immer eine streng monotone Steigung vor, da es keine Stellen gibt, bei der $f(x{_1}+\varepsilon)-f(x{_1})=0$ sein kann.
 
 ---

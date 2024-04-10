@@ -11,9 +11,12 @@
             "id": "6b156f447672d5d1",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Seite 159, 11).pdf"
+                "file": "Analysis/Kurvendiskussion/Monotonieverhalten.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           }
@@ -102,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Seite 159, 11).pdf",
+                "file": "Analysis/Kurvendiskussion/Monotonieverhalten.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Seite 159, 11).pdf",
+                "file": "Analysis/Kurvendiskussion/Monotonieverhalten.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Seite 159, 11).pdf"
+                "file": "Analysis/Kurvendiskussion/Monotonieverhalten.md"
               }
             }
           },
@@ -176,7 +179,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Seite 159, 11).pdf",
+                "file": "Analysis/Kurvendiskussion/Monotonieverhalten.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -230,17 +233,21 @@
   },
   "active": "6b156f447672d5d1",
   "lastOpenFiles": [
-    "Z_Exklusiv zur Formelsammlung/Seite 159, 11).md",
-    "Z_Exklusiv zur Formelsammlung/BinomialeSymmetrien.svg",
-    "Z_Exklusiv zur Formelsammlung/BinomialeSymmetrien.svg.opdownload",
+    "Z_Kleiner Aufgabenpool für unsortierte Aufgaben/Äquivalenzumformungen mit linearen Funktionen zum anwenden.md",
+    "Z_Exklusiv zur Formelsammlung/Schneiden von Kreisen und Kugeln.md",
+    "Z_Kleiner Aufgabenpool für unsortierte Aufgaben/Binomialverteilungen.md",
     "Z_Exklusiv zur Formelsammlung/Pasted image 20240103145623.png",
+    "Z_Exklusiv zur Formelsammlung/nÜberK=nÜberN-k.md",
+    "Z_Exklusiv zur Formelsammlung/BinomialeSymmetrien.svg",
+    "README.md",
+    "Z_Exklusiv zur Formelsammlung/Seite 159, 11).pdf",
+    "leute.md",
+    "Z_Exklusiv zur Formelsammlung/Seite 159, 11).md",
+    "Z_Exklusiv zur Formelsammlung/BinomialeSymmetrien.svg.opdownload",
     "Pasted image 20240405155728.png",
     "Analytische Geometrie/LGS/Gaußsches Lösungsverfahren.md",
-    "Z_Exklusiv zur Formelsammlung/nÜberK=nÜberN-k.md",
     "Stochastik/Allgemein/Zählstrategien/Ungeordnetes ziehen ohne zurücklegen (Binomialkoeffizient).md",
     "Stochastik/Allgemein/Zählstrategien/Ungeordnetes ziehen mit zurücklegen (Bernoulli).md",
-    "Z_Exklusiv zur Formelsammlung/Schneiden von Kreisen und Kugeln.md",
-    "Seite 159, 11).pdf",
     "Analysis/Kurvendiskussion/Symmetrie.md",
     "Z_Exklusiv zur Formelsammlung/Geradensymmetrie.md",
     "Z_Exklusiv zur Formelsammlung/desmos-graph.svg",
@@ -264,9 +271,6 @@
     "Analytische Geometrie/Geraden/Geradengleichung.md",
     "Analytische Geometrie/Geraden/Lagebeziehungen von Geraden.md",
     "Analytische Geometrie/Ebenen/Ebene(n).md",
-    "Analytische Geometrie/Ebenen/Koordinatenform einer Ebene.md",
-    "Analytische Geometrie/Ebenen/Normalenform einer Ebene.md",
-    "Analytische Geometrie/Ebenen/Parameterform einer Ebene.md",
     "HowToDownload.pdf",
     "Untitled.pdf",
     "5b7c2ac95b24e79bbac75fe6141c23b48200a824.svg",
