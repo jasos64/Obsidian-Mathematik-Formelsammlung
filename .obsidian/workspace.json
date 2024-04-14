@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Analysis/Kurvendiskussion/Monotonieverhalten.md",
+                "file": "Allgemeines/Zahlen/Teilbarkeit/Quersumme.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Analysis/Kurvendiskussion/Monotonieverhalten.md",
+                "file": "Allgemeines/Zahlen/Teilbarkeit/Quersumme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Analysis/Kurvendiskussion/Monotonieverhalten.md",
+                "file": "Allgemeines/Zahlen/Teilbarkeit/Quersumme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Analysis/Kurvendiskussion/Monotonieverhalten.md"
+                "file": "Allgemeines/Zahlen/Teilbarkeit/Quersumme.md"
               }
             }
           },
@@ -179,7 +179,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Analysis/Kurvendiskussion/Monotonieverhalten.md",
+                "file": "Allgemeines/Zahlen/Teilbarkeit/Quersumme.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -233,27 +233,36 @@
   },
   "active": "6b156f447672d5d1",
   "lastOpenFiles": [
+    "Allgemeines/Sierpinski-Dreieck.md",
+    "Allgemeines/Zahlen/Teilbarkeit/Quersumme.md",
+    "Z_Exklusiv zur Formelsammlung/Binomialsymmetrien/Seite 159, 11).md",
+    "Z_Exklusiv zur Formelsammlung/Binomialsymmetrien/Geradensymmetrie.md",
+    "Z_Exklusiv zur Formelsammlung/Schneiden von Kreisen und Kugeln/Schneiden von Kreisen und Kugeln.md",
+    "Z_Exklusiv zur Formelsammlung/Schneiden von Kreisen und Kugeln",
+    "Z_Exklusiv zur Formelsammlung/Schneiden von Kreisen und Kugeln/Pasted image 20240103145623.png",
+    "Z_Exklusiv zur Formelsammlung/Schneiden von Kreisen und Kugeln/desmos-graph.svg",
+    "Z_Exklusiv zur Formelsammlung/Binomialsymmetrien",
+    "Z_Exklusiv zur Formelsammlung/Binomialsymmetrien/Seite 159, 11).pdf",
+    "Z_Exklusiv zur Formelsammlung/Binomialsymmetrien/nÜberK=nÜberN-k.md",
+    "Stochastik/Allgemein/Laplace-Wahrscheinlichkeiten.md",
+    "Stochastik/Allgemein/Gegenereignis.md",
+    "Stochastik/Allgemein/Ereignis(se).md",
+    "Stochastik/Allgemein/Zählstrategien/Ungeordnetes ziehen mit zurücklegen (Bernoulli).md",
+    "Stochastik/Allgemein/Zählstrategien/Ungeordnetes ziehen ohne zurücklegen (Binomialkoeffizient).md",
+    "Stochastik/Allgemein/Zählstrategien/Geordnetes ziehen mit zurücklegen.md",
+    "Stochastik/Allgemein/Zählstrategien/Geordnetes ziehen ohne zurücklegen.md",
+    "Analysis/Kurvendiskussion/Monotonieverhalten.md",
     "Z_Kleiner Aufgabenpool für unsortierte Aufgaben/Äquivalenzumformungen mit linearen Funktionen zum anwenden.md",
-    "Z_Exklusiv zur Formelsammlung/Schneiden von Kreisen und Kugeln.md",
     "Z_Kleiner Aufgabenpool für unsortierte Aufgaben/Binomialverteilungen.md",
-    "Z_Exklusiv zur Formelsammlung/Pasted image 20240103145623.png",
-    "Z_Exklusiv zur Formelsammlung/nÜberK=nÜberN-k.md",
-    "Z_Exklusiv zur Formelsammlung/BinomialeSymmetrien.svg",
+    "Z_Exklusiv zur Formelsammlung/Binomialsymmetrien/BinomialeSymmetrien.svg",
     "README.md",
-    "Z_Exklusiv zur Formelsammlung/Seite 159, 11).pdf",
     "leute.md",
-    "Z_Exklusiv zur Formelsammlung/Seite 159, 11).md",
     "Z_Exklusiv zur Formelsammlung/BinomialeSymmetrien.svg.opdownload",
     "Pasted image 20240405155728.png",
     "Analytische Geometrie/LGS/Gaußsches Lösungsverfahren.md",
-    "Stochastik/Allgemein/Zählstrategien/Ungeordnetes ziehen ohne zurücklegen (Binomialkoeffizient).md",
-    "Stochastik/Allgemein/Zählstrategien/Ungeordnetes ziehen mit zurücklegen (Bernoulli).md",
     "Analysis/Kurvendiskussion/Symmetrie.md",
-    "Z_Exklusiv zur Formelsammlung/Geradensymmetrie.md",
-    "Z_Exklusiv zur Formelsammlung/desmos-graph.svg",
     "Analysis/Kurvendiskussion/Y-Achsen-Abschnitt.md",
     "Analysis/Kurvendiskussion/Wendestellen-Wendepunkte.md",
-    "Analysis/Kurvendiskussion/Monotonieverhalten.md",
     "LICENSE.md",
     "Z_Exklusiv zur Formelsammlung/tex2pdf.-04799eaa86122567/input.log",
     "Z_Exklusiv zur Formelsammlung/tex2pdf.-04799eaa86122567/input.tex",
@@ -264,15 +273,6 @@
     "Stochastik/Allgemein/Binomialverteilung.md",
     "Analytische Geometrie/Vektoren/Stützvektor.md",
     "Analytische Geometrie/Vektoren/Richtungsvektor(en).md",
-    "Analytische Geometrie/Vektoren/Normiert.md",
-    "Analytische Geometrie/Vektoren/Normalenvektor.md",
-    "Analytische Geometrie/Geraden/Schnittpunkt von zwei Geraden.md",
-    "Analytische Geometrie/Geraden/Punktprobe.md",
-    "Analytische Geometrie/Geraden/Geradengleichung.md",
-    "Analytische Geometrie/Geraden/Lagebeziehungen von Geraden.md",
-    "Analytische Geometrie/Ebenen/Ebene(n).md",
-    "HowToDownload.pdf",
-    "Untitled.pdf",
     "5b7c2ac95b24e79bbac75fe6141c23b48200a824.svg",
     "2bbabc77f17920c2ff060582a9a7d77b4c43b32a.svg",
     "d7edfaa75620ef8825e4faecb555ebcddf6d7a8e.svg",

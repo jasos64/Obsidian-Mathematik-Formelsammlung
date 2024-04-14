@@ -15,7 +15,9 @@ $$
 \end{align}
 $$
 $k$ Elemente werden durch $p$ gezogen, übrig bleiben hier die $n-k$ weiteren Elemente, welche durch $q$ gezogen werden müssen.
-Dazu zu bedenken ist zusätzlich die Anzahl an Permutationen, welche durch das Ziehen auftreten. Verwendet wird hier der Binomialkoeffizient ([[Ungeordnetes ziehen ohne zurücklegen (Binomialkoeffizient)]]), welcher dies unter $n$-Stellen mit $k$-Elementen ausdrückt. Vereint ist dies die Formel zu der Binomialverteilung als Ergebnis einer Bernoulli-Kette.
+Dazu zu bedenken ist zusätzlich die Anzahl an Permutationen, welche durch das Ziehen auftreten.
+	Durch Pfadregel ist $P(ABB)=P(BAB)=(BBA)$, wodurch die Permutationen hier als Faktor eines Pfades gesehen werden können.
+Verwendet wird hier der Binomialkoeffizient ([[Ungeordnetes ziehen ohne zurücklegen (Binomialkoeffizient)]]), welcher dies unter $n$-Stellen mit $k$-Elementen ausdrückt. Vereint ist dies die Formel zu der Binomialverteilung als Ergebnis einer Bernoulli-Kette.
 $P(X=k)=\begin{pmatrix}n\\k\end{pmatrix}\cdot p^{k}\cdot q^{n-k}$, wobei $k$ die Anzahl der von $p$ entnommenen Elemente darstellt. Alternativ kann ebenfalls folgendes benutzt werden, um die Abhängigkeit von $q$ zu entfernen:
 $$
 P(X=k)=\begin{pmatrix}n\\k\end{pmatrix}\cdot p^{k}\cdot (1-p)^{n-k}
@@ -23,7 +25,7 @@ $$
 
 ---
 ### Beispiel
-Unter einer großen Menge an Schülern tragen annähernd $45\%$ eine kürzere Hose zum Frühlingsbeginn in der Schule. Wenn nun stichprobenartig $20$ dieser Schüler auf deren Hose untersucht werden, wie hoch ist die Wahrscheinlichkeit, dass genau 15 eine kurze Hose tragen?
+Unter einer großen Menge an Schülern tragen annähernd $45\%$ eine kürzere Hose zum Frühlingsbeginn in der Schule. Wenn nun stichprobenartig $20$ dieser Schüler auf deren Hosen Art untersucht werden, wie hoch ist die Wahrscheinlichkeit, dass genau 15 dieser eine kurze Hose tragen?
 $$\boxed{
 \begin{align}
 	X&:\text{"Schüler trägt kurze Hose"}\\
