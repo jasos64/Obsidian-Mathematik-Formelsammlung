@@ -1,2 +1,2 @@
 Dieser [[Vektor(en)]] ist der Name eines [[Normalenvektor]], der [[Normiert]] wurde. Der *Betrag* dieses Vektors ist somit $=1$. ([[Länge von Vektoren]]).
->Normaleneinheitsvektoren werden mit $\vec{v}_0$ ausgedrückt
+>Normaleneinheitsvektoren werden mit $\vec{n}_0$ ausgedrückt

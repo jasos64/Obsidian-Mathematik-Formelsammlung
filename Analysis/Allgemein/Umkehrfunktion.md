@@ -1,4 +1,4 @@
-Eine Umkehrfunktion ist eine [[Funktion(en)]], welche von einer Funktion Achsenvertauscht ist.
+Eine Umkehrfunktion ist eine [[Funktion(en)]], welche zu der Gerade $g(x)=x$ symmetrisch ist.
 Sei $f(x)=x^3$, so ist die Umkehrfunktion von $f$
 $\bar{f}(x)=\sqrt[3]{x}$.
 

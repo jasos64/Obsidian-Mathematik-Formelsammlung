@@ -9,3 +9,6 @@ Sie wird auf drei *Spurpunkten* aufgestellt.
 
 ---
 ![[Koordinatenform einer Ebene]]
+
+---
+![[Hessesche Normalform einer Ebene]]

@@ -13,14 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Allgemeines/Zahlen/Teilbarkeit/Quersumme.md",
+                "file": "Z_Exklusiv zur Formelsammlung/Schneiden von Kreisen und Kugeln/Schneiden von Kreisen und Kugeln.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7e0e8f980ddb374c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Analytische Geometrie/Abstände/Punkt Ebene.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -105,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Allgemeines/Zahlen/Teilbarkeit/Quersumme.md",
+                "file": "Analytische Geometrie/Abstände/Punkt Ebene.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Allgemeines/Zahlen/Teilbarkeit/Quersumme.md",
+                "file": "Analytische Geometrie/Abstände/Punkt Ebene.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Allgemeines/Zahlen/Teilbarkeit/Quersumme.md"
+                "file": "Analytische Geometrie/Abstände/Punkt Ebene.md"
               }
             }
           },
@@ -179,7 +193,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Allgemeines/Zahlen/Teilbarkeit/Quersumme.md",
+                "file": "Analytische Geometrie/Abstände/Punkt Ebene.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -231,48 +245,48 @@
       "3d-graph:3D Graph": false
     }
   },
-  "active": "6b156f447672d5d1",
+  "active": "7e0e8f980ddb374c",
   "lastOpenFiles": [
-    "Allgemeines/Sierpinski-Dreieck.md",
-    "Allgemeines/Zahlen/Teilbarkeit/Quersumme.md",
-    "Z_Exklusiv zur Formelsammlung/Binomialsymmetrien/Seite 159, 11).md",
-    "Z_Exklusiv zur Formelsammlung/Binomialsymmetrien/Geradensymmetrie.md",
-    "Z_Exklusiv zur Formelsammlung/Schneiden von Kreisen und Kugeln/Schneiden von Kreisen und Kugeln.md",
-    "Z_Exklusiv zur Formelsammlung/Schneiden von Kreisen und Kugeln",
-    "Z_Exklusiv zur Formelsammlung/Schneiden von Kreisen und Kugeln/Pasted image 20240103145623.png",
-    "Z_Exklusiv zur Formelsammlung/Schneiden von Kreisen und Kugeln/desmos-graph.svg",
-    "Z_Exklusiv zur Formelsammlung/Binomialsymmetrien",
-    "Z_Exklusiv zur Formelsammlung/Binomialsymmetrien/Seite 159, 11).pdf",
-    "Z_Exklusiv zur Formelsammlung/Binomialsymmetrien/nÜberK=nÜberN-k.md",
-    "Stochastik/Allgemein/Laplace-Wahrscheinlichkeiten.md",
-    "Stochastik/Allgemein/Gegenereignis.md",
-    "Stochastik/Allgemein/Ereignis(se).md",
-    "Stochastik/Allgemein/Zählstrategien/Ungeordnetes ziehen mit zurücklegen (Bernoulli).md",
-    "Stochastik/Allgemein/Zählstrategien/Ungeordnetes ziehen ohne zurücklegen (Binomialkoeffizient).md",
-    "Stochastik/Allgemein/Zählstrategien/Geordnetes ziehen mit zurücklegen.md",
-    "Stochastik/Allgemein/Zählstrategien/Geordnetes ziehen ohne zurücklegen.md",
-    "Analysis/Kurvendiskussion/Monotonieverhalten.md",
-    "Z_Kleiner Aufgabenpool für unsortierte Aufgaben/Äquivalenzumformungen mit linearen Funktionen zum anwenden.md",
-    "Z_Kleiner Aufgabenpool für unsortierte Aufgaben/Binomialverteilungen.md",
-    "Z_Exklusiv zur Formelsammlung/Binomialsymmetrien/BinomialeSymmetrien.svg",
+    "Analytische Geometrie/Abstände/Punkt Gerade.md",
+    "Analytische Geometrie/Abstände/Punkt Ebene.md",
+    "Analytische Geometrie/Abstände/Abstand.md",
+    "Analytische Geometrie/Ebenen/Ebene(n).md",
+    "Analytische Geometrie/Ebenen/Hessesche Normalform einer Ebene.md",
+    "Analytische Geometrie/Ebenen/Normalenform einer Ebene.md",
+    "Analytische Geometrie/Vektoren/Ortsvektor(en).md",
+    "Analytische Geometrie/Vektoren/Normalenvektor.md",
+    "Analytische Geometrie/Ebenen/Koordinatenform einer Ebene.md",
+    "Analytische Geometrie/Vektoren/Normaleneinheitsvektor.md",
+    "Analytische Geometrie/Vektoren/Nullvektor.md",
+    "Analytische Geometrie/Vektoren/Normiert.md",
     "README.md",
-    "leute.md",
+    "LICENSE.md",
+    "CODE_OF_CONDUCT.md",
+    "HowToDownload.pdf",
+    "Z_Exklusiv zur Formelsammlung/Binomialsymmetrien/BinomialeSymmetrien.svg",
+    "Z_Exklusiv zur Formelsammlung/Binomialsymmetrien/Seite 159, 11).pdf",
+    "Z_Exklusiv zur Formelsammlung/Binomialsymmetrien/Seite 159, 11).md",
+    "Analytische Geometrie/LGS/LGS Darstellungen.md",
+    "Analytische Geometrie/LGS/LGS.md",
+    "Analytische Geometrie/LGS/Gaußsches Lösungsverfahren.md",
+    "Analytische Geometrie/Vektoren/Skalarprodukt.md",
+    "Analytische Geometrie/Abstände",
+    "Analytische Geometrie/Abstände.md",
+    "Z_Exklusiv zur Formelsammlung/Binomialsymmetrien/Seite 158 Nr. 1).md",
+    "Z_Exklusiv zur Formelsammlung/Binomialsymmetrien/S. 69 1.b).md",
+    "Z_Exklusiv zur Formelsammlung/Binomialsymmetrien/nÜberK=nÜberN-k.md",
+    "Z_Exklusiv zur Formelsammlung/Binomialsymmetrien/Geradensymmetrie.md",
+    "Z_Exklusiv zur Formelsammlung/Binomialsymmetrien/S. 69 1.b).pdf",
+    "Probeabi Aufgabenpool/2023 P-A.md",
+    "Z_Exklusiv zur Formelsammlung/Schneiden von Kreisen und Kugeln/desmos-graph.svg",
+    "Z_Exklusiv zur Formelsammlung/Schneiden von Kreisen und Kugeln/Pasted image 20240103145623.png",
+    "Z_Exklusiv zur Formelsammlung/Binomialsymmetrien/Seite 158 Nr. 1).pdf",
+    "Z_Exklusiv zur Formelsammlung/Schneiden von Kreisen und Kugeln",
+    "Z_Exklusiv zur Formelsammlung/Binomialsymmetrien",
     "Z_Exklusiv zur Formelsammlung/BinomialeSymmetrien.svg.opdownload",
     "Pasted image 20240405155728.png",
-    "Analytische Geometrie/LGS/Gaußsches Lösungsverfahren.md",
-    "Analysis/Kurvendiskussion/Symmetrie.md",
-    "Analysis/Kurvendiskussion/Y-Achsen-Abschnitt.md",
-    "Analysis/Kurvendiskussion/Wendestellen-Wendepunkte.md",
-    "LICENSE.md",
     "Z_Exklusiv zur Formelsammlung/tex2pdf.-04799eaa86122567/input.log",
     "Z_Exklusiv zur Formelsammlung/tex2pdf.-04799eaa86122567/input.tex",
-    "Z_Exklusiv zur Formelsammlung/tex2pdf.-04799eaa86122567",
-    "Z_Exklusiv zur Formelsammlung/tex2pdf.-a1130694010320a8/input.log",
-    "Z_Exklusiv zur Formelsammlung/tex2pdf.-a1130694010320a8/input.tex",
-    "Z_Exklusiv zur Formelsammlung/tex2pdf.-a1130694010320a8",
-    "Stochastik/Allgemein/Binomialverteilung.md",
-    "Analytische Geometrie/Vektoren/Stützvektor.md",
-    "Analytische Geometrie/Vektoren/Richtungsvektor(en).md",
     "5b7c2ac95b24e79bbac75fe6141c23b48200a824.svg",
     "2bbabc77f17920c2ff060582a9a7d77b4c43b32a.svg",
     "d7edfaa75620ef8825e4faecb555ebcddf6d7a8e.svg",

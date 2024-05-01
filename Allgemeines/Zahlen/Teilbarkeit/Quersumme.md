@@ -1,4 +1,5 @@
-Die Quersumme $z_g$ einer Zahl $z$ in $\mathbb{N}_0$ ist die Summe jeder einzelnen Ziffer. Stellt $k$ hier die Stelle als $10^n$, und $n$ die Lenge der Zahl dar:
+Die Quersumme $z_g$ einer Zahl $z$ gehörig dem Set $\mathbb{N}_0$ ist die Summe jeder einzelnen Ziffer dieser.
+Stellt $k$ hier die $k$-te Stelle von $z$, und $n$ die Länge der Zahl dar, so gilt für die Quersumme:
 $$
 \begin{align}
 	z_g=\sum^{n}_{k=0}z_k\cdot10
