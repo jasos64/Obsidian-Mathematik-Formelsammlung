@@ -1,0 +1,278 @@
+Zwei [Geraden](Geradengleichung) $g:\vec{x}$ und $h:\vec{x}$ liegen windschief im Raum und werden auf [[Abstand]] überprüft.
+$$
+\begin{array}{}
+	g:\vec{x}=
+		\begin{pmatrix}
+			p_1\\p_2\\p_3
+		\end{pmatrix}
+		+\lambda\cdot
+		\begin{pmatrix}
+			v_1\\v_2\\v_3
+		\end{pmatrix}
+		&&
+	h:\vec{x}=
+		\begin{pmatrix}
+			r_1\\r_2\\r_3
+		\end{pmatrix}
+		+\mu\cdot
+		\begin{pmatrix}
+			w_1\\w_2\\w_3
+		\end{pmatrix}
+\end{array}
+$$
+$$
+\begin{array}{}
+	\overrightarrow{OP}=\begin{pmatrix}
+			p_1\\p_2\\p_3
+		\end{pmatrix}
+	&&
+	\overrightarrow{OR}=\begin{pmatrix}
+			r_1\\r_2\\r_3
+		\end{pmatrix}\\
+	&
+	\overrightarrow{PR}=\begin{pmatrix}
+			r_1-p_1\\r_2-p_2\\r_3-p_3
+		\end{pmatrix}
+\end{array}
+$$
+---
+## Beschreibung jedes Richtungsvektors
+Da beide Geraden voneinander unabhängig existieren, da sowohl $\lambda$ als auch $\mu$ als [[Variable(n)]] vorhanden sind, so sind für den [[Verbindungsvektor(en)]] diese beiden Variablen notwendig.
+Alle Punkte auf $g:\vec x$ werde ich mit $\overrightarrow{OG}$, und alle Punkte auf $h:\vec x$ werde ich mit $\overrightarrow{OH}$ benennen.
+$$
+\begin{array}{cc|cc}
+	\overrightarrow{OG}=
+		\begin{pmatrix}
+			p_1+v_1\lambda\\
+			p_2+v_2\lambda\\
+			p_3+v_3\lambda
+		\end{pmatrix}
+	&&&
+	\overrightarrow{OH}=
+		\begin{pmatrix}
+			r_1+w_1\mu\\
+			r_2+w_2\mu\\
+			r_3+w_3\mu
+		\end{pmatrix}
+\end{array}
+$$
+$$
+\begin{align}
+	\overrightarrow{GH}&=\overrightarrow{OH}-\overrightarrow{OG}\\
+	&=\begin{pmatrix}
+			r_1+w_1\mu\\
+			r_2+w_2\mu\\
+			r_3+w_3\mu
+		\end{pmatrix}
+		-
+		\begin{pmatrix}
+			p_1+v_1\lambda\\
+			p_2+v_2\lambda\\
+			p_3+v_3\lambda
+		\end{pmatrix}\\
+	&=\begin{pmatrix}
+			r_1-p_1+w_1\mu-v_1\lambda\\
+			r_2-p_2+w_2\mu-v_2\lambda\\
+			r_3-p_2+w_3\mu-v_3\lambda
+		\end{pmatrix}\\
+	&=\begin{pmatrix}
+			r_1-p_1\\
+			r_2-p_2\\
+			r_3-p_2
+		\end{pmatrix}
+		+\mu
+		\begin{pmatrix}
+			w_1\\
+			w_2\\
+			w_3
+		\end{pmatrix}
+		+\lambda
+		\begin{pmatrix}
+			-v_1\\
+			-v_2\\
+			-v_3
+		\end{pmatrix}
+\end{align}
+$$
+
+Durch $|\overrightarrow{GH}|$ ist jede Distanz zwischen den Geraden dargestellt. Die kürzeste Distanz zwischen den Geraden ist somit dann erreicht, sobald diese gebildete [Ebenengleichung](Ebene(n)) den kürzesten Abstand zum Ursprung hat.
+Diese Ebenengleichung $E\coloneqq \overrightarrow{GH}$ kann in Koordinatenform umgewandelt werden, insofern die Punkte zwischen denen die kürzeste Strecke besteht unwichtig sind.
+$$
+\begin{align}
+	E_p:\vec{x}&=
+		\begin{pmatrix}
+			r_1-p_1\\
+			r_2-p_2\\
+			r_3-p_2
+		\end{pmatrix}
+		+\mu
+		\begin{pmatrix}
+			w_1\\
+			w_2\\
+			w_3
+		\end{pmatrix}
+		+\lambda
+		\begin{pmatrix}
+			-v_1\\
+			-v_2\\
+			-v_3
+		\end{pmatrix}\\
+	\vec{n}&=
+		\begin{pmatrix}
+			w_1\\
+			w_2\\
+			w_3
+		\end{pmatrix}
+		\times
+		\begin{pmatrix}
+			-v_1\\
+			-v_2\\
+			-v_3
+		\end{pmatrix}\\
+	&=
+		\begin{pmatrix}
+			-w_2v_3+w_3v_2\\
+			-w_3v_1+w_1v_3\\
+			-w_1v_2+w_2v_1
+		\end{pmatrix}\\
+	&=
+		\begin{pmatrix}
+			w_3v_2-w_2v_3\\
+			w_1v_3-w_3v_1\\
+			w_2v_1-w_1v_2
+		\end{pmatrix}\\\\
+	E_n&:
+		\begin{pmatrix}
+			w_3v_2-w_2v_3\\
+			w_1v_3-w_3v_1\\
+			w_2v_1-w_1v_2
+		\end{pmatrix}\circ
+		\left[\overrightarrow{OX}-
+			\begin{pmatrix}
+			r_1-p_1\\
+			r_2-p_2\\
+			r_3-p_2
+		\end{pmatrix}\right]=0\\
+	E_k&:
+		\begin{pmatrix}
+			w_3v_2-w_2v_3\\
+			w_1v_3-w_3v_1\\
+			w_2v_1-w_1v_2
+		\end{pmatrix}\circ
+		\begin{pmatrix}
+			x_1\\
+			x_2\\
+			x_3
+		\end{pmatrix}=
+		\begin{pmatrix}
+			w_3v_2-w_2v_3\\
+			w_1v_3-w_3v_1\\
+			w_2v_1-w_1v_2
+		\end{pmatrix}\circ
+		\begin{pmatrix}
+			r_1-p_1\\
+			r_2-p_2\\
+			r_3-p_2
+		\end{pmatrix}
+\end{align}
+$$
+
+Alternativ kann die Ebenengleichung in der Parameterform bestehen bleiben, um mittels eines Gleichungssystems die beiden Variablen $\lambda$ und $\mu$ zu bestimmen.
+In beiden fällen wird eine Gerade aufgestellt, die senkrecht zu der Ebene ist, und den Ursprung enthält. Der Schnittpunkt der neuen Gerade und der Ebene bildet den Verbindungsvektor, dessen Länge bestimmt wird.
+
+---
+## Aufstellen der Gerade
+Eine Gerade wird aufgestellt, die senkrecht zu der Ebene ist, und den Ursprung enthält.
+$\vec{n}\perp E\Rightarrow q:\vec{x}\parallel\vec{n}$
+Somit lautet die Geradengleichung wie folgend:
+$$
+\begin{align}
+	q:\vec{x}&=\nu\cdot
+		\begin{pmatrix}
+			w_3v_2-w_2v_3\\
+			w_1v_3-w_3v_1\\
+			w_2v_1-w_1v_2
+		\end{pmatrix}
+\end{align}
+$$
+
+---
+## Schnittpunkt der Gerade und $E$
+Abhängig welche Form der Ebenengleichung vorhanden ist, wird ein [[LGS]] aufgestellt und dieses gelöst, oder die Geradengleichung in die Ebenengleichung eingesetzt und aufgelöst.
+$$
+\begin{align}
+	\begin{pmatrix}
+		w_3v_2-w_2v_3\\
+		w_1v_3-w_3v_1\\
+		w_2v_1-w_1v_2
+		\end{pmatrix}\circ
+	\begin{pmatrix}
+		(w_3v_2-w_2v_3)\nu\\
+		(w_1v_3-w_3v_1)\nu\\
+		(w_2v_1-w_1v_2)\nu
+		\end{pmatrix}&=
+	\begin{pmatrix}
+			w_3v_2-w_2v_3\\
+			w_1v_3-w_3v_1\\
+			w_2v_1-w_1v_2
+		\end{pmatrix}\circ
+	\begin{pmatrix}
+			r_1-p_1\\
+			r_2-p_2\\
+			r_3-p_2
+		\end{pmatrix}\\
+	\cancelto{\left|\vec{n}\right|^2}{\begin{pmatrix}
+		w_3v_2-w_2v_3\\
+		w_1v_3-w_3v_1\\
+		w_2v_1-w_1v_2
+		\end{pmatrix}\circ
+	\begin{pmatrix}
+		w_3v_2-w_2v_3\\
+		w_1v_3-w_3v_1\\
+		w_2v_1-w_1v_2
+		\end{pmatrix}}\nu&=
+	\begin{pmatrix}
+		w_3v_2-w_2v_3\\
+		w_1v_3-w_3v_1\\
+		w_2v_1-w_1v_2
+	\end{pmatrix}\circ
+	\begin{pmatrix}
+		r_1-p_1\\
+		r_2-p_2\\
+		r_3-p_2
+	\end{pmatrix}\\
+	\left|\vec{n}\right|^2\cdot \nu&=\vec{n}\circ\overrightarrow{PR}\\
+	\nu&=\frac{\vec{n}\circ\overrightarrow{PR}}{\left|\vec{n}\right|^2}
+\end{align}
+$$
+
+Der erhaltene Wert $\nu$ ergibt in $q:\vec{x}$ den Ortsvektor, dessen Länge den Abstand bildet.
+$$
+\begin{align}
+	q:\vec{x}&=\nu\cdot
+		\begin{pmatrix}
+			w_3v_2-w_2v_3\\
+			w_1v_3-w_3v_1\\
+			w_2v_1-w_1v_2
+		\end{pmatrix}\\
+	\overrightarrow{OS}&=\frac{\vec{n}\circ\overrightarrow{PR}}
+		{\left|\vec{n}\right|^2}\cdot
+		\cancelto{\vec{n}}{\begin{pmatrix}
+			w_3v_2-w_2v_3\\
+			w_1v_3-w_3v_1\\
+			w_2v_1-w_1v_2
+		\end{pmatrix}}\\
+	&=\frac{\vec{n}\circ\overrightarrow{PR}}
+		{\left|\vec{n}\right|^2}\cdot\vec{n}\\
+	&=\boxed{\frac{\vec{n}\circ\overrightarrow{PR}}
+		{\left|\vec{n}\right|}\cdot\vec{n_0}}\\
+	\left|\overrightarrow{OS}\right|&=
+		\left|\frac{\vec{n}\circ\overrightarrow{PR}}
+		{\left|\vec{n}\right|}\right|\\
+	d&=\frac{\left|\vec{n}\circ\left(\overrightarrow{OR}-\overrightarrow{OP}\right)\right|}
+		{\left|\vec{n}\right|}
+\end{align}
+$$
+
+---
+---

@@ -16,3 +16,16 @@ front-matter
 \vdots
 reason
 \Im
+\ohm
+\odot
+\oint
+\over
+\cal
+\cap
+\Cap
+\chi
+\cos
+\cot
+\owns
+\omega
+\csc
