@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Analytische Geometrie/Abstände/Gerade - Gerade (Windschief).md",
+                "file": "Z_Exklusiv zur Formelsammlung/Analytische Geometrie/Seite 70 Nr. 6).md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Analytische Geometrie/Abstände/Gerade - Gerade (Windschief).md",
+                "file": "Z_Exklusiv zur Formelsammlung/Analytische Geometrie/Seite 70 Nr. 6).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Analytische Geometrie/Abstände/Gerade - Gerade (Windschief).md",
+                "file": "Z_Exklusiv zur Formelsammlung/Analytische Geometrie/Seite 70 Nr. 6).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Analytische Geometrie/Abstände/Gerade - Gerade (Windschief).md"
+                "file": "Z_Exklusiv zur Formelsammlung/Analytische Geometrie/Seite 70 Nr. 6).md"
               }
             }
           },
@@ -179,7 +179,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Analytische Geometrie/Abstände/Gerade - Gerade (Windschief).md",
+                "file": "Z_Exklusiv zur Formelsammlung/Analytische Geometrie/Seite 70 Nr. 6).md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -231,20 +231,22 @@
       "3d-graph:3D Graph": false
     }
   },
-  "active": "a893b2aee20b2949",
+  "active": "f130f0e63e9028e6",
   "lastOpenFiles": [
+    "Analytische Geometrie/Abstände/Gerade - Gerade (Windschief).md",
+    "Z_Exklusiv zur Formelsammlung/Analytische Geometrie/Seite 70 Nr. 6).md",
+    "Z_Exklusiv zur Formelsammlung/Analytische Geometrie",
+    "Analytische Geometrie/Abstände/Gerade - Ebene (Parallel).md",
+    "Analytische Geometrie/Abstände/Abstand.md",
     "Analytische Geometrie/Abstände/Punkt - Ebene.md",
     "Analysis/Allgemein/Umkehrfunktion.md",
-    "Analytische Geometrie/Abstände/Gerade - Gerade (Windschief).md",
     "Analytische Geometrie/Abstände/Punkt - Gerade.md",
     "Analytische Geometrie/Ebenen/Ebene(n).md",
     "Analysis/Kurvendiskussion/Funktion(en).md",
     "Analytische Geometrie/Geraden/Geradengleichung.md",
-    "Analytische Geometrie/Abstände/Gerade - Ebene (Parallel).md",
     "Analytische Geometrie/Abstände/Gerade - Gerade (Parallel).md",
     "Analytische Geometrie/Ebenen/Hessesche Normalform einer Ebene.md",
     "Allgemeines/Zahlen/Dezimale(n).md",
-    "Analytische Geometrie/Abstände/Abstand.md",
     "Z_Exklusiv zur Formelsammlung/Schneiden von Kreisen und Kugeln/Schneiden von Kreisen und Kugeln.md",
     "Z_Exklusiv zur Formelsammlung/Binomialsymmetrien/Seite 70 Nr. 5).md",
     "Z_Exklusiv zur Formelsammlung/Binomialsymmetrien/Seite 70 Nr. 5).pdf",
@@ -261,7 +263,6 @@
     "Analytische Geometrie/Vektoren/Nullvektor.md",
     "Analytische Geometrie/Vektoren/Normiert.md",
     "README.md",
-    "LICENSE.md",
     "HowToDownload.pdf",
     "Z_Exklusiv zur Formelsammlung/Binomialsymmetrien/BinomialeSymmetrien.svg",
     "Analytische Geometrie/Abstände",
@@ -272,7 +273,6 @@
     "Z_Exklusiv zur Formelsammlung/Binomialsymmetrien",
     "Z_Exklusiv zur Formelsammlung/BinomialeSymmetrien.svg.opdownload",
     "Pasted image 20240405155728.png",
-    "Z_Exklusiv zur Formelsammlung/tex2pdf.-04799eaa86122567/input.log",
     "5b7c2ac95b24e79bbac75fe6141c23b48200a824.svg",
     "2bbabc77f17920c2ff060582a9a7d77b4c43b32a.svg",
     "d7edfaa75620ef8825e4faecb555ebcddf6d7a8e.svg",

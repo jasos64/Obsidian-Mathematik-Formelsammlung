@@ -29,3 +29,5 @@ reason
 \owns
 \omega
 \csc
+\And
+\arg
