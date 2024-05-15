@@ -45,7 +45,7 @@ $$
 ---
 ## Rechtfertigung der gegebenen Formel
 Für Volumina einer dreiseitigen Pyramide kann hier $V=\frac{1}{6}\cdot\left|\left(\overrightarrow{AB}\times\overrightarrow{AC}\right)\circ\overrightarrow{AD}\right|$ verwendet werden.
-Dies ist hergeleitet aus $V=\frac{1}{3}\cdot A_g\cdot h$, wobei $A_g=\frac{1}{2}\cdot\left|\overrightarrow{AB}\times\overrightarrow{AC}\right|$ ist. Die Höhe $h$ kann durch $\left|\frac{\left(\overrightarrow{AB}\times\overrightarrow{AC}\right)\circ\overrightarrow{AD}}{\left|\overrightarrow{AB}\times\overrightarrow{AC}\right|}\right|$ bestimmt werden. Vereint man dies nun, so erhält man die bereits gegebenen Zusammenhang:
+Dies ist hergeleitet aus $V=\frac{1}{3}\cdot A_g\cdot h$, wobei $A_g=\frac{1}{2}\cdot\left|\overrightarrow{AB}\times\overrightarrow{AC}\right|$ ist. Die Höhe $h$ kann durch $\left|\frac{\left(\overrightarrow{AB}\times\overrightarrow{AC}\right)\circ\overrightarrow{AD}}{\left|\overrightarrow{AB}\times\overrightarrow{AC}\right|}\right|$ bestimmt werden. Vereint man dies nun, so erhält man den bereits gegebenen Zusammenhang:
 $$
 \begin{align}
 	V&=\frac{1}{3}\cdot A_g\cdot h\\
