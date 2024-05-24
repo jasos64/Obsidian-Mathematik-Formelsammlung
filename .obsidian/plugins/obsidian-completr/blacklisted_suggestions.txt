@@ -31,3 +31,6 @@ reason
 \csc
 \And
 \arg
+AbC
+ABc
+aBcYd

@@ -10,7 +10,7 @@ Zum Berechnen dieses Punktes $\overrightarrow{OS}$ gibt es mindestens zwei Wege,
 
 ---
 ## Lotfußpunktverfahren mit laufendem Punkt
-Bei diesem Lösungsweg wird ein Punkt $\overrightarrow{OS}$ auf der Gerade so gewählt, dass der Verbindungsvektor zum anderen Punkt (also $\overrightarrow{RS}$ oder $\overrightarrow{SR}$) [skalarmultipliziert](Skalarprodukt) gleich $0$ ist, und somit dieser senkrecht zu der Gerade steht.
+Bei diesem Lösungsweg wird ein Punkt $\overrightarrow{OS}$ auf der Gerade so gewählt, dass der Verbindungsvektor zum anderen Punkt (also $\overrightarrow{RS}$ oder $\overrightarrow{SR}$) [skalarmultipliziert](Skalarprodukt.md) gleich $0$ ist, und somit dieser senkrecht zu der Gerade steht.
 Jeder Punkt einer Gerade $g:\vec{x}=\begin{pmatrix}p_1\\p_2\\p_3\end{pmatrix}+\lambda\begin{pmatrix}v_1\\v_2\\v_3\end{pmatrix}$ kann zusammengefasst durch $\overrightarrow{OS}=\begin{pmatrix}p_1+v_1\lambda\\p_2+v_2\lambda\\p_3+v_3\lambda\end{pmatrix}$ ausgedrückt werden. Der Verbindungsvektor $\overrightarrow{RS}$ heißt, insofern $\overrightarrow{OR}$ durch $\begin{pmatrix}r_1\\r_2\\r_3\end{pmatrix}$ dargestellt werden kann wie folgend:
 $$
 \begin{align}

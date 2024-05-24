@@ -1,0 +1,1 @@
+Ein Stützvektor verschiebt eine Funktion oder einen geometrischen Ausdruck, sodass diese durch einen hier gegebenen Punkt verläuft. Eine Gerade besitzt einen Stützvektor $\begin{pmatrix}p_1\\p_2\\p_3\end{pmatrix}$, so ist bekannt, dass diese Gerade den Punkt $P\left(p_1\mid p_2\mid p_3\right)$ enthält.

@@ -1,4 +1,4 @@
-Das Kreuzprodukt ermöglicht es einem aus zwei [[Vektor(en)]] einen dritten zu erstellen, welcher zu den anderen orthogonal steht.
+Das Kreuzprodukt ermöglicht es einem aus zwei [[Vektor(en)]] $\vec{a}$ und $\vec{b}$ einen dritten ($\vec{n}$) zu erstellen, welcher zu den anderen orthogonal steht.
 Ein Kreuzprodukt wird durch ein $\times$ ausgedrückt.
 Die Herleitung besteht aus diesem [[LGS]], welche das [[Skalarprodukt]] benutzt.
 $$\begin{vmatrix}
