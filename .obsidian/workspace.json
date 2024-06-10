@@ -11,8 +11,13 @@
             "id": "f130f0e63e9028e6",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Z_Exklusiv zur Formelsammlung/Analytische Geometrie/Maximum radius of a rolling sphere.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -87,20 +92,13 @@
             }
           },
           {
-            "id": "30ae458e041b6bb3",
-            "type": "leaf",
-            "state": {
-              "type": "3d_graph_view",
-              "state": {}
-            }
-          },
-          {
             "id": "12bdd2b2bc99a48a",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "collapseAll": false,
+                "file": "Z_Exklusiv zur Formelsammlung/Analytische Geometrie/Maximum radius of a rolling sphere.md",
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -116,6 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Z_Exklusiv zur Formelsammlung/Analytische Geometrie/Maximum radius of a rolling sphere.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +137,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Z_Exklusiv zur Formelsammlung/Analytische Geometrie/Maximum radius of a rolling sphere.md"
+              }
             }
           },
           {
@@ -158,7 +159,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       },
       {
         "id": "8fc54a68b3dde7a5",
@@ -170,6 +171,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Z_Exklusiv zur Formelsammlung/Analytische Geometrie/Maximum radius of a rolling sphere.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -202,7 +204,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 248
+    "width": 326
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -223,6 +225,18 @@
   },
   "active": "f130f0e63e9028e6",
   "lastOpenFiles": [
+    "Z_Exklusiv zur Formelsammlung/Analytische Geometrie/Maximum radius of a rolling sphere.md",
+    "Analysis/Allgemein/Differenzial- Integralrechnung/Flächeninhalte zwischen zwei Funktionen.md",
+    "Analysis/Allgemein/Verschieben von Funktionen.md",
+    "Analysis/Allgemein/Umkehrfunktion.md",
+    "Allgemeines/Gesetze/Kommutativgesetz.md",
+    "Analysis/Allgemein/Differenzial- Integralrechnung/Rotationskörper.md",
+    "Flächeninhalte.md",
+    "Analysis/Allgemein/Differenzial- Integralrechnung/Integration.md",
+    "Analysis/Allgemein/Differenzial- Integralrechnung/Integrationsregeln.md",
+    "Analysis/Allgemein/Definitionsbereich.md",
+    "A1S4EDIT.md",
+    "Z_Exklusiv zur Formelsammlung/Schneiden von Kreisen und Kugeln/Schneiden von Kreisen und Kugeln.md",
     "Analytische Geometrie/Abstände/Gerade - Gerade (Windschief).md",
     "Analytische Geometrie/Abstände/Punkt - Ebene.md",
     "Analytische Geometrie/Abstände/Punkt - Gerade.md",
@@ -237,18 +251,6 @@
     "Analytische Geometrie/Geraden/Lagebeziehungen von Geraden.md",
     "Analytische Geometrie/Geraden/Geradengleichung.md",
     "Analytische Geometrie/LGS/LGS.md",
-    "Analytische Geometrie/LGS/Gaußsches Lösungsverfahren.md",
-    "Analytische Geometrie/Vektoren/Winkel/Winkel zwischen zwei Ebenen.md",
-    "Analytische Geometrie/Vektoren/Winkel/Winkel zwischen Vektoren.md",
-    "Analytische Geometrie/Vektoren/Winkel/Winkel zwischen zwei sich schneidende Geraden.md",
-    "Analytische Geometrie/Vektoren/Winkel/Winkel zwischen Gerade und Ebene.md",
-    "Probeabi Aufgabenpool/2023 P-A.md",
-    "Analytische Geometrie/Vektoren/Vektoroperationen/Kreuzprodukt.md",
-    "Analytische Geometrie/Vektoren/Vektoroperationen/Mögliche Vektoroperationen.md",
-    "Analytische Geometrie/Vektoren/Vektorarten/Vektor(en).md",
-    "Analytische Geometrie/Vektoren/Vektorarten/Stützvektor.md",
-    "Analytische Geometrie/Vektoren/Vektorarten/Richtungsvektor(en).md",
-    "Analytische Geometrie/Vektoren/Vektorarten/Ortsvektor(en).md",
     "Analytische Geometrie/Vektoren/Vektorarten",
     "Analytische Geometrie/Vektoren/Längen",
     "Analytische Geometrie/Vektoren/Vektoroperationen",

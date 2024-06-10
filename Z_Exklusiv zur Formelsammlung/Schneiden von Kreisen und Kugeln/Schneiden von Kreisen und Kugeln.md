@@ -302,6 +302,8 @@ $$\begin{align}
 			{\sqrt{\frac{2r^{2}-(h-r)^{2}}{r}}}+h-r\right)\right)\\
 \end{align}$$
 
+$$\frac{r^2\pi}{4}-\left(\frac{-h + r}{2}\sqrt{2hr-h^2}+\frac{r^2}{2}\arcsin\left(\frac{-h + r}{r}\right)\right)$$
+
 
 ---
 ---
