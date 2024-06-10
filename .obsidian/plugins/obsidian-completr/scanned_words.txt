@@ -4780,6 +4780,7 @@ invention
 issue
 incensed
 inn
+important
 eine
 eines
 einem
@@ -5510,6 +5511,8 @@ exstinguish
 evil
 ehe
 erfolgt
+exist
+equal
 Beschreibung
 Besondere
 Beispiel
@@ -6161,6 +6164,7 @@ Better
 Best
 Berührung
 Bewegung
+Because
 Rechenvorganges
 Rest
 Rechnung
@@ -8081,6 +8085,7 @@ mistrust
 mile
 mayst
 messenger
+movement
 durchgeführt
 dem
 den
@@ -8848,6 +8853,7 @@ drowse
 delivers
 drowned
 determined
+distances
 Abhängigkeit
 Aufgaben
 Achsen
@@ -10765,6 +10771,7 @@ guests
 glimmers
 growing
 gaining
+group
 sodass
 sind
 so
@@ -17218,6 +17225,7 @@ unbecoming
 unlineal
 utterance
 usually
+unchanged
 verwendet
 visuell
 von
@@ -17863,6 +17871,8 @@ vessel
 valued
 vile
 visit
+vector
+vectors
 frei
 für
 finden
@@ -24734,6 +24744,7 @@ lave
 lated
 laborTo
 lines
+length
 Quotientenregel
 QL
 Qb
@@ -27087,6 +27098,9 @@ preys
 proclaim
 profit
 prepare
+previously
+perpendicular
+plane
 Äquivalenzumformung
 ÄI
 ÄP
@@ -27698,6 +27712,7 @@ Command
 Craving
 Caesar
 Cancel
+Construction
 tXeE
 tj
 tP
@@ -28328,6 +28343,7 @@ throne
 titles
 tangentially
 tangential
+touching
 yW
 yT
 yN
@@ -31720,6 +31736,8 @@ crow
 caslte
 cut
 chosen
+center
+constructed
 qyy
 qF
 qZ
