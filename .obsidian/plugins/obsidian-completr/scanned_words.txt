@@ -4168,6 +4168,8 @@ obedience
 oracles
 ourself
 obere
+obigen
+over
 ist
 in
 im
@@ -4781,6 +4783,9 @@ issue
 incensed
 inn
 important
+intend
+importantly
+initial
 eine
 eines
 einem
@@ -5513,6 +5518,8 @@ ehe
 erfolgt
 exist
 equal
+einzusetzen
+eventually
 Beschreibung
 Besondere
 Beispiel
@@ -8854,6 +8861,8 @@ delivers
 drowned
 determined
 distances
+described
+deadly
 Abhängigkeit
 Aufgaben
 Achsen
@@ -12304,6 +12313,7 @@ notion
 nightly
 note
 needs
+net
 Klammern
 Kettenregel
 Kriterium
@@ -15442,6 +15452,8 @@ approaches
 affair
 ahead
 annimmt
+assasination
+actor
 kann
 können
 kleines
@@ -17226,6 +17238,7 @@ unlineal
 utterance
 usually
 unchanged
+umgestellt
 verwendet
 visuell
 von
@@ -18562,6 +18575,7 @@ foreign
 flattering
 flown
 fly
+forget
 haben
 handelt
 hier
@@ -19217,6 +19231,7 @@ health
 herself
 hums
 hopes
+humble
 Sei
 Stellen
 Sie
@@ -21154,6 +21169,7 @@ relatives
 radius
 rolls
 rollt
+risk
 Tut
 Termumformung
 Tiefpunkt
@@ -27101,6 +27117,7 @@ prepare
 previously
 perpendicular
 plane
+potential
 Äquivalenzumformung
 ÄI
 ÄP
@@ -28344,6 +28361,7 @@ titles
 tangentially
 tangential
 touching
+trusts
 yW
 yT
 yN
@@ -31738,6 +31756,7 @@ cut
 chosen
 center
 constructed
+collects
 qyy
 qF
 qZ
@@ -32253,6 +32272,7 @@ quell
 quenched
 quiet
 quadriert
+quite
 Öffnungsfaktor
 Ökoligische
 ÖDF

@@ -47,6 +47,7 @@ $$
 \begin{array}{}
 	E\perp g:\vec{x}&&\overrightarrow{OR}\in E
 \end{array}$$
+$\vec{v}$ heißt hier Normalenvektor der Ebene, da $E\perp g:\vec{x}$. $\vec{v}\to\vec{n}$ wäre möglich, werde ich aber hier nicht anwenden.
 
 $$
 \begin{align}
@@ -71,6 +72,51 @@ $$
 \end{align}
 $$
 Dieser Wert für $\lambda$ gibt an, welcher Wert in die Gerade eingesetzt den Ortsvektor $\overrightarrow{OS}$, der in der Ebene ist, ergibt. Hier ist dieser Wert durch $\mu$ ausgedrückt.
+Anstelle die Geraden mit Werten einzusetzen, kann ebenfalls mit den Vektoren zunächst ohne einsetzen der Werte nach $\lambda$ umgestellt werden.
+Von dem obigen Definitionen der Ebene und Gerade gilt:
+$$
+\begin{align}
+	E:v_1x_1+v_2x_2+v_3x_3&=
+		\begin{pmatrix}r_1\\r_2\\r_3\end{pmatrix}\circ
+		\begin{pmatrix}v_1\\v_2\\v_3\end{pmatrix}\\
+	E:~\vec{v}\circ\vec{x}&=\vec{v}\circ\overrightarrow{OR}
+\end{align}
+$$
+
+$$
+\begin{align}
+	g:\vec{x}&=\begin{pmatrix}p_1\\p_2\\p_3\end{pmatrix}
+		+\lambda\begin{pmatrix}v_1\\v_2\\v_3\end{pmatrix}\\
+	&=\overrightarrow{OP}+\lambda \vec{v}
+\end{align}$$
+Wird nun wie oben bereits beschrieben die Gerade $g:\vec{x}$ in die Ebene eingesetzt, entsteht folgender Term:
+
+$$
+\begin{align}
+	E:~\vec{v}\circ\vec{x}&=\vec{v}\circ\overrightarrow{OR}&&\mid \boxed{g:\vec{x}\textit{ in } E}\\
+	E:~\vec{v}\circ
+		\left(
+			\overrightarrow{OP}+\lambda \vec{v}
+		\right)
+		&=\vec{v}\circ\overrightarrow{OR}\\
+	\vec{v}\circ\overrightarrow{OP}
+		+ \vec{v}\circ\vec{v}\lambda
+		&=\vec{v}\circ\overrightarrow{OR}
+			&&\mid\boxed{\vec{v}\circ\vec{v}=
+			\left|\vec{v}\right|^2}\\
+	\vec{v}\circ\overrightarrow{OP}
+		+ \left|\vec{v}\right|^2\lambda
+		&=\vec{v}\circ\overrightarrow{OR}&&
+			\mid -\left(\vec{v}\circ\overrightarrow{OP}\right)\\
+	\left|\vec{v}\right|^2\lambda
+		&=\vec{v}\circ\overrightarrow{OR}-\vec{v}\circ\overrightarrow{OP}\\
+	\left|\vec{v}\right|^2\lambda
+		&=\vec{v}\circ\left(\overrightarrow{OR}-\overrightarrow{OP}\right)&&\mid
+			\div \left|\vec{v}\right|^2\\
+	\lambda&=\frac{\vec{v}\circ\left(\overrightarrow{OR}-\overrightarrow{OP}\right)}{\left|\vec{v}\right|^2}
+\end{align}
+$$
+
 Der Verbindungsvektor zwischen dem Punkt außerhalb der Gerade und $\overrightarrow{OS}$ ist in der Länge der Abstand der berechnet werden soll. Der Richtungsvektor dieser beiden Punkte wird gebildet und anschließend in der Länge bestimmt.
 
 ---

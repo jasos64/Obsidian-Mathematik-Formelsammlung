@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "2b3772768122b3c7",
+        "id": "42f9cea388bf3893",
         "type": "tabs",
         "children": [
           {
-            "id": "f130f0e63e9028e6",
+            "id": "cc7aa5ef25a7f650",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "diff-view",
               "state": {
-                "file": "Z_Exklusiv zur Formelsammlung/Analytische Geometrie/Maximum radius of a rolling sphere.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
+                "file": "Act 1 Scene 4.md",
+                "staged": false
               }
             }
           }
@@ -97,7 +95,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Z_Exklusiv zur Formelsammlung/Analytische Geometrie/Maximum radius of a rolling sphere.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +111,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Z_Exklusiv zur Formelsammlung/Analytische Geometrie/Maximum radius of a rolling sphere.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,9 +133,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Z_Exklusiv zur Formelsammlung/Analytische Geometrie/Maximum radius of a rolling sphere.md"
-              }
+              "state": {}
             }
           },
           {
@@ -171,7 +165,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Z_Exklusiv zur Formelsammlung/Analytische Geometrie/Maximum radius of a rolling sphere.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -223,34 +216,34 @@
       "3d-graph:3D Graph": false
     }
   },
-  "active": "f130f0e63e9028e6",
+  "active": "cc7aa5ef25a7f650",
   "lastOpenFiles": [
-    "Z_Exklusiv zur Formelsammlung/Analytische Geometrie/Maximum radius of a rolling sphere.md",
-    "Analysis/Allgemein/Differenzial- Integralrechnung/Flächeninhalte zwischen zwei Funktionen.md",
-    "Analysis/Allgemein/Verschieben von Funktionen.md",
-    "Analysis/Allgemein/Umkehrfunktion.md",
-    "Allgemeines/Gesetze/Kommutativgesetz.md",
+    "Act 1 Scene 4.md",
+    "Stochastik/Allgemein/Gegenereignis.md",
+    "Stochastik/Allgemein/Ereignis(se).md",
+    "Stochastik/Allgemein/Ergebnismenge.md",
+    "Stochastik/Allgemein/Laplace-Wahrscheinlichkeiten.md",
+    "Stochastik/Allgemein/Mengen/Schnittmenge.md",
+    "Stochastik/Allgemein/Mengen/Komplement einer Menge.md",
+    "Stochastik/Allgemein/Mengen/Differenzmenge.md",
+    "Stochastik/Allgemein/Binomialverteilung.md",
+    "Stochastik/Allgemein/Gegenwahrscheinlichkeit(en).md",
+    "Act 1 Scene 7.md",
     "Analysis/Allgemein/Differenzial- Integralrechnung/Rotationskörper.md",
-    "Flächeninhalte.md",
-    "Analysis/Allgemein/Differenzial- Integralrechnung/Integration.md",
-    "Analysis/Allgemein/Differenzial- Integralrechnung/Integrationsregeln.md",
-    "Analysis/Allgemein/Definitionsbereich.md",
-    "A1S4EDIT.md",
-    "Z_Exklusiv zur Formelsammlung/Schneiden von Kreisen und Kugeln/Schneiden von Kreisen und Kugeln.md",
-    "Analytische Geometrie/Abstände/Gerade - Gerade (Windschief).md",
-    "Analytische Geometrie/Abstände/Punkt - Ebene.md",
     "Analytische Geometrie/Abstände/Punkt - Gerade.md",
-    "Analytische Geometrie/Abstände/Gerade - Gerade (Parallel).md",
     "Analytische Geometrie/Abstände/Gerade - Ebene (Parallel).md",
+    "Analytische Geometrie/Abstände/Gerade - Gerade (Parallel).md",
     "Analytische Geometrie/Abstände/Abstand.md",
-    "Analytische Geometrie/Ebenen/Normalenform einer Ebene.md",
-    "Analytische Geometrie/Ebenen/Hessesche Normalform einer Ebene.md",
-    "Analytische Geometrie/Ebenen/Ebene(n).md",
-    "Analytische Geometrie/Geraden/Überprüfung der Ausrichtung von Geraden.md",
-    "Analytische Geometrie/Geraden/Schnittpunkt von zwei Geraden.md",
+    "Allgemeines/Operatoren/Multiplikation.md",
+    "Stochastik/Allgemein/Zufallsgröße/Sigma-Umgebung.md",
+    "Stochastik/Allgemein/Zufallsgröße/Erwartungswert.md",
+    "Stochastik/Allgemein/Zufallsgröße/Wahrscheinlichkeitsverteilung.md",
+    "Stochastik/Allgemein/Zufallsgröße/Varianz.md",
+    "Stochastik/Allgemein/Zufallsgröße/Standartabweichung.md",
+    "Stochastik/Allgemein/Zählstrategien/Geordnetes ziehen mit zurücklegen.md",
+    "Analytische Geometrie/Geraden/Punktprobe.md",
     "Analytische Geometrie/Geraden/Lagebeziehungen von Geraden.md",
     "Analytische Geometrie/Geraden/Geradengleichung.md",
-    "Analytische Geometrie/LGS/LGS.md",
     "Analytische Geometrie/Vektoren/Vektorarten",
     "Analytische Geometrie/Vektoren/Längen",
     "Analytische Geometrie/Vektoren/Vektoroperationen",

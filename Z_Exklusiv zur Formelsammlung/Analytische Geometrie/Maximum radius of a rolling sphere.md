@@ -17,10 +17,11 @@ $$d\left(M;g\right)=d\left(M;h\right)=r$$
 
 ---
 ## Construction of $m:\vec{x}$
-Because $m$ has a distance of $r$ to $g$, a vector $\vec{n}$ with length $r$ perpendicular to $g$ can be constructed which will represent $m.$ There is a group of vectors that can represent that vector $n$.
+Because $m$ has a distance $r$ to $g$, a vector $\vec{n}$ with length $r$ perpendicular to $g$ can be constructed which will represent $m.$ There is a group of vectors that can represent that vector $n$.
 - $\vec{n}\perp g$
 - $\left|\vec{n}\right|=r$
-Because it may be important where the sphere rolls on $g$, let $\theta=0$ be the vector $\vec{n}$ that is in the $x_3-g$ plane and "above" $g$.
-- $E\parallel g \wedge E\parallel x_3$
+Because it may be important where the sphere rolls on $g$, let $\theta=0$ be the vector $\vec{n}_z$ that is in $E$ as described next:
+- $E\parallel g \wedge E\parallel\begin{pmatrix}0\\0\\1\end{pmatrix}$
 - $E:\left(x_3\times\vec{v}\right)\circ\vec{x}=\left(x_3\times\vec{v}\right)\circ\vec{p}$
 - $\vec{n}\in E$
+- $\vec{n}_z$
