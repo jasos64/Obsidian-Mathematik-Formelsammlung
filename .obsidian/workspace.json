@@ -11,10 +11,12 @@
             "id": "cc7aa5ef25a7f650",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": "Act 1 Scene 4.md",
-                "staged": false
+                "file": "Z_Exklusiv zur Formelsammlung/Analytische Geometrie/Seite 70 Nr. 6).md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           }
@@ -95,6 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Z_Exklusiv zur Formelsammlung/Analytische Geometrie/Seite 70 Nr. 6).md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,6 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Z_Exklusiv zur Formelsammlung/Analytische Geometrie/Seite 70 Nr. 6).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +137,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Z_Exklusiv zur Formelsammlung/Analytische Geometrie/Seite 70 Nr. 6).md"
+              }
             }
           },
           {
@@ -165,6 +171,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Z_Exklusiv zur Formelsammlung/Analytische Geometrie/Seite 70 Nr. 6).md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -218,32 +225,34 @@
   },
   "active": "cc7aa5ef25a7f650",
   "lastOpenFiles": [
-    "Act 1 Scene 4.md",
-    "Stochastik/Allgemein/Gegenereignis.md",
+    "Z_Exklusiv zur Formelsammlung/Analytische Geometrie/Maximum radius of a rolling sphere.md",
+    "Z_Exklusiv zur Formelsammlung/Analytische Geometrie/Seite 70 Nr. 6).md",
+    "Z_Exklusiv zur Formelsammlung/Schneiden von Kreisen und Kugeln/Schneiden von Kreisen und Kugeln.md",
+    "Z_Exklusiv zur Formelsammlung/Alternator Energiezeug.md",
+    "Z_Exklusiv zur Formelsammlung/Aufgaben 1.md",
     "Stochastik/Allgemein/Ereignis(se).md",
-    "Stochastik/Allgemein/Ergebnismenge.md",
+    "Stochastik/Allgemein/Vierfeldertafel.md",
+    "Stochastik/Allgemein/Binomialverteilung.md",
+    "Stochastik/Allgemein/Gegenereignis.md",
+    "Stochastik/Allgemein/Gegenwahrscheinlichkeit(en).md",
     "Stochastik/Allgemein/Laplace-Wahrscheinlichkeiten.md",
+    "Z_Exklusiv zur Formelsammlung/Aufgaben 3.md",
+    "Z_Exklusiv zur Formelsammlung/Aufgaben 2.md",
+    "Z__MAcbeth/A1S4EDIT.md",
+    "Stochastik/Allgemein/Zufallsgröße/Erwartungswert.md",
+    "Z_Exklusiv zur Formelsammlung/Binomialsymmetrien/Geradensymmetrie.md",
+    "Z_Exklusiv zur Formelsammlung/Binomialsymmetrien/nÜberK=nÜberN-k.md",
+    "Z_Kleiner Aufgabenpool für unsortierte Aufgaben/Äquivalenzumformungen mit linearen Funktionen zum anwenden.md",
+    "Z_Exklusiv zur Formelsammlung/Schneiden von Kreisen und Kugeln/desmos-graph.svg",
+    "LICENSE.md",
+    "Z__MAcbeth",
+    "Z__MAcbeth/Act 1 Scene 4.md",
+    "Z__MAcbeth/Act 1 Scene 7.md",
+    "CODE_OF_CONDUCT.md",
+    "Stochastik/Allgemein/Ergebnismenge.md",
     "Stochastik/Allgemein/Mengen/Schnittmenge.md",
     "Stochastik/Allgemein/Mengen/Komplement einer Menge.md",
     "Stochastik/Allgemein/Mengen/Differenzmenge.md",
-    "Stochastik/Allgemein/Binomialverteilung.md",
-    "Stochastik/Allgemein/Gegenwahrscheinlichkeit(en).md",
-    "Act 1 Scene 7.md",
-    "Analysis/Allgemein/Differenzial- Integralrechnung/Rotationskörper.md",
-    "Analytische Geometrie/Abstände/Punkt - Gerade.md",
-    "Analytische Geometrie/Abstände/Gerade - Ebene (Parallel).md",
-    "Analytische Geometrie/Abstände/Gerade - Gerade (Parallel).md",
-    "Analytische Geometrie/Abstände/Abstand.md",
-    "Allgemeines/Operatoren/Multiplikation.md",
-    "Stochastik/Allgemein/Zufallsgröße/Sigma-Umgebung.md",
-    "Stochastik/Allgemein/Zufallsgröße/Erwartungswert.md",
-    "Stochastik/Allgemein/Zufallsgröße/Wahrscheinlichkeitsverteilung.md",
-    "Stochastik/Allgemein/Zufallsgröße/Varianz.md",
-    "Stochastik/Allgemein/Zufallsgröße/Standartabweichung.md",
-    "Stochastik/Allgemein/Zählstrategien/Geordnetes ziehen mit zurücklegen.md",
-    "Analytische Geometrie/Geraden/Punktprobe.md",
-    "Analytische Geometrie/Geraden/Lagebeziehungen von Geraden.md",
-    "Analytische Geometrie/Geraden/Geradengleichung.md",
     "Analytische Geometrie/Vektoren/Vektorarten",
     "Analytische Geometrie/Vektoren/Längen",
     "Analytische Geometrie/Vektoren/Vektoroperationen",
@@ -254,8 +263,6 @@
     "Z_Exklusiv zur Formelsammlung/Binomialsymmetrien/Seite 159, 11).pdf",
     "HowToDownload.pdf",
     "Z_Exklusiv zur Formelsammlung/Binomialsymmetrien/BinomialeSymmetrien.svg",
-    "Analytische Geometrie/Abstände",
-    "Z_Exklusiv zur Formelsammlung/Schneiden von Kreisen und Kugeln/desmos-graph.svg",
     "Z_Exklusiv zur Formelsammlung/Schneiden von Kreisen und Kugeln/Pasted image 20240103145623.png",
     "Pasted image 20240405155728.png",
     "5b7c2ac95b24e79bbac75fe6141c23b48200a824.svg",

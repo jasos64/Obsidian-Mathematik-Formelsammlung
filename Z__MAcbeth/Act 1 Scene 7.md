@@ -79,3 +79,9 @@ I am sure now that we can do this. I will use all of my strengh to accomplish th
 Leave and spread friendlyness to hide what we are about to do
 
 [Exit]
+
+<span style="background:#d2cbff">Those words which called you Thane and promise you the crown sound nice.</span>
+
+<span style="background:#d2cbff">Thought you need to be warry (be aware) of them for they are the words of darkness and despair.</span>
+
+<span style="background:#d2cbff">They flatter our ego and bring us to betray our self and most beloved ones and bring with them your demise</span>

@@ -64,7 +64,7 @@ The newest state.
 
 ### Malcolm
 
-                                 This is the sergeant
+This is the sergeant
 
 Who like a good and hardy soldier fought
 

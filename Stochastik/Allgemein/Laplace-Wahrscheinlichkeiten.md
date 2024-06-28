@@ -16,7 +16,7 @@ $$
 $$
 \Omega=
 \begin{Bmatrix}{}
-	(1,1);\textcolor{green}{(1;2)},(1;3),\\
+	(1;1),\textcolor{green}{(1;2)},(1;3),\\
 	\textcolor{green}{(2;1)},(2;2),\textcolor{green}{(2;3)},\\
 	(3;1),\textcolor{green}{(3;2)},(3;3)
 \end{Bmatrix}
@@ -25,7 +25,7 @@ $$
 $$
 E=
 \begin{Bmatrix}
-	(1,2);(2,1);(2,3);(3,2)
+	(1;2),(2;1),(2;3),(3;2)
 \end{Bmatrix}
 $$
 Folglich ist $\left|\Omega\right|=9$ und $\left|E\right|=4$. Die Wahrscheinlichkeit, dass das Ereignis also eintrifft ist daher:
