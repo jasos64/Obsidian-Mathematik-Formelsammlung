@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "cc7aa5ef25a7f650",
+            "id": "25de1baf1b68ffe8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Z_Exklusiv zur Formelsammlung/Analytische Geometrie/Seite 70 Nr. 6).md",
+                "file": "Matheaufgaben.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Z_Exklusiv zur Formelsammlung/Analytische Geometrie/Seite 70 Nr. 6).md",
+                "file": "Matheaufgaben.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Z_Exklusiv zur Formelsammlung/Analytische Geometrie/Seite 70 Nr. 6).md",
+                "file": "Matheaufgaben.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Z_Exklusiv zur Formelsammlung/Analytische Geometrie/Seite 70 Nr. 6).md"
+                "file": "Matheaufgaben.md"
               }
             }
           },
@@ -171,7 +171,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Z_Exklusiv zur Formelsammlung/Analytische Geometrie/Seite 70 Nr. 6).md",
+                "file": "Matheaufgaben.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -223,10 +223,16 @@
       "3d-graph:3D Graph": false
     }
   },
-  "active": "cc7aa5ef25a7f650",
+  "active": "25de1baf1b68ffe8",
   "lastOpenFiles": [
-    "Z_Exklusiv zur Formelsammlung/Analytische Geometrie/Maximum radius of a rolling sphere.md",
+    "Analysis/Allgemein/Differenzial- Integralrechnung/Partielle Differention.md",
+    "Matheaufgaben.md",
+    "Analysis/Allgemein/Ableiten/Ableitung.md",
+    "Analysis/Allgemein/Differenzial- Integralrechnung/Integrationsregeln.md",
+    "Analysis/Allgemein/Differenzial- Integralrechnung/Rotationskörper.md",
+    "Analysis/Allgemein/Differenzial- Integralrechnung/Integration.md",
     "Z_Exklusiv zur Formelsammlung/Analytische Geometrie/Seite 70 Nr. 6).md",
+    "Z_Exklusiv zur Formelsammlung/Analytische Geometrie/Maximum radius of a rolling sphere.md",
     "Z_Exklusiv zur Formelsammlung/Schneiden von Kreisen und Kugeln/Schneiden von Kreisen und Kugeln.md",
     "Z_Exklusiv zur Formelsammlung/Alternator Energiezeug.md",
     "Z_Exklusiv zur Formelsammlung/Aufgaben 1.md",
@@ -247,12 +253,6 @@
     "LICENSE.md",
     "Z__MAcbeth",
     "Z__MAcbeth/Act 1 Scene 4.md",
-    "Z__MAcbeth/Act 1 Scene 7.md",
-    "CODE_OF_CONDUCT.md",
-    "Stochastik/Allgemein/Ergebnismenge.md",
-    "Stochastik/Allgemein/Mengen/Schnittmenge.md",
-    "Stochastik/Allgemein/Mengen/Komplement einer Menge.md",
-    "Stochastik/Allgemein/Mengen/Differenzmenge.md",
     "Analytische Geometrie/Vektoren/Vektorarten",
     "Analytische Geometrie/Vektoren/Längen",
     "Analytische Geometrie/Vektoren/Vektoroperationen",

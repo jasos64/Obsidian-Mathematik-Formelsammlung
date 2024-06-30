@@ -52,3 +52,5 @@ $$\begin{align}
 \end{align}$$
 
 ---
+### Partielle Differention
+![[Partielle Differention]] 
