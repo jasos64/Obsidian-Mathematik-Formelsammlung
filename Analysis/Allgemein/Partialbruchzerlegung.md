@@ -55,3 +55,8 @@ $$\begin{align}
 \end{align}$$
 
 ---
+## Doppelte Nullstellen
+Nehmen wir an, dass eine gebrochen rationale Funktion wie $f(x)=\frac{g(x)}{(x+3)^2\cdot(x-2)}$ gegeben ist, dann ist der Aufbau der Partialbruchzerlegung die folgende:
+$$
+\frac{g(x)}{(x+3)^2\cdot(x-2)}=\frac{A}{x+3}+\frac{B}{(x+3)^2}+\frac{C}{x-2}
+$$

@@ -584,6 +584,7 @@ Danach
 Daher
 Differnetion
 Differention
+Doppelte
 Eine
 Eingangswert
 Einsetzen
@@ -3110,6 +3111,7 @@ Nature
 Neptune
 Nought
 Normalverteilung
+Nordöstliche
 Oftmals
 Operation
 Ortsvektor
@@ -3628,6 +3630,10 @@ Oberfunktion
 Only
 Outran
 Old
+Ortskerns
+Ortskern
+Ortsmitte
+Ortsdurchfahrt
 oder
 oft
 oftmals
@@ -7489,6 +7495,7 @@ warry
 würfeln
 wirtschaftlicher
 wachsenden
+weiterer
 mit
 man
 müssen
@@ -10836,6 +10843,7 @@ getätigt
 gewünschte
 gleichgesetzt
 gefüllt
+gelegenste
 sodass
 sind
 so
@@ -12386,6 +12394,11 @@ net
 nice
 normalverteilt
 nachdem
+nördliche
+nördlich
+nördlichsten
+nordöstlich
+nordöstliche
 Klammern
 Kettenregel
 Kriterium
@@ -12972,6 +12985,10 @@ Kisten
 Kurvenverlauf
 Kosten
 Kostenfunktionsschar
+Koordinatensystem
+Knick
+Kurve
+Koordinaten
 Variable
 Veränderung
 Veränderungsrate
@@ -13567,6 +13584,7 @@ Visuell
 Vergleichen
 Verdeutlichen
 Vierfeldertafel
+Verfahren
 Platzhalter
 Punkte
 Punkt
@@ -15548,6 +15566,9 @@ ausgeglichen
 annahmeweise
 abgelesen
 angibt
+alten
+alte
+aussieht
 kann
 können
 kleines
@@ -16714,6 +16735,7 @@ Hell
 Help
 Hours
 Hinsicht
+Hypotenusen
 usw
 und
 untersucht
@@ -17988,6 +18010,8 @@ vectors
 vaulting
 vorausgesetzt
 verbunden
+verbinden
+vierten
 frei
 für
 finden
@@ -19344,6 +19368,7 @@ humble
 halt
 happen
 happens
+höher
 Sei
 Stellen
 Sie
@@ -20055,6 +20080,11 @@ Stühlen
 Sicht
 Schnittstelle
 Spalte
+Städtchen
+Straße
+Straßenverlauf
+Stetigkeit
+Strecken
 jede
 jedes
 jeden
@@ -21291,6 +21321,8 @@ rollt
 risk
 real
 retreat
+rot
+rationale
 Tut
 Termumformung
 Tiefpunkt
@@ -22500,6 +22532,7 @@ Madam
 Malice
 Malcom
 Mittelpunkt
+Minima
 Gleichsetzen
 Gegeben
 Generalisiert
@@ -23088,6 +23121,7 @@ Gehen
 Gefragt
 Gesamtverteilung
 Grafikfehler
+Gemeint
 Um
 Unendlichen
 Ursprung
@@ -23646,6 +23680,10 @@ Unmannerly
 Using
 Unsafe
 Unteraufgabe
+Umgehungsstraße
+Umformung
+Umwandlung
+Umleitung
 Wenn
 Wert
 Wichtig
@@ -24232,6 +24270,8 @@ Welcome
 Weiterrechnen
 Wahrscheinlichkeitswert
 Wurfmengen
+West
+Wurzelterm
 lauten
 lokale
 links
@@ -24896,6 +24936,7 @@ lines
 length
 lackierten
 lackierte
+lokales
 Quotientenregel
 QL
 Qb
@@ -25379,6 +25420,7 @@ QAHa
 QzQ
 QiN
 Quader
+Quadratmeterpreis
 Intervall
 Intervallgrenzen
 Insgesamt
@@ -25913,6 +25955,7 @@ Infirm
 Ireland
 Ihre
 Investitionen
+Ickshausen
 überprüfen
 übrig
 über
@@ -25934,6 +25977,7 @@ Investitionen
 üZTpS
 überschreiten
 überschreitet
+übergehen
 Limes
 Lösungsweg
 Lösung
@@ -26505,6 +26549,7 @@ Loyal
 Lest
 Light
 Lücke
+Leiten
 punktsymmetrisch
 passenden
 pss

@@ -19,8 +19,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "52669960420942d1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Polstellen und Flächeninhalt.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Matheaufgaben.md",
+                "file": "Polstellen und Flächeninhalt.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Matheaufgaben.md",
+                "file": "Polstellen und Flächeninhalt.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Matheaufgaben.md"
+                "file": "Polstellen und Flächeninhalt.md"
               }
             }
           },
@@ -171,7 +185,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Matheaufgaben.md",
+                "file": "Polstellen und Flächeninhalt.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -223,10 +237,14 @@
       "3d-graph:3D Graph": false
     }
   },
-  "active": "25de1baf1b68ffe8",
+  "active": "52669960420942d1",
   "lastOpenFiles": [
-    "Analysis/Allgemein/Differenzial- Integralrechnung/Partielle Differention.md",
     "Matheaufgaben.md",
+    "Polstellen und Flächeninhalt.md",
+    "LICENSE.md",
+    "Analysis/Allgemein/Partialbruchzerlegung.md",
+    "Analysis/Allgemein/Koeffizientenvergleich.md",
+    "Analysis/Allgemein/Differenzial- Integralrechnung/Partielle Differention.md",
     "Analysis/Allgemein/Ableiten/Ableitung.md",
     "Analysis/Allgemein/Differenzial- Integralrechnung/Integrationsregeln.md",
     "Analysis/Allgemein/Differenzial- Integralrechnung/Rotationskörper.md",
@@ -247,12 +265,8 @@
     "Z__MAcbeth/A1S4EDIT.md",
     "Stochastik/Allgemein/Zufallsgröße/Erwartungswert.md",
     "Z_Exklusiv zur Formelsammlung/Binomialsymmetrien/Geradensymmetrie.md",
-    "Z_Exklusiv zur Formelsammlung/Binomialsymmetrien/nÜberK=nÜberN-k.md",
-    "Z_Kleiner Aufgabenpool für unsortierte Aufgaben/Äquivalenzumformungen mit linearen Funktionen zum anwenden.md",
     "Z_Exklusiv zur Formelsammlung/Schneiden von Kreisen und Kugeln/desmos-graph.svg",
-    "LICENSE.md",
     "Z__MAcbeth",
-    "Z__MAcbeth/Act 1 Scene 4.md",
     "Analytische Geometrie/Vektoren/Vektorarten",
     "Analytische Geometrie/Vektoren/Längen",
     "Analytische Geometrie/Vektoren/Vektoroperationen",
