@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Analytische Geometrie/Ebenen/Schnittmenge Gerade-Ebene.md",
+                "file": "Allgemeines/Gesetze/Binomischer Lehrsatz.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Analytische Geometrie/Ebenen/Schnittmenge Gerade-Ebene.md",
+                "file": "Allgemeines/Gesetze/Binomischer Lehrsatz.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Analytische Geometrie/Ebenen/Schnittmenge Gerade-Ebene.md",
+                "file": "Allgemeines/Gesetze/Binomischer Lehrsatz.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Analytische Geometrie/Ebenen/Schnittmenge Gerade-Ebene.md"
+                "file": "Allgemeines/Gesetze/Binomischer Lehrsatz.md"
               }
             }
           },
@@ -171,7 +171,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Analytische Geometrie/Ebenen/Schnittmenge Gerade-Ebene.md",
+                "file": "Allgemeines/Gesetze/Binomischer Lehrsatz.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -223,10 +223,10 @@
       "3d-graph:3D Graph": false
     }
   },
-  "active": "5f9375a6f0895173",
+  "active": "ef5a54e84cec3a91",
   "lastOpenFiles": [
-    "Untitled.md",
     "Analytische Geometrie/Ebenen/Schnittmenge Gerade-Ebene.md",
+    "Untitled.md",
     "Polstellen und Flächeninhalt.md",
     "Matheaufgaben.md",
     "Z_Exklusiv zur Formelsammlung/Binomialsymmetrien/Seite 159 Nr. 11).md",
