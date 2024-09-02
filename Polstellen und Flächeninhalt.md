@@ -7,7 +7,7 @@ $$\lim_{x\to p}~(x-p)^k\cdot f(x)\neq0$$
 Generell soll eventuell gezeigt werden, dass für (alle) solche $f$ ein Flächeninhalt nahe der Stelle $p$ gegen unendlich läuft.
 **Versuch zu zeigen**:
 $$
-\lim_{c\to p}~\int^{c}_{}f(x)~dx=\infty
+\lim_{c\to p}~\int^{c}_{}f(x)~dx\to\infty
 $$
 
 ---
@@ -47,7 +47,7 @@ $g(x)=f^{-1}(x)-p$ ist somit eine Umkehrfunktion von $f(x+p)$.
 Nachdem eine Umkehrfunktion jetzt gegeben ist, welche für alle $f$ verwendet werden kann, wird die Umkehrfunktion verwendet um die Polstelle von $x\to y$ und $y\to x$ zu projizieren. Die Fläche, welche sich vorher gegen $0$ annähert, läuft hier gegen $\infty$.
 $$
 \begin{align}
-	\lim_{c\to p}~\int^{c-p}_{a-p}f(x+p)~dx&=
+	\lim_{c\to p}~\int^{c-p}_{a-p}f(x+p)~dx&\to
 		\lim_{c\to \infty}~\int^{c}_{x_i}\left(f^{-1}(x)-p\right)~dx+x_i\cdot\left(f^{-1}(x_i)-p\right)
 \end{align}
 $$

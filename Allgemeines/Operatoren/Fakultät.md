@@ -1,6 +1,10 @@
 Die Fakultät ist ein Operator, bei welchem von einer [natürlichen Zahl](Zahlensets) alle davorliegenden Zahlen multipliziert werden.
 Es ist folgendermaßen definiert:
 $$
+n!=n\cdot (n-1)!
+$$
+Alternativ gilt für Zahlen $n$ aus $\mathbb{N}^+$ folgendes:
+$$
 n!\coloneqq\prod^{n}_{k=1}k= 1\cdot2\cdot3\cdot\,\cdots\,\cdot n
 $$
 Zusätzlich dazu ist $0!$ als $1$ definiert. $0!=1$

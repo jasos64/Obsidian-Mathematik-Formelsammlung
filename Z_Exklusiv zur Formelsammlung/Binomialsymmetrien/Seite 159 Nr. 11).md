@@ -236,6 +236,12 @@ $$
 
 ### Ende der Untersuchung und "Fazit"
 Durch diese letzten beiden "Untersuchungen" zeigt sich, dass jede Binomialverteilung mit dem Wert $p=0,5$ für alle $n$ eine Geradensymmetrie mit der Geraden $x=0,5n$ besitzt.
+
+$$
+\begin{align}
+	\forall n\in\mathbb{N},~
+\end{align}
+$$
 <p align="right">
 ■
 </p>

@@ -1,0 +1,1 @@
+Für [Binome](Binom) $n$-ten Grades gilt 
