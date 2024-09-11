@@ -1,0 +1,1 @@
+Nehmen wir an, dass eine Funktion $f:\mathbb{R}\to\mathbb{R}$ $k$-mal differenzierbar ist  
