@@ -27,8 +27,8 @@ $$
 	P(X\le g_2-1)&\ge 0,975
 \end{align}
 $$
-Der Taschenrechner gibt für $k=39$ den kleinsten Wert an, somit ist $V_r=\left[40;50\right]$.
-Daraus ergibt sich für den Verwerfungsbereich $V=\left[0;26\right]\cup\left[40;50\right]$.
+Der Taschenrechner gibt für $k=40$ den kleinsten Wert an, somit ist $V_r=\left[41;50\right]$.
+Daraus ergibt sich für den Verwerfungsbereich $V=\left[0;26\right]\cup\left[41;50\right]$.
 
 ---
 ---

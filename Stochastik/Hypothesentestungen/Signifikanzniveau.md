@@ -1,0 +1,2 @@
+> Das Signifikanzniveau, auch Irrtumswahrscheinlichkeit, wird mit dem Buchstaben $\alpha$ gekennzeichnet.
+> Bei einem links-, rechts- oder beidseitigem Hypothesentest gibt das Signifikanzniveau an, mit welcher Wahrscheinlichkeit die Nullhypothese fälschlicherweise abgelehnt wird.

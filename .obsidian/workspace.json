@@ -13,14 +13,41 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Z_Exklusiv zur Formelsammlung/Binomialsymmetrien/Seite 220 Nr. 1c) und 2ab).md",
+                "file": "Z_Exklusiv zur Formelsammlung/Aufgabensammlung von HA und mehr/Seite 220 Nr. 1c) und 2ab).md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5cd0717105a740c7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Stochastik/Hypothesentestungen/Alternativhypothese.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2960a9568d46e4f6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Z_Exklusiv zur Formelsammlung/Aufgaben 1.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -97,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Z_Exklusiv zur Formelsammlung/Binomialsymmetrien/Seite 220 Nr. 1c) und 2ab).md",
+                "file": "Z_Exklusiv zur Formelsammlung/Aufgaben 1.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Z_Exklusiv zur Formelsammlung/Binomialsymmetrien/Seite 220 Nr. 1c) und 2ab).md",
+                "file": "Z_Exklusiv zur Formelsammlung/Aufgaben 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Z_Exklusiv zur Formelsammlung/Binomialsymmetrien/Seite 220 Nr. 1c) und 2ab).md"
+                "file": "Z_Exklusiv zur Formelsammlung/Aufgaben 1.md"
               }
             }
           },
@@ -171,7 +198,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Z_Exklusiv zur Formelsammlung/Binomialsymmetrien/Seite 220 Nr. 1c) und 2ab).md",
+                "file": "Z_Exklusiv zur Formelsammlung/Aufgaben 1.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -223,11 +250,35 @@
       "3d-graph:3D Graph": false
     }
   },
-  "active": "da40c84ee399b3fb",
+  "active": "2960a9568d46e4f6",
   "lastOpenFiles": [
-    "Z_Exklusiv zur Formelsammlung/Binomialsymmetrien/Seite 220 Nr. 1c) und 2ab).pdf",
+    "Z_Exklusiv zur Formelsammlung/Aufgabensammlung von HA und mehr/Seite 158 Nr. 1).md",
+    "Z_Exklusiv zur Formelsammlung/Aufgabensammlung von HA und mehr/Seite 70 Nr. 6).md",
+    "Z_Exklusiv zur Formelsammlung/Aufgabensammlung von HA und mehr/Seite 70 Nr. 5).pdf",
+    "Z_Exklusiv zur Formelsammlung/Aufgabensammlung von HA und mehr/Seite 70 Nr. 5).md",
+    "Z_Exklusiv zur Formelsammlung/Aufgabensammlung von HA und mehr/S. 69 1.b).pdf",
+    "Z_Exklusiv zur Formelsammlung/Aufgabensammlung von HA und mehr/S. 69 1.b).md",
+    "Z_Exklusiv zur Formelsammlung/Beweisführungen/Maximum radius of a rolling sphere.md",
+    "Z_Exklusiv zur Formelsammlung/Beweisführungen/nÜberK=nÜberN-k.md",
+    "Z_Exklusiv zur Formelsammlung/Beweisführungen/Geradensymmetrie.md",
+    "Z_Exklusiv zur Formelsammlung/Beweisführungen/BinomialeSymmetrien.svg",
+    "Z_Exklusiv zur Formelsammlung/Aufgabensammlung von HA und mehr/Seite 217 Nr. 4).md",
+    "Z_Exklusiv zur Formelsammlung/Aufgabensammlung von HA und mehr/Seite 217 Nr. 4).pdf",
+    "Stochastik/Hypothesentestungen/Alternativhypothese.md",
+    "Stochastik/Hypothesentestungen/Nullhypothese.md",
+    "Stochastik/Hypothesentestungen/Signifikanzniveau.md",
+    "Z_Kleiner Aufgabenpool für unsortierte Aufgaben/Äquivalenzumformungen mit linearen Funktionen zum anwenden.md",
+    "Z_Exklusiv zur Formelsammlung/Aufgabensammlung von HA und mehr/Seite 220 Nr. 1c) und 2ab).md",
     "Mathestunde 10.09.2024.md",
-    "Z_Exklusiv zur Formelsammlung/Binomialsymmetrien/Seite 220 Nr. 1c) und 2ab).md",
+    "Nr 2ef-def.md",
+    "Stochastik/Hypothesentestungen",
+    "Z_Exklusiv zur Formelsammlung/Aufgabensammlung von HA und mehr/Nr 2ef-def.pdf",
+    "Pasted image 20240915221824.png",
+    "Z_Exklusiv zur Formelsammlung/Aufgaben 3.md",
+    "Z_Exklusiv zur Formelsammlung/Aufgaben 2.md",
+    "Z_Exklusiv zur Formelsammlung/Aufgaben 1.md",
+    "Z_Exklusiv zur Formelsammlung/Alternator Energiezeug.md",
+    "Z_Exklusiv zur Formelsammlung/Aufgabensammlung von HA und mehr/Seite 220 Nr. 1c) und 2ab).pdf",
     "Matheaufgaben.md",
     "Annahmebvereich.png",
     "Pasted image 20240909183656.png",
@@ -237,40 +288,16 @@
     "Allgemeines/Zahlen/Binom.md",
     "Analysis/Allgemein/Tailorpolinomentwicklung.md",
     "Analytische Geometrie/Ebenen/Schnittmenge Gerade-Ebene.md",
-    "Z_Exklusiv zur Formelsammlung/Binomialsymmetrien/Seite 159 Nr. 11).md",
-    "Z_Exklusiv zur Formelsammlung/Binomialsymmetrien/Seite 158 Nr. 1).md",
-    "Z_Exklusiv zur Formelsammlung/Binomialsymmetrien/S. 69 1.b).md",
-    "Z_Exklusiv zur Formelsammlung/Binomialsymmetrien/BinomialeSymmetrien.svg",
-    "Z_Exklusiv zur Formelsammlung/Analytische Geometrie/Maximum radius of a rolling sphere.md",
-    "Analysis/Nullstellen/Nullstellen.md",
-    "Analytische Geometrie/Abstände/Punkt - Gerade.md",
-    "Analytische Geometrie/Abstände/Punkt - Ebene.md",
-    "Analytische Geometrie/Abstände/Gerade - Gerade (Parallel).md",
-    "Analytische Geometrie/Abstände/Gerade - Ebene (Parallel).md",
-    "Analytische Geometrie/Abstände/Abstand.md",
-    "Analysis/Kurvendiskussion/Wendestellen-Wendepunkte.md",
-    "Analysis/Kurvendiskussion/Symmetrie.md",
-    "Analysis/Kurvendiskussion/Monotonieverhalten.md",
-    "Analysis/Kurvendiskussion/Lokale Extrema.md",
-    "Analysis/Kurvendiskussion/Funktion(en).md",
-    "Analysis/Nullstellen/Komplexe Nullstellen.md",
-    "Z_Exklusiv zur Formelsammlung/Binomialsymmetrien/S. 69 1.b).pdf",
     "Z_Exklusiv zur Formelsammlung/Schneiden von Kreisen und Kugeln/desmos-graph.svg",
     "Z__MAcbeth",
     "Analytische Geometrie/Vektoren/Vektorarten",
     "Analytische Geometrie/Vektoren/Längen",
     "Analytische Geometrie/Vektoren/Vektoroperationen",
-    "Analytische Geometrie/Vektoren/Winkel",
-    "Z_Exklusiv zur Formelsammlung/Analytische Geometrie",
-    "Z_Exklusiv zur Formelsammlung/Binomialsymmetrien/Seite 70 Nr. 5).pdf",
-    "Z_Exklusiv zur Formelsammlung/Binomialsymmetrien/Seite 158 Nr. 1).pdf",
-    "Z_Exklusiv zur Formelsammlung/Binomialsymmetrien/Seite 159, 11).pdf",
     "Z_Exklusiv zur Formelsammlung/Schneiden von Kreisen und Kugeln/Pasted image 20240103145623.png",
     "Pasted image 20240405155728.png",
     "5b7c2ac95b24e79bbac75fe6141c23b48200a824.svg",
     "2bbabc77f17920c2ff060582a9a7d77b4c43b32a.svg",
     "d7edfaa75620ef8825e4faecb555ebcddf6d7a8e.svg",
-    "Pasted image 20240120174944.png",
     "Untitled.canvas"
   ]
 }

@@ -592,6 +592,10 @@ DXK
 Dwc
 DIQ
 Den
+DTqM
+DKN
+DAo
+Drei
 Eine
 Eingangswert
 Einsetzen
@@ -1219,6 +1223,8 @@ Exponent
 ETqM
 ETS
 EyR
+Emf
+ErY
 Funktion
 Funktionsnamen
 Form
@@ -1854,6 +1860,8 @@ FEE
 Folgende
 Fairness
 Fund
+Fmu
+FQr
 beliebigen
 besitzen
 berührt
@@ -2568,6 +2576,12 @@ bestätigt
 beidseitiger
 beidseitigen
 behauptet
+bRE
+bHNq
+bsY
+bGR
+bYG
+beidseitigem
 Namens
 Nullstelle
 Nullstellen
@@ -3148,6 +3162,8 @@ Nordöstliche
 Nji
 Nlv
 Nullhypothese
+NXE
+NSx
 Oftmals
 Operation
 Ortsvektor
@@ -3677,6 +3693,7 @@ OAWDA
 Orc
 OGU
 Oqgf
+ORe
 oder
 oft
 oftmals
@@ -4246,6 +4263,10 @@ ordnet
 ozF
 oiWt
 orientieren
+oVP
+oPa
+ovZS
+oMo
 ist
 in
 im
@@ -4871,6 +4892,8 @@ ihn
 iWK
 ideal
 ins
+iWe
+igdj
 eine
 eines
 einem
@@ -5629,6 +5652,8 @@ eben
 eingeben
 endgültiges
 erwartende
+eFx
+erzielen
 Beschreibung
 Besondere
 Beispiel
@@ -6298,6 +6323,7 @@ Buchstaben
 Bereiches
 Bild
 Behauptung
+BGh
 Rechenvorganges
 Rest
 Rechnung
@@ -6922,6 +6948,7 @@ Rcs
 RVP
 REr
 RYz
+RpW
 welcher
 wird
 werden
@@ -7613,6 +7640,8 @@ wvU
 werte
 würfen
 wirft
+wenigstens
+widerlegt
 mit
 man
 müssen
@@ -8260,6 +8289,7 @@ mxy
 mkl
 mkK
 meistens
+mxoh
 durchgeführt
 dem
 den
@@ -9044,6 +9074,8 @@ dQU
 dBvUuu
 dnyM
 drücken
+dBD
+dZM
 Abhängigkeit
 Aufgaben
 Achsen
@@ -9750,6 +9782,7 @@ Ajll
 Annahmebereich
 Alternativhypothese
 Alpha
+Avmf
 zu
 zwei
 zunächst
@@ -10280,6 +10313,7 @@ ztad
 zVWW
 zyZ
 zgq
+zkNu
 gesetzt
 gegeben
 gelten
@@ -11006,6 +11040,10 @@ genannt
 griechischen
 gezinkten
 gezinkt
+gNh
+gMA
+gesagt
+gegensätzlich
 sodass
 sind
 so
@@ -11949,6 +11987,9 @@ stimmt
 sogenannten
 suchen
 seinem
+sot
+suT
+sZvg
 neben
 nach
 nun
@@ -12579,6 +12620,7 @@ nXf
 nOL
 nehmen
 notieren
+nAX
 Klammern
 Kettenregel
 Kriterium
@@ -13172,6 +13214,8 @@ Koordinaten
 Kompletten
 KoO
 Kommen
+KmA
+KfGA
 Variable
 Veränderung
 Veränderungsrate
@@ -13780,6 +13824,7 @@ Verwurfsbereich
 Verwerfungsbereich
 Verwerfungsbereiches
 Verwerfungsbereiche
+VIv
 Platzhalter
 Punkte
 Punkt
@@ -14376,6 +14421,10 @@ Pms
 Physikalische
 Paa
 Prozent
+PZP
+PjJOV
+Pht
+PyQ
 Zahl
 Zwei
 Zeitraum
@@ -15787,6 +15836,10 @@ ablehnen
 aufhält
 angucken
 addieren
+avL
+aoQ
+arl
+abgelehnt
 kann
 können
 kleines
@@ -16381,6 +16434,10 @@ kdM
 klein
 kumulierte
 kritischen
+kCd
+ktw
+kBdu
+kcQ
 Hier
 Hierbei
 Hierfür
@@ -16972,6 +17029,7 @@ Hypothese
 Hypothesen
 Häufig
 Hypothesentest
+Hqw
 usw
 und
 untersucht
@@ -17610,6 +17668,9 @@ uKa
 unser
 umformen
 unseren
+ucS
+uoX
+umgedreht
 verwendet
 visuell
 von
@@ -18268,6 +18329,11 @@ vxHl
 verstehen
 verfolgen
 viel
+vLh
+vbLm
+vyn
+vso
+verformte
 frei
 für
 finden
@@ -19647,6 +19713,8 @@ hMb
 hfV
 heQy
 hypothese
+hDx
+hhtY
 Sei
 Stellen
 Sie
@@ -20374,6 +20442,7 @@ Signifikanzniveau
 Signifikanztest
 Stichprobenumfang
 Sechsen
+Sdzn
 jede
 jedes
 jeden
@@ -20951,6 +21020,10 @@ jma
 jou
 jvl
 jTA
+jnE
+jcH
+jzX
+jJy
 reelle
 rechnen
 rechts
@@ -21631,6 +21704,7 @@ rzcNU
 rYU
 rFJ
 rechten
+rQP
 Tut
 Termumformung
 Tiefpunkt
@@ -22224,6 +22298,12 @@ Thema
 Testen
 Tabelle
 Tabellenwerte
+TyfH
+TyYi
+TMQ
+Tgg
+TWc
+Testverfahren
 Mathematisch
 Maxima
 Möglichkeiten
@@ -22855,6 +22935,10 @@ MPP
 Münze
 Messungen
 Münzwurf
+Mws
+MbU
+Mqt
+MVV
 Gleichsetzen
 Gegeben
 Generalisiert
@@ -23454,6 +23538,9 @@ GHg
 Gni
 Grübeln
 Gegenteil
+Gru
+Gtsg
+Gmm
 Um
 Unendlichen
 Ursprung
@@ -24019,6 +24106,9 @@ Umleitung
 Umstellen
 UGDsY
 UGY
+Usi
+UAr
+UJR
 Wenn
 Wert
 Wichtig
@@ -24612,6 +24702,7 @@ Wir
 Wappen
 WQaBZ
 Wobei
+WOTi
 lauten
 lokale
 links
@@ -25781,6 +25872,8 @@ Qkc
 Qmm
 Qzq
 Quasi
+QTk
+QGQ
 Intervall
 Intervallgrenzen
 Insgesamt
@@ -26328,6 +26421,10 @@ IRHWD
 IKs
 ICe
 Irrtumswahrscheinlichkeit
+IjPBe
+ItAQ
+IAt
+IUm
 überprüfen
 übrig
 über
@@ -26929,6 +27026,8 @@ LXg
 Linke
 Laura
 Lukas
+LkKs
+Logarithmen
 punktsymmetrisch
 passenden
 pss
@@ -27693,6 +27792,9 @@ pfh
 pfX
 pAUQ
 pEa
+pFdcz
+pUX
+pme
 Äquivalenzumformung
 ÄI
 ÄP
@@ -28312,6 +28414,9 @@ CnN
 Chg
 CDdr
 Cxix
+Cnr
+CnE
+CnT
 tXeE
 tj
 tP
@@ -28952,6 +29057,8 @@ tKKZ
 tjk
 tIa
 tJa
+txl
+tiE
 yW
 yT
 yN
@@ -29484,6 +29591,8 @@ yyyHHM
 yPw
 yNM
 ykr
+yWF
+ybgxWfK
 xx
 xj
 xxlp
@@ -30033,6 +30142,7 @@ xWL
 xTk
 xOl
 xuh
+xTE
 Yk
 Yh
 YMm
@@ -30518,6 +30628,7 @@ Ynw
 YTK
 Yze
 YTiD
+YgEi
 JH
 JA
 JW
@@ -31559,6 +31670,7 @@ XNI
 XjQ
 XJLR
 XXZ
+XIA
 cCT
 cO
 cZ
@@ -32372,6 +32484,9 @@ collects
 cbff
 cfi
 chL
+cPt
+cgm
+cqj
 qyy
 qF
 qZ
@@ -32890,6 +33005,9 @@ quadriert
 quite
 qflG
 qbyJ
+qJV
+qmp
+qbY
 Öffnungsfaktor
 Ökoligische
 ÖDF
