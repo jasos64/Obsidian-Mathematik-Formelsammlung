@@ -2582,6 +2582,7 @@ bsY
 bGR
 bYG
 beidseitigem
+bestehenden
 Namens
 Nullstelle
 Nullstellen
@@ -19715,6 +19716,7 @@ heQy
 hypothese
 hDx
 hhtY
+hinweist
 Sei
 Stellen
 Sie

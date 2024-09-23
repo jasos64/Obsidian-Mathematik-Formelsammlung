@@ -8,46 +8,19 @@
         "type": "tabs",
         "children": [
           {
-            "id": "da40c84ee399b3fb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Z_Exklusiv zur Formelsammlung/Aufgabensammlung von HA und mehr/Seite 220 Nr. 1c) und 2ab).md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5cd0717105a740c7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Stochastik/Hypothesentestungen/Alternativhypothese.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "2960a9568d46e4f6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Z_Exklusiv zur Formelsammlung/Aufgaben 1.md",
+                "file": "Z_Exklusiv zur Formelsammlung/Aufgabensammlung von HA und mehr/Probeabi Analytische Geometrie.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -97,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 343
+    "width": 343,
+    "collapsed": true
   },
   "right": {
     "id": "1b65db29e51e971a",
@@ -124,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Z_Exklusiv zur Formelsammlung/Aufgaben 1.md",
+                "file": "Z_Exklusiv zur Formelsammlung/Aufgabensammlung von HA und mehr/Probeabi Analytische Geometrie.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Z_Exklusiv zur Formelsammlung/Aufgaben 1.md",
+                "file": "Z_Exklusiv zur Formelsammlung/Aufgabensammlung von HA und mehr/Probeabi Analytische Geometrie.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Z_Exklusiv zur Formelsammlung/Aufgaben 1.md"
+                "file": "Z_Exklusiv zur Formelsammlung/Aufgabensammlung von HA und mehr/Probeabi Analytische Geometrie.md"
               }
             }
           },
@@ -198,7 +172,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Z_Exklusiv zur Formelsammlung/Aufgaben 1.md",
+                "file": "Z_Exklusiv zur Formelsammlung/Aufgabensammlung von HA und mehr/Probeabi Analytische Geometrie.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -252,6 +226,11 @@
   },
   "active": "2960a9568d46e4f6",
   "lastOpenFiles": [
+    "Z_Exklusiv zur Formelsammlung/Aufgabensammlung von HA und mehr/Probeabi Analytische Geometrie.pdf",
+    "Stochastik/Hypothesentestungen/Alternativhypothese.md",
+    "Z_Exklusiv zur Formelsammlung/Aufgabensammlung von HA und mehr/Seite 220 Nr. 1c) und 2ab).md",
+    "Z_Exklusiv zur Formelsammlung/Aufgabensammlung von HA und mehr/Probeabi Analytische Geometrie.md",
+    "Z_Exklusiv zur Formelsammlung/Aufgaben 1.md",
     "Z_Exklusiv zur Formelsammlung/Aufgabensammlung von HA und mehr/Seite 158 Nr. 1).md",
     "Z_Exklusiv zur Formelsammlung/Aufgabensammlung von HA und mehr/Seite 70 Nr. 6).md",
     "Z_Exklusiv zur Formelsammlung/Aufgabensammlung von HA und mehr/Seite 70 Nr. 5).pdf",
@@ -264,11 +243,9 @@
     "Z_Exklusiv zur Formelsammlung/Beweisführungen/BinomialeSymmetrien.svg",
     "Z_Exklusiv zur Formelsammlung/Aufgabensammlung von HA und mehr/Seite 217 Nr. 4).md",
     "Z_Exklusiv zur Formelsammlung/Aufgabensammlung von HA und mehr/Seite 217 Nr. 4).pdf",
-    "Stochastik/Hypothesentestungen/Alternativhypothese.md",
     "Stochastik/Hypothesentestungen/Nullhypothese.md",
     "Stochastik/Hypothesentestungen/Signifikanzniveau.md",
     "Z_Kleiner Aufgabenpool für unsortierte Aufgaben/Äquivalenzumformungen mit linearen Funktionen zum anwenden.md",
-    "Z_Exklusiv zur Formelsammlung/Aufgabensammlung von HA und mehr/Seite 220 Nr. 1c) und 2ab).md",
     "Mathestunde 10.09.2024.md",
     "Nr 2ef-def.md",
     "Stochastik/Hypothesentestungen",
@@ -276,7 +253,6 @@
     "Pasted image 20240915221824.png",
     "Z_Exklusiv zur Formelsammlung/Aufgaben 3.md",
     "Z_Exklusiv zur Formelsammlung/Aufgaben 2.md",
-    "Z_Exklusiv zur Formelsammlung/Aufgaben 1.md",
     "Z_Exklusiv zur Formelsammlung/Alternator Energiezeug.md",
     "Z_Exklusiv zur Formelsammlung/Aufgabensammlung von HA und mehr/Seite 220 Nr. 1c) und 2ab).pdf",
     "Matheaufgaben.md",
@@ -286,8 +262,6 @@
     "Polstellen und Flächeninhalt.md",
     "Allgemeines/Gesetze/Binomischer Lehrsatz.md",
     "Allgemeines/Zahlen/Binom.md",
-    "Analysis/Allgemein/Tailorpolinomentwicklung.md",
-    "Analytische Geometrie/Ebenen/Schnittmenge Gerade-Ebene.md",
     "Z_Exklusiv zur Formelsammlung/Schneiden von Kreisen und Kugeln/desmos-graph.svg",
     "Z__MAcbeth",
     "Analytische Geometrie/Vektoren/Vektorarten",
