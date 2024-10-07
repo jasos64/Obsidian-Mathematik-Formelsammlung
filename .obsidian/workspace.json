@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Z_Exklusiv zur Formelsammlung/Aufgabensammlung von HA und mehr/Probeabi Analytische Geometrie.md",
+                "file": "Z_Exklusiv zur Formelsammlung/Aufgabensammlung von HA und mehr/Seite 197 Nr. 3ab).md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -70,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 343,
-    "collapsed": true
+    "width": 343
   },
   "right": {
     "id": "1b65db29e51e971a",
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Z_Exklusiv zur Formelsammlung/Aufgabensammlung von HA und mehr/Probeabi Analytische Geometrie.md",
+                "file": "Z_Exklusiv zur Formelsammlung/Aufgabensammlung von HA und mehr/Seite 197 Nr. 3ab).md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Z_Exklusiv zur Formelsammlung/Aufgabensammlung von HA und mehr/Probeabi Analytische Geometrie.md",
+                "file": "Z_Exklusiv zur Formelsammlung/Aufgabensammlung von HA und mehr/Seite 197 Nr. 3ab).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Z_Exklusiv zur Formelsammlung/Aufgabensammlung von HA und mehr/Probeabi Analytische Geometrie.md"
+                "file": "Z_Exklusiv zur Formelsammlung/Aufgabensammlung von HA und mehr/Seite 197 Nr. 3ab).md"
               }
             }
           },
@@ -172,7 +171,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Z_Exklusiv zur Formelsammlung/Aufgabensammlung von HA und mehr/Probeabi Analytische Geometrie.md",
+                "file": "Z_Exklusiv zur Formelsammlung/Aufgabensammlung von HA und mehr/Seite 197 Nr. 3ab).md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -226,11 +225,27 @@
   },
   "active": "2960a9568d46e4f6",
   "lastOpenFiles": [
+    "Z_Exklusiv zur Formelsammlung/Aufgabensammlung von HA und mehr/Seite 197 Nr. 3ab).pdf",
+    "Z_Exklusiv zur Formelsammlung/Aufgabensammlung von HA und mehr/Seite 197 Nr. 2b).md",
+    "Z_Exklusiv zur Formelsammlung/Aufgabensammlung von HA und mehr/Seite 197 Nr. 3ab).md",
+    "Z_Exklusiv zur Formelsammlung/Aufgabensammlung von HA und mehr/Seite 197 Nr. 2b).pdf",
+    "Z_Exklusiv zur Formelsammlung/Aufgabensammlung von HA und mehr/Seite 197 Nr. 1bcd).md",
+    "Z_Exklusiv zur Formelsammlung/Aufgabensammlung von HA und mehr/Seite 197 Nr. 1bcd).pdf",
+    "Z_Exklusiv zur Formelsammlung/Aufgabensammlung von HA und mehr/Mathestunde 10.09.2024.md",
+    "Analytische Geometrie/Kreise und Kugeln/Tangentialebenen.md",
+    "Analytische Geometrie/Kreise und Kugeln/Kreise und Kugeln.md",
+    "Z_Exklusiv zur Formelsammlung/Aufgabensammlung von HA und mehr/Seite 194 Nr. 9a).md",
+    "Analytische Geometrie/Kreise und Kugeln",
+    "Z_Exklusiv zur Formelsammlung/Aufgabensammlung von HA und mehr/Seite 194 Nr. 9a).pdf",
+    "Z_Exklusiv zur Formelsammlung/Aufgabensammlung von HA und mehr/DesmosKreise9a) 1.png",
+    "Z_Exklusiv zur Formelsammlung/Aufgabensammlung von HA und mehr/DesmosKreise9a).png",
+    "Z_Exklusiv zur Formelsammlung/Aufgabensammlung von HA und mehr/Seite 194 Nr. 7ad).md",
+    "Z_Exklusiv zur Formelsammlung/Aufgabensammlung von HA und mehr/Seite 194 Nr. 7ad).pdf",
+    "Z_Exklusiv zur Formelsammlung/Aufgabensammlung von HA und mehr/Probeabi Analytische Geometrie.md",
     "Z_Exklusiv zur Formelsammlung/Aufgabensammlung von HA und mehr/Probeabi Analytische Geometrie.pdf",
     "Stochastik/Hypothesentestungen/Alternativhypothese.md",
     "Z_Exklusiv zur Formelsammlung/Aufgabensammlung von HA und mehr/Seite 220 Nr. 1c) und 2ab).md",
-    "Z_Exklusiv zur Formelsammlung/Aufgabensammlung von HA und mehr/Probeabi Analytische Geometrie.md",
-    "Z_Exklusiv zur Formelsammlung/Aufgaben 1.md",
+    "Z_Exklusiv zur Formelsammlung/Aufgabensammlung von HA und mehr/Aufgaben 1.md",
     "Z_Exklusiv zur Formelsammlung/Aufgabensammlung von HA und mehr/Seite 158 Nr. 1).md",
     "Z_Exklusiv zur Formelsammlung/Aufgabensammlung von HA und mehr/Seite 70 Nr. 6).md",
     "Z_Exklusiv zur Formelsammlung/Aufgabensammlung von HA und mehr/Seite 70 Nr. 5).pdf",
@@ -246,32 +261,16 @@
     "Stochastik/Hypothesentestungen/Nullhypothese.md",
     "Stochastik/Hypothesentestungen/Signifikanzniveau.md",
     "Z_Kleiner Aufgabenpool für unsortierte Aufgaben/Äquivalenzumformungen mit linearen Funktionen zum anwenden.md",
-    "Mathestunde 10.09.2024.md",
-    "Nr 2ef-def.md",
+    "Z_Exklusiv zur Formelsammlung/Aufgabensammlung von HA und mehr/Nr 2ef-def.md",
     "Stochastik/Hypothesentestungen",
-    "Z_Exklusiv zur Formelsammlung/Aufgabensammlung von HA und mehr/Nr 2ef-def.pdf",
     "Pasted image 20240915221824.png",
-    "Z_Exklusiv zur Formelsammlung/Aufgaben 3.md",
-    "Z_Exklusiv zur Formelsammlung/Aufgaben 2.md",
-    "Z_Exklusiv zur Formelsammlung/Alternator Energiezeug.md",
-    "Z_Exklusiv zur Formelsammlung/Aufgabensammlung von HA und mehr/Seite 220 Nr. 1c) und 2ab).pdf",
-    "Matheaufgaben.md",
-    "Annahmebvereich.png",
+    "Z_Exklusiv zur Formelsammlung/Aufgabensammlung von HA und mehr/Aufgaben 3.md",
+    "Z_Exklusiv zur Formelsammlung/Aufgabensammlung von HA und mehr/Annahmebvereich.png",
     "Pasted image 20240909183656.png",
-    "TestenEinfuerung.md",
-    "Polstellen und Flächeninhalt.md",
-    "Allgemeines/Gesetze/Binomischer Lehrsatz.md",
-    "Allgemeines/Zahlen/Binom.md",
     "Z_Exklusiv zur Formelsammlung/Schneiden von Kreisen und Kugeln/desmos-graph.svg",
-    "Z__MAcbeth",
-    "Analytische Geometrie/Vektoren/Vektorarten",
-    "Analytische Geometrie/Vektoren/Längen",
-    "Analytische Geometrie/Vektoren/Vektoroperationen",
     "Z_Exklusiv zur Formelsammlung/Schneiden von Kreisen und Kugeln/Pasted image 20240103145623.png",
     "Pasted image 20240405155728.png",
     "5b7c2ac95b24e79bbac75fe6141c23b48200a824.svg",
-    "2bbabc77f17920c2ff060582a9a7d77b4c43b32a.svg",
-    "d7edfaa75620ef8825e4faecb555ebcddf6d7a8e.svg",
     "Untitled.canvas"
   ]
 }

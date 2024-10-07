@@ -1225,6 +1225,8 @@ ETS
 EyR
 Emf
 ErY
+Eckpunkte
+Ermitteln
 Funktion
 Funktionsnamen
 Form
@@ -1862,6 +1864,7 @@ Fairness
 Fund
 Fmu
 FQr
+Fußpunkt
 beliebigen
 besitzen
 berührt
@@ -2583,6 +2586,9 @@ bGR
 bYG
 beidseitigem
 bestehenden
+befestigt
+blablabla
+bzw
 Namens
 Nullstelle
 Nullstellen
@@ -3165,6 +3171,8 @@ Nlv
 Nullhypothese
 NXE
 NSx
+Nähe
+Normalisieren
 Oftmals
 Operation
 Ortsvektor
@@ -5655,6 +5663,10 @@ endgültiges
 erwartende
 eFx
 erzielen
+entspricht
+ebenen
+erreichen
+erfüllen
 Beschreibung
 Besondere
 Beispiel
@@ -6325,6 +6337,9 @@ Bereiches
 Bild
 Behauptung
 BGh
+Betrachten
+Berührungsbedingung
+Berührungspunkt
 Rechenvorganges
 Rest
 Rechnung
@@ -6950,6 +6965,11 @@ RVP
 REr
 RYz
 RpW
+Realität
+Rechteck
+Rahmen
+Renovierung
+Radien
 welcher
 wird
 werden
@@ -7643,6 +7663,8 @@ würfen
 wirft
 wenigstens
 widerlegt
+während
+wählen
 mit
 man
 müssen
@@ -9077,6 +9099,9 @@ dnyM
 drücken
 dBD
 dZM
+demjenigen
+darüber
+diejenige
 Abhängigkeit
 Aufgaben
 Achsen
@@ -9784,6 +9809,12 @@ Annahmebereich
 Alternativhypothese
 Alpha
 Avmf
+Abschluss
+Abschnitte
+Arkuscosinus
+Außerhalb
+Achsenkomponenten
+Angehängt
 zu
 zwei
 zunächst
@@ -11045,6 +11076,11 @@ gNh
 gMA
 gesagt
 gegensätzlich
+greift
+ganzzahligen
+ganzzahlig
+geringsten
+genereller
 sodass
 sind
 so
@@ -12622,6 +12658,7 @@ nOL
 nehmen
 notieren
 nAX
+nachgedacht
 Klammern
 Kettenregel
 Kriterium
@@ -13217,6 +13254,15 @@ KoO
 Kommen
 KmA
 KfGA
+Kletterhalle
+Kletterer
+Kante
+Konstruieren
+Konstruiert
+Koordinatenpaar
+Künftig
+Koordinatenachsen
+Kreise
 Variable
 Veränderung
 Veränderungsrate
@@ -13826,6 +13872,11 @@ Verwerfungsbereich
 Verwerfungsbereiches
 Verwerfungsbereiche
 VIv
+Vierecke
+Viereck
+Verbindungsvektoren
+Vierecks
+Vereinfachung
 Platzhalter
 Punkte
 Punkt
@@ -15841,6 +15892,9 @@ avL
 aoQ
 arl
 abgelehnt
+auszuschließen
+allgemeinem
+auffindbar
 kann
 können
 kleines
@@ -16439,6 +16493,7 @@ kCd
 ktw
 kBdu
 kcQ
+klettert
 Hier
 Hierbei
 Hierfür
@@ -17031,6 +17086,9 @@ Hypothesen
 Häufig
 Hypothesentest
 Hqw
+Hallenboden
+Hallendach
+Hand
 usw
 und
 untersucht
@@ -18335,6 +18393,8 @@ vbLm
 vyn
 vso
 verformte
+vorne
+vielen
 frei
 für
 finden
@@ -19044,6 +19104,8 @@ fairen
 fälschlicherweise
 festgelegt
 folgen
+festhält
+festhalten
 haben
 handelt
 hier
@@ -19717,6 +19779,7 @@ hypothese
 hDx
 hhtY
 hinweist
+hangelt
 Sei
 Stellen
 Sie
@@ -20445,6 +20508,8 @@ Signifikanztest
 Stichprobenumfang
 Sechsen
 Sdzn
+Sportler
+Startpunkt
 jede
 jedes
 jeden
@@ -21707,6 +21772,8 @@ rYU
 rFJ
 rechten
 rQP
+rechter
+recht
 Tut
 Termumformung
 Tiefpunkt
@@ -22306,6 +22373,7 @@ TMQ
 Tgg
 TWc
 Testverfahren
+Trainingseinheit
 Mathematisch
 Maxima
 Möglichkeiten
@@ -22941,6 +23009,11 @@ Mws
 MbU
 Mqt
 MVV
+Meter
+Mittelpunt
+Mitte
+Multiplizieren
+Mittelpunkte
 Gleichsetzen
 Gegeben
 Generalisiert
@@ -23543,6 +23616,7 @@ Gegenteil
 Gru
 Gtsg
 Gmm
+Glocke
 Um
 Unendlichen
 Ursprung
@@ -24705,6 +24779,8 @@ Wappen
 WQaBZ
 Wobei
 WOTi
+Wand
+Wänden
 lauten
 lokale
 links
@@ -25383,6 +25459,7 @@ lZD
 lXFo
 linke
 linken
+läutet
 Quotientenregel
 QL
 Qb
@@ -27030,6 +27107,10 @@ Laura
 Lukas
 LkKs
 Logarithmen
+Längeneinheit
+Lambda
+Leine
+Lotes
 punktsymmetrisch
 passenden
 pss
@@ -27797,6 +27878,7 @@ pEa
 pFdcz
 pUX
 pme
+platziert
 Äquivalenzumformung
 ÄI
 ÄP
@@ -29061,6 +29143,7 @@ tIa
 tJa
 txl
 tiE
+trainiert
 yW
 yT
 yN
@@ -33035,6 +33118,7 @@ qbY
 äQW
 ändern
 ähnlich
+ähnliche
 ßW
 ßFe
 ßzG
