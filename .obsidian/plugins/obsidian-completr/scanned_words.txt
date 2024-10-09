@@ -596,6 +596,9 @@ DTqM
 DKN
 DAo
 Drei
+Deklinationstabelle
+Deklination
+Dativ
 Eine
 Eingangswert
 Einsetzen
@@ -1227,6 +1230,9 @@ Emf
 ErY
 Eckpunkte
 Ermitteln
+ECe
+Endung
+Eigenschaft
 Funktion
 Funktionsnamen
 Form
@@ -1865,6 +1871,9 @@ Fund
 Fmu
 FQr
 Fußpunkt
+Ffl
+Fte
+Forum
 beliebigen
 besitzen
 berührt
@@ -2589,6 +2598,8 @@ bestehenden
 befestigt
 blablabla
 bzw
+bpF
+byb
 Namens
 Nullstelle
 Nullstellen
@@ -3173,6 +3184,7 @@ NXE
 NSx
 Nähe
 Normalisieren
+Nominativ
 Oftmals
 Operation
 Ortsvektor
@@ -4276,6 +4288,11 @@ oVP
 oPa
 ovZS
 oMo
+oKD
+oKe
+oKu
+ozX
+odW
 ist
 in
 im
@@ -4903,6 +4920,9 @@ ideal
 ins
 iWe
 igdj
+ijQ
+ium
+ibus
 eine
 eines
 einem
@@ -5667,6 +5687,7 @@ entspricht
 ebenen
 erreichen
 erfüllen
+ergänzen
 Beschreibung
 Besondere
 Beispiel
@@ -6340,6 +6361,7 @@ BGh
 Betrachten
 Berührungsbedingung
 Berührungspunkt
+Bezugswort
 Rechenvorganges
 Rest
 Rechnung
@@ -7665,6 +7687,9 @@ wenigstens
 widerlegt
 während
 wählen
+wDEDi
+wyf
+weitergehend
 mit
 man
 müssen
@@ -8313,6 +8338,7 @@ mkl
 mkK
 meistens
 mxoh
+möchten
 durchgeführt
 dem
 den
@@ -9102,6 +9128,9 @@ dZM
 demjenigen
 darüber
 diejenige
+dpn
+dlk
+definiere
 Abhängigkeit
 Aufgaben
 Achsen
@@ -9815,6 +9844,9 @@ Arkuscosinus
 Außerhalb
 Achsenkomponenten
 Angehängt
+Aktiv
+Akkusativ
+Ablativ
 zu
 zwei
 zunächst
@@ -10346,6 +10378,11 @@ zVWW
 zyZ
 zgq
 zkNu
+zGV
+zoGZu
+zCj
+znQ
+zugeschrieben
 gesetzt
 gegeben
 gelten
@@ -11081,6 +11118,12 @@ ganzzahligen
 ganzzahlig
 geringsten
 genereller
+gII
+gOh
+gFn
+gleichzeitig
+grobe
+gehalten
 sodass
 sind
 so
@@ -12027,6 +12070,12 @@ seinem
 sot
 suT
 sZvg
+sTN
+sBB
+sfy
+sDs
+szD
+senator
 neben
 nach
 nun
@@ -12659,6 +12708,10 @@ nehmen
 notieren
 nAX
 nachgedacht
+nwtt
+ngi
+nSh
+nZI
 Klammern
 Kettenregel
 Kriterium
@@ -13263,6 +13316,12 @@ Koordinatenpaar
 Künftig
 Koordinatenachsen
 Kreise
+Koordinatengleichung
+KRr
+Kasusendung
+Kasus
+KNG
+Konstruktion
 Variable
 Veränderung
 Veränderungsrate
@@ -13877,6 +13936,7 @@ Viereck
 Verbindungsvektoren
 Vierecks
 Vereinfachung
+Variablenbezeichnungen
 Platzhalter
 Punkte
 Punkt
@@ -14477,6 +14537,14 @@ PZP
 PjJOV
 Pht
 PyQ
+POB
+PsB
+PPA
+Partizip
+Präsens
+Perfekt
+Passiv
+Präsensstamm
 Zahl
 Zwei
 Zeitraum
@@ -15060,6 +15128,7 @@ Zylindern
 ZXkY
 ZrS
 ZozF
+ZHI
 annehmen
 aufzeichnet
 ausgerechnet
@@ -15895,6 +15964,11 @@ abgelehnt
 auszuschließen
 allgemeinem
 auffindbar
+aFe
+aZr
+abgebildet
+ausführt
+angeht
 kann
 können
 kleines
@@ -16494,6 +16568,7 @@ ktw
 kBdu
 kcQ
 klettert
+kZP
 Hier
 Hierbei
 Hierfür
@@ -17089,6 +17164,8 @@ Hqw
 Hallenboden
 Hallendach
 Hand
+HJN
+Handlung
 usw
 und
 untersucht
@@ -17730,6 +17807,11 @@ unseren
 ucS
 uoX
 umgedreht
+uYy
+uqEe
+ukr
+unR
+unterliegen
 verwendet
 visuell
 von
@@ -18395,6 +18477,8 @@ vso
 verformte
 vorne
 vielen
+vIM
+vorzeitig
 frei
 für
 finden
@@ -20510,6 +20594,11 @@ Sechsen
 Sdzn
 Sportler
 Startpunkt
+SDJ
+Senator
+Singular
+Struktur
+Setzt
 jede
 jedes
 jeden
@@ -21774,6 +21863,10 @@ rechten
 rQP
 rechter
 recht
+rBg
+rufen
+ruft
+raus
 Tut
 Termumformung
 Tiefpunkt
@@ -22374,6 +22467,8 @@ Tgg
 TWc
 Testverfahren
 Trainingseinheit
+Tangentialebene
+Tangentialebenen
 Mathematisch
 Maxima
 Möglichkeiten
@@ -23014,6 +23109,10 @@ Mittelpunt
 Mitte
 Multiplizieren
 Mittelpunkte
+Mwk
+MZW
+Möchten
+Maskulinum
 Gleichsetzen
 Gegeben
 Generalisiert
@@ -23617,6 +23716,8 @@ Gru
 Gtsg
 Gmm
 Glocke
+Genitiv
+Gleichzeitigkeit
 Um
 Unendlichen
 Ursprung
@@ -24185,6 +24286,7 @@ UGY
 Usi
 UAr
 UJR
+UzG
 Wenn
 Wert
 Wichtig
@@ -24781,6 +24883,9 @@ Wobei
 WOTi
 Wand
 Wänden
+WAB
+WRUBS
+Weg
 lauten
 lokale
 links
@@ -25460,6 +25565,7 @@ lXFo
 linke
 linken
 läutet
+lauda
 Quotientenregel
 QL
 Qb
@@ -25953,6 +26059,10 @@ Qzq
 Quasi
 QTk
 QGQ
+QFfs
+QYb
+QWC
+Querschnitt
 Intervall
 Intervallgrenzen
 Insgesamt
@@ -26504,6 +26614,10 @@ IjPBe
 ItAQ
 IAt
 IUm
+IIHJ
+Ikc
+III
+ISf
 überprüfen
 übrig
 über
@@ -27879,6 +27993,9 @@ pFdcz
 pUX
 pme
 platziert
+pYr
+pyJ
+positiven
 Äquivalenzumformung
 ÄI
 ÄP
@@ -27886,6 +28003,8 @@ platziert
 Äquivalenz
 ÄBQi
 Ähnlichkeit
+Ähnlichkeiten
+Ähnlich
 Ce
 CL
 Cx
@@ -28501,6 +28620,8 @@ Cxix
 Cnr
 CnE
 CnT
+CZO
+CiJ
 tXeE
 tj
 tP
@@ -29144,6 +29265,7 @@ tJa
 txl
 tiE
 trainiert
+tSYw
 yW
 yT
 yN
@@ -29678,6 +29800,10 @@ yNM
 ykr
 yWF
 ybgxWfK
+yvp
+yAr
+yez
+yKH
 xx
 xj
 xxlp
@@ -30228,6 +30354,8 @@ xTk
 xOl
 xuh
 xTE
+xJv
+xMj
 Yk
 Yh
 YMm
@@ -31209,6 +31337,9 @@ JRxF
 JcB
 JmH
 JBI
+Jrf
+JLL
+JVc
 XH
 XQ
 XJ
@@ -31756,6 +31887,7 @@ XjQ
 XJLR
 XXZ
 XIA
+Xju
 cCT
 cO
 cZ
@@ -33093,6 +33225,9 @@ qbyJ
 qJV
 qmp
 qbY
+qGw
+qJo
+qpq
 Öffnungsfaktor
 Ökoligische
 ÖDF
@@ -33106,6 +33241,7 @@ qbY
 Übertragen
 Überprüfung
 Überprüfen
+Übersetzungsmöglichkeiten
 öwm
 övA
 öeATQ
