@@ -37,7 +37,7 @@ $$\begin{align}
 	&=\bigg|\int^{x_r}_{x_{l}}\sqrt{r^{2}-x^{2}}+h-r~~dx\bigg|\\
 	&=\bigg|\int^{x_r}_{x_{l}}\sqrt{d^{2}-x^{2}}~~dx+\int^{x_r}_{x_{l}}h~~dx+\int^{x_r}_{x_{l}}-r~~dx\bigg|\\
 \end{align}$$
-Weil die Funktion $a_{o}(x)$ eine y-Achsen Symmetrie besitzt, so kann eine der Integralgrenzen auf $0$ gesetzt werden. Zusätzlich muss das Integral darauf mit $2$ multipliziert werden, da das Intervall davor um die hälfte kleiner gemacht wurde.
+Weil die [[Funktion(en)]] $a_{o}(x)$ eine y-Achsen Symmetrie besitzt, so kann eine der Integralgrenzen auf $0$ gesetzt werden. Zusätzlich muss das Integral darauf mit $2$ multipliziert werden, da das Intervall davor um die hälfte kleiner gemacht wurde.
 
 $$\begin{align}
 	A_{o}(x)&=2\bigg|\int^{x_r}_{0}a_{o}(x)dx\bigg|\\
@@ -96,7 +96,7 @@ A_{u}&=\pi\cdot r^{2}-A_{o}(h)
 
 ---
 ## Bildung von $A_{g}(h)$
-Da in $A_{o}$ ein Definitionsbereich $D_{1}$ gegeben ist, so werde ich versuchen eine zusammengesetzte Funktion zu finden, welche diesen Bereich erweitert, damit anstelle des halben Kreises, der ganze von $h$ getrennt werden kann.
+Da in $A_{o}$ ein [[Definitionsbereich]] $D_{1}$ gegeben ist, so werde ich versuchen eine zusammengesetzte Funktion zu finden, welche diesen Bereich erweitert, damit anstelle des halben Kreises, der ganze von $h$ getrennt werden kann.
 
 ### Symmetrie
 Da es sich bei der Form um einen Kreis handelt, so kann ein größer abgeschnittenes Stück von dem Kreis mit $h>r$ als das Anschneiden von einem kleinerem Stück gesehen werden.

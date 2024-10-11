@@ -7,7 +7,7 @@
 Durch $\sqrt{49}=7$ folgt ein Radius $r$ der Kugel von $7$.
 - $r=7\left[LE\right]$
 
-Der kürzeste Abstand zwischen dem Mittelpunkt der Kugel und der Ebene bestimmt die Lagebeziehung zwischen Kugel $K$ und Ebene $E$.
+Der kürzeste [[Abstand]] zwischen dem Mittelpunkt der Kugel und der Ebene bestimmt die Lagebeziehung zwischen Kugel $K$ und Ebene $E$.
 Dieser Punkt wird weitergehend mit $M'$ beschrieben.
 
 $$
@@ -33,7 +33,7 @@ $$
 		+\lambda\cdot\begin{pmatrix}-\frac{3}{7}\\\frac{6}{7}\\-\frac{2}{7}\end{pmatrix}
 \end{align}
 $$
-Setzen wir diese Lotgerade nun in die Ebene ein, so erhalten wir durch bestimmen von $\lambda$ einen Wert, der die Länge des Verbindungsvektors zwischen $M$ und $M'$ beschreibt.
+Setzen wir diese Lotgerade nun in die [[Ebene(n)]] ein, so erhalten wir durch bestimmen von $\lambda$ einen Wert, der die Länge des [Verbindungsvektors](Verbindungsvektor(en)) zwischen $M$ und $M'$ beschreibt.
 
 $$
 \begin{align}

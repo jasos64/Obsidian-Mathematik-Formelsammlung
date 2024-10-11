@@ -18,5 +18,10 @@ $$
 \end{align}
 $$
 
+Die Schnittmenge lautet daher:
+$$
+\overrightarrow{OS_{1;2}}=\overrightarrow{OM_1}\pm\frac{r}{\left|\overrightarrow{M_1M_2}\right|}\cdot\overrightarrow{M_1M_2}
+$$
+
 ---
 ---

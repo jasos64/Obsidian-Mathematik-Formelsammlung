@@ -2,7 +2,7 @@
 
 Folgende Begriffe sind wichtig:
 > - Hypothese
-> - Signifikanzniveau (auch Irrtumswahrscheinlichkeit)
+> - [[Signifikanzniveau]] (auch Irrtumswahrscheinlichkeit)
 > - Verwurfsbereich
 > - Annahmebereich
 
@@ -12,21 +12,21 @@ Beispielsweise soll überprüft werden, ob eine Münze fair ist. Es wurde $50$ m
 Die Hypothese, die wir verfolgen, lautet also:
 $$H_0:p=0,5$$
 Quasi gelesen als:
-> Die (Null)hypothese besagt, dass die Münze fair ist, weil die Wahrscheinlichkeit für beide Seiten gleich sind ($50\%$).
+> Die (Null)hypothese besagt, dass die Münze fair ist, weil die [[Wahrscheinlichkeit]] für beide Seiten gleich sind ($50\%$).
 
-Es gibt zusätzlich eine weitere Hypothese, die das Gegenteil der Nullhypothese ist. Diese wird **"Alternativhypothese"** $H_1$ oder $H_A$ genannt.
-Die Alternativhypothese lautet für unser Beispiel also:
+Es gibt zusätzlich eine weitere Hypothese, die das Gegenteil der Nullhypothese ist. Diese wird **"[[Alternativhypothese]]"** $H_1$ oder $H_A$ genannt.
+Die [[Alternativhypothese]] lautet für unser Beispiel also:
 $$H_1:p\ne 0,5$$
 Quasi gelesen als:
 > Die Münze ist nicht fair
 
 ---
-### Verwurfsbereich und Signifikanzniveau
+### Verwurfsbereich und [[Signifikanzniveau]]
 (Weiterhin orientieren wir uns an das Beispiel der fairen Münze.)
 
-> Das Signifikanzniveau gibt an, zu wie viel Prozent die Nullhypothese fälschlicherweise angenommen wird (Als "Hypothese stimmt" festgelegt).
+> Das [[Signifikanzniveau]] gibt an, zu wie viel Prozent die [[Nullhypothese]] fälschlicherweise angenommen wird (Als "Hypothese stimmt" festgelegt).
 
-Diese Wahrscheinlichkeit wird mit dem griechischen Buchstaben $\alpha$ ausgedrückt. Häufig werden werte wie $5\%$ oder $1\%$ verwendet.
+Diese [[Wahrscheinlichkeit]] wird mit dem griechischen Buchstaben $\alpha$ ausgedrückt. Häufig werden werte wie $5\%$ oder $1\%$ verwendet.
 > Wichtig zu sagen ist, dass meistens $\alpha= 0,05$ für $5\%$ ist, und Alpha **unter** dieser Grenze liegen soll.
 
 ---

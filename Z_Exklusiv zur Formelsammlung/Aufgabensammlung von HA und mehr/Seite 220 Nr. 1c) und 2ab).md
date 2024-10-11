@@ -1,5 +1,5 @@
 ## 1
-> Bei einem Bernoulli-Versuch wird ein Signifikanztest mit Stichprobenumfang $n$ durchgeführt. Bestimmen Sie den Verwerfungsbereich und die Irrtumswahrscheinlichkeit für $\alpha=5\%$ und $\alpha=1\%$.
+> Bei einem Bernoulli-Versuch wird ein Signifikanztest mit Stichprobenumfang $n$ durchgeführt ([[Ungeordnetes ziehen mit zurücklegen (Bernoulli)]]). Bestimmen Sie den Verwerfungsbereich und die Irrtumswahrscheinlichkeit für $\alpha=5\%$ und $\alpha=1\%$.
 
 ---
 ### c)

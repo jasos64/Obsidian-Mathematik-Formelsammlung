@@ -1,5 +1,7 @@
+[[Ungeordnetes ziehen mit zurücklegen (Bernoulli)]]
+
 ## Münze
->Wir erhalten eine Münze und sollen entscheiden, ob sie ideal ist. D.h. Zahl und Wappen mit der gleichen Wahrscheinlichkeit fallen. Physikalische Messungen sind nicht erlaubt
+>Wir erhalten eine Münze und sollen entscheiden, ob sie ideal ist. D.h. Zahl und Wappen mit der gleichen [[Wahrscheinlichkeit]] fallen. Physikalische Messungen sind nicht erlaubt
 >Wir werfen eine Münze z.B. 100 mal
 
 ---

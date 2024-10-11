@@ -1,4 +1,4 @@
->Bestimmen Sie den Abstand zwischen der Gerade und dem Punkt
+>Bestimmen Sie den [[Abstand]] zwischen der [Gerade](Geradengleichung) und dem Punkt
 
 $$\begin{align}
 	g:\vec{x}&=\begin{pmatrix}5\\9\\1\end{pmatrix}+

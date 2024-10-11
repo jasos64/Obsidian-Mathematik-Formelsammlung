@@ -1,4 +1,4 @@
-> In einem Zeitungsbericht wird behauptet, dass sich nur $70\%$ der Autofahrer angurten. Ein Autoklub behauptet, dass der Anteil in Wirklichkeit höher ist. Die Polizei meint dagegen, dass der Anteil in Wirklichkeit kleiner ist. Es wird ein Test der Nullhypothese $H_0:p=0,7$ (Stichprobenumfang $100$; Signifikanzniveau $5\%$) durchgeführt.
+> In einem Zeitungsbericht wird behauptet, dass sich nur $70\%$ der Autofahrer angurten. Ein Autoklub behauptet, dass der Anteil in Wirklichkeit höher ist. Die Polizei meint dagegen, dass der Anteil in Wirklichkeit kleiner ist. Es wird ein Test der [[Nullhypothese]] $H_0:p=0,7$ (Stichprobenumfang $100$; [[Signifikanzniveau]] $5\%$) durchgeführt.
 
 ## a)
 > Welche Gegenhypothese $H_1$ und welchen Verwerfungsbereich geben der Autoklub bzw. die Polizei an?

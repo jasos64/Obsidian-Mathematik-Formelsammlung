@@ -7,7 +7,7 @@ Gegeben durch $K_2$:
 - $M_2(7\mid13\mid1)$
 - $r_2=3$
 
-In dem folgendem Bild ist ein Querschnitt beider Kugeln durch beide Mittelpunkte abgebildet. Variablenbezeichnungen werden weitergehend wie in der Abbildung behandelt:
+In dem folgendem Bild ist ein Querschnitt beider Kugeln durch beide Mittelpunkte abgebildet. [Variablenbezeichnungen](Variable(n)) werden weitergehend wie in der Abbildung behandelt:
 ![[Kreise4.png]]
 
 Die Kreise $K_1$ und $K_2$ berühren sich hier in dem Punkt $S$, durch welchen die Ebene $E$ verläuft.
@@ -20,7 +20,7 @@ Die Kreise $K_1$ und $K_2$ berühren sich hier in dem Punkt $S$, durch welchen d
 Eine solche Gerade $g$ definiere ich hier durch $g:\vec{x}=\overrightarrow{OM_1}+\frac{\lambda}{\left|\overrightarrow{M_1M_2}\right|}\cdot\overrightarrow{M_1M_2}$.
 
 
-> $\lambda$ gibt hier durch die Normierung einen Punkt $P$ auf der Gerade $g$ an, dessen Abstand sich mit $d(M_1;P)=\left|\lambda\right|$ beschreiben lässt. Der Radius $r_1$ von $K_1$ ist $6$, wodurch wir den Abstand $d(M_1;P)$ ebenfalls bei $6$ erhalten müssen. $\lambda$ muss folglich $\pm6$ sein.
+> $\lambda$ gibt hier durch die [Normierung](Normiert) einen Punkt $P$ auf der Gerade $g$ an, dessen [[Abstand]] sich mit $d(M_1;P)=\left|\lambda\right|$ beschreiben lässt. Der Radius $r_1$ von $K_1$ ist $6$, wodurch wir den Abstand $d(M_1;P)$ ebenfalls bei $6$ erhalten müssen. $\lambda$ muss folglich $\pm6$ sein.
 
 ---
 ---
@@ -30,7 +30,7 @@ Eine solche Gerade $g$ definiere ich hier durch $g:\vec{x}=\overrightarrow{OM_1}
 ---
 
 
-Da der Richtungsvektor $\overrightarrow{M_1M_2}$ die Verschiebung in Richtung $K_2$ von $M_1$ beschreibt, nähert sich mit positiven $\lambda$ der Punkt $P$, wodurch $\lambda=6$ sein muss. $\lambda=-6$ gibt hier folglich in $g$ den Punkt $Q$ an.
+Da der [[Richtungsvektor(en)]] $\overrightarrow{M_1M_2}$ die Verschiebung in Richtung $K_2$ von $M_1$ beschreibt, nähert sich mit positiven $\lambda$ der Punkt $P$, wodurch $\lambda=6$ sein muss. $\lambda=-6$ gibt hier folglich in $g$ den Punkt $Q$ an.
 
 $$
 \begin{align}
@@ -57,7 +57,7 @@ $$
 >Die Ebene $E$ heißt Tangentialebene zu den Kugeln $K_1$ und $K_2$. Daraus folgt für die Ebene $E$:
 > $\{E\perp \{K_1\wedge K_2\}\}\wedge \{S\in E\}$
 
-Damit $E$ tangential zu den Kugeln $K_1$ und $K_2$ durch den Punkt $P$ geht, muss der Normalenvektor der Verbindungsvektor $\overrightarrow{M_1M_2}$ sein. Daraus resultiert die folgende Ebene:
+Damit $E$ tangential zu den Kugeln $K_1$ und $K_2$ durch den Punkt $P$ geht, muss der [[Normalenvektor]] der [[Verbindungsvektor(en)]] $\overrightarrow{M_1M_2}$ sein. Daraus resultiert die folgende [[Ebene(n)]]:
 $$
 \begin{align}
 	E:\overrightarrow{M_1M_2}\circ\left[\overrightarrow{OX}-\overrightarrow{OS}\right]&=0\\

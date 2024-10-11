@@ -4,7 +4,7 @@
 ## a)
 > beide Koordinatenachsen berührt und durch den $P(1\mid2)$ geht.
 
-Alle geeigneten Mittelpunkte, die Kreise dieser Berührungsbedingung erfüllen, haben die Form $M(m\mid m)$, da der Berührungspunkt den kleinsten Abstand zu $M$ haben muss. Folglich ist dadurch der Radius $r=m$, durch die jeweiligen Achsenkomponenten von $M$.
+Alle geeigneten Mittelpunkte, die Kreise dieser Berührungsbedingung erfüllen, haben die Form $M(m\mid m)$, da der Berührungspunkt den kleinsten [[Abstand]] zu $M$ haben muss. Folglich ist dadurch der Radius $r=m$, durch die jeweiligen Achsenkomponenten von $M$.
 Angehängt ein Bild mit den Radien $r=2$ und $r=4$:
 ![[DesmosKreise9a) 1.png]]
 

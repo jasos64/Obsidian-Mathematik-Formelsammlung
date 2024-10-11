@@ -1,7 +1,7 @@
 {
   "filters": {
     "doShowOrphans": false,
-    "doShowAttachments": false
+    "doShowAttachments": true
   },
   "groups": {
     "groups": [
@@ -16,6 +16,10 @@
       {
         "query": "Stochastik",
         "color": "#f6fa29"
+      },
+      {
+        "query": "Z_Exklusiv zur Formelsammlung",
+        "color": "#c635e3"
       }
     ]
   },
