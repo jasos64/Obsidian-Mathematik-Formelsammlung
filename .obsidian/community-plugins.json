@@ -19,10 +19,10 @@
   "templater-obsidian",
   "various-complements",
   "obsidian-vega",
-  "obsidian-enhancing-export",
   "obsidian-git",
   "obsidian-latex-suite",
   "3d-graph",
   "obsidian-tikzjax",
-  "obsidian-desmos"
+  "obsidian-desmos",
+  "better-export-pdf"
 ]
