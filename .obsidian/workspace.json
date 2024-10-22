@@ -13,11 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Z_Exklusiv zur Formelsammlung/Aufgabensammlung von HA und mehr/Seite 198 Nr. 10).md",
+                "file": "Analytische Geometrie/Geraden/Punktprobe.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Punktprobe"
             }
           }
         ]
@@ -40,7 +42,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -55,7 +59,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -63,7 +69,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -88,7 +96,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": false
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -105,7 +115,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Seite 198 Nr. 10)"
             }
           },
           {
@@ -117,7 +129,9 @@
                 "file": "Z_Exklusiv zur Formelsammlung/Aufgabensammlung von HA und mehr/Seite 198 Nr. 10).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Seite 198 Nr. 10)"
             }
           },
           {
@@ -129,7 +143,9 @@
                 "sortOrder": "frequency",
                 "showSearch": false,
                 "searchQuery": ""
-              }
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
             }
           },
           {
@@ -139,7 +155,9 @@
               "type": "outline",
               "state": {
                 "file": "Z_Exklusiv zur Formelsammlung/Aufgabensammlung von HA und mehr/Seite 198 Nr. 10).md"
-              }
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Seite 198 Nr. 10)"
             }
           },
           {
@@ -147,7 +165,9 @@
             "type": "leaf",
             "state": {
               "type": "git-view",
-              "state": {}
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           },
           {
@@ -155,7 +175,9 @@
             "type": "leaf",
             "state": {
               "type": "side-panel-control-view",
-              "state": {}
+              "state": {},
+              "icon": "viewIcon",
+              "title": "Markdown-Autocomplete"
             }
           }
         ],
@@ -171,7 +193,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Z_Exklusiv zur Formelsammlung/Aufgabensammlung von HA und mehr/Seite 198 Nr. 10).md",
+                "file": "Analytische Geometrie/Geraden/Punktprobe.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -197,7 +219,9 @@
                   "scale": 0.3628873693012131,
                   "close": true
                 }
-              }
+              },
+              "icon": "lucide-git-fork",
+              "title": "Graph of Punktprobe"
             }
           }
         ]
@@ -226,11 +250,28 @@
   },
   "active": "58c9fe3ffe517783",
   "lastOpenFiles": [
-    "Z_Exklusiv zur Formelsammlung/Aufgabensammlung von HA und mehr/Seite 198 Nr. 10).pdf",
-    "Z_Exklusiv zur Formelsammlung/Beweisführungen/GeradeInKugel.md",
+    "Analytische Geometrie/Kreise und Kugeln/Kreise und Kugeln.md",
+    "Analytische Geometrie/Kreise und Kugeln/Tangentialebenen.md",
+    "Analytische Geometrie/Geraden/Schnittpunkt von zwei Geraden.md",
+    "Analytische Geometrie/Geraden/Punktprobe.md",
+    "Analytische Geometrie/Geraden/Lagebeziehungen von Geraden.md",
+    "Analytische Geometrie/Geraden/Geradengleichung.md",
+    "Analytische Geometrie/LGS/LGS Darstellungen.md",
+    "Analytische Geometrie/LGS/LGS.md",
+    "Analytische Geometrie/LGS/Gaußsches Lösungsverfahren.md",
+    "Stochastik/Allgemein/Gegenereignis.md",
+    "Stochastik/Allgemein/Gegenwahrscheinlichkeit(en).md",
+    "Stochastik/Allgemein/Vierfeldertafel.md",
     "Z_Exklusiv zur Formelsammlung/Aufgabensammlung von HA und mehr/Seite 198 Nr. 10).md",
     "Z_Exklusiv zur Formelsammlung/Aufgabensammlung von HA und mehr/Seite 217 Nr. 4).md",
+    "Z_Exklusiv zur Formelsammlung/Aufgabensammlung von HA und mehr/Seite 217 Nr. 4).pdf",
+    "Z_Exklusiv zur Formelsammlung/Aufgabensammlung von HA und mehr/TestenEinfuerung.md",
+    "Z_Exklusiv zur Formelsammlung/Aufgabensammlung von HA und mehr/Seite 220 Nr. 1c) und 2ab).md",
     "Z_Exklusiv zur Formelsammlung/Aufgabensammlung von HA und mehr/Seite 198 Nr. 9).md",
+    "Z_Exklusiv zur Formelsammlung/Aufgabensammlung von HA und mehr/Seite 70 Nr. 6).md",
+    "Z_Exklusiv zur Formelsammlung/Aufgabensammlung von HA und mehr/Seite 70 Nr. 5).md",
+    "Z_Exklusiv zur Formelsammlung/Aufgabensammlung von HA und mehr/Seite 198 Nr. 10).pdf",
+    "Z_Exklusiv zur Formelsammlung/Beweisführungen/GeradeInKugel.md",
     "Z_Exklusiv zur Formelsammlung/Beweisführungen/ParalleleTangentialebenenaufgenerellenKugeln.md",
     "Z_Exklusiv zur Formelsammlung/Aufgabensammlung von HA und mehr/Seite 198 Nr. 9).pdf",
     "Z_Exklusiv zur Formelsammlung/Aufgabensammlung von HA und mehr/Seite 198 Nr. 7).md",
@@ -239,31 +280,14 @@
     "Z_Exklusiv zur Formelsammlung/Beweisführungen/NormierteGerade.md",
     "Z_Exklusiv zur Formelsammlung/Beweisführungen/Parallele Tangentialebenen auf generellen Kugeln.pdf",
     "Z_Exklusiv zur Formelsammlung/Schneiden von Kreisen und Kugeln/Schneiden von Kreisen und Kugeln.md",
-    "Stochastik/Allgemein/Gegenwahrscheinlichkeit(en).md",
     "Stochastik/Allgemein/Laplace-Wahrscheinlichkeiten.md",
-    "Stochastik/Allgemein/Wahrscheinlichkeit.md",
     "Z_Exklusiv zur Formelsammlung/Aufgabensammlung von HA und mehr/Annahmebvereich.png",
-    "Z_Exklusiv zur Formelsammlung/Aufgabensammlung von HA und mehr/Mathestunde vom 10.09.2024.md",
-    "Z_Exklusiv zur Formelsammlung/Aufgabensammlung von HA und mehr/Seite 194 Nr. 7ad).md",
-    "Z_Exklusiv zur Formelsammlung/Aufgabensammlung von HA und mehr/TestenEinfuerung.md",
-    "Stochastik/Allgemein/Ereignis(se).md",
-    "Z_Exklusiv zur Formelsammlung/Aufgabensammlung von HA und mehr/Seite 220 Nr. 1c) und 2ab).md",
-    "Stochastik/Allgemein/Binomialverteilung.md",
-    "Z_Exklusiv zur Formelsammlung/Aufgabensammlung von HA und mehr/Seite 197 Nr. 4).md",
-    "Allgemeines/Zahlen/Variable(n).md",
-    "Z_Exklusiv zur Formelsammlung/Aufgabensammlung von HA und mehr/Seite 197 Nr. 3ab).md",
-    "Z_Exklusiv zur Formelsammlung/Aufgabensammlung von HA und mehr/Seite 197 Nr. 2b).md",
-    "Z_Exklusiv zur Formelsammlung/Aufgabensammlung von HA und mehr/Seite 197 Nr. 1bcd).md",
-    "Analytische Geometrie/Vektoren/Vektorarten/Verbindungsvektor(en).md",
-    "Z_Exklusiv zur Formelsammlung/Aufgabensammlung von HA und mehr/Seite 194 Nr. 9a).md",
     "Z_Exklusiv zur Formelsammlung/Aufgabensammlung von HA und mehr/Seite 197 Nr. 4).pdf",
     "Z_Exklusiv zur Formelsammlung/Anderes",
     "Z_Abbildungen allgemein",
     "Z_Abbildungen allgemein/Kreise4.png",
     "Z_Exklusiv zur Formelsammlung/Aufgabensammlung von HA und mehr/Seite 197 Nr. 3ab).pdf",
     "Z_Exklusiv zur Formelsammlung/Aufgabensammlung von HA und mehr/Seite 197 Nr. 2b).pdf",
-    "Z_Exklusiv zur Formelsammlung/Aufgabensammlung von HA und mehr/Seite 197 Nr. 1bcd).pdf",
-    "Analytische Geometrie/Kreise und Kugeln",
     "Z_Exklusiv zur Formelsammlung/Aufgabensammlung von HA und mehr/DesmosKreise9a) 1.png",
     "Z_Exklusiv zur Formelsammlung/Aufgabensammlung von HA und mehr/DesmosKreise9a).png",
     "Z_Exklusiv zur Formelsammlung/Beweisführungen/BinomialeSymmetrien.svg",
