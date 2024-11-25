@@ -662,6 +662,10 @@ DnV
 DUMJ
 DMX
 Dinge
+Dach
+Daches
+Deckenflächen
+Deckeln
 Eine
 Eingangswert
 Einsetzen
@@ -1388,6 +1392,9 @@ Extrempunkt
 Extremstelle
 Extrempunkte
 Endpunkte
+Erläutern
+Etikett
+Erstellen
 Funktion
 Funktionsnamen
 Form
@@ -2093,6 +2100,13 @@ Fundament
 Funktionsgleichung
 FLk
 Funktionsschar
+Faden
+Fünfeck
+Fehldeuck
+Fehldruck
+Füllen
+Flasche
+Füllmaschine
 beliebigen
 besitzen
 berührt
@@ -3518,6 +3532,8 @@ NXM
 NJLt
 NNO
 NjA
+Niete
+Nieten
 Oftmals
 Operation
 Ortsvektor
@@ -6261,6 +6277,9 @@ eji
 eingetreten
 entlangläuft
 etc
+entweder
+exakte
+einhält
 Beschreibung
 Besondere
 Beispiel
@@ -7000,6 +7019,7 @@ Boh
 Bpp
 Bgb
 Bedingte
+Bestimmungsregel
 Rechenvorganges
 Rest
 Rechnung
@@ -9145,6 +9165,7 @@ mQj
 mLm
 meist
 mEn
+moddeliert
 durchgeführt
 dem
 den
@@ -10760,6 +10781,7 @@ AfE
 AVi
 AgEED
 Attribut
+Arbeiter
 zu
 zwei
 zunächst
@@ -14567,6 +14589,8 @@ KBu
 KMn
 Kriteriums
 Krümmungsfreie
+Kontrolle
+Kugelförmige
 Variable
 Veränderung
 Veränderungsrate
@@ -16577,6 +16601,7 @@ Zwu
 Zwe
 ZsD
 ZNF
+Zeiten
 annehmen
 aufzeichnet
 ausgerechnet
@@ -17479,6 +17504,9 @@ aWuk
 ausgewählt
 abläuft
 aufeinander
+angehängt
+angebracht
+außen
 kann
 können
 kleines
@@ -18145,6 +18173,7 @@ koq
 knickfreie
 knickfrei
 krümmungsruckfreie
+kleinstmögliche
 Hier
 Hierbei
 Hierfür
@@ -19512,6 +19541,7 @@ unterbestimmtes
 unbekannten
 uvJ
 uxg
+unterstützt
 verwendet
 visuell
 von
@@ -20241,6 +20271,7 @@ vAw
 vOt
 vorhandene
 vorhandenen
+vier
 frei
 für
 finden
@@ -21003,6 +21034,9 @@ fFYO
 fll
 fjr
 formulieren
+falsche
+falscher
+fehlerhaftes
 haben
 handelt
 hier
@@ -22536,6 +22570,12 @@ Scharparameter
 Scharparameters
 Sprungfrei
 Sprungfreie
+Sonnenschirmes
+Spitze
+Sonnenstralen
+Schattenpunkt
+Schattenform
+Stichprobengröße
 jede
 jedes
 jeden
@@ -23921,6 +23961,7 @@ rausstellen
 rrW
 rDg
 rhv
+rekalibriert
 Tut
 Termumformung
 Tiefpunkt
@@ -24588,6 +24629,7 @@ TpP
 Tiefpunktes
 Trassierung
 Trassierfunktion
+Tisch
 Mathematisch
 Maxima
 Möglichkeiten
@@ -25294,6 +25336,8 @@ Matrizenform
 MFi
 Mou
 Meistens
+Maschine
+Mitarbeiters
 Gleichsetzen
 Gegeben
 Generalisiert
@@ -25967,6 +26011,7 @@ Gkw
 GDF
 GLT
 GFD
+Gewinnlos
 Um
 Unendlichen
 Ursprung
@@ -27256,6 +27301,7 @@ Wra
 WfE
 WZwt
 WdX
+Wuadrat
 lauten
 lokale
 links
@@ -29870,6 +29916,10 @@ LcC
 LLN
 LBm
 Lückenfunktion
+Lampe
+Limonadenabieter
+Lose
+Limonadenflaschen
 punktsymmetrisch
 passenden
 pss
@@ -32104,6 +32154,7 @@ trI
 tKP
 tqqs
 tgf
+treffen
 yW
 yT
 yN
