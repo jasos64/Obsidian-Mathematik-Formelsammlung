@@ -1,4 +1,4 @@
-Der Erwartungswert gibt den Durchschnitt der Zufallsgröße $X$ mit dessen zugehörigen Wahrscheinlichkeit an. Somit ist der Erwartungswert die der durch $x_i$ dargestellten Menge nach $P(X=x_i)$ gegeben.
+Der Erwartungswert gibt den Durchschnitt der [[Zufallsvariable]] $X$ mit dessen zugehörigen [[Wahrscheinlichkeit]] an. Somit ist der Erwartungswert die der durch $x_i$ dargestellten Menge nach $P(X=x_i)$ gegeben.
 
 Für den folgenden generalisierten Ausdruck ist der Erwartungswert $\mu$ definiert:
 $$

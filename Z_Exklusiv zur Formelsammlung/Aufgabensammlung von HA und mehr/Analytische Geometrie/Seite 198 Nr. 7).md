@@ -1,9 +1,9 @@
-> Gegeben ist eine Kugel mit dem Ursprung als Mittelpunkt, Für welchen Radius schneidet die Kugel die Ebene $E$, berührt sie die Ebene oder hat keinen Punkt mit ihr gemeinsam? Wie lauten die Koordinaten des Berührpunktes?
+> Gegeben ist eine Kugel mit dem Ursprung als Mittelpunkt, Für welchen Radius schneidet die Kugel die [[Ebene(n)]] $E$, berührt sie die Ebene oder hat keinen Punkt mit ihr gemeinsam? Wie lauten die Koordinaten des Berührpunktes?
 
 ---
 ## a)
 - $E:3x_1+12x_2+4x_3-13=0$
-Aus $E$ resultiert folgender Normalvektor $n$:
+Aus $E$ resultiert folgender [[Normalenvektor]] $n$:
 - $\vec{n}=\begin{pmatrix}3\\12\\4\end{pmatrix}$
 - $\vec{n}_0=\frac{1}{13}\cdot\begin{pmatrix}3\\12\\4\end{pmatrix}$
 > Eine normierte Lotgerade, die durch den Mittelpunkt der Kugel geht, besitzt einen Schnittpunkt mit $E$, der den kürzesten Abstand besitzt. Durch die Normierung ist der Parameter hier der Radius, den die Kugel für diesen Schnittpunkt benötigt.

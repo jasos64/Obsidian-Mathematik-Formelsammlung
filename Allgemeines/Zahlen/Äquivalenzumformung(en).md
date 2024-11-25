@@ -1,7 +1,7 @@
 Durch Äquivalenzumformung kann ein Term aufgelöst werden.
-Hierbei wird ein Ausdruck durch Addition, Subtraktion, Multiplikation, Division und Funktionale zusammenhänge verändert, wobei dieser stets den Wert nicht verliert.
+Hierbei wird ein Ausdruck durch [[Addition]], [[Subtraktion]], [[Multiplikation]], [[Division]] und Funktionale zusammenhänge verändert, wobei dieser stets den Wert nicht verliert.
 
-Als Beispiel ist diese Funktion gegen $a$ gesetzt. Es werden Werte für $x$ gesucht, wann diese durch die Funktion $=a$ sind
+Als Beispiel ist diese [Funktion](Funktion(en)) gegen $a$ gesetzt. Es werden Werte für $x$ gesucht, wann diese durch die Funktion $=a$ sind
 Sei $f(x)=x^2-2$, so würde gelten:
 $$ \begin{aligned}
 a&=f(x)\\

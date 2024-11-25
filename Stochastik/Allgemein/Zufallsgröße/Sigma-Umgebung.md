@@ -1,4 +1,4 @@
-Die Sigma/$\sigma$-Umgebung ist ein Bereich, in welchem für ein Experiment [[Ereignis(se)]] gehäuft auftreten. Aufgestellt wird dieser mittels des [[Erwartungswert]] und [[Standartabweichung]]. Die Standartabweichung gibt die Breite der Umgebung vor, in welcher um dem Erwartungswert $\mu$ eine angehäufte Wahrscheinlichkeitsmenge zu erwarten ist.
+Die Sigma/$\sigma$-Umgebung ist ein Bereich, in welchem für ein Experiment [[Ereignis(se)]] gehäuft auftreten. Aufgestellt wird dieser mittels des [[Erwartungswert]] und [[Standartabweichung]]. Die [[Standartabweichung]] gibt die Breite der Umgebung vor, in welcher um dem Erwartungswert $\mu$ eine angehäufte Wahrscheinlichkeitsmenge zu erwarten ist.
 Eine $n$-te Sigma-Umgebung wird durch eine Intervallsbeschreibung dargestellt.
 Für dieses Intervall gilt stets das folgende:
 $$
@@ -8,7 +8,7 @@ $$
 
 Die Verwendung von [Rundungsklammern](Runden) ermöglicht es die Grenzen in *Richtung des Erwartungswertes* zu runden.
 
-Beispielsweise sei eine [binomialverteilte](Binomialverteilung) [[Wahrscheinlichkeitsverteilung]] mit $n=100$ und $p=0,35$ gegeben. Es soll die Wahrscheinlichkeit bestimmt werden, mit der ein Ereignis in der ersten $\sigma$-Umgebung trifft.
+Beispielsweise sei eine [binomialverteilte](Binomialverteilung.md) [[Wahrscheinlichkeitsverteilung]] mit $n=100$ und $p=0,35$ gegeben. Es soll die [[Wahrscheinlichkeit]] bestimmt werden, mit der ein [Ereignis](Ereignis(se)) in der ersten $\sigma$-Umgebung trifft.
 Es gilt somit:
 $$
 \begin{align}

@@ -34,3 +34,5 @@ reason
 AbC
 ABc
 aBcYd
+\ref{#}
+\refeq{#}

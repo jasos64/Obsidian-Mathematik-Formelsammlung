@@ -1,4 +1,4 @@
- >Begründen Sie, dass der Graph der binomialverteilten Zufallsvariablen $X$ mit den Parametern $n=10$ und $p=\frac{1}{2}$ symmetrisch zur Geraden $x=5$ ist. Verwenden Sie die Bernoulli-Formel.
+ >Begründen Sie, dass der Graph der binomialverteilten [Zufallsvariablen](Zufallsvariable) $X$ mit den Parametern $n=10$ und $p=\frac{1}{2}$ symmetrisch zur Geraden $x=5$ ist. Verwenden Sie die Bernoulli-Formel.
 
  $$
 \begin{align}

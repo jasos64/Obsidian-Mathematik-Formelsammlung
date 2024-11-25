@@ -1,0 +1,4 @@
+[[Zufallsvariable]]
+[[Wahrscheinlichkeit]]
+[[Standartabweichung]]
+[[Erwartungswert]]

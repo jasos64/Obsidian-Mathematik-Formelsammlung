@@ -1,11 +1,11 @@
-Mit der Partialbruchzerlegung kann eine gebrochen Rationale Funktion in eine Summe von Brüchen ausgedrückt werden.
-Zunächst werde ich annehmen, dass die Nullstellen der Nennerfunktion alle einzeln vorhanden sind und nicht mehrfach. Auch werde ich annehmen, dass der Grad der Zählerfunktion kleiner als die Nennerfunktion ist.
+Mit der Partialbruchzerlegung kann eine gebrochen Rationale [Funktion](Funktion(en)) in eine Summe von Brüchen ausgedrückt werden.
+Zunächst werde ich annehmen, dass die [[Nullstellen]] der Nennerfunktion alle einzeln vorhanden sind und nicht mehrfach. Auch werde ich annehmen, dass der Grad der Zählerfunktion kleiner als die Nennerfunktion ist.
 
 ---
 Für eine bessere Erklärung werde ich eine Beispielfunktion bereitstellen.
 Sei $f$ wie folgt gegeben, die in Partialbrüche zerlegt werden soll:
 $$f(x)=\frac{x^2-3x-1}{x^{3}+8x^{2}-20x}$$
-Zunächst wird jede Nullstelle der Nennerfunktion bestimmt. Die Linearfaktoren werden der Übersichtlichkeit aufgeschrieben. Zusätzlich wird jede Nullstelle als einzelnen Nenner mit einer Variable beschrieben und gleichgestellt:
+Zunächst wird jede Nullstelle der Nennerfunktion bestimmt. Die Linearfaktoren werden der Übersichtlichkeit aufgeschrieben. Zusätzlich wird jede Nullstelle als einzelnen Nenner mit einer [Variable](Variable(n)) beschrieben und gleichgestellt:
 $$\frac{x^2-3x-1}{\left(x+10\right)\left(x\right)\left(x-2\right)}=\frac{A}{x+10}+\frac{B}{x}+\frac{C}{x-2}$$
 Die Nennerfunktion wird multipliziert und es wird vereinfacht, sodass man einen [[Koeffizientenvergleich]] durchführen kann.
 $$\begin{align}
@@ -29,7 +29,7 @@ $$\begin{align}
 	\left(-2A+8B+10C\right)x+
 	\left(-20B\right)
 \end{align}$$
-Damit dieser Term nun Äquivalent wird, so müssen die Faktoren der Polynome übereinstimmen. Um eine Kombination zu finden, mit der die Äquivalenz existent ist, wird ein Gleichungssystem angefertigt und gelöst.
+Damit dieser Term nun Äquivalent wird, so müssen die Faktoren der Polynome übereinstimmen. Um eine Kombination zu finden, mit der die Äquivalenz existent ist, wird ein [Gleichungssystem](LGS) angefertigt und gelöst.
 $$\begin{align}&\left(
 	\begin{array}{ccc|c}
 		A&B&C&1\\

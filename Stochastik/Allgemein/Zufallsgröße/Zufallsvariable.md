@@ -1,0 +1,1 @@
+> Eine Zufallsvariable ordnet Wahrscheinlichkeiten einen Wert zu. Hierbei werden diese mit einem Großbuchstaben dargestellt, meist $X$ oder $Y$.

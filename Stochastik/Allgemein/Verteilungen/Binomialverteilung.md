@@ -8,6 +8,8 @@ $$
 \end{align}
 $$
 
+>Die Binomialverteilung ist für uns nicht stetig, da $n!$ nur für $\mathbb{N}$ definiert ist.
+
 ---
 ### Taschenrechner
 Der Taschenrechner verfügt über die Binomialverteilung mittels den Werten von $n$, $p$, und $k$. Die Verwendung des Taschenrechners wird mittels $P(X=k)=B_{n;p}(k)$ formal dargestellt.. Der Taschenrechner fragt hier nach den oben genannten Werten und gibt einem dann den Wert der Wahrscheinlichkeit $P$.

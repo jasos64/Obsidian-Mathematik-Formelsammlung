@@ -1,6 +1,6 @@
 ## Kreise
 > Ein Kreis wird hier in $\mathbb{R}^2$ mit einem Mittelpunkt $M(m_1\mid m_2)$, und einem Radius $r$ beschrieben.
-> Es ist definiert, dass jeder Ortsvektor, dessen Abstand zu dem Mittelpunkt $r$ ist, auf dem Kreis ist, und alle diese den Kreis bilden.
+> Es ist definiert, dass jeder [[Ortsvektor(en)]], dessen [[Abstand]] zu dem Mittelpunkt $r$ ist, auf dem Kreis ist, und alle diese den Kreis bilden.
 
 Hier zeigt sich, dass dadurch ein Kreis mit der Gleichung $\left|\overrightarrow{MX}\right|=r$ beschrieben werden kann.
 Zusätzlich lässt sich dies weiter vereinfachen, insofern wir folgendes annehmen:

@@ -4,22 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "f23f45d13a5d1e76",
+        "id": "67c9882c9dcff96c",
         "type": "tabs",
         "children": [
           {
-            "id": "58c9fe3ffe517783",
+            "id": "f450aba95048c2ce",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Analytische Geometrie/Geraden/Punktprobe.md",
+                "file": "Analysis/Steckbriefaufgaben/Trassierung/Knickfrei.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Punktprobe"
+              "title": "Knickfrei"
             }
           }
         ]
@@ -193,7 +193,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Analytische Geometrie/Geraden/Punktprobe.md",
+                "file": "Analysis/Steckbriefaufgaben/Trassierung/Knickfrei.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -221,7 +221,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Punktprobe"
+              "title": "Graph of Knickfrei"
             }
           }
         ]
@@ -248,54 +248,53 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "58c9fe3ffe517783",
+  "active": "f450aba95048c2ce",
   "lastOpenFiles": [
-    "Analytische Geometrie/Kreise und Kugeln/Kreise und Kugeln.md",
-    "Analytische Geometrie/Kreise und Kugeln/Tangentialebenen.md",
-    "Analytische Geometrie/Geraden/Schnittpunkt von zwei Geraden.md",
-    "Analytische Geometrie/Geraden/Punktprobe.md",
-    "Analytische Geometrie/Geraden/Lagebeziehungen von Geraden.md",
-    "Analytische Geometrie/Geraden/Geradengleichung.md",
-    "Analytische Geometrie/LGS/LGS Darstellungen.md",
+    "Analysis/Steckbriefaufgaben/Trassierung/Sprungfrei.md",
+    "Analysis/Steckbriefaufgaben/Trassierung/Knickfrei.md",
+    "Z_Abbildungen allgemein/Trassierung2.png",
+    "Z_Abbildungen allgemein/Trassierung2.png.opdownload",
+    "Analysis/Steckbriefaufgaben/Trassierung/Krümmungsruckfrei.md",
+    "Analysis/Steckbriefaufgaben/Trassierung.md",
+    "Z_Abbildungen allgemein/Trassierung1.png",
+    "Z_Abbildungen allgemein/Trassierung1.png.opdownload",
+    "Analysis/Steckbriefaufgaben/Steckbriefaufgaben.md",
+    "Analysis/Kurvendiskussion/Wendestellen-Wendepunkte.md",
+    "Analysis/Kurvendiskussion/Funktion(en).md",
+    "Analysis/Kurvendiskussion/Y-Achsen-Abschnitt.md",
+    "Analysis/Kurvendiskussion/Monotonieverhalten.md",
+    "Analysis/Kurvendiskussion/Lokale Extrema.md",
+    "Analysis/Kurvendiskussion/Schnittstellen mit anderen Funktionen.md",
+    "Analysis/Kurvendiskussion/Ortskurve(n).md",
+    "Analysis/Kurvendiskussion/Funktionsschar(en).md",
+    "Analysis/Allgemein/Partialbruchzerlegung.md",
     "Analytische Geometrie/LGS/LGS.md",
-    "Analytische Geometrie/LGS/Gaußsches Lösungsverfahren.md",
-    "Stochastik/Allgemein/Gegenereignis.md",
-    "Stochastik/Allgemein/Gegenwahrscheinlichkeit(en).md",
+    "Analysis/Nullstellen/Nullstellen.md",
+    "Stochastik/Allgemein/Zählstrategien/Ungeordnetes ziehen mit zurücklegen (Bernoulli).md",
+    "Stochastik/Allgemein/Bedingte Wahrscheinlichkeit.md",
     "Stochastik/Allgemein/Vierfeldertafel.md",
-    "Z_Exklusiv zur Formelsammlung/Aufgabensammlung von HA und mehr/Seite 198 Nr. 10).md",
-    "Z_Exklusiv zur Formelsammlung/Aufgabensammlung von HA und mehr/Seite 217 Nr. 4).md",
-    "Z_Exklusiv zur Formelsammlung/Aufgabensammlung von HA und mehr/Seite 217 Nr. 4).pdf",
-    "Z_Exklusiv zur Formelsammlung/Aufgabensammlung von HA und mehr/TestenEinfuerung.md",
-    "Z_Exklusiv zur Formelsammlung/Aufgabensammlung von HA und mehr/Seite 220 Nr. 1c) und 2ab).md",
-    "Z_Exklusiv zur Formelsammlung/Aufgabensammlung von HA und mehr/Seite 198 Nr. 9).md",
-    "Z_Exklusiv zur Formelsammlung/Aufgabensammlung von HA und mehr/Seite 70 Nr. 6).md",
-    "Z_Exklusiv zur Formelsammlung/Aufgabensammlung von HA und mehr/Seite 70 Nr. 5).md",
-    "Z_Exklusiv zur Formelsammlung/Aufgabensammlung von HA und mehr/Seite 198 Nr. 10).pdf",
-    "Z_Exklusiv zur Formelsammlung/Beweisführungen/GeradeInKugel.md",
-    "Z_Exklusiv zur Formelsammlung/Beweisführungen/ParalleleTangentialebenenaufgenerellenKugeln.md",
-    "Z_Exklusiv zur Formelsammlung/Aufgabensammlung von HA und mehr/Seite 198 Nr. 9).pdf",
-    "Z_Exklusiv zur Formelsammlung/Aufgabensammlung von HA und mehr/Seite 198 Nr. 7).md",
-    "Z_Exklusiv zur Formelsammlung/Aufgabensammlung von HA und mehr/Seite 198 Nr. 7).pdf",
-    "Z_Exklusiv zur Formelsammlung/Beweisführungen/GeradeInEbene.md",
-    "Z_Exklusiv zur Formelsammlung/Beweisführungen/NormierteGerade.md",
-    "Z_Exklusiv zur Formelsammlung/Beweisführungen/Parallele Tangentialebenen auf generellen Kugeln.pdf",
-    "Z_Exklusiv zur Formelsammlung/Schneiden von Kreisen und Kugeln/Schneiden von Kreisen und Kugeln.md",
-    "Stochastik/Allgemein/Laplace-Wahrscheinlichkeiten.md",
-    "Z_Exklusiv zur Formelsammlung/Aufgabensammlung von HA und mehr/Annahmebvereich.png",
-    "Z_Exklusiv zur Formelsammlung/Aufgabensammlung von HA und mehr/Seite 197 Nr. 4).pdf",
-    "Z_Exklusiv zur Formelsammlung/Anderes",
-    "Z_Abbildungen allgemein",
+    "Z_Exklusiv zur Formelsammlung/Beweisführungen/Geradensymmetrie.md",
+    "Allgemeines/Zahlen/Teilbarkeit/Primfaktorzerlegung.md",
+    "Stochastik/Allgemein/Verteilungen/Geometrische Verteilung.md",
+    "Stochastik/Allgemein/Verteilungen/Binomialverteilung.md",
+    "Stochastik/Allgemein/Verteilungen/Normalverteilung.md",
+    "Stochastik/Allgemein/Verteilungen/Hypergeometrische Verteilung.md",
+    "HowToDownload.pdf",
+    "Z_Exklusiv zur Formelsammlung/Aufgabensammlung von HA und mehr/Analytische Geometrie/Seite 70 Nr. 5).pdf",
+    "Z_Exklusiv zur Formelsammlung/Aufgabensammlung von HA und mehr/Stochastik/Seite 220 Nr. 1c) 2ab).pdf",
+    "Z_Exklusiv zur Formelsammlung/Aufgabensammlung von HA und mehr/Stochastik/Seite 159 Nr. 11).pdf",
+    "Z_Exklusiv zur Formelsammlung/Aufgabensammlung von HA und mehr/Stochastik/Seite 158 Nr. 1).pdf",
+    "Z_Exklusiv zur Formelsammlung/Aufgabensammlung von HA und mehr/Stochastik/Nr. 2ef).pdf",
     "Z_Abbildungen allgemein/Kreise4.png",
-    "Z_Exklusiv zur Formelsammlung/Aufgabensammlung von HA und mehr/Seite 197 Nr. 3ab).pdf",
-    "Z_Exklusiv zur Formelsammlung/Aufgabensammlung von HA und mehr/Seite 197 Nr. 2b).pdf",
-    "Z_Exklusiv zur Formelsammlung/Aufgabensammlung von HA und mehr/DesmosKreise9a) 1.png",
-    "Z_Exklusiv zur Formelsammlung/Aufgabensammlung von HA und mehr/DesmosKreise9a).png",
-    "Z_Exklusiv zur Formelsammlung/Beweisführungen/BinomialeSymmetrien.svg",
+    "Z_Abbildungen allgemein/DesmosKreise9a) 1.png",
+    "Z_Abbildungen allgemein/DesmosKreise9a).png",
+    "Z_Abbildungen allgemein/Annahmebvereich.png",
+    "Z_Abbildungen allgemein/Trassierung0.png",
+    "Z_Abbildungen allgemein/desmos-graph.png",
+    "Analysis/Steckbriefaufgaben/Trassierung",
+    "Analysis/Steckbriefaufgaben/Trassierung",
     "Pasted image 20240915221824.png",
-    "Pasted image 20240909183656.png",
-    "Z_Exklusiv zur Formelsammlung/Schneiden von Kreisen und Kugeln/desmos-graph.svg",
-    "Z_Exklusiv zur Formelsammlung/Schneiden von Kreisen und Kugeln/Pasted image 20240103145623.png",
-    "Pasted image 20240405155728.png",
+    "Z_Exklusiv zur Formelsammlung/Beweisführungen/BinomialeSymmetrien.svg",
     "Untitled.canvas"
   ]
 }

@@ -15,6 +15,6 @@ $$
 	&~~~~~\cdots\left(x_m-\mu\right)^2\cdot P(X=x_m)
 \end{align}
 $$
-Desto größer $V(X)$ ist, desto größer ist das Streuverhalten der Verteilung, folglich sind Zufallsexperimente mit einer niedrigen Varianz risikounfreundlicher.
+Desto größer $V($[X](Zufallsvariable)$)$ ist, desto größer ist das Streuverhalten der Verteilung, folglich sind Zufallsexperimente mit einer niedrigen Varianz risikounfreundlicher.
 
 ---

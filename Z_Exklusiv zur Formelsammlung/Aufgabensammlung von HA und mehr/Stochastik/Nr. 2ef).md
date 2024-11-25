@@ -1,5 +1,5 @@
 ## 2) e
-> Wie oft muss man diesen Würfel werfen, um mit einer Wahrscheinlichkeit von wenigstens $95\%$ mindestens eine Drei zu erzielen?
+> Wie oft muss man diesen Würfel werfen, um mit einer [[Wahrscheinlichkeit]] von wenigstens $95\%$ mindestens eine Drei zu erzielen?
 
 Gegeben ist von vorher:
 - $Y:\text{"Anzahl 3-en"}$
@@ -19,7 +19,7 @@ $$
 	P(Y=0)&\le0,05
 \end{align}
 $$
-Weil $Y$ binomialverteilt ist, gilt für $P(Y=k)=\begin{pmatrix}n\\k\end{pmatrix}\cdot p^k\cdot(1-p)^{n-k}$
+Weil $Y$ [binomialverteilt](Binomialverteilung) ist, gilt für $P(Y=k)=\begin{pmatrix}n\\k\end{pmatrix}\cdot p^k\cdot(1-p)^{n-k}$
 
 $$
 \begin{align}

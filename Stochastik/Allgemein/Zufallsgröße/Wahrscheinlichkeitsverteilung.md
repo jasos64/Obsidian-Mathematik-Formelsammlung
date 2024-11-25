@@ -1,6 +1,6 @@
 Eine Wahrscheinlichkeitsverteilung beschreibt die Wahrscheinlichkeit jedes [[Ereignis(se)]]s mit dessen Wirkung.
 Als Beispiel zur Veranschaulichung:
-Zwei 2-seitige Würfel werden geworfen. Für die Zufallsgröße ist hier der Wurfbetrag vorhergesehen.
+Zwei 2-seitige Würfel werden geworfen. Für die [[Zufallsvariable]] ist hier der Wurfbetrag vorhergesehen.
 $$\Omega=\{(1;1),(1;2),(2;1),(2;2)\}$$
 Diese Ergebnismenge wird nun passend der Zufallsgröße umgeformt:
 $$
@@ -21,7 +21,7 @@ $$
 
 ---
 ### Generalisiertes Beispiel mit Einsatz
-Ein Glücksrad wird mit einem Einsatz von $v$ gedreht, für welches Ereignisse $E_1;E_2;E_3;\cdots; E_i$ mit jeweiligen Wahrscheinlichkeiten von $p_1;p_2;p_3;\cdots;p_i$ vorhanden sind. Die jeweiligen Gewinne sind jeweils $g_1;g_2;g_3;\cdots;g_i$.
+Ein Glücksrad wird mit einem Einsatz von $v$ gedreht, für welches Ereignisse $E_1;E_2;E_3;\cdots; E_i$ mit jeweiligen [[Wahrscheinlichkeit]]en von $p_1;p_2;p_3;\cdots;p_i$ vorhanden sind. Die jeweiligen Gewinne sind jeweils $g_1;g_2;g_3;\cdots;g_i$.
 Sei $X$ die Menge an Gewinn, die eine Person nach Durchführung dieses Experimentes erhält, so gilt für die Wahrscheinlichkeitsverteilung die folgende:
 $$
 \begin{array}{c|c}
