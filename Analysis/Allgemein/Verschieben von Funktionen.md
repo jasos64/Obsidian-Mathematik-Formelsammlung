@@ -4,5 +4,3 @@ Wenn die Verschiebung sich dem [[Vektor(en)]] in $\mathbb{R}^2$ als $\overrighta
 >Der Funktionsname $\overrightarrow{f}(x)$ ist von mir benannt und hat scheinbar keine feste Definition
 
 ---
-
-$rn\overline{\div}rm\equiv \left|rn\div rm\right|$

@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Z_Exklusiv zur Formelsammlung/Schneiden von Kreisen und Kugeln/Schneiden von Kreisen und Kugeln.md",
+                "file": "Z_Exklusiv zur Formelsammlung/Aufgabensammlung von HA und mehr/Analysis/Seite 109.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Schneiden von Kreisen und Kugeln"
+              "title": "Seite 109"
             }
           }
         ]
@@ -193,7 +193,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Z_Exklusiv zur Formelsammlung/Schneiden von Kreisen und Kugeln/Schneiden von Kreisen und Kugeln.md",
+                "file": "Z_Exklusiv zur Formelsammlung/Aufgabensammlung von HA und mehr/Analysis/Seite 109.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -221,7 +221,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Schneiden von Kreisen und Kugeln"
+              "title": "Graph of Seite 109"
             }
           }
         ]
@@ -250,51 +250,52 @@
   },
   "active": "f450aba95048c2ce",
   "lastOpenFiles": [
+    "Z_Exklusiv zur Formelsammlung/Aufgabensammlung von HA und mehr/Analysis/Probeabi2024 Analysis Aufgabe 1.md",
+    "Z_Exklusiv zur Formelsammlung/Aufgabensammlung von HA und mehr/Analysis/Seite 109.md",
+    "Z_Exklusiv zur Formelsammlung/Aufgabensammlung von HA und mehr/Analysis/Seite 109.pdf",
+    "Z_Exklusiv zur Formelsammlung/Beweisführungen/GeradeInEbene.md",
+    "Z_Exklusiv zur Formelsammlung/Beweisführungen/GeradeInKugel.md",
+    "Z_Exklusiv zur Formelsammlung/Beweisführungen/Geradensymmetrie.md",
+    "Z_Exklusiv zur Formelsammlung/Beweisführungen/ParalleleTangentialebenenaufgenerellenKugeln.md",
+    "Z_Exklusiv zur Formelsammlung/Beweisführungen/Polstellen und Flächeninhalt.md",
+    "Z_Exklusiv zur Formelsammlung/Beweisführungen/Parallele Tangentialebenen auf generellen Kugeln.pdf",
+    "Stochastik/Allgemein/Gegenwahrscheinlichkeit(en).md",
+    "Stochastik/Allgemein/Gegenereignis.md",
+    "Stochastik/Allgemein/Ergebnismenge.md",
+    "Stochastik/Allgemein/Ereignis(se).md",
+    "Stochastik/Allgemein/Bedingte Wahrscheinlichkeit.md",
+    "Analysis/Allgemein/Grenzverhalten.md",
+    "Analysis/Allgemein/Definitionsbereich.md",
+    "Analysis/Allgemein/Umkehrfunktion.md",
+    "Analysis/Allgemein/Verschieben von Funktionen.md",
+    "Analysis/Allgemein/Tailorpolinomentwicklung.md",
+    "Analysis/Nullstellen/Newtonverfahren.md",
+    "Analysis/Nullstellen/Polynomdivision.md",
+    "Analysis/Kurvendiskussion/Funktion(en).md",
+    "Analytische Geometrie/Ebenen/Hessesche Normalform einer Ebene.md",
+    "Analytische Geometrie/Kreise und Kugeln/Kreise und Kugeln.md",
+    "Analytische Geometrie/Vektoren/Vektorarten/Ortsvektor(en).md",
+    "Analytische Geometrie/Vektoren/Vektorarten/Richtungsvektor(en).md",
+    "Analytische Geometrie/Vektoren/Vektorarten/Vektor(en).md",
+    "Analytische Geometrie/Vektoren/Vektorarten/Stützvektor.md",
+    "Z_Abbildungen allgemein/Annahmebvereich.png",
+    "Z_Abbildungen allgemein/DesmosKreise9a).png",
+    "Z_Abbildungen allgemein/Trassierung0.png",
+    "Z_Abbildungen allgemein/Trassierung2.png",
+    "Z_Abbildungen allgemein/Trassierung1.png",
+    "Z_Abbildungen allgemein/ProbeAbiAnaGeo3.png",
+    "Z_Abbildungen allgemein/Kreise4.png",
     "Z_Exklusiv zur Formelsammlung/Schneiden von Kreisen und Kugeln/desmos-graph.svg",
     "Z_Exklusiv zur Formelsammlung/Schneiden von Kreisen und Kugeln/Pasted image 20240103145623.png",
-    "Z_Exklusiv zur Formelsammlung/Schneiden von Kreisen und Kugeln/Schneiden von Kreisen und Kugeln.md",
-    "Z_Exklusiv zur Formelsammlung/Anderes/PPA.md",
-    "Z_Probeabitur/2023 Probeabitur.md",
-    "Z_Kleiner Aufgabenpool für unsortierte Aufgaben/Äquivalenzumformungen mit linearen Funktionen zum anwenden.md",
-    "Z_Probeabitur/2024 Probeabitur.md",
-    "Probeabi Aufgabenpool/Probeklausur 12.2.md",
-    "Stochastik/Hypothesentestungen/Alternativhypothese.md",
-    "Stochastik/Hypothesentestungen/Nullhypothese.md",
-    "Stochastik/Hypothesentestungen/Signifikanzniveau.md",
-    "Analysis/Steckbriefaufgaben/Trassierung/Knickfrei.md",
-    "Analysis/Steckbriefaufgaben/Trassierung/Sprungfrei.md",
-    "Z_Abbildungen allgemein/Trassierung2.png",
     "Z_Abbildungen allgemein/Trassierung2.png.opdownload",
-    "Analysis/Steckbriefaufgaben/Trassierung/Krümmungsruckfrei.md",
-    "Analysis/Steckbriefaufgaben/Trassierung.md",
-    "Z_Abbildungen allgemein/Trassierung1.png",
     "Z_Abbildungen allgemein/Trassierung1.png.opdownload",
-    "Analysis/Steckbriefaufgaben/Steckbriefaufgaben.md",
-    "Analysis/Kurvendiskussion/Wendestellen-Wendepunkte.md",
-    "Analysis/Kurvendiskussion/Funktion(en).md",
-    "Analysis/Kurvendiskussion/Y-Achsen-Abschnitt.md",
-    "Analysis/Kurvendiskussion/Monotonieverhalten.md",
-    "Analysis/Kurvendiskussion/Lokale Extrema.md",
-    "Analysis/Kurvendiskussion/Schnittstellen mit anderen Funktionen.md",
-    "Analysis/Kurvendiskussion/Ortskurve(n).md",
-    "Analysis/Kurvendiskussion/Funktionsschar(en).md",
-    "Analysis/Allgemein/Partialbruchzerlegung.md",
-    "Analytische Geometrie/LGS/LGS.md",
-    "Analysis/Nullstellen/Nullstellen.md",
     "HowToDownload.pdf",
     "Z_Exklusiv zur Formelsammlung/Aufgabensammlung von HA und mehr/Analytische Geometrie/Seite 70 Nr. 5).pdf",
     "Z_Exklusiv zur Formelsammlung/Aufgabensammlung von HA und mehr/Stochastik/Seite 220 Nr. 1c) 2ab).pdf",
     "Z_Exklusiv zur Formelsammlung/Aufgabensammlung von HA und mehr/Stochastik/Seite 159 Nr. 11).pdf",
     "Z_Exklusiv zur Formelsammlung/Aufgabensammlung von HA und mehr/Stochastik/Seite 158 Nr. 1).pdf",
     "Z_Exklusiv zur Formelsammlung/Aufgabensammlung von HA und mehr/Stochastik/Nr. 2ef).pdf",
-    "Z_Abbildungen allgemein/Kreise4.png",
     "Z_Abbildungen allgemein/DesmosKreise9a) 1.png",
-    "Z_Abbildungen allgemein/DesmosKreise9a).png",
-    "Z_Abbildungen allgemein/Annahmebvereich.png",
-    "Z_Abbildungen allgemein/Trassierung0.png",
-    "Z_Abbildungen allgemein/desmos-graph.png",
-    "Analysis/Steckbriefaufgaben/Trassierung",
-    "Analysis/Steckbriefaufgaben/Trassierung",
     "Untitled.canvas"
   ]
 }

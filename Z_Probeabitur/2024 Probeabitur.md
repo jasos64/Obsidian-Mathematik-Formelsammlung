@@ -84,7 +84,9 @@ Zeigen Sie, dass der Grenzwert von $\int^{b}_{0}\omega(t)~dt$ für $b\to \infty$
 ---
 ---
 # Aufgabe 3: Analytische Geometrie
-> Das Dach eines Sonnenschirmes besitzt die Eckpunkte $A(1,5\mid0\mid2)$, $B(1,5\mid3\mid2)$, $C(-1,5\mid3\mid2)$, $D(-1,5\mid0\mid2)$ und die Spitze $E(0\mid1.5\mid2,6)$. Der Boden wird durch die $x_1x_2$ modelliert. Eine Einheit entspricht $1~m$ in der Realität.
+> Das Dach eines Sonnenschirmes besitzt die Eckpunkte $A(1,5\mid0\mid2)$, $B(1,5\mid3\mid2)$, $C(-1,5\mid3\mid2)$, $D(-1,5\mid0\mid2)$ und die Spitze $E(0\mid1,5\mid2,6)$. Der Boden wird durch die $x_1x_2$-Ebene modelliert. Eine Einheit entspricht $1~m$ in der Realität.
+
+![[ProbeAbiAnaGeo3.png]]
 
 ## a)
 a1)
@@ -100,9 +102,9 @@ Bestimmen Sie den Flächeninhalt des Daches in $m^2$
 
 b1)
 Berechnen Sie Werte für $a>0$ und $c>0$, die die Bedingung erfüllt:
-$E:~ax_1+cx_2=234$
+$E:~ax_1+cx_3=234$
 
-(Zur Kontrolle: $E:~36x_1+270x_2=234$)
+(Zur Kontrolle: $E:~36x_1+270x_3=234$)
 
 ---
 b2)
@@ -157,11 +159,11 @@ Eine Flasche mit falscher Füllmenge wird zufällig gezogen. Bestimmen Sie die W
 > Auf einem Tisch stehen Flaschen. In den Deckeln dieser Flaschen sind Lose angebracht, die von außen nicht erkennbar sind. Diese Lose zeigen entweder einen Gewinn, oder eine Niete.
 
 b1)
-Auf dem Tisch stehen $6$ Flaschen mit einem Gewinn und $9$ Flaschen mit einer Niete. Es werden zufällig vier Flaschen entnommen. Bestimmen Sie die Wahrscheinlichkeit, dass exakt zwei Flaschen ein Gewinnlos beinhalten.
+Auf dem Tisch stehen $6$ Flaschen mit einem Gewinnlos und $9$ Flaschen mit einer Niete. Es werden zufällig vier Flaschen entnommen. Bestimmen Sie die Wahrscheinlichkeit, dass exakt zwei Flaschen ein Gewinnlos beinhalten.
 
 ---
 b2)
-Auf einem anderem Tisch stehen $7$ Flaschen mit einem Gewinnlos und weitere mit Nieten. Es werden zwei Flaschen entnommen. Bestimmen Sie die exakte Anzahl der Flaschen auf dem Tisch, sodass die Wahrscheinlichkeit, dass beide diese Flaschen ein Gewinnlos beinhalten exakt $10\%$ beträgt.
+Auf einem anderem Tisch stehen $7$ Flaschen mit einem Gewinnlos und weitere mit Nieten. Es werden zwei Flaschen entnommen. Bestimmen Sie die exakte Anzahl der Flaschen auf dem Tisch, sodass die Wahrscheinlichkeit, dass beide diese Flaschen ein Gewinnlos beinhalten, exakt $10\%$ beträgt.
 
 ---
 ## c)

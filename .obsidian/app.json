@@ -6,7 +6,7 @@
     "pageSize": "Tabloid",
     "landscape": false,
     "margin": "2",
-    "downscalePercent": 57
+    "downscalePercent": 55
   },
   "showLineNumber": true
 }
