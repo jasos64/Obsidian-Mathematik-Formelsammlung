@@ -176,7 +176,7 @@ $$
 	\end{array}\\\\
 	&\begin{array}{r|rrc|l}
 		\text{I:} & a+b+c+d & =&1\\
-		\text{II:} &d & =&1
+		\text{II:} &d & =&1&
 	\end{array}\\\\
 	&\text{II:}\quad d=1\\\\
 	&\begin{array}{r|rrc|l}
@@ -887,7 +887,7 @@ $$
 		\text{III:} & 6a\cdot0+2b & =&0
 	\end{array}\\\\
 	&\begin{array}{r|rrc|l}
-		\text{I:} & d & =&0\\
+		\text{I:} & d & =&0&\\
 		\text{II:} & c & =&1\\
 		\text{III:} & 2b & =&0
 	\end{array}\\\\
@@ -1150,7 +1150,7 @@ $$
 		\text{III:} &2a\cdot k+b  & =&0
 	\end{array}\\\\
 	&\begin{array}{r|rrc|l}
-		\text{I:} & c & =&2\\
+		\text{I:} & c & =&2&\\
 		\text{II:} & 36a+6b+c & =&8\\
 		\text{III:} &2ka+b  & =&0
 	\end{array}\\\\
@@ -1212,8 +1212,8 @@ Daraus folgt, dass die Funktion $f$ mit den Parametern $k=-6$ und $k=2$ gebildet
 Anstelle, dass $f$ über ein LGS gefunden wird, verwende ich eine andere Methode.
 Es fällt auf, dass die $y$-Koordinate aller drei Punkte $2$ beträgt. So lässt sich jede Funktion, die durch diese Punkte verläuft durch $f_k(x)=k(x+2)(x)(x-2)+2$ beschreiben.
 Die passenden $k$ sind dann gefunden, sobald ein Extrempunkt auf der $x$-Achse ist. Somit gilt:
-- $f(x_{1;2})=0$
-- $f'(x_{1;2})=0$
+- $f_k(x_{1;2})=0$
+- $f_k'(x_{1;2})=0$
 
 $$
 \begin{align}
@@ -1232,4 +1232,236 @@ $$
 	x_{1;2}&=\pm\sqrt{\frac{4}{3}}
 \end{align}
 $$
-WIPWIPWIPWIPWIPWIPWIPWIPWIPWIPWIPWIPWIPWIPWIWPWIPWIWIPIWIWIP
+
+Für $f_k(x_1)=0$:
+$$
+\begin{align}
+	0&=k\cdot\left[\sqrt{\frac{4}{3}}\right]^3-4k\sqrt{\frac{4}{3}}+2&&\mid-2\\
+	-2&=k\cdot\frac{8\sqrt{3}}{9}-\frac{8\sqrt{3}}{3}\cdot k\\
+	-2&=\left(\frac{8\sqrt{3}}{9}-\frac{8\sqrt{3}}{3}\right)k&&\mid\cdot\left(-\frac{9}{16\sqrt{3}}\right)\\
+	k&=\frac{3\sqrt{3}}{8}
+\end{align}
+$$
+
+Für $f_k(x_2)=0$:
+$$
+\begin{align}
+	0&=k\cdot\left[-\sqrt{\frac{4}{3}}\right]^3-4k\left[-\sqrt{\frac{4}{3}}\right]+2&&\mid-2\\
+	-2&=-k\cdot\frac{8\sqrt{3}}{9}+\frac{8\sqrt{3}}{3}\cdot k\\
+	-2&=\left(-\frac{8\sqrt{3}}{9}+\frac{8\sqrt{3}}{3}\right)k&&\mid\cdot\left(\frac{9}{16\sqrt{3}}\right)\\
+	k&=-\frac{3\sqrt{3}}{8}
+\end{align}
+$$
+
+Daraus folgen die Funktionen für $f$:
+- $f(x)=\frac{3\sqrt{3}}{8}x^3-\frac{3\sqrt{3}}{2}x+2$
+- $f(x)=-\frac{3\sqrt{3}}{8}x^3+\frac{3\sqrt{3}}{2}x+2$
+
+---
+## 12c)
+> vom Grad $4$, die gerade ist, die Wendestelle $x=1$ und das relative Minimum $0$ hat.
+
+Die Bedingungen folgen für die Funktion $f(x)=ax^4+bx^2+c$ mit $f'(x)=4ax^3+2bx$ und $f''(x)=12ax^2+2b$:
+- $f(0)=0$
+- $f'(0)=0$
+- $f''(1)=0$
+> Es liegen genug Bedingungen vor:
+
+$$
+\begin{align}
+	&\begin{array}{r|rc|}
+		\text{I:} & a\cdot0^4+b\cdot0^2+c & =&0\\
+		\text{II:} & 4a\cdot0^3+2b\cdot0 & =&0\\
+		\text{III:} & 12a\cdot1^2+2b & =&0
+	\end{array}\\\\
+	&\text{I:}\quad c=0\\\\
+	\hline\\
+	&\begin{array}{r|rrc|l}
+		\text{II:} & 0 & =&0\\
+		\text{III:} & 12a+2b & =&0&
+	\end{array}\\\\
+	&\text{III:}\quad 12a+2b=0\quad\Rightarrow \quad b=-6a
+\end{align}
+$$
+Somit lautet die Lösung:
+- $a=a$
+- $b=-6a$
+- $c=0$
+Die Funktion $f$ lautet $f(x)=ax^4-6ax^2$.
+
+---
+>Damit für $x=0$ ein Minimum vorliegt, so muss gelten:
+- $f''(0)>0$
+
+---
+Finden der Bedingung $f''(x)>0$:
+$$
+\begin{align}
+	0&<f''(0)\\
+	0&<12a\cdot0^2-12a\\
+	0&<-12a&&\mid\div(-12)\\
+	a&<0
+\end{align}
+$$
+Somit ist jede geeignete Funktion $f$:
+- $f(x)=ax^4-6ax^2$ mit $a<0$
+
+---
+---
+# Aufgabe 13
+> Eine ganzrationale Funktion $f_2$ vom Grad $2$ und die $\cos$-Funktion haben für $x=0$ den selben Funktionswert und dieselben Werte der $1$ten und $2$ten Ableitung.
+
+## 13a)
+> Bestimmen Sie $f_2$. Zeichnen Sie die Graphen von $f_2$ und der $\cos$-Funktion für $|x|\le0,5\pi$.
+
+Die Bedingungen folgen für die Funktion $f(x)=ax^2+bx+c$ mit $f'(x)=2ax+b$ und $f''(x)=2a$:
+- $f(0)=1$
+- $f'(0)=0$
+- $f''(0)=-1$
+
+$$
+\begin{align}
+	&\begin{array}{r|rc|}
+		\text{I:}&a\cdot0^2+b\cdot0+c&=&1\\
+		\text{II:}&2a\cdot0+b&=&0\\
+		\text{III:}&2a&=&-1
+	\end{array}\\\\
+	&\begin{array}{r|rrc|l}
+		\text{I:}&c&=&1\\
+		\text{II:}&b&=&0&\\
+		\text{III:}&2a&=&-1
+	\end{array}\\\\
+	&\text{I:}\quad c=1\\\\
+	&\text{II:}\quad b=0\\\\
+	&\text{III:}\quad2a=-1\quad\Rightarrow\quad a=-\frac{1}{2}
+\end{align}
+$$
+Somit lautet die Lösung:
+- $a=-\frac{1}{2}$
+- $b=0$
+- $c=1$
+Die Funktion $f_2$ lautet $f_2(x)=-\frac{1}{2}x^2+1$.
+```functionplot
+---
+title: 
+xLabel: 
+yLabel: 
+bounds: [-1.57080,1.57080,-1,1]
+disableZoom: true
+grid: true
+---
+f(x)=cos(x)
+g(x)=-0.5x^2+1
+```
+- $\textcolor{Blue}{f(x)=\cos(x)}$
+- $\textcolor{Red}{f_2(x)}$
+
+---
+## 13b)
+> Bestimmen Sie die ganzrationale Funktion $f_4$ vom Grad $4$ so, dass $f_4$ und die $\cos$-Funktion für $x=0$ denselben Funktionswert und dieselben Werte der $1$ten, $2$ten und $3$ten Ableitung haben. Zeichnen Sie den Graphen von $f_4$ in die vorhandene Abbildung ein.
+
+Die Bedingungen folgen für die Funktion $f(x)=ax^4+bx^3+cx^2+dx+e$ mit $f'(x)=4ax^3+3bx^2+2cx+d$ und $f''(x)=12ax^2+6bx+2c$:
+- $f(0)=1$
+- $f'(0)=0$
+- $f''(0)=-1$
+- $f'''(0)=0$
+
+$$
+\begin{align}
+	&\begin{array}{r|rc|}
+		\text{I:}&a\cdot0^4+b\cdot0^3+c\cdot0^2+d\cdot0+e&=&1\\
+		\text{II:}&4a\cdot0^3+3b\cdot0^2+2c\cdot0+d&=&0\\
+		\text{III:}&12a\cdot0^2+6b\cdot0+2c&=&-1\\
+		\text{IV:}&24a\cdot0+6b&=&0
+	\end{array}\\\\
+	&\begin{array}{r|rrc|l}
+		\text{I:}&e&=&1&\\
+		\text{II:}&d&=&0\\
+		\text{III:}&2c&=&-1\\
+		\text{IV:}&6b&=&0
+	\end{array}\\\\
+	&\text{I:}\quad e=1\\\\
+	&\text{II:}\quad d=0\\\\
+	&\text{III:}\quad2c=-1\quad\Rightarrow\quad c=-\frac{1}{2}\\\\
+	&\text{IV:}\quad2b=0\quad\Rightarrow\quad b=0\\\\
+\end{align}
+$$
+Somit lautet die Lösung:
+- $a=a$;
+- $b=0$
+- $c=-\frac{1}{2}$
+- $d=0$
+- $e=1$
+Die Funktion $f_4$ lautet $f_4(x)=ax^4-\frac{1}{2}x^2+1$.
+> Da es sich um Taylorpolynome handelt, muss folgendes gelten:
+
+- $a=\frac{f^n(0)}{n!}=\frac{\cos(0)}{24}=\frac{1}{24}$
+Demnach: $f_4(x)=\frac{1}{24}x^4-\frac{1}{2}x^2+1$
+
+```functionplot
+---
+title: 
+xLabel: 
+yLabel: 
+bounds: [-1.57080,1.57080,-1,1]
+disableZoom: true
+grid: true
+---
+f(x)=cos(x)
+g(x)=-0.5x^2+1
+h(x)=1/24x^4-0.5x^2+1
+```
+- $\textcolor{Blue}{f(x)=\cos(x)}$
+- $\textcolor{Red}{f_2(x)}$
+- $\textcolor{Green}{f_4(x)}$
+
+---
+## 13c)
+> Berechnen Sie $\cos(1)$ und $f_4(1)$. Wie groß ist der Fehler, wenn man $\cos(1)=f_4(1)$ setzt?
+
+$$
+\begin{align}
+	\cos(1)&=f_4(1)\\
+	\cos(1)&=\frac{1}{24}\cdot1^4-\frac{1}{2}\cdot1^2+1\\
+	\cos(1)&=\frac{1}{24}-\frac{1}{2}+1\\
+	0,5403&=0,541\overline{6}
+\end{align}
+$$
+Der Fehler ist $\Delta y=0,0013\overline{6}$.
+
+---
+## 13d)
+> Bestimmen Sie entsprechend eine Funktion $f_6$. Vergleichen Sie $f_6(1)$ bis $\cos(1)$.
+
+Für Taylorpolynome gilt: $f_n(x)=\sum^{n}_{k=0}\frac{f^k(x_0)}{k!}\cdot(x-x_0)^k$.
+Daraus folglich gilt für $x_0=0$, $n=6$ und $f(x)=\cos(x)$:
+$$
+\begin{align}
+	f_n(x)&=\sum^{n}_{k=0}\frac{f^k(x_0)}{k!}\cdot(x-x_0)^k\\
+	f_6(x)&=\sum^{6}_{k=0}\frac{f^k(0)}{k!}\cdot x^k\\
+	&=\frac{f^6(0)}{6!}\cdot x^6+\frac{f^5(0)}{5!}\cdot x^5+\frac{f^4(0)}{4!}\cdot x^4+\frac{f^3(0)}{3!}\cdot x^3+\frac{f^2(0)}{2!}\cdot x^2+\frac{f^1(0)}{1!}\cdot x^1+\frac{f^0(0)}{0!}\cdot x^0\\
+	
+	&=\frac{-\cos(0)}{6!}\cdot x^6+\frac{-\sin(0)}{5!}\cdot x^5+\frac{\cos(0)}{4!}\cdot x^4+\frac{\sin(0)}{3!}\cdot x^3+\frac{-\cos(0)}{2!}\cdot x^2+\frac{-\sin(0)}{1!}\cdot x^1+\frac{\cos(0)}{0!}\\
+	
+	&=\frac{-1}{720}\cdot x^6+\frac{0}{120}\cdot x^5+\frac{1}{24}\cdot x^4+\frac{0}{6}\cdot x^3+\frac{-1}{2}\cdot x^2+\frac{0}{1}\cdot x^1+1\\
+	
+	f_6(x)&=-\frac{1}{720}\cdot x^6+\frac{1}{24}\cdot x^4-\frac{1}{2}\cdot x^2+1
+\end{align}
+$$
+
+Die Funktion $f_6$ lautet $f_6(x)=-\frac{1}{720}\cdot x^6+\frac{1}{24}\cdot x^4-\frac{1}{2}\cdot x^2+1$.
+
+$$
+\begin{align}
+	\cos(1)&=f_6(1)\\
+	\cos(1)&=-\frac{1}{720}\cdot 1^6+\frac{1}{24}\cdot 1^4-\frac{1}{2}\cdot 1^2+1\\
+	\cos(1)&=-\frac{1}{720}+\frac{1}{24}-\frac{1}{2}+1\\
+	0,5403&=0,5402\overline{7}
+\end{align}
+$$
+Der Fehler ist $\Delta y\approx0,000~0245$.
+
+> $f_6(1)$ ist ähnlich zu $\cos(1)$. In kleineren Intervallen lässt sich demnach $\cos(x)$ durch $f_6(x)$ annähern.
+
+---
+---

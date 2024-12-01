@@ -2170,6 +2170,8 @@ FQz
 FWU
 FNgx
 Funktionswerten
+Finden
+Funktionswert
 beliebigen
 besitzen
 berührt
@@ -6445,6 +6447,7 @@ esY
 ewU
 ema
 egKw
+entsprechend
 Beschreibung
 Besondere
 Beispiel
@@ -10308,6 +10311,10 @@ dWP
 dWF
 dBp
 dqF
+doppelten
+doppelte
+dieselben
+denselben
 Abhängigkeit
 Aufgaben
 Achsen
@@ -11714,6 +11721,7 @@ zUk
 znAe
 zZf
 zfp
+zwanghaft
 gesetzt
 gegeben
 gelten
@@ -12548,6 +12556,7 @@ gdJ
 gll
 gdb
 gWj
+geeignete
 sodass
 sind
 so
@@ -13577,6 +13586,8 @@ sbF
 sHG
 sUiZC
 scSk
+selben
+setzt
 neben
 nach
 nun
@@ -17084,6 +17095,7 @@ ZiAq
 ZFr
 ZNo
 ZIj
+Zeichnen
 annehmen
 aufzeichnet
 ausgerechnet
@@ -18006,6 +18018,7 @@ aPN
 aIO
 aBp
 aGOs
+annähern
 kann
 können
 kleines
@@ -20872,6 +20885,7 @@ vWf
 vNIL
 vRl
 vli
+verwende
 frei
 für
 finden
@@ -21652,6 +21666,7 @@ fdu
 fLd
 fDTS
 fgx
+führen
 haben
 handelt
 hier
@@ -24685,6 +24700,7 @@ rHd
 rBx
 reH
 rfoD
+relative
 Tut
 Termumformung
 Tiefpunkt
@@ -25374,6 +25390,7 @@ TMoN
 TVB
 THb
 Tangenten
+Taylorpolynome
 Mathematisch
 Maxima
 Möglichkeiten
@@ -26101,6 +26118,7 @@ Mdb
 Mwv
 Msz
 MZO
+Minimum
 Gleichsetzen
 Gegeben
 Generalisiert
@@ -28130,6 +28148,7 @@ WPS
 Wrya
 WdP
 Wendetangente
+WIPWIPWIPWIPWIPWIPWIPWIPWIPWIPWIPWIPWIPWIPWIWPWIPWIWIPIWIWIP
 lauten
 lokale
 links
