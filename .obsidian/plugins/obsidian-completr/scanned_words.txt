@@ -690,6 +690,7 @@ Dje
 DQH
 DCb
 Dkn
+Durchbiegung
 Eine
 Eingangswert
 Einsetzen
@@ -1438,6 +1439,7 @@ Emb
 Exih
 Ekw
 Extremwerte
+Einheitskreis
 Funktion
 Funktionsnamen
 Form
@@ -2172,6 +2174,7 @@ FNgx
 Funktionswerten
 Finden
 Funktionswert
+Federanfang
 beliebigen
 besitzen
 berührt
@@ -2975,6 +2978,7 @@ bKS
 bTD
 bNR
 bcZ
+biegt
 Namens
 Nullstelle
 Nullstellen
@@ -6448,6 +6452,8 @@ ewU
 ema
 egKw
 entsprechend
+einseitig
+eingeklemmten
 Beschreibung
 Besondere
 Beispiel
@@ -7218,6 +7224,10 @@ BgK
 Bymmy
 BCWG
 BVV
+Bogenmaß
+Blattfedern
+Biegung
+Belastung
 Rechenvorganges
 Rest
 Rechnung
@@ -8710,6 +8720,7 @@ wmf
 wQG
 wHg
 wPa
+waagerecht
 mit
 man
 müssen
@@ -11098,6 +11109,8 @@ AJC
 AJQ
 AlQ
 APz
+Abmessungen
+Auslenkung
 zu
 zwei
 zunächst
@@ -12557,6 +12570,8 @@ gll
 gdb
 gWj
 geeignete
+geschieht
+gehe
 sodass
 sind
 so
@@ -15022,6 +15037,8 @@ KRL
 KIa
 KsFh
 Key
+Kosinusfunktion
+Kraft
 Variable
 Veränderung
 Veränderungsrate
@@ -18019,6 +18036,7 @@ aIO
 aBp
 aGOs
 annähern
+angegebenen
 kann
 können
 kleines
@@ -18718,6 +18736,7 @@ kZm
 kJc
 kix
 kiy
+konstruierter
 Hier
 Hierbei
 Hierfür
@@ -23256,6 +23275,8 @@ SEk
 Swa
 SHSm
 SKJ
+Sinusfunktion
+Streifen
 jede
 jedes
 jeden
@@ -25391,6 +25412,7 @@ TVB
 THb
 Tangenten
 Taylorpolynome
+Tangensfunktion
 Mathematisch
 Maxima
 Möglichkeiten
@@ -26119,6 +26141,8 @@ Mwv
 Msz
 MZO
 Minimum
+Metallstreifen
+Metallstreifens
 Gleichsetzen
 Gegeben
 Generalisiert
@@ -27464,6 +27488,7 @@ UXVJ
 UkwZ
 UGo
 UfeD
+Urzeigersinn
 Wenn
 Wert
 Wichtig

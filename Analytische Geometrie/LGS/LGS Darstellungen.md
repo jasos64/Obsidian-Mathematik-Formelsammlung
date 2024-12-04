@@ -8,7 +8,7 @@ So kann dieses vollständig beschriebene LGS als eine Matrix dargestellt werden.
 
 
 >Matrixschreibweise
->$$\left(\begin{array}{cccc|c}
+>$$\left(\begin{array}{lccc|l}
 &a_1&a_2&a_3& d_1 \\
 &b_1&b_2&b_3& d_2\\
 &c_1&c_2&c_3& d_3

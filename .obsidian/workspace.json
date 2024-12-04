@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Z_Exklusiv zur Formelsammlung/Aufgabensammlung von HA und mehr/Analysis/Seite 109.md",
+                "file": "Z_Exklusiv zur Formelsammlung/Aufgabensammlung von HA und mehr/Analysis/Seite 111 3) 4) 5).md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Seite 109"
+              "title": "Seite 111 3) 4) 5)"
             }
           }
         ]
@@ -193,7 +193,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Z_Exklusiv zur Formelsammlung/Aufgabensammlung von HA und mehr/Analysis/Seite 109.md",
+                "file": "Z_Exklusiv zur Formelsammlung/Aufgabensammlung von HA und mehr/Analysis/Seite 111 3) 4) 5).md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -221,7 +221,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Seite 109"
+              "title": "Graph of Seite 111 3) 4) 5)"
             }
           }
         ]
@@ -248,10 +248,26 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a893b2aee20b2949",
+  "active": "f450aba95048c2ce",
   "lastOpenFiles": [
-    "Z_Exklusiv zur Formelsammlung/Aufgabensammlung von HA und mehr/Analysis/Probeabi2024 Analysis Aufgabe 1.md",
+    "Analytische Geometrie/LGS/LGS Darstellungen.md",
+    "Z_Exklusiv zur Formelsammlung/Aufgabensammlung von HA und mehr/Analysis/Seite 111 3) 4) 5).md",
     "Z_Exklusiv zur Formelsammlung/Aufgabensammlung von HA und mehr/Analysis/Seite 109.md",
+    "Analysis/Trigonometrie/Tangensfunktion.md",
+    "Analysis/Trigonometrie/Sinusfunktion.md",
+    "Analysis/Trigonometrie/Einheitskreis.md",
+    "Analysis/Trigonometrie/Kosinusfunktion.md",
+    "Stochastik/Allgemein/Verteilungen/Geometrische Verteilung.md",
+    "Analysis/Trigonometrie",
+    "Stochastik/Allgemein/Verteilungen/Binomialverteilung.md",
+    "Stochastik/Allgemein/Verteilungen/Hypergeometrische Verteilung.md",
+    "Stochastik/Allgemein/Verteilungen/Normalverteilung.md",
+    "Stochastik/Allgemein/Ereignis(se).md",
+    "Stochastik/Allgemein/Bedingte Wahrscheinlichkeit.md",
+    "Stochastik/Hypothesentestungen/Signifikanzniveau.md",
+    "Stochastik/Hypothesentestungen/Nullhypothese.md",
+    "Stochastik/Hypothesentestungen/Alternativhypothese.md",
+    "Z_Exklusiv zur Formelsammlung/Aufgabensammlung von HA und mehr/Analysis/Probeabi2024 Analysis Aufgabe 1.md",
     "Z_Exklusiv zur Formelsammlung/Aufgabensammlung von HA und mehr/Analysis/Seite 109.pdf",
     "Z_Exklusiv zur Formelsammlung/Beweisführungen/GeradeInEbene.md",
     "Z_Exklusiv zur Formelsammlung/Beweisführungen/GeradeInKugel.md",
@@ -262,22 +278,7 @@
     "Stochastik/Allgemein/Gegenwahrscheinlichkeit(en).md",
     "Stochastik/Allgemein/Gegenereignis.md",
     "Stochastik/Allgemein/Ergebnismenge.md",
-    "Stochastik/Allgemein/Ereignis(se).md",
-    "Stochastik/Allgemein/Bedingte Wahrscheinlichkeit.md",
     "Analysis/Allgemein/Grenzverhalten.md",
-    "Analysis/Allgemein/Definitionsbereich.md",
-    "Analysis/Allgemein/Umkehrfunktion.md",
-    "Analysis/Allgemein/Verschieben von Funktionen.md",
-    "Analysis/Allgemein/Tailorpolinomentwicklung.md",
-    "Analysis/Nullstellen/Newtonverfahren.md",
-    "Analysis/Nullstellen/Polynomdivision.md",
-    "Analysis/Kurvendiskussion/Funktion(en).md",
-    "Analytische Geometrie/Ebenen/Hessesche Normalform einer Ebene.md",
-    "Analytische Geometrie/Kreise und Kugeln/Kreise und Kugeln.md",
-    "Analytische Geometrie/Vektoren/Vektorarten/Ortsvektor(en).md",
-    "Analytische Geometrie/Vektoren/Vektorarten/Richtungsvektor(en).md",
-    "Analytische Geometrie/Vektoren/Vektorarten/Vektor(en).md",
-    "Analytische Geometrie/Vektoren/Vektorarten/Stützvektor.md",
     "Z_Abbildungen allgemein/Annahmebvereich.png",
     "Z_Abbildungen allgemein/DesmosKreise9a).png",
     "Z_Abbildungen allgemein/Trassierung0.png",
@@ -294,7 +295,6 @@
     "Z_Exklusiv zur Formelsammlung/Aufgabensammlung von HA und mehr/Stochastik/Seite 220 Nr. 1c) 2ab).pdf",
     "Z_Exklusiv zur Formelsammlung/Aufgabensammlung von HA und mehr/Stochastik/Seite 159 Nr. 11).pdf",
     "Z_Exklusiv zur Formelsammlung/Aufgabensammlung von HA und mehr/Stochastik/Seite 158 Nr. 1).pdf",
-    "Z_Exklusiv zur Formelsammlung/Aufgabensammlung von HA und mehr/Stochastik/Nr. 2ef).pdf",
     "Z_Abbildungen allgemein/DesmosKreise9a) 1.png",
     "Untitled.canvas"
   ]
