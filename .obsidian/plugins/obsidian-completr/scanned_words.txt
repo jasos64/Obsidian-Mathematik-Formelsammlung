@@ -691,6 +691,7 @@ DQH
 DCb
 Dkn
 Durchbiegung
+Diskutieren
 Eine
 Eingangswert
 Einsetzen
@@ -1440,6 +1441,7 @@ Exih
 Ekw
 Extremwerte
 Einheitskreis
+Erhöhung
 Funktion
 Funktionsnamen
 Form
@@ -2175,6 +2177,7 @@ Funktionswerten
 Finden
 Funktionswert
 Federanfang
+Funktionenschar
 beliebigen
 besitzen
 berührt
@@ -2979,6 +2982,7 @@ bTD
 bNR
 bcZ
 biegt
+bewirkt
 Namens
 Nullstelle
 Nullstellen
@@ -4238,6 +4242,7 @@ OUB
 OkN
 OCS
 OzdY
+Oder
 oder
 oft
 oftmals
@@ -9454,6 +9459,7 @@ mVZFP
 mkN
 mäu
 mLY
+minimalen
 durchgeführt
 dem
 den
@@ -11111,6 +11117,7 @@ AlQ
 APz
 Abmessungen
 Auslenkung
+Anstieg
 zu
 zwei
 zunächst
@@ -12572,6 +12579,7 @@ gWj
 geeignete
 geschieht
 gehe
+gemeinsames
 sodass
 sind
 so
@@ -15039,6 +15047,7 @@ KsFh
 Key
 Kosinusfunktion
 Kraft
+Kurvenschar
 Variable
 Veränderung
 Veränderungsrate
@@ -16448,6 +16457,7 @@ PItg
 PrV
 PghsHTC
 PwK
+Parameters
 Zahl
 Zwei
 Zeitraum
@@ -27489,6 +27499,7 @@ UkwZ
 UGo
 UfeD
 Urzeigersinn
+Ursprünglich
 Wenn
 Wert
 Wichtig
