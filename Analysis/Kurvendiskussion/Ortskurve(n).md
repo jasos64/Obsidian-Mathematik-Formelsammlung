@@ -23,7 +23,7 @@ $$
 \end{align}
 $$
 
-Da jede Extremstelle von $f_k$ bei $x=5a$ ist, so lautet der Extrempunkt $E\left(5k\mid f_k(5k)\right)$.
+Da jede Extremstelle von $f_k$ bei $x=5k$ ist, so lautet der Extrempunkt $E\left(5k\mid f_k(5k)\right)$.
 $$
 \begin{align}
 	f_k(5k)&=0,2(5k)^2-2k\cdot5k+5k\\
@@ -31,7 +31,7 @@ $$
 	&=-5k^2+5k
 \end{align}
 $$
-Somit lautet jeder Extrempunkt $E\left(5k\mid -5k^2+5k\right)$.
+Somit ist jeder Extrempunkt $E\left(5k\mid -5k^2+5k\right)$.
 
 ---
 ## Schritt 3: Umwandlung auf $x$
@@ -53,7 +53,7 @@ title:
 xLabel: 
 yLabel: 
 bounds: [-2,8,-4,4]
-disableZoom: false
+disableZoom: true
 grid: true
 ---
 f1(x)=0.2x^2-2*0.5x+5*0.5
@@ -64,5 +64,13 @@ f4(x)=0.2x^2-2*1.25x+5*1.25
 g(x)=-0.2x^2+x
 ```
 
+Der letzte Schritt kann alternativ übersprungen werden, indem nach der Ausarbeitung des notwendigen Kriteriums nach $k$ umgestellt wird, und dieses in $f_k(x)$ eingesetzt wird:
+$$
+\begin{align}
+	f_{0,2x}(x)&=0,2x^2-2\cdot0,2x\cdot x+5\cdot0,2x\\
+	&=0,2x^2-0,4x^2+x\\
+	&=-0,2x^2+x
+\end{align}
+$$
 
 ---

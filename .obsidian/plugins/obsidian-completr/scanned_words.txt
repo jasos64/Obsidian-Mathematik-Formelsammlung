@@ -1442,6 +1442,7 @@ Ekw
 Extremwerte
 Einheitskreis
 Erhöhung
+Extrempunktes
 Funktion
 Funktionsnamen
 Form
@@ -15761,6 +15762,7 @@ VLW
 VLk
 VYNLp
 VILUm
+Verhalten
 Platzhalter
 Punkte
 Punkt
@@ -19423,6 +19425,7 @@ Hmc
 Haag
 HME
 HIS
+Hochpunkt
 usw
 und
 untersucht
@@ -23287,6 +23290,7 @@ SHSm
 SKJ
 Sinusfunktion
 Streifen
+Streng
 jede
 jedes
 jeden
@@ -26153,6 +26157,7 @@ MZO
 Minimum
 Metallstreifen
 Metallstreifens
+Monotonieintervalle
 Gleichsetzen
 Gegeben
 Generalisiert
@@ -27500,6 +27505,7 @@ UGo
 UfeD
 Urzeigersinn
 Ursprünglich
+Umgestellt
 Wenn
 Wert
 Wichtig
@@ -30201,6 +30207,7 @@ IGJU
 IsJ
 Ify
 IFk
+Informationen
 überprüfen
 übrig
 über
