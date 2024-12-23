@@ -2,8 +2,7 @@ Two lines $g:\vec{x}$ and $h:\vec{x}$ are given:
 - $g:\vec{x}=\vec{p}+\lambda\vec{v}$
 - $h:\vec{x}=\vec{q}+\mu\vec{u}$
 
-Suppose a sphere $S$ with radius $r>0$ rolls on $g$ tangentially.
-Additionaly $r$ should not be chosen such that $h$ is touching $S$.
+Let a sphere $S$ of radius $r>0$ roll tangentially along $g$. Additionally, choose $r$ such that the sphere $S$ does not touch the line $h$.
 
 Because the radius of $S$ is unchanged during its' movement, the center $M$ is always parallel to $g$ with distance $r$.
 There is a line $m:\vec{x}$, that contains all $M$, and thus is parallel to $g$.
@@ -203,7 +202,7 @@ $$
 		\cdot\omega\cdot\cos(\theta)+
 		\left(\hat{z}\times\vec{v}\right)
 		\cdot\phi\cdot\sin(\theta)\right]}\\
-	r&=\frac{\left[\vec{v}\times\vec{u}\right]\circ\left(\vec{p}
+	r_1&=\frac{\left[\vec{v}\times\vec{u}\right]\circ\left(\vec{p}
 		-\vec{q}\right)}
 		{\left|\vec{v}\times\vec{u}\right|-
 		\left[\vec{v}\times\vec{u}\right]\circ\left[-\left(\hat{z}
@@ -263,7 +262,7 @@ $$
 		\cdot\omega\cdot\cos(\theta)+
 		\left(\hat{z}\times\vec{v}\right)
 		\cdot\phi\cdot\sin(\theta)\right]}\\
-	r&=\frac{-\left[\vec{v}\times\vec{u}\right]\circ\left(\vec{p}
+	r_2&=\frac{-\left[\vec{v}\times\vec{u}\right]\circ\left(\vec{p}
 		-\vec{q}\right)}
 		{\left|\vec{v}\times\vec{u}\right|+
 		\left[\vec{v}\times\vec{u}\right]\circ\left[-\left(\hat{z}
@@ -271,5 +270,57 @@ $$
 		\cdot\omega\cdot\cos(\theta)+
 		\left(\hat{z}\times\vec{v}\right)
 		\cdot\phi\cdot\sin(\theta)\right]}
+\end{align}
+$$
+
+> The range for possible values in the denominator of $r_1$:
+
+We note the following:
+$$
+\left|\vec{v}\times\vec{u}\right|-
+		\left[\vec{v}\times\vec{u}\right]\circ\textcolor{green}{\left[-\left(\hat{z}
+		\times\vec{v}\right)\times\vec{v}
+		\cdot\omega\cdot\cos(\theta)+
+		\left(\hat{z}\times\vec{v}\right)
+		\cdot\phi\cdot\sin(\theta)\right]}
+$$
+By definition of the term colored green, the length of this vector is $1$. With the scalar product being $\vec{a}\circ\vec{b}=|\vec{a}|\cdot|\vec{b}|\cdot\cos(\alpha)$, we can alter our term:
+$$
+	\left[\vec{v}\times\vec{u}\right]\circ\left[-\left(\hat{z}
+	\times\vec{v}\right)\times\vec{v}
+	\cdot\omega\cdot\cos(\theta)+
+	\left(\hat{z}\times\vec{v}\right)
+	\cdot\phi\cdot\sin(\theta)\right]=
+		\left|\vec{v}\times\vec{u}\right|\cdot\cos(\alpha)
+$$
+We can see that with the whole denominator being $\left|\vec{v}\times\vec{u}\right|-\left|\vec{v}\times\vec{u}\right|\cdot\cos(\alpha)$
+it will have values in $\left[0;\left|\vec{v}\times\vec{u}\right|\right]$.
+This makes it always be zero positive.
+
+
+
+$$
+\begin{align}
+	r_1&=\frac{\left[\vec{v}\times\vec{u}\right]\circ\left(\vec{p}
+		-\vec{q}\right)}
+		{\left|\vec{v}\times\vec{u}\right|-
+		\left[\vec{v}\times\vec{u}\right]\circ\left[-\left(\hat{z}
+		\times\vec{v}\right)\times\vec{v}
+		\cdot\omega\cdot\cos(\theta)+
+		\left(\hat{z}\times\vec{v}\right)
+		\cdot\phi\cdot\sin(\theta)\right]}\\
+	&=\frac{\left[\vec{v}\times\vec{u}\right]\circ\left(\vec{p}
+		-\vec{q}\right)}
+		{\left|\vec{v}\times\vec{u}\right|-
+		\left[\vec{v}\times\vec{u}\right]\circ\left[-\left(\hat{z}
+		\times\vec{v}\right)\times\vec{v}
+		\cdot
+			\frac{1}{\left|\left(\hat{z}
+		\times\vec{v}\right)\times\vec{v}\right|}
+		\cdot\cos(\theta)+
+		\left(\hat{z}\times\vec{v}\right)
+		\cdot
+			\frac{1}{\left|\hat{z}\times\vec{v}\right|}
+		\cdot\sin(\theta)\right]}\\
 \end{align}
 $$

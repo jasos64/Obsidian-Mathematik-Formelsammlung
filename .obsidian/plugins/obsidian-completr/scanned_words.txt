@@ -3647,6 +3647,7 @@ NTn
 NpP
 Note
 Negativ
+Negative
 Oftmals
 Operation
 Ortsvektor
@@ -13624,6 +13625,7 @@ setzt
 structure
 side
 simplification
+split
 neben
 nach
 nun
@@ -16474,6 +16476,7 @@ PghsHTC
 PwK
 Parameters
 Positiv
+Positive
 Zahl
 Zwei
 Zeitraum
