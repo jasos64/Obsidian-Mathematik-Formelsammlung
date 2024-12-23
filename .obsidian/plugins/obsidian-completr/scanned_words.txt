@@ -2984,6 +2984,7 @@ bNR
 bcZ
 biegt
 bewirkt
+bracket
 Namens
 Nullstelle
 Nullstellen
@@ -3644,6 +3645,8 @@ Nzlq
 NHg
 NTn
 NpP
+Note
+Negativ
 Oftmals
 Operation
 Ortsvektor
@@ -6460,6 +6463,8 @@ egKw
 entsprechend
 einseitig
 eingeklemmten
+equation
+exactly
 Beschreibung
 Besondere
 Beispiel
@@ -10333,6 +10338,9 @@ doppelten
 doppelte
 dieselben
 denselben
+description
+directional
+define
 Abhängigkeit
 Aufgaben
 Achsen
@@ -11119,6 +11127,7 @@ APz
 Abmessungen
 Auslenkung
 Anstieg
+Again
 zu
 zwei
 zunächst
@@ -13612,6 +13621,9 @@ sUiZC
 scSk
 selben
 setzt
+structure
+side
+simplification
 neben
 nach
 nun
@@ -14336,6 +14348,7 @@ npY
 nDu
 ndu
 niedrigsten
+normalize
 Klammern
 Kettenregel
 Kriterium
@@ -16460,6 +16473,7 @@ PrV
 PghsHTC
 PwK
 Parameters
+Positiv
 Zahl
 Zwei
 Zeitraum
@@ -18049,6 +18063,8 @@ aBp
 aGOs
 annähern
 angegebenen
+allows
+able
 kann
 können
 kleines
@@ -20162,6 +20178,8 @@ urSO
 uoA
 uXuv
 umsortieren
+upper
+unit
 verwendet
 visuell
 von
@@ -20918,6 +20936,7 @@ vNIL
 vRl
 vli
 verwende
+variable
 frei
 für
 finden
@@ -21699,6 +21718,8 @@ fLd
 fDTS
 fgx
 führen
+factor
+flip
 haben
 handelt
 hier
@@ -24736,6 +24757,8 @@ rBx
 reH
 rfoD
 relative
+reconstruct
+rotation
 Tut
 Termumformung
 Tiefpunkt
@@ -31765,6 +31788,8 @@ pPxr
 pYE
 pzW
 pdo
+pointing
+parameter
 Äquivalenzumformung
 ÄI
 ÄP
@@ -32469,6 +32494,7 @@ CBQ
 CfB
 CMx
 CfN
+Calculating
 tXeE
 tj
 tP
@@ -37121,6 +37147,9 @@ cQr
 cJu
 cAI
 ciJqJIJi
+coordinates
+creates
+create
 qyy
 qF
 qZ

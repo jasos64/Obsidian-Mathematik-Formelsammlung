@@ -8,21 +8,37 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f450aba95048c2ce",
+            "id": "968a3f891e0f3fa4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Analysis/Kurvendiskussion/Lokale Extrema.md",
+                "file": "Analytische Geometrie/Abstände/Gerade - Gerade (Windschief).md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lokale Extrema"
+              "title": "Gerade - Gerade (Windschief)"
+            }
+          },
+          {
+            "id": "f450aba95048c2ce",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Z_Exklusiv zur Formelsammlung/Beweisführungen/Maximum radii of rolling spheres.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Maximum radii of rolling spheres"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -193,7 +209,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Analysis/Kurvendiskussion/Lokale Extrema.md",
+                "file": "Z_Exklusiv zur Formelsammlung/Beweisführungen/Maximum radii of rolling spheres.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -221,7 +237,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Lokale Extrema"
+              "title": "Graph of Maximum radii of rolling spheres"
             }
           }
         ]
@@ -248,15 +264,22 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5f9375a6f0895173",
+  "active": "f450aba95048c2ce",
   "lastOpenFiles": [
+    "Analytische Geometrie/Abstände/Gerade - Gerade (Windschief).md",
+    "Z_Exklusiv zur Formelsammlung/Beweisführungen/Maximum radii of rolling spheres.md",
+    "Z_Exklusiv zur Formelsammlung/Beweisführungen/Maximum radii of rolling spheres.pdf",
+    "Analysis/Nullstellen/Substitution.md",
+    "Analysis/Nullstellen/Nullstellen.md",
+    "Analysis/Nullstellen/Newtonverfahren.md",
+    "Analysis/Nullstellen/Komplexe Nullstellen.md",
+    "Analysis/Kurvendiskussion/Lokale Extrema.md",
     "Analysis/Kurvendiskussion/Symmetrie.md",
     "Analysis/Kurvendiskussion/Schnittstellen mit anderen Funktionen.md",
     "Analysis/Kurvendiskussion/Ortskurve(n).md",
     "Z_Exklusiv zur Formelsammlung/Aufgabensammlung von HA und mehr/Analysis/Seite 109.md",
     "Z_Exklusiv zur Formelsammlung/Aufgabensammlung von HA und mehr/Analysis/Seite Nr. 5).md",
     "Z_Exklusiv zur Formelsammlung/Aufgabensammlung von HA und mehr/Analysis/Seite Nr. 5).pdf",
-    "Analysis/Kurvendiskussion/Lokale Extrema.md",
     "Z_Exklusiv zur Formelsammlung/Aufgabensammlung von HA und mehr/Analysis/Matheaufgaben.md",
     "Z_Exklusiv zur Formelsammlung/Aufgabensammlung von HA und mehr/Analysis/Seite 177 Nr. 4).md",
     "Z_Exklusiv zur Formelsammlung/Aufgabensammlung von HA und mehr/Analysis/Seite 177 Nr. 4).pdf",
@@ -274,13 +297,7 @@
     "Stochastik/Allgemein/Verteilungen/Hypergeometrische Verteilung.md",
     "Stochastik/Allgemein/Verteilungen/Normalverteilung.md",
     "Stochastik/Allgemein/Ereignis(se).md",
-    "Stochastik/Allgemein/Bedingte Wahrscheinlichkeit.md",
-    "Stochastik/Hypothesentestungen/Signifikanzniveau.md",
-    "Stochastik/Hypothesentestungen/Nullhypothese.md",
-    "Stochastik/Hypothesentestungen/Alternativhypothese.md",
     "Z_Exklusiv zur Formelsammlung/Aufgabensammlung von HA und mehr/Analysis/Seite 109.pdf",
-    "Z_Exklusiv zur Formelsammlung/Beweisführungen/GeradeInEbene.md",
-    "Z_Exklusiv zur Formelsammlung/Beweisführungen/GeradeInKugel.md",
     "Z_Exklusiv zur Formelsammlung/Beweisführungen/Parallele Tangentialebenen auf generellen Kugeln.pdf",
     "Z_Abbildungen allgemein/Annahmebvereich.png",
     "Z_Abbildungen allgemein/DesmosKreise9a).png",
@@ -294,7 +311,6 @@
     "Z_Abbildungen allgemein/Trassierung2.png.opdownload",
     "Z_Abbildungen allgemein/Trassierung1.png.opdownload",
     "HowToDownload.pdf",
-    "Z_Exklusiv zur Formelsammlung/Aufgabensammlung von HA und mehr/Analytische Geometrie/Seite 70 Nr. 5).pdf",
     "Z_Abbildungen allgemein/DesmosKreise9a) 1.png",
     "Untitled.canvas"
   ]

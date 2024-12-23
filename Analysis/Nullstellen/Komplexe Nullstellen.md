@@ -1,4 +1,4 @@
-Falls durch [[pq-Formel und Mitternachtsformel]], [[Komplexe Zahlen]] als Ergebnis gebildet werden, so sind diese Nullstellen des Komplexen Zahlensystems $\mathbb{C}$.
+Falls durch [[pq-Formel und Mitternachtsformel]] [[Komplexe Zahlen]] als Ergebnis gebildet werden, so sind diese Nullstellen des Komplexen Zahlensystems $\mathbb{C}$.
 
 ---
 >Eine Ganzrationale Funktion $f$ $n$-ten Grades hat immer $n$ Nullstellen.
