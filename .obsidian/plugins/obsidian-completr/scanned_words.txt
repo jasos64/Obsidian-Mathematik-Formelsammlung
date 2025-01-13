@@ -10342,6 +10342,7 @@ denselben
 description
 directional
 define
+denominator
 Abhängigkeit
 Aufgaben
 Achsen
@@ -11129,6 +11130,7 @@ Abmessungen
 Auslenkung
 Anstieg
 Again
+Additionally
 zu
 zwei
 zunächst
@@ -11753,6 +11755,7 @@ znAe
 zZf
 zfp
 zwanghaft
+zero
 gesetzt
 gegeben
 gelten
@@ -13626,6 +13629,7 @@ structure
 side
 simplification
 split
+scalar
 neben
 nach
 nun
@@ -20940,6 +20944,7 @@ vRl
 vli
 verwende
 variable
+values
 frei
 für
 finden
@@ -24762,6 +24767,8 @@ rfoD
 relative
 reconstruct
 rotation
+roll
+range
 Tut
 Termumformung
 Tiefpunkt
@@ -37153,6 +37160,7 @@ ciJqJIJi
 coordinates
 creates
 create
+colored
 qyy
 qF
 qZ

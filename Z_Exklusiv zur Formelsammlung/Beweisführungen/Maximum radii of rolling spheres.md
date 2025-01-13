@@ -295,7 +295,7 @@ $$
 $$
 We can see that with the whole denominator being $\left|\vec{v}\times\vec{u}\right|-\left|\vec{v}\times\vec{u}\right|\cdot\cos(\alpha)$
 it will have values in $\left[0;\left|\vec{v}\times\vec{u}\right|\right]$.
-This makes it always be zero positive.
+This makes the denominator always be zero or positive.
 
 
 
