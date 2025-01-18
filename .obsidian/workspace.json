@@ -8,18 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f450aba95048c2ce",
+            "id": "be0e4472b60c5b56",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Z_Exklusiv zur Formelsammlung/Aufgabensammlung von HA und mehr/Analysis/Extremwertaufgabe_MetallPappDose.md",
+                "file": "Analysis/Kurvendiskussion/Symmetrie.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Extremwertaufgabe_MetallPappDose"
+              "title": "Symmetrie"
             }
           }
         ]
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Z_Exklusiv zur Formelsammlung/Aufgabensammlung von HA und mehr/Seite 198 Nr. 10).md",
+                "file": "Analysis/Kurvendiskussion/Symmetrie.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Seite 198 Nr. 10)"
+              "title": "Backlinks for Symmetrie"
             }
           },
           {
@@ -126,12 +126,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Z_Exklusiv zur Formelsammlung/Aufgabensammlung von HA und mehr/Seite 198 Nr. 10).md",
+                "file": "Analysis/Kurvendiskussion/Symmetrie.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Seite 198 Nr. 10)"
+              "title": "Outgoing links from Symmetrie"
             }
           },
           {
@@ -154,10 +154,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Z_Exklusiv zur Formelsammlung/Aufgabensammlung von HA und mehr/Seite 198 Nr. 10).md"
+                "file": "Analysis/Kurvendiskussion/Symmetrie.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Seite 198 Nr. 10)"
+              "title": "Outline of Symmetrie"
             }
           },
           {
@@ -179,6 +179,16 @@
               "icon": "viewIcon",
               "title": "Markdown-Autocomplete"
             }
+          },
+          {
+            "id": "979917119a804258",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
           }
         ],
         "currentTab": 5
@@ -193,7 +203,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Z_Exklusiv zur Formelsammlung/Aufgabensammlung von HA und mehr/Analysis/Extremwertaufgabe_MetallPappDose.md",
+                "file": "Analysis/Kurvendiskussion/Symmetrie.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -221,14 +231,14 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Extremwertaufgabe_MetallPappDose"
+              "title": "Graph of Symmetrie"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 326
+    "width": 346
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -248,45 +258,45 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f450aba95048c2ce",
+  "active": "be0e4472b60c5b56",
   "lastOpenFiles": [
+    "Analysis/Kurvendiskussion/Extremwertaufgaben/Extremwertaufgaben.md",
+    "Analysis/Kurvendiskussion/Extremwertaufgaben/Hauptbedingung.md",
+    "Analysis/Kurvendiskussion/Extremwertaufgaben/Nebenbedingung.md",
+    "Analysis/Kurvendiskussion/Extremwertaufgaben/Zielfunktion.md",
+    "Analytische Geometrie/Geraden/Geradengleichung.md",
+    "Analysis/Nullstellen/Satz vom Nullprodukt.md",
+    "Analysis/Kurvendiskussion/Funktion(en).md",
+    "Stochastik/Allgemein/Zufallsgröße/Erwartungswert.md",
+    "Analysis/Kurvendiskussion/Symmetrie.md",
+    "Z_Exklusiv zur Formelsammlung/Aufgabensammlung von HA und mehr/Stochastik/Seite 159 Nr. 11).md",
+    "Analysis/Kurvendiskussion/Funktionsschar(en).md",
+    "Analysis/Kurvendiskussion/Lokale Extrema.md",
+    "Analysis/Kurvendiskussion/Y-Achsen-Abschnitt.md",
+    "Analysis/Kurvendiskussion/Schnittstellen mit anderen Funktionen.md",
+    "Analysis/Kurvendiskussion/Monotonieverhalten.md",
+    "Analysis/Kurvendiskussion/Ortskurve(n).md",
+    "Z_Exklusiv zur Formelsammlung/Aufgabensammlung von HA und mehr/Analysis/Extremwertaufgabe_MetallPappDose.md",
     "Z_Exklusiv zur Formelsammlung/Aufgabensammlung von HA und mehr/Analysis/Extremwertaufgabe_MetallPappDose.pdf",
     "Z_Exklusiv zur Formelsammlung/Aufgabensammlung von HA und mehr/Analysis/Matheaufgaben.md",
     "Z_Exklusiv zur Formelsammlung/Aufgabensammlung von HA und mehr/Analysis/Probeabi2024 Analysis Aufgabe 1.md",
     "Z_Exklusiv zur Formelsammlung/Aufgabensammlung von HA und mehr/Analysis/SchachtelAusOberfläche-HA.md",
-    "Z_Exklusiv zur Formelsammlung/Aufgabensammlung von HA und mehr/Analysis/Extremwertaufgabe_MetallPappDose.md",
-    "Analysis/Kurvendiskussion/Extremwertaufgaben/Extremwertaufgaben.md",
-    "Analysis/Kurvendiskussion/Lokale Extrema.md",
     "Analysis/Kurvendiskussion/Wendestellen-Wendepunkte.md",
     "Analysis/Kurvendiskussion/Extremwertaufgaben",
-    "Analysis/Kurvendiskussion/Symmetrie.md",
-    "Analysis/Kurvendiskussion/Schnittstellen mit anderen Funktionen.md",
-    "Analysis/Kurvendiskussion/Funktionsschar(en).md",
-    "Analysis/Kurvendiskussion/Ortskurve(n).md",
-    "Analysis/Kurvendiskussion/Monotonieverhalten.md",
-    "Analysis/Kurvendiskussion/Funktion(en).md",
-    "Analysis/Kurvendiskussion/Y-Achsen-Abschnitt.md",
     "Analysis/Nullstellen/Substitution.md",
-    "Analysis/Nullstellen/Satz vom Nullprodukt.md",
     "Analysis/Nullstellen/Polynomdivision.md",
     "Analysis/Steckbriefaufgaben/Steckbriefaufgaben.md",
     "Z_Exklusiv zur Formelsammlung/Aufgabensammlung von HA und mehr/Analysis/Seite Nr. 5).md",
     "Z_Exklusiv zur Formelsammlung/Aufgabensammlung von HA und mehr/Analysis/Extremwertaufgabe.pdf",
     "Z_Exklusiv zur Formelsammlung/Aufgabensammlung von HA und mehr/Analysis/Seite 177 Nr. 4).md",
-    "Z_Exklusiv zur Formelsammlung/Aufgabensammlung von HA und mehr/Analysis/Seite 109.md",
     "Z_Exklusiv zur Formelsammlung/Aufgabensammlung von HA und mehr/Analysis/Seite 109 Nr. 4ac) 5a).pdf",
-    "Analytische Geometrie/Abstände/Gerade - Gerade (Windschief).md",
     "Z_Abbildungen allgemein/BlattFalten.png.opdownload",
     "Z_Abbildungen allgemein/BlattFalten.png",
-    "Z_Exklusiv zur Formelsammlung/Beweisführungen/Maximum radii of rolling spheres.md",
     "Z_Exklusiv zur Formelsammlung/Beweisführungen/Maximum radii of rolling spheres.pdf",
-    "Analysis/Nullstellen/Nullstellen.md",
-    "Analysis/Nullstellen/Newtonverfahren.md",
     "Z_Exklusiv zur Formelsammlung/Aufgabensammlung von HA und mehr/Analysis/Seite Nr. 5).pdf",
     "Z_Exklusiv zur Formelsammlung/Aufgabensammlung von HA und mehr/Analysis/Seite 177 Nr. 4).pdf",
     "Z_Exklusiv zur Formelsammlung/Aufgabensammlung von HA und mehr/Analysis/Seite 111 3) 4).pdf",
     "Analysis/Trigonometrie",
-    "Z_Exklusiv zur Formelsammlung/Aufgabensammlung von HA und mehr/Analysis/Seite 109.pdf",
     "Z_Abbildungen allgemein/Annahmebvereich.png",
     "Z_Abbildungen allgemein/DesmosKreise9a).png",
     "Z_Abbildungen allgemein/Trassierung0.png",

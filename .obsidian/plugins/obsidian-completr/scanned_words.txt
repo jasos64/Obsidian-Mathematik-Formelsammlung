@@ -1467,6 +1467,7 @@ EmR
 Extremstellen
 Extremwertaufgaben
 Einschränkung
+Extremwertanalyse
 Funktion
 Funktionsnamen
 Form
@@ -3039,6 +3040,7 @@ bbc
 byTff
 bVJ
 brB
+beantworten
 Namens
 Nullstelle
 Nullstellen
@@ -3712,6 +3714,7 @@ NTB
 Nxp
 NRN
 Nebenbedingung
+Nebenbedingungen
 Oftmals
 Operation
 Ortsvektor
@@ -6572,6 +6575,11 @@ ewQ
 eiPnN
 eUX
 eqR
+einziger
+eingrenzende
+einschließen
+eindimensionale
+ebenso
 Beschreibung
 Besondere
 Beispiel
@@ -7363,6 +7371,7 @@ Byc
 Bzt
 BnK
 BRz
+Bedingungsfunktion
 Rechenvorganges
 Rest
 Rechnung
@@ -9627,6 +9636,11 @@ mGr
 mzad
 maximiert
 minimiert
+minimierende
+maximierende
+minimierenden
+maximierenden
+mehrdimensionale
 durchgeführt
 dem
 den
@@ -11306,6 +11320,7 @@ AyS
 Aau
 Ausarbeitung
 Ablaufplan
+Anhängigkeit
 zu
 zwei
 zunächst
@@ -12805,6 +12820,7 @@ ghx
 graue
 gebaute
 gebaut
+gebildeter
 sodass
 sind
 so
@@ -15314,6 +15330,8 @@ Klc
 KhA
 Khl
 Kanten
+Kostenaufwand
+Kantenlänge
 Variable
 Veränderung
 Veränderungsrate
@@ -17423,6 +17441,7 @@ Zoh
 Zhe
 Zielfunktion
 Zylinder
+Zylinders
 annehmen
 aufzeichnet
 ausgerechnet
@@ -19073,6 +19092,7 @@ kQh
 kmg
 kMdK
 kostet
+konkretes
 Hier
 Hierbei
 Hierfür
@@ -19762,6 +19782,7 @@ HBAQ
 HpwY
 Hauptbedingung
 Hauptfunktion
+Hieraus
 usw
 und
 untersucht
@@ -21281,6 +21302,7 @@ vZZ
 vAY
 vCm
 viermal
+vereinen
 frei
 für
 finden
@@ -22074,6 +22096,7 @@ fuA
 fdy
 fmgF
 fortgehendes
+funktionaler
 haben
 handelt
 hier
@@ -22849,6 +22872,8 @@ hGs
 hUw
 hzK
 hID
+herhalten
+herleiten
 Sei
 Stellen
 Sie
@@ -23700,6 +23725,9 @@ SkY
 Schnitte
 Sachverhalte
 Säule
+Sachverhalt
+Seitenlänge
+Seitenlängen
 jede
 jedes
 jeden
@@ -26624,6 +26652,8 @@ Metall
 Mantel
 Metalls
 Materialien
+Minimalkostenpreis
+Minimaloberfläche
 Gleichsetzen
 Gegeben
 Generalisiert
@@ -27997,6 +28027,7 @@ UWxO
 Urq
 UEb
 Unterseiten
+Umformen
 Wenn
 Wert
 Wichtig
@@ -31462,6 +31493,7 @@ LsIE
 LvMcG
 Linie
 Linien
+Längen
 punktsymmetrisch
 passenden
 pss
