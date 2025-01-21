@@ -702,6 +702,8 @@ Dbe
 Dsr
 Draht
 Dose
+Dreiecken
+Dreiecke
 Eine
 Eingangswert
 Einsetzen
@@ -12821,6 +12823,7 @@ graue
 gebaute
 gebaut
 gebildeter
+gleichseitigen
 sodass
 sind
 so
@@ -13869,6 +13872,7 @@ shD
 sYJ
 sHSO
 stellen
+symmetrischer
 neben
 nach
 nun
@@ -16761,6 +16765,7 @@ PSB
 Pkx
 Pappe
 Preis
+Pyramidenoberfläche
 Zahl
 Zwei
 Zeitraum
@@ -18378,6 +18383,8 @@ aFJ
 aeb
 aIg
 aPH
+aufgebaut
+ausgeschnitten
 kann
 können
 kleines
@@ -19093,6 +19100,7 @@ kmg
 kMdK
 kostet
 konkretes
+konkret
 Hier
 Hierbei
 Hierfür
@@ -21303,6 +21311,7 @@ vAY
 vCm
 viermal
 vereinen
+verdeutlicht
 frei
 für
 finden
@@ -22874,6 +22883,8 @@ hzK
 hID
 herhalten
 herleiten
+hochgebogen
+höchstens
 Sei
 Stellen
 Sie
@@ -23728,6 +23739,7 @@ Säule
 Sachverhalt
 Seitenlänge
 Seitenlängen
+Stern
 jede
 jedes
 jeden
@@ -28028,6 +28040,7 @@ Urq
 UEb
 Unterseiten
 Umformen
+Umfang
 Wenn
 Wert
 Wichtig
@@ -38423,6 +38436,7 @@ qKe
 qIaV
 qSKkkK
 quadratische
+quadratischen
 Öffnungsfaktor
 Ökoligische
 ÖDF
