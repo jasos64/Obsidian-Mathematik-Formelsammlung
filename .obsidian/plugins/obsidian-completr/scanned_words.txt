@@ -2223,6 +2223,9 @@ FSi
 Fmy
 Fbt
 Fassungsvolumen
+Falten
+Faltseiten
+Faltecke
 beliebigen
 besitzen
 berührt
@@ -6582,6 +6585,7 @@ eingrenzende
 einschließen
 eindimensionale
 ebenso
+ergebenen
 Beschreibung
 Besondere
 Beispiel
@@ -12824,6 +12828,11 @@ gebaute
 gebaut
 gebildeter
 gleichseitigen
+gefaltenen
+grüne
+gesamtstrecke
+gegenüberstehenden
+gefalteten
 sodass
 sind
 so
@@ -13873,6 +13882,7 @@ sYJ
 sHSO
 stellen
 symmetrischer
+seitlich
 neben
 nach
 nun
