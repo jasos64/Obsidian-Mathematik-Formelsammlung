@@ -7378,6 +7378,7 @@ Bzt
 BnK
 BRz
 Bedingungsfunktion
+Betrachtungsweise
 Rechenvorganges
 Rest
 Rechnung
@@ -32385,6 +32386,7 @@ pFr
 poo
 pOa
 pAB
+prozentual
 Äquivalenzumformung
 ÄI
 ÄP
@@ -38476,6 +38478,7 @@ quadratischen
 ändern
 ähnlich
 ähnliche
+ändere
 ßW
 ßFe
 ßzG
