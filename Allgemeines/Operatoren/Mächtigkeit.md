@@ -4,6 +4,6 @@ $$
 \left|\mathbb{L}\right|=n 
 $$
 
-Verwendet wird dies für [[Laplace-Wahrscheinlichkeiten]].
+Verwendet wird dies beispielsweise für [[Laplace-Wahrscheinlichkeiten]].
 
 ---

@@ -11,3 +11,5 @@ grid: true
 ---
 f(x)=tan(x)
 ```
+
+---

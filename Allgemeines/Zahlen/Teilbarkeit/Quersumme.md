@@ -5,5 +5,6 @@ $$
 	z_g=\sum^{n}_{k=0}z_k\cdot10
 ^k\end{align}
 $$
+Wird in einigen [[Teilbarkeitsregeln]] verwendet.
 
 ---

@@ -13,28 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Z_Exklusiv zur Formelsammlung/Aufgabensammlung von HA und mehr/Analysis/Pyramide.md",
+                "file": "Z_Exklusiv zur Formelsammlung/Beweisführungen/nÜberK=nÜberN-k.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Pyramide"
-            }
-          },
-          {
-            "id": "3741c771e6569756",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Z_Exklusiv zur Formelsammlung/Aufgabensammlung von HA und mehr/Analysis/Extremwertaufgabe_MetallPappDose.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Extremwertaufgabe_MetallPappDose"
+              "title": "nÜberK=nÜberN-k"
             }
           }
         ]
@@ -218,7 +203,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Z_Exklusiv zur Formelsammlung/Aufgabensammlung von HA und mehr/Analysis/Pyramide.md",
+                "file": "Z_Exklusiv zur Formelsammlung/Beweisführungen/nÜberK=nÜberN-k.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -246,7 +231,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Pyramide"
+              "title": "Graph of nÜberK=nÜberN-k"
             }
           }
         ]
@@ -275,46 +260,46 @@
   },
   "active": "be0e4472b60c5b56",
   "lastOpenFiles": [
+    "Z_Exklusiv zur Formelsammlung/Aufgabensammlung von HA und mehr/Analysis/Seite Nr. 5).md",
+    "Analysis/Trigonometrie/Einheitskreis.md",
+    "Analysis/Trigonometrie/Kosinusfunktion.md",
+    "Analysis/Trigonometrie/Sinusfunktion.md",
+    "Analysis/Trigonometrie/Tangensfunktion.md",
+    "Analysis/Steckbriefaufgaben/Trassierung.md",
+    "Analysis/Steckbriefaufgaben/Steckbriefaufgaben.md",
+    "Analysis/Steckbriefaufgaben/Trassierung/Krümmungsruckfrei.md",
+    "Analysis/Steckbriefaufgaben/Trassierung/Knickfrei.md",
+    "Analysis/Steckbriefaufgaben/Trassierung/Sprungfrei.md",
+    "Analysis/Nullstellen/Substitution.md",
+    "Analysis/Nullstellen/Satz vom Nullprodukt.md",
+    "Analysis/Nullstellen/pq-Formel und Mitternachtsformel.md",
+    "Analysis/Nullstellen/Polynomdivision.md",
+    "Analysis/Nullstellen/Nullstellen.md",
+    "Analysis/Nullstellen/Newtonverfahren.md",
+    "Analysis/Nullstellen/Komplexe Nullstellen.md",
+    "Analysis/Kurvendiskussion/Y-Achsen-Abschnitt.md",
+    "Analysis/Kurvendiskussion/Wendestellen-Wendepunkte.md",
+    "Analysis/Kurvendiskussion/Symmetrie.md",
+    "Analysis/Kurvendiskussion/Schnittstellen mit anderen Funktionen.md",
+    "Analysis/Kurvendiskussion/Ortskurve(n).md",
+    "Analysis/Kurvendiskussion/Monotonieverhalten.md",
+    "Analysis/Kurvendiskussion/Lokale Extrema.md",
+    "Analysis/Kurvendiskussion/Funktionsschar(en).md",
+    "Analysis/Kurvendiskussion/Funktion(en).md",
     "Z_Exklusiv zur Formelsammlung/Aufgabensammlung von HA und mehr/Analysis/Pyramide.pdf",
-    "Z_Exklusiv zur Formelsammlung/Aufgabensammlung von HA und mehr/Analysis/Extremwertaufgabe_MetallPappDose.md",
-    "Z_Exklusiv zur Formelsammlung/Aufgabensammlung von HA und mehr/Analysis/Pyramide.md",
-    "Z_Exklusiv zur Formelsammlung/Aufgabensammlung von HA und mehr/Analysis/Probeabi2024 Analysis Aufgabe 1.md",
     "Z_Abbildungen allgemein/Pyramide11.png.opdownload",
-    "Z_Exklusiv zur Formelsammlung/Aufgabensammlung von HA und mehr/Analysis/SchachtelAusOberfläche-HA.md",
     "Z_Abbildungen allgemein/Seite.png.opdownload",
     "Z_Abbildungen allgemein/Seite.png",
     "Z_Abbildungen allgemein/Pyramide11.png",
-    "Z_Exklusiv zur Formelsammlung/Aufgabensammlung von HA und mehr/Analysis/Hausform.md",
     "Z_Exklusiv zur Formelsammlung/Aufgabensammlung von HA und mehr/Analysis/Hausform.pdf",
     "Z_Abbildungen allgemein/Dreieck.png",
     "Z_Abbildungen allgemein/Dreieck.png.opdownload",
     "Z_Abbildungen allgemein/HausForm.png",
     "Z_Abbildungen allgemein/HausForm.png.opdownload",
-    "Analysis/Kurvendiskussion/Symmetrie.md",
-    "Analysis/Kurvendiskussion/Extremwertaufgaben/Extremwertaufgaben.md",
-    "Analysis/Kurvendiskussion/Extremwertaufgaben/Hauptbedingung.md",
-    "Analysis/Kurvendiskussion/Extremwertaufgaben/Nebenbedingung.md",
-    "Analysis/Kurvendiskussion/Extremwertaufgaben/Zielfunktion.md",
-    "Analytische Geometrie/Geraden/Geradengleichung.md",
-    "Analysis/Nullstellen/Satz vom Nullprodukt.md",
-    "Analysis/Kurvendiskussion/Funktion(en).md",
-    "Stochastik/Allgemein/Zufallsgröße/Erwartungswert.md",
-    "Z_Exklusiv zur Formelsammlung/Aufgabensammlung von HA und mehr/Stochastik/Seite 159 Nr. 11).md",
-    "Analysis/Kurvendiskussion/Funktionsschar(en).md",
-    "Analysis/Kurvendiskussion/Lokale Extrema.md",
-    "Analysis/Kurvendiskussion/Y-Achsen-Abschnitt.md",
-    "Analysis/Kurvendiskussion/Schnittstellen mit anderen Funktionen.md",
-    "Analysis/Kurvendiskussion/Monotonieverhalten.md",
-    "Analysis/Kurvendiskussion/Ortskurve(n).md",
     "Z_Exklusiv zur Formelsammlung/Aufgabensammlung von HA und mehr/Analysis/Extremwertaufgabe_MetallPappDose.pdf",
-    "Z_Exklusiv zur Formelsammlung/Aufgabensammlung von HA und mehr/Analysis/Matheaufgaben.md",
-    "Analysis/Kurvendiskussion/Wendestellen-Wendepunkte.md",
     "Analysis/Kurvendiskussion/Extremwertaufgaben",
-    "Analysis/Nullstellen/Substitution.md",
-    "Analysis/Nullstellen/Polynomdivision.md",
     "Z_Exklusiv zur Formelsammlung/Aufgabensammlung von HA und mehr/Analysis/Extremwertaufgabe.pdf",
     "Z_Exklusiv zur Formelsammlung/Aufgabensammlung von HA und mehr/Analysis/Seite 109 Nr. 4ac) 5a).pdf",
-    "Z_Abbildungen allgemein/BlattFalten.png.opdownload",
     "Z_Abbildungen allgemein/BlattFalten.png",
     "Z_Abbildungen allgemein/Annahmebvereich.png",
     "Z_Abbildungen allgemein/DesmosKreise9a).png",

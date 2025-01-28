@@ -53,4 +53,4 @@ $$\begin{align}
 
 ---
 ### Partielle Differention
-![[Partielle Differention]] 
+![[Partielle Integration]] 

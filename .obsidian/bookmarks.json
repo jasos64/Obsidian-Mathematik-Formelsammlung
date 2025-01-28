@@ -1,3 +1,19 @@
 {
-  "items": []
+  "items": [
+    {
+      "type": "file",
+      "ctime": 1738079424749,
+      "path": "Allgemeines/Gesetze/Binomischer Lehrsatz.md"
+    },
+    {
+      "type": "file",
+      "ctime": 1738082766878,
+      "path": "Analysis/Allgemein/Tailorpolinomentwicklung.md"
+    },
+    {
+      "type": "file",
+      "ctime": 1738082848773,
+      "path": "Analysis/Steckbriefaufgaben/Trassierung/Krümmungsruckfrei.md"
+    }
+  ]
 }

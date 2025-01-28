@@ -8,7 +8,7 @@ $$\begin{align}
 	a\bmod b&=m&&\text{weil }a-\bigg\lfloor\frac{a}{b}\bigg\rfloor\cdot b=m\\
 	7\bmod{3}&=1&&\text{weil }7-\cancelto{2}{\bigg\lfloor\frac{7}{3}\bigg\rfloor}\cdot 3=1\\
 	
-	64\bmod{5}&=4&&\text{weil }64-\cancelto{12}{\bigg\lfloor\frac{64}{5}\bigg\rfloor}\cdot 5=1
+	64\bmod{5}&=4&&\text{weil }64-\cancelto{12}{\bigg\lfloor\frac{64}{5}\bigg\rfloor}\cdot 5=4
 \end{align}$$
 Daraus folgt für alle $m=0$, dass $a$ und $b$ durch eine Division eine Zahl aus $\mathbb{Z}$ hervorbringen.
 Somit gilt für alle [Teiler](Teilbarkeit) von $a$: $a\bmod T_{a}=0$
@@ -23,3 +23,5 @@ $$\begin{align}
 Visualisiert erkennt man dies gut, da die grün gefärbten Boxen hier eine Verkürzung von $0,75$ Einheiten bilden.
 <iframe src="https://www.desmos.com/calculator/xyveyqh0kz?embed" width="1000" height="500" style="border: 1px solid #ccc" frameborder=10></iframe>
 Übergeordnet für höhere Sets würden diese funktionieren.
+
+---

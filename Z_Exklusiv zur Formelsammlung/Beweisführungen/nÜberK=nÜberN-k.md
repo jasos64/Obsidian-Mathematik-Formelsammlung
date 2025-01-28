@@ -11,3 +11,5 @@ $$
 	\frac{n!}{\left(n-k\right)!\cdot k!}&\equiv\frac{n!}{k!\cdot (n-k)!}
 \end{align}
 $$
+
+---

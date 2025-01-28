@@ -704,6 +704,8 @@ Draht
 Dose
 Dreiecken
 Dreiecke
+Differenzierung
+Differenziert
 Eine
 Eingangswert
 Einsetzen
@@ -1470,6 +1472,9 @@ Extremstellen
 Extremwertaufgaben
 Einschränkung
 Extremwertanalyse
+Einerstelle
+Endgültige
+Endergebnis
 Funktion
 Funktionsnamen
 Form
@@ -5000,6 +5005,7 @@ owTN
 oDR
 oTv
 osi
+optimale
 ist
 in
 im
@@ -5716,6 +5722,7 @@ iij
 iKt
 iww
 iCx
+ineinander
 eine
 eines
 einem
@@ -12834,6 +12841,7 @@ grüne
 gesamtstrecke
 gegenüberstehenden
 gefalteten
+gegenteilig
 sodass
 sind
 so
@@ -13884,6 +13892,7 @@ sHSO
 stellen
 symmetrischer
 seitlich
+solchen
 neben
 nach
 nun
@@ -18396,6 +18405,7 @@ aIg
 aPH
 aufgebaut
 ausgeschnitten
+aufleiten
 kann
 können
 kleines
@@ -19802,6 +19812,7 @@ HpwY
 Hauptbedingung
 Hauptfunktion
 Hieraus
+Hinweise
 usw
 und
 untersucht
@@ -20550,6 +20561,7 @@ uvo
 uji
 uLA
 uUr
+umgeschrieben
 verwendet
 visuell
 von
@@ -22896,6 +22908,8 @@ herhalten
 herleiten
 hochgebogen
 höchstens
+hebt
+hierdurch
 Sei
 Stellen
 Sie
@@ -23751,6 +23765,7 @@ Sachverhalt
 Seitenlänge
 Seitenlängen
 Stern
+Startfunktion
 jede
 jedes
 jeden
@@ -28747,6 +28762,7 @@ WxC
 WOJ
 Wce
 WTQa
+Weitergehend
 lauten
 lokale
 links
@@ -30799,6 +30815,10 @@ IMf
 IEm
 IGF
 ImD
+Integriert
+Integrierung
+Integrieren
+Integrationen
 überprüfen
 übrig
 über
@@ -32387,6 +32407,9 @@ poo
 pOa
 pAB
 prozentual
+partiell
+partiellen
+partielle
 Äquivalenzumformung
 ÄI
 ÄP
@@ -32397,6 +32420,7 @@ prozentual
 Ähnlichkeiten
 Ähnlich
 Änderungsrate
+Ändern
 Ce
 CL
 Cx

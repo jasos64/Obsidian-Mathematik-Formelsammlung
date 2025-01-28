@@ -1,4 +1,4 @@
-Komplexe Zahlen $\mathbb{C}$ sind eine Erweiterung des reellen Zahlensystems $\mathbb{R}$.
+Komplexe Zahlen $\mathbb{C}$ sind eine Erweiterung des [reellen](Zahlensets) Zahlensystems $\mathbb{R}$.
 Sie bestehen aus einer reellen Komponente (hier $a$), und eine komplexe Komponente (hier mit $b$):
 $$z=a+bi$$
 
