@@ -719,6 +719,7 @@ DYWR
 DzhH
 DFf
 DcQq
+Durchführungen
 Eine
 Eingangswert
 Einsetzen
@@ -1504,6 +1505,7 @@ ERU
 EIa
 EISafe
 Elektrogroßhändler
+Euro
 Funktion
 Funktionsnamen
 Form
@@ -2271,6 +2273,7 @@ FPw
 Fqz
 FmW
 Firma
+Fig
 beliebigen
 besitzen
 berührt
@@ -3095,6 +3098,7 @@ boa
 bOxPi
 bMwM
 bcT
+belieben
 Namens
 Nullstelle
 Nullstellen
@@ -9806,6 +9810,7 @@ mWQ
 mCNY
 mgf
 mOsO
+mittleren
 durchgeführt
 dem
 den
@@ -10701,6 +10706,7 @@ ded
 dHl
 dEH
 dFaa
+durchschnittlich
 Abhängigkeit
 Aufgaben
 Achsen
@@ -12164,6 +12170,7 @@ zcQ
 zrL
 zNJ
 zwölf
+zieht
 gesetzt
 gegeben
 gelten
@@ -13036,6 +13043,8 @@ gEje
 gWo
 gdfhW
 gWl
+gestreut
+gewinn
 sodass
 sind
 so
@@ -14097,6 +14106,7 @@ sCcQ
 ssJ
 sOU
 sdJ
+sehr
 neben
 nach
 nun
@@ -14844,6 +14854,7 @@ ncO
 nPY
 ncy
 nxq
+nacheinander
 Klammern
 Kettenregel
 Kriterium
@@ -16318,6 +16329,7 @@ VTN
 Vfhy
 VGa
 VMM
+Variablenbezeichnung
 Platzhalter
 Punkte
 Punkt
@@ -18673,6 +18685,7 @@ aaA
 aFR
 acC
 aei
+ausbezahlt
 kann
 können
 kleines
@@ -19402,6 +19415,7 @@ kyv
 kYW
 kye
 krvv
+kugeln
 Hier
 Hierbei
 Hierfür
@@ -20102,6 +20116,7 @@ HJx
 HMq
 Hgm
 HFua
+Hypergeometrisch
 usw
 und
 untersucht
@@ -21652,6 +21667,7 @@ vAEV
 vdl
 vhR
 vLA
+verteilt
 frei
 für
 finden
@@ -22457,6 +22473,7 @@ fLJ
 fiy
 fUz
 findet
+fünf
 haben
 handelt
 hier
@@ -24116,6 +24133,11 @@ Sicherungen
 Sendungen
 Sendung
 Sicherung
+Schale
+Schnitt
+Sechs
+Spielen
+Spielregeln
 jede
 jedes
 jeden
@@ -29207,6 +29229,7 @@ WPd
 Wlvj
 WJt
 WuN
+Würfeln
 lauten
 lokale
 links
@@ -29997,6 +30020,8 @@ lXr
 lsA
 lQO
 lim
+legt
+lange
 Quotientenregel
 QL
 Qb
@@ -31301,6 +31326,7 @@ IRu
 IuC
 IuyU
 IYR
+Ihren
 überprüfen
 übrig
 über
