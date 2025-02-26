@@ -14,7 +14,6 @@
   "omnisearch",
   "obsidian-outliner",
   "oz-image-plugin",
-  "obsidian-pandoc",
   "templater-obsidian",
   "various-complements",
   "obsidian-git",
@@ -22,5 +21,7 @@
   "3d-graph",
   "obsidian-tikzjax",
   "obsidian-desmos",
-  "better-export-pdf"
+  "multi-column-markdown",
+  "obsidian-enhancing-export",
+  "obsidian-pandoc"
 ]
