@@ -734,6 +734,7 @@ DXC
 DiWC
 Dch
 Daq
+Dupels
 Eine
 Eingangswert
 Einsetzen
@@ -2316,6 +2317,7 @@ FHO
 FEC
 FQv
 FtK
+Füllhöhen
 beliebigen
 besitzen
 berührt
@@ -3150,6 +3152,7 @@ bBj
 bzp
 bUo
 bWs
+bekannten
 Namens
 Nullstelle
 Nullstellen
@@ -3842,6 +3845,7 @@ Nti
 NjRwX
 NOxl
 Näherung
+Normalverteilungen
 Oftmals
 Operation
 Ortsvektor
@@ -10875,6 +10879,7 @@ dkAi
 dnI
 dwHvH
 dxF
+definierte
 Abhängigkeit
 Aufgaben
 Achsen
@@ -12357,6 +12362,7 @@ zSd
 zoF
 zNuu
 zKX
+zentrierte
 gesetzt
 gegeben
 gelten
@@ -13239,6 +13245,7 @@ gestreckt
 glO
 gaGs
 gQGmr
+gewohnt
 sodass
 sind
 so
@@ -14312,6 +14319,8 @@ sEQ
 sjK
 smW
 sQd
+stehende
+stehenden
 neben
 nach
 nun
@@ -15071,6 +15080,8 @@ nwb
 näherungswese
 nGkY
 nic
+normalverteilte
+normalverteilten
 Klammern
 Kettenregel
 Kriterium
@@ -15825,6 +15836,8 @@ Kne
 KvI
 KnF
 KJOMfOTE
+Körpergrößen
+Kumulierte
 Variable
 Veränderung
 Veränderungsrate
@@ -16571,6 +16584,7 @@ VcZ
 VGA
 Verteilt
 VqLX
+Verteilungsfunktion
 Platzhalter
 Punkte
 Punkt
@@ -19704,6 +19718,7 @@ kav
 kvN
 kkm
 kcc
+konkrete
 Hier
 Hierbei
 Hierfür
@@ -24488,6 +24503,7 @@ Subject
 SpJ
 SgC
 Ski
+Standardisierung
 jede
 jedes
 jeden
@@ -26752,6 +26768,10 @@ Trapped
 TrDY
 TIc
 Tig
+Transformationen
+Transformation
+Tatsache
+Tabellen
 Mathematisch
 Maxima
 Möglichkeiten
@@ -28244,6 +28264,7 @@ GLk
 Gnw
 GkVyITT
 GxZ
+Gaußfunktion
 Um
 Unendlichen
 Ursprung
@@ -30457,6 +30478,8 @@ lLh
 lDe
 ltBf
 lil
+liefert
+linearer
 Quotientenregel
 QL
 Qb
@@ -31775,6 +31798,8 @@ IfQw
 IdK
 ItTZ
 IrOX
+Integrationsvariable
+Integrationsfunktion
 überprüfen
 übrig
 über

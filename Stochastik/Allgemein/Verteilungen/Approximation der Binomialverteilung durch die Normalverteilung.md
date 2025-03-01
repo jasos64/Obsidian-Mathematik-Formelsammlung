@@ -30,4 +30,20 @@ Es fällt hierbei auf, dass diese Form für $n\to\infty$ die Grenzfunktion $\var
 ![[GausskurveAnnäherung.png]]
 Je größer $n$ wird, desto genauer wird die Approximation.
 
-[...]
+> Allgemein werden geeignete Werte dieser Approximation durch die *Laplace Bedingung* für alle $\sigma^2>9$ gebildet. Somit kann eine Binomialverteilung mit der Standartabweichung $\sigma>3$ durch eine Normalverteilung angenähert werden. $x$ in der Normalverteilung ist hier der beschriebene Term des Dupels $x=\frac{k-\mu}{\sigma}$.
+
+---
+## Kumulierte Wahrscheinlichkeiten
+> bei kumulierten Wahrscheinlichkeiten kann die von der Normalverteilung bekannten Formel für Wahrscheinlichkeiten benutzt werden.
+
+Es gilt weiterhin (siehe [[Flächeninhalt der Normalverteilung]])
+$$
+P(k_1\le X\le k_2)=\Phi\left(\frac{k_2-\mu}{\sigma}\right)-\Phi\left(\frac{k_1-\mu}{\sigma}\right)
+$$
+, man muss aber bedenken, dass die [[Binomialverteilung]] für diskrete Werte definiert ist ($\mathbb{N}$). Bedenken wir, dass die Balken einer Binomialverteilung die Breite von einer Einheit haben und die Mitte dieser bei jeder natürlichen Zahl liegt. Ein Balken an der Stelle $n$ streckt sich somit im Intervall $\left[n-0,5;n+0,5\right]$. Diese Korrektur muss für die Approximation bedacht werden, wodurch sich die Grenzen jeweils verschieben. Es resultiert:
+$$
+P(k_1\le X\le k_2)=\Phi\left(\frac{k_2+0,5-\mu}{\sigma}\right)-\Phi\left(\frac{k_1-0,5-\mu}{\sigma}\right)
+$$
+Die obere Grenze wird mit $0,5$ addiert, die untere mit $0,5$ subtrahiert. Für $n\to\infty$ kann diese Korrektur vernachlässigt werden, da die Approximation da der Gaußfunktion gleicht.
+
+---
