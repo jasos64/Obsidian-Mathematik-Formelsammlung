@@ -3153,6 +3153,8 @@ bzp
 bUo
 bWs
 bekannten
+berechnungsfähig
+beibehält
 Namens
 Nullstelle
 Nullstellen
@@ -7618,6 +7620,8 @@ Bgw
 BRo
 BAbcR
 BZs
+Balken
+Binomialdichte
 Rechenvorganges
 Rest
 Rechnung
@@ -10880,6 +10884,7 @@ dnI
 dwHvH
 dxF
 definierte
+diskrete
 Abhängigkeit
 Aufgaben
 Achsen
@@ -13246,6 +13251,7 @@ glO
 gaGs
 gQGmr
 gewohnt
+gleicht
 sodass
 sind
 so
@@ -14321,6 +14327,7 @@ smW
 sQd
 stehende
 stehenden
+streckt
 neben
 nach
 nun
@@ -18980,6 +18987,7 @@ aKH
 alO
 aRT
 alL
+abbildet
 kann
 können
 kleines
@@ -21997,6 +22005,7 @@ vfK
 vQJ
 verzichtet
 vzTu
+vernachlässigt
 frei
 für
 finden

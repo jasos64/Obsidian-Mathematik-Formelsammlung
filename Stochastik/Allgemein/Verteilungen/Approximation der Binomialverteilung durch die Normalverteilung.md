@@ -47,3 +47,19 @@ $$
 Die obere Grenze wird mit $0,5$ addiert, die untere mit $0,5$ subtrahiert. Für $n\to\infty$ kann diese Korrektur vernachlässigt werden, da die Approximation da der Gaußfunktion gleicht.
 
 ---
+## Binomialdichte
+> Bei der Approximation kann die standardisierte Normalverteilung *nicht* für konkrete Werte benutzt werden.
+
+Da durch die Standardisierung nur eine Verteilungsfunktion ($\varphi(x)=\frac{1}{\sqrt{2\pi}}\cdot e^{-\frac{1}{2}x^2}$) gegeben ist, sind Wahrscheinlichkeiten $P(X=k)$ nicht über diese Standardisierung berechnungsfähig.
+> Die Normalverteilung kann allerdings verwendet werden, da diese diese Eigenschaft beibehält und abbildet.
+
+Daraus folgt für eine Annäherung unter der Laplace Bedingung ($\sigma>3$) einer binomialverteilten Zufallsvariable $X$:
+$$
+P(X=k)\approx \frac{1}{\sigma\cdot\sqrt{2\pi}}\cdot e^{-\frac{1}{2}\cdot\left(\frac{x-\mu}{\sigma}\right)^2}
+$$
+Es kann ebenfalls durch die folgende Schreibweise ausgedrückt werden:
+$$
+\begin{align}
+	P(X=k)\approx\frac{1}{\sigma}\cdot\varphi\left(\frac{x-\mu}{\sigma}\right)
+\end{align}
+$$

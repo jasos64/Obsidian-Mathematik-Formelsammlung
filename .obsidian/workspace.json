@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Stochastik/Allgemein/Verteilungen/Normalverteilung.md",
+                "file": "Stochastik/Allgemein/Verteilungen/Approximation der Binomialverteilung durch die Normalverteilung.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Normalverteilung"
+              "title": "Approximation der Binomialverteilung durch die Normalverteilung"
             }
           }
         ]
@@ -204,7 +204,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Stochastik/Allgemein/Verteilungen/Normalverteilung.md",
+                "file": "Stochastik/Allgemein/Verteilungen/Approximation der Binomialverteilung durch die Normalverteilung.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -232,7 +232,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Normalverteilung"
+              "title": "Graph of Approximation der Binomialverteilung durch die Normalverteilung"
             }
           }
         ]
@@ -261,12 +261,15 @@
   },
   "active": "3b51a4aea1ff0e05",
   "lastOpenFiles": [
-    "Stochastik/Allgemein/Verteilungen/Hypergeometrische Verteilung.md",
-    "Stochastik/Allgemein/Verteilungen/Geometrische Verteilung.md",
     "Stochastik/Allgemein/Verteilungen/Normalverteilung.md",
     "Stochastik/Allgemein/Verteilungen/Approximation der Binomialverteilung durch die Normalverteilung.md",
-    "Stochastik/Allgemein/Verteilungen/Flächeninhalt der Normalverteilung.md",
     "Stochastik/Allgemein/Verteilungen/Standardisierung.md",
+    "Stochastik/Allgemein/Verteilungen/Flächeninhalt der Normalverteilung.md",
+    "Stochastik/Allgemein/Verteilungen/Geometrische Verteilung.md",
+    "Allgemeines/Gesetze/Binomischer Lehrsatz.md",
+    "Analysis/Allgemein/Tailorpolinomentwicklung.md",
+    "Analysis/Steckbriefaufgaben/Trassierung/Krümmungsruckfrei.md",
+    "Stochastik/Allgemein/Verteilungen/Hypergeometrische Verteilung.md",
     "Stochastik/Allgemein/Verteilungen/Binomialverteilung.md",
     "Z_Exklusiv zur Formelsammlung/Aufgabensammlung von HA und mehr/Stochastik/Seite 163 Nr. 1) 2) 3ab) 4ab) 5ae) Seite 164 Nr. 7).md",
     "Z_Exklusiv zur Formelsammlung/Aufgabensammlung von HA und mehr/Stochastik/Seite 163 Nr. 1) 2) 3ab) 4ab) 5ae) Seite 164 Nr. 7).pdf",
@@ -295,9 +298,6 @@
     "Z_Exklusiv zur Formelsammlung/Beweisführungen/Maximum radii of rolling spheres.md",
     "Z_Exklusiv zur Formelsammlung/Beweisführungen/GeradeInKugel.md",
     "Z_Exklusiv zur Formelsammlung/Beweisführungen/GeradeInEbene.md",
-    "Z_Exklusiv zur Formelsammlung/Aufgabensammlung von HA und mehr/Stochastik/Mathestunde vom 10.09.2024.md",
-    "Z_Exklusiv zur Formelsammlung/Aufgabensammlung von HA und mehr/Analysis/Pyramide.md",
-    "Z_Exklusiv zur Formelsammlung/Aufgabensammlung von HA und mehr/Analysis/SchachtelAusOberfläche-HA.md",
     "Z_Abbildungen allgemein/Seite.png",
     "Z_Abbildungen allgemein/Pyramide11.png",
     "Z_Abbildungen allgemein/Dreieck.png",

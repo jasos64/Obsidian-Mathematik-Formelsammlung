@@ -46,61 +46,8 @@ Da es ein $n$ gibt, so muss es für alle $n\to n+1$ gelten:
 $$
 \begin{align}
 	\left(x+y\right)^{n+1}&=
-	\sum^{n+1}_{k=0}
-		\begin{pmatrix}
-			n+1\\k
-		\end{pmatrix}
-	\cdot x^ky^{(n+1)-k}\\
+	\left(x+y\right)\cdot\left(x+y\right)^{n}\\
 	
-	&=
-	\sum^{n}_{k=0}
-		\begin{pmatrix}
-			n+1\\k
-		\end{pmatrix}
-	\cdot x^ky^{n+1-k}
-		+\begin{pmatrix}n+1\\n+1
-		\end{pmatrix}
-	\cdot x^{n+1}y^{n+1-(n+1)}\\
-	
-	&=
-	\sum^{n}_{k=0}
-		\left(
-		\begin{pmatrix}n\\k-1\end{pmatrix}+
-		\begin{pmatrix}n\\k\end{pmatrix}
-		\right)
-	\cdot x^ky^{n+1-k}
-		+\begin{pmatrix}n+1\\n+1
-		\end{pmatrix}
-	\cdot x^{n+1}y^{n+1-(n+1)}\\
-	
-	&=
-	\sum^{n}_{k=0}
-	\begin{pmatrix}n\\k-1\end{pmatrix}
-	\cdot x^ky^{n+1-k}
-		+
-		\textcolor{orange}{\sum^{n}_{k=0}\begin{pmatrix}n\\k\end{pmatrix}\cdot x^ky^{n+1-k}}+
-		\begin{pmatrix}n+1\\n+1
-		\end{pmatrix}
-	\cdot x^{n+1}y^{n+1-(n+1)}\\
-	
-	&\stackrel{IV}{=}
-		\textcolor{orange}{(x+y)^n}+
-		\sum^{n}_{k=0}
-	\begin{pmatrix}n\\k-1\end{pmatrix}
-	\cdot x^ky^{n+1-k}+\begin{pmatrix}n+1\\n+1
-		\end{pmatrix}
-	\cdot x^{n+1}y^{n+1-(n+1)}\\
-	
-	&=
-		(x+y)^n+
-		\sum^{n}_{k=0}
-	\begin{pmatrix}n\\k-1\end{pmatrix}
-	\cdot x^ky^{n+1-k}+x\cdot x^{n}\\
-	
-	&=
-		(x+y)^n+
-		\sum^{n}_{k=0}
-	\begin{pmatrix}n\\k-1\end{pmatrix}
-	\cdot x^ky^{n+1-k}+x\cdot x^{n}\\
+	&\stackrel{\textbf{IV}}{=}\left(x+y\right)\cdot\sum^{n}_{k=0}\begin{pmatrix}n\\k\end{pmatrix}\cdot x^ky^{n-k}
 \end{align}
 $$
