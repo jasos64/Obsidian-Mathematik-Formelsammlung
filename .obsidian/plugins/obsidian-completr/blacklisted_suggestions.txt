@@ -36,3 +36,6 @@ ABc
 aBcYd
 \ref{#}
 \refeq{#}
+\ast
+\atop
+\above{#}{#}
