@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Stochastik/Allgemein/Verteilungen/Approximation der Binomialverteilung durch die Normalverteilung.md",
+                "file": "Z_Exklusiv zur Formelsammlung/Aufgabensammlung von HA und mehr/Analytische Geometrie/Seite 41 Nr. 1) 2) 5) 6).md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Approximation der Binomialverteilung durch die Normalverteilung"
+              "title": "Seite 41 Nr. 1) 2) 5) 6)"
             }
           }
         ]
@@ -204,7 +204,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Stochastik/Allgemein/Verteilungen/Approximation der Binomialverteilung durch die Normalverteilung.md",
+                "file": "Z_Exklusiv zur Formelsammlung/Aufgabensammlung von HA und mehr/Analytische Geometrie/Seite 41 Nr. 1) 2) 5) 6).md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -232,7 +232,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Approximation der Binomialverteilung durch die Normalverteilung"
+              "title": "Graph of Seite 41 Nr. 1) 2) 5) 6)"
             }
           }
         ]
@@ -261,8 +261,12 @@
   },
   "active": "3b51a4aea1ff0e05",
   "lastOpenFiles": [
-    "Stochastik/Allgemein/Verteilungen/Normalverteilung.md",
+    "Z_Exklusiv zur Formelsammlung/Aufgabensammlung von HA und mehr/Analytische Geometrie/Seite 197 Nr. 2b).md",
+    "Z_Exklusiv zur Formelsammlung/Aufgabensammlung von HA und mehr/Analytische Geometrie/Seite 70 Nr. 6).md",
+    "Z_Exklusiv zur Formelsammlung/Aufgabensammlung von HA und mehr/Analytische Geometrie/Seite 69 Nr. 1b).md",
+    "Z_Exklusiv zur Formelsammlung/Aufgabensammlung von HA und mehr/Analytische Geometrie/Seite 41 Nr. 1) 2) 5) 6).md",
     "Stochastik/Allgemein/Verteilungen/Approximation der Binomialverteilung durch die Normalverteilung.md",
+    "Stochastik/Allgemein/Verteilungen/Normalverteilung.md",
     "Stochastik/Allgemein/Verteilungen/Standardisierung.md",
     "Stochastik/Allgemein/Verteilungen/Flächeninhalt der Normalverteilung.md",
     "Stochastik/Allgemein/Verteilungen/Geometrische Verteilung.md",
@@ -294,10 +298,6 @@
     "Z_Exklusiv zur Formelsammlung/Aufgabensammlung von HA und mehr/Analysis/S. 159 Nr. 9) 10) 11).pdf",
     "Z_Exklusiv zur Formelsammlung/Aufgabensammlung von HA und mehr/Stochastik/TestenEinfuerung.md",
     "Z_Exklusiv zur Formelsammlung/Aufgabensammlung von HA und mehr/Stochastik/Seite 220 Nr. 1c) 2ab).md",
-    "Z_Exklusiv zur Formelsammlung/Aufgabensammlung von HA und mehr/Stochastik/Seite 154 Nr. 2) 3).md",
-    "Z_Exklusiv zur Formelsammlung/Beweisführungen/Maximum radii of rolling spheres.md",
-    "Z_Exklusiv zur Formelsammlung/Beweisführungen/GeradeInKugel.md",
-    "Z_Exklusiv zur Formelsammlung/Beweisführungen/GeradeInEbene.md",
     "Z_Abbildungen allgemein/Seite.png",
     "Z_Abbildungen allgemein/Pyramide11.png",
     "Z_Abbildungen allgemein/Dreieck.png",
