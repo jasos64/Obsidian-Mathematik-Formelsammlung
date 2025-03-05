@@ -39,3 +39,6 @@ aBcYd
 \ast
 \atop
 \above{#}{#}
+\acute{#}
+\backsim
+\aleph

@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Z_Exklusiv zur Formelsammlung/Aufgabensammlung von HA und mehr/Analytische Geometrie/Seite 41 Nr. 1) 2) 5) 6).md",
+                "file": "Z_Exklusiv zur Formelsammlung/Aufgabensammlung von HA und mehr/Stochastik/Stochastikaufgaben.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Seite 41 Nr. 1) 2) 5) 6)"
+              "title": "Stochastikaufgaben"
             }
           }
         ]
@@ -204,7 +204,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Z_Exklusiv zur Formelsammlung/Aufgabensammlung von HA und mehr/Analytische Geometrie/Seite 41 Nr. 1) 2) 5) 6).md",
+                "file": "Z_Exklusiv zur Formelsammlung/Aufgabensammlung von HA und mehr/Stochastik/Stochastikaufgaben.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -232,7 +232,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Seite 41 Nr. 1) 2) 5) 6)"
+              "title": "Graph of Stochastikaufgaben"
             }
           }
         ]
@@ -259,13 +259,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5f9375a6f0895173",
+  "active": "a893b2aee20b2949",
   "lastOpenFiles": [
+    "Z_Exklusiv zur Formelsammlung/Aufgabensammlung von HA und mehr/Analytische Geometrie/Stochastikaufgaben.pdf",
+    "Z_Exklusiv zur Formelsammlung/Aufgabensammlung von HA und mehr/Analysis/Seite 111 3) 4) 5).md",
+    "Z_Exklusiv zur Formelsammlung/Aufgabensammlung von HA und mehr/Stochastik/Stochastikaufgaben.md",
+    "Z_Exklusiv zur Formelsammlung/Aufgabensammlung von HA und mehr/Analytische Geometrie/Seite 43 Nr. 11).md",
+    "Z_Exklusiv zur Formelsammlung/Aufgabensammlung von HA und mehr/Analytische Geometrie/Seite 43 Nr. 11).pdf",
+    "Z_Exklusiv zur Formelsammlung/Aufgabensammlung von HA und mehr/Analytische Geometrie/Seite 41 Nr. 1) 2) 5) 6).md",
     "Z_Exklusiv zur Formelsammlung/Aufgabensammlung von HA und mehr/Analytische Geometrie/Seite 41 Nr. 1) 2) 5) 6).pdf",
     "Z_Exklusiv zur Formelsammlung/Aufgabensammlung von HA und mehr/Analytische Geometrie/Seite 197 Nr. 2b).md",
     "Z_Exklusiv zur Formelsammlung/Aufgabensammlung von HA und mehr/Analytische Geometrie/Seite 70 Nr. 6).md",
     "Z_Exklusiv zur Formelsammlung/Aufgabensammlung von HA und mehr/Analytische Geometrie/Seite 69 Nr. 1b).md",
-    "Z_Exklusiv zur Formelsammlung/Aufgabensammlung von HA und mehr/Analytische Geometrie/Seite 41 Nr. 1) 2) 5) 6).md",
     "Stochastik/Allgemein/Verteilungen/Approximation der Binomialverteilung durch die Normalverteilung.md",
     "Stochastik/Allgemein/Verteilungen/Normalverteilung.md",
     "Stochastik/Allgemein/Verteilungen/Standardisierung.md",
@@ -292,12 +297,7 @@
     "Z_Exklusiv zur Formelsammlung/Aufgabensammlung von HA und mehr/Stochastik/Seite 159 Nr. 11).md",
     "Z_Exklusiv zur Formelsammlung/Aufgabensammlung von HA und mehr/Stochastik/Seite 217 Nr. 4).md",
     "Z_Exklusiv zur Formelsammlung/Aufgabensammlung von HA und mehr/Stochastik/Seite 158 Nr. 1).md",
-    "Stochastik/Allgemein/Zufallsgröße/Wahrscheinlichkeitsverteilung.md",
     "Z_Exklusiv zur Formelsammlung/Aufgabensammlung von HA und mehr/Stochastik/Seite 159 Nr. 9) 10) 11).pdf",
-    "Z_Exklusiv zur Formelsammlung/Aufgabensammlung von HA und mehr/Stochastik/Seite 158 Nr. 1).pdf",
-    "Z_Exklusiv zur Formelsammlung/Aufgabensammlung von HA und mehr/Stochastik/Seite 155 Nr. 11).md",
-    "Z_Exklusiv zur Formelsammlung/Aufgabensammlung von HA und mehr/Analysis/S. 159 Nr. 9) 10) 11).pdf",
-    "Z_Exklusiv zur Formelsammlung/Aufgabensammlung von HA und mehr/Stochastik/TestenEinfuerung.md",
     "Z_Abbildungen allgemein/Seite.png",
     "Z_Abbildungen allgemein/Pyramide11.png",
     "Z_Abbildungen allgemein/Dreieck.png",

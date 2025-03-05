@@ -16593,6 +16593,8 @@ VGA
 Verteilt
 VqLX
 Verteilungsfunktion
+Vektorprodukte
+Vektorprodukts
 Platzhalter
 Punkte
 Punkt
@@ -17332,6 +17334,7 @@ PJP
 PJd
 PkX
 PMk
+Parallelogramms
 Zahl
 Zwei
 Zeitraum
@@ -18028,6 +18031,7 @@ ZcS
 Zehrung
 ZIl
 Zgf
+Zweig
 annehmen
 aufzeichnet
 ausgerechnet
