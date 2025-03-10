@@ -1537,6 +1537,9 @@ EcB
 EYl
 ElO
 Edl
+Entscheidungsfeld
+Einwurfes
+Ereignisfelder
 Funktion
 Funktionsnamen
 Form
@@ -2328,6 +2331,10 @@ FzM
 FkZ
 FdU
 Flächenabhängig
+Follower
+Followerzahl
+Feldern
+Followerzahlen
 beliebigen
 besitzen
 berührt
@@ -3165,6 +3172,8 @@ bWs
 bekannten
 berechnungsfähig
 beibehält
+bedenkt
+beste
 Namens
 Nullstelle
 Nullstellen
@@ -5935,6 +5944,8 @@ iBQ
 ioj
 iuR
 iHE
+investiert
+ihres
 eine
 eines
 einem
@@ -6827,6 +6838,15 @@ edffG
 eVco
 eiwyp
 eft
+eingeleitet
+entlanggehen
+entscheidet
+eigenen
+einigen
+erzwungen
+einzutauschen
+eingetauscht
+entferntesten
 Beschreibung
 Besondere
 Beispiel
@@ -7643,6 +7663,7 @@ Binomialdichte
 Bestellungen
 BfFqy
 BWu
+Blatt
 Rechenvorganges
 Rest
 Rechnung
@@ -8396,6 +8417,10 @@ RrP
 Rmi
 RfJ
 RTzF
+Rolle
+Rollenkarte
+Ranking
+Rang
 welcher
 wird
 werden
@@ -9211,6 +9236,8 @@ weisen
 wQI
 wXQ
 wRNh
+weiterspielen
+wirken
 mit
 man
 müssen
@@ -12404,6 +12431,7 @@ zugestimmt
 zweiseitiger
 zJB
 zielführend
+zugeteilt
 gesetzt
 gegeben
 gelten
@@ -13292,6 +13320,9 @@ geeigneter
 gTLy
 gLc
 gBZ
+gewinnen
+gedachten
+gewinne
 sodass
 sind
 so
@@ -14371,6 +14402,11 @@ streckt
 spannen
 seinen
 svz
+soziale
+startet
+sichtbar
+schlecht
+steigendem
 neben
 nach
 nun
@@ -15135,6 +15171,8 @@ normalverteilten
 nFw
 nZF
 nTG
+niemandem
+niemals
 Klammern
 Kettenregel
 Kriterium
@@ -15893,6 +15931,10 @@ Körpergrößen
 Kumulierte
 Kzv
 KrDR
+Konzept
+Kreisförmigem
+Kehrwert
+Karte
 Variable
 Veränderung
 Veränderungsrate
@@ -16644,6 +16686,9 @@ Vektorprodukte
 Vektorprodukts
 Verkäufer
 VRRb
+Verbindungslinie
+Vorletzte
+Verluste
 Platzhalter
 Punkte
 Punkt
@@ -17388,6 +17433,9 @@ PyEU
 PuU
 Pyramidenhöhe
 Pyramidenvolumina
+Punktzahl
+Platz
+Plätze
 Zahl
 Zwei
 Zeitraum
@@ -18086,6 +18134,7 @@ ZIl
 Zgf
 Zweig
 ZHV
+Zug
 annehmen
 aufzeichnet
 ausgerechnet
@@ -19051,6 +19100,9 @@ aufgespannte
 azS
 aJJ
 allein
+abwechselnd
+aufgerundet
+ausgewürfelt
 kann
 können
 kleines
@@ -22074,6 +22126,8 @@ verzichtet
 vzTu
 vernachlässigt
 vdOub
+vertreten
+verfassen
 frei
 für
 finden
@@ -22890,6 +22944,7 @@ fZZ
 fzR
 fhA
 fwI
+fängt
 haben
 handelt
 hier
@@ -23691,6 +23746,7 @@ hmpfC
 hhX
 hjY
 hessesche
+hervorrufen
 Sei
 Stellen
 Sie
@@ -24592,6 +24648,21 @@ SNXr
 Sbj
 Skp
 Spatpodukten
+Spieler
+Stärken
+Schwächen
+Spiels
+Spielfeld
+Spielende
+Spielbrett
+Spielern
+Startfeld
+Spielleiter
+Spielerkarte
+Spielers
+Spielerkarten
+Schwäche
+Stärke
 jede
 jedes
 jeden
@@ -26867,6 +26938,7 @@ TAq
 TcZ
 Teilaufgaben
 Teilaufgabe
+Trend
 Mathematisch
 Maxima
 Möglichkeiten
@@ -27636,6 +27708,7 @@ Mrz
 MTW
 Mjg
 MhL
+Medien
 Gleichsetzen
 Gegeben
 Generalisiert
@@ -28363,6 +28436,8 @@ Gnw
 GkVyITT
 GxZ
 Gaußfunktion
+Gruüppenaufgabe
+Gruppenaufgabe
 Um
 Unendlichen
 Ursprung
@@ -29064,6 +29139,7 @@ Ubuntu
 UdJ
 UBH
 UGzG
+Uhrzeigersinn
 Wenn
 Wert
 Wichtig
@@ -29774,6 +29850,8 @@ Würfeln
 WEXL
 WFC
 WSKVX
+Während
+Wort
 lauten
 lokale
 links
@@ -30581,6 +30659,7 @@ liefert
 linearer
 lZv
 llkLt
+landet
 Quotientenregel
 QL
 Qb
@@ -31908,6 +31987,7 @@ Ihr
 Inhalt
 IuB
 IUu
+Interaktion
 überprüfen
 übrig
 über
@@ -32650,6 +32730,7 @@ Lsi
 LHcu
 LJUf
 Längeneinheiten
+Leiter
 punktsymmetrisch
 passenden
 pss
@@ -33549,6 +33630,7 @@ prüfen
 pBl
 pLd
 peG
+passende
 Äquivalenzumformung
 ÄI
 ÄP
@@ -37583,6 +37665,7 @@ Jyj
 JTBB
 JgB
 Jti
+Jedem
 XH
 XQ
 XJ
@@ -39848,6 +39931,7 @@ qkQ
 Überprüfen
 Übersetzungsmöglichkeiten
 Übergangsstellen
+Überschreiten
 öwm
 övA
 öeATQ
