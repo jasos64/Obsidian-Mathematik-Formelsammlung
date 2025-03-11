@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Z_Exklusiv zur Formelsammlung/Anderes/Spiel V.1..md",
+                "file": "Z_Exklusiv zur Formelsammlung/Aufgabensammlung von HA und mehr/Analytische Geometrie/Seite 135 Nr. 3).md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Spiel V.1."
+              "title": "Seite 135 Nr. 3)"
             }
           }
         ]
@@ -204,7 +204,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Z_Exklusiv zur Formelsammlung/Anderes/Spiel V.1..md",
+                "file": "Z_Exklusiv zur Formelsammlung/Aufgabensammlung von HA und mehr/Analytische Geometrie/Seite 135 Nr. 3).md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -232,7 +232,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Spiel V.1."
+              "title": "Graph of Seite 135 Nr. 3)"
             }
           }
         ]
@@ -261,9 +261,15 @@
   },
   "active": "3b51a4aea1ff0e05",
   "lastOpenFiles": [
+    "Z_Abbildungen allgemein/Pyramide.png",
+    "Z_Exklusiv zur Formelsammlung/Aufgabensammlung von HA und mehr/Analytische Geometrie/Seite 135 Nr. 3).pdf",
+    "Z_Exklusiv zur Formelsammlung/Beweisführungen/GeradeInEbene.md",
+    "Z_Exklusiv zur Formelsammlung/Aufgabensammlung von HA und mehr/Analytische Geometrie/Seite 198 Nr. 7).md",
+    "Z_Exklusiv zur Formelsammlung/Aufgabensammlung von HA und mehr/Analytische Geometrie/Seite 135 Nr. 3).md",
+    "Z_Exklusiv zur Formelsammlung/Aufgabensammlung von HA und mehr/Analytische Geometrie/Seite 194 Nr. 7ad).md",
+    "Z_Exklusiv zur Formelsammlung/Anderes/Spiel V.1..md",
     "Z_Exklusiv zur Formelsammlung/Anderes/Spiel V.1..pdf",
     "Z_Exklusiv zur Formelsammlung/Anderes/PPA.md",
-    "Z_Exklusiv zur Formelsammlung/Anderes/Spiel V.1..md",
     "Z_Exklusiv zur Formelsammlung/Aufgabensammlung von HA und mehr/Analytische Geometrie/Seite 43 Nr. 13) 14).md",
     "Z_Exklusiv zur Formelsammlung/Aufgabensammlung von HA und mehr/Analytische Geometrie/Seite 43 Nr. 13) 14).pdf",
     "Z_Exklusiv zur Formelsammlung/Aufgabensammlung von HA und mehr/Analytische Geometrie/Seite 43 Nr. 11).md",
@@ -290,14 +296,8 @@
     "Z_Exklusiv zur Formelsammlung/Aufgabensammlung von HA und mehr/Stochastik/Seite 163 Nr. 1) 2) 3ab) 4ab) 5ae) Seite 164 Nr. 7).pdf",
     "Z_Exklusiv zur Formelsammlung/Aufgabensammlung von HA und mehr/Stochastik/Seite 163 Nr. 1) 2) 3ab) 4ab) 5ae).pdf",
     "Z_Exklusiv zur Formelsammlung/Aufgabensammlung von HA und mehr/Stochastik/Seite 167.pdf",
-    "Analysis/Allgemein/Ableiten/Cheat-Sheet.md",
     "Analysis/Allgemein/Ableiten/Cheat-Sheet.pdf",
-    "Analysis/Allgemein/Ableiten/Ableitungsregeln.md",
-    "Analysis/Allgemein/Ableiten/Ableitungsregeln.pdf",
-    "Analysis/Allgemein/Ableiten/Cheat-Sheet.tex",
-    "Analysis/Allgemein/Ableiten/Ableitung der Umkehrfunktion.md",
     "Z_Abbildungen allgemein/GausskurveAnnäherung.png",
-    "Z_Exklusiv zur Formelsammlung/Aufgabensammlung von HA und mehr/Stochastik/Seite 159 Nr. 9) 10) 11).md",
     "Z_Abbildungen allgemein/Seite.png",
     "Z_Abbildungen allgemein/Pyramide11.png",
     "Z_Abbildungen allgemein/Dreieck.png",

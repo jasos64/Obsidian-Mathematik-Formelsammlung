@@ -2335,6 +2335,8 @@ Follower
 Followerzahl
 Feldern
 Followerzahlen
+Feldname
+Feld
 beliebigen
 besitzen
 berührt
@@ -6847,6 +6849,10 @@ erzwungen
 einzutauschen
 eingetauscht
 entferntesten
+eindeutiger
+eigene
+entschieden
+endet
 Beschreibung
 Besondere
 Beispiel
@@ -11765,6 +11771,8 @@ AQi
 Author
 AwKqxc
 ACCC
+Aktion
+Ausnahme
 zu
 zwei
 zunächst
@@ -12432,6 +12440,9 @@ zweiseitiger
 zJB
 zielführend
 zugeteilt
+zählen
+zugewiesen
+zählt
 gesetzt
 gegeben
 gelten
@@ -13323,6 +13334,7 @@ gBZ
 gewinnen
 gedachten
 gewinne
+gleichsetzen
 sodass
 sind
 so
@@ -15173,6 +15185,8 @@ nZF
 nTG
 niemandem
 niemals
+neuem
+nennen
 Klammern
 Kettenregel
 Kriterium
@@ -16689,6 +16703,7 @@ VRRb
 Verbindungslinie
 Vorletzte
 Verluste
+Verbundene
 Platzhalter
 Punkte
 Punkt
@@ -17436,6 +17451,8 @@ Pyramidenvolumina
 Punktzahl
 Platz
 Plätze
+Personenkarte
+Pyramidenkanten
 Zahl
 Zwei
 Zeitraum
@@ -18135,6 +18152,7 @@ Zgf
 Zweig
 ZHV
 Zug
+Zustimmung
 annehmen
 aufzeichnet
 ausgerechnet
@@ -19103,6 +19121,7 @@ allein
 abwechselnd
 aufgerundet
 ausgewürfelt
+ausgeführt
 kann
 können
 kleines
@@ -21328,6 +21347,7 @@ uAP
 ulW
 uUx
 unT
+ungeradem
 verwendet
 visuell
 von
@@ -22128,6 +22148,7 @@ vernachlässigt
 vdOub
 vertreten
 verfassen
+verringert
 frei
 für
 finden
@@ -24663,6 +24684,8 @@ Spielers
 Spielerkarten
 Schwäche
 Stärke
+Spielzugablauf
+Spielerfigur
 jede
 jedes
 jeden
@@ -29852,6 +29875,8 @@ WFC
 WSKVX
 Während
 Wort
+Wurf
+Würfelt
 lauten
 lokale
 links
@@ -32731,6 +32756,7 @@ LHcu
 LJUf
 Längeneinheiten
 Leiter
+Laufrichtung
 punktsymmetrisch
 passenden
 pss
@@ -33631,6 +33657,7 @@ pBl
 pLd
 peG
 passende
+passiv
 Äquivalenzumformung
 ÄI
 ÄP
@@ -35129,6 +35156,7 @@ tJO
 tlI
 tKIyX
 tpV
+teilen
 yW
 yT
 yN
@@ -39947,6 +39975,7 @@ qkQ
 ähnlich
 ähnliche
 ändere
+ändert
 ßW
 ßFe
 ßzG
