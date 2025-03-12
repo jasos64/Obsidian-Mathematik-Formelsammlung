@@ -3176,6 +3176,7 @@ berechnungsfähig
 beibehält
 bedenkt
 beste
+bin
 Namens
 Nullstelle
 Nullstellen
@@ -6853,6 +6854,7 @@ eindeutiger
 eigene
 entschieden
 endet
+einzelne
 Beschreibung
 Besondere
 Beispiel
@@ -22966,6 +22968,7 @@ fzR
 fhA
 fwI
 fängt
+faul
 haben
 handelt
 hier
@@ -24686,6 +24689,8 @@ Schwäche
 Stärke
 Spielzugablauf
 Spielerfigur
+Schnittfläche
+Schrägbild
 jede
 jedes
 jeden
@@ -26962,6 +26967,7 @@ TcZ
 Teilaufgaben
 Teilaufgabe
 Trend
+Trapez
 Mathematisch
 Maxima
 Möglichkeiten
@@ -28461,6 +28467,7 @@ GxZ
 Gaußfunktion
 Gruüppenaufgabe
 Gruppenaufgabe
+Grundseiten
 Um
 Unendlichen
 Ursprung
@@ -39976,6 +39983,7 @@ qkQ
 ähnliche
 ändere
 ändert
+ähnelt
 ßW
 ßFe
 ßzG
