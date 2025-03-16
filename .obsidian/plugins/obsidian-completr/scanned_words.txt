@@ -2337,6 +2337,7 @@ Feldern
 Followerzahlen
 Feldname
 Feld
+Funktionsbilder
 beliebigen
 besitzen
 berührt
@@ -3177,6 +3178,7 @@ beibehält
 bedenkt
 beste
 bin
+bijektiv
 Namens
 Nullstelle
 Nullstellen
@@ -5206,6 +5208,7 @@ odKe
 oeG
 ojo
 ooN
+overline
 ist
 in
 im
@@ -5949,6 +5952,7 @@ iuR
 iHE
 investiert
 ihres
+integrieren
 eine
 eines
 einem
@@ -6855,6 +6859,9 @@ eigene
 entschieden
 endet
 einzelne
+erarbeiten
+einander
+entsprechenden
 Beschreibung
 Besondere
 Beispiel
@@ -9246,6 +9253,7 @@ wXQ
 wRNh
 weiterspielen
 wirken
+wohldefinitert
 mit
 man
 müssen
@@ -10952,6 +10960,8 @@ diskrete
 drNL
 dJm
 degeb
+dauert
+dazugeschrieben
 Abhängigkeit
 Aufgaben
 Achsen
@@ -11775,6 +11785,8 @@ AwKqxc
 ACCC
 Aktion
 Ausnahme
+Achsenschnittpunkte
+Annahmeweise
 zu
 zwei
 zunächst
@@ -13337,6 +13349,7 @@ gewinnen
 gedachten
 gewinne
 gleichsetzen
+gegenüber
 sodass
 sind
 so
@@ -14421,6 +14434,7 @@ startet
 sichtbar
 schlecht
 steigendem
+steigende
 neben
 nach
 nun
@@ -19124,6 +19138,7 @@ abwechselnd
 aufgerundet
 ausgewürfelt
 ausgeführt
+automatisch
 kann
 können
 kleines
@@ -22969,6 +22984,7 @@ fhA
 fwI
 fängt
 faul
+fallende
 haben
 handelt
 hier
@@ -26968,6 +26984,7 @@ Teilaufgaben
 Teilaufgabe
 Trend
 Trapez
+Teilkörper
 Mathematisch
 Maxima
 Möglichkeiten
@@ -27738,6 +27755,7 @@ MTW
 Mjg
 MhL
 Medien
+Merkmale
 Gleichsetzen
 Gegeben
 Generalisiert
@@ -28468,6 +28486,7 @@ Gaußfunktion
 Gruüppenaufgabe
 Gruppenaufgabe
 Grundseiten
+Gesamtvolumen
 Um
 Unendlichen
 Ursprung
@@ -29170,6 +29189,7 @@ UdJ
 UBH
 UGzG
 Uhrzeigersinn
+Umkehrfunktionen
 Wenn
 Wert
 Wichtig
@@ -29884,6 +29904,8 @@ Während
 Wort
 Wurf
 Würfelt
+Wertebereich
+Wurzelfunktion
 lauten
 lokale
 links
@@ -30692,6 +30714,7 @@ linearer
 lZv
 llkLt
 landet
+lineare
 Quotientenregel
 QL
 Qb
@@ -32020,6 +32043,7 @@ Inhalt
 IuB
 IUu
 Interaktion
+Integranden
 überprüfen
 übrig
 über
@@ -39967,6 +39991,7 @@ qkQ
 Übersetzungsmöglichkeiten
 Übergangsstellen
 Überschreiten
+Über
 öwm
 övA
 öeATQ

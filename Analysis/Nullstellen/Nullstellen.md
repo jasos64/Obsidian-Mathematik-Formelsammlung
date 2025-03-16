@@ -7,7 +7,7 @@ Nullstellen sind Stellen, bei welchen eine [[Funktion(en)]] 0 ist. Sie kann $0,1
 ![[Satz vom Nullprodukt]]
 
 ---
-![[Substitution]]
+![[Analysis/Nullstellen/Substitution]]
 
 ---
 ![[Newtonverfahren]]

@@ -11,7 +11,7 @@ f(x)=0.1x^3-x^2+2.5x
 0\le y\le f\left(x\right)
 ```
 
-Für Volumina eines Rotationskörpers gilt nach wie vor die oben beschriebene Formel $V=\int^{b}_{a}\left(\pi\cdot f(x)^2\right)dx=\pi\int^{b}_{a}f(x)^2dx$. Setzen wir nun $f$ ein, wird zunächst $f^2$ gebildet und anschließend als [Integral](Integration) ([Rechenweg](obsidian://open?vault=Obsidian-Mathematik-Formelsammlung&file=Analysis%2FAllgemein%2FDifferenzial-%20Integralrechnung%2FFl%C3%A4cheninhalte%20zwischen%20zwei%20Funktionen)) standartüblich verrechnet.
+Für Volumina eines Rotationskörpers gilt nach wie vor die oben beschriebene Formel $V=\int^{b}_{a}\left(\pi\cdot f(x)^2\right)dx=\pi\int^{b}_{a}f(x)^2dx$. Setzen wir nun $f$ ein, wird zunächst $f^2$ gebildet und anschließend als [Integral](Integration.md) ([Rechenweg](obsidian://open?vault=Obsidian-Mathematik-Formelsammlung&file=Analysis%2FAllgemein%2FDifferenzial-%20Integralrechnung%2FFl%C3%A4cheninhalte%20zwischen%20zwei%20Funktionen)) standartüblich verrechnet.
 Es gilt:
 $$
 \begin{align}

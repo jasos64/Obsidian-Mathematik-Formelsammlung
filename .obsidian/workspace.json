@@ -13,28 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Z_Exklusiv zur Formelsammlung/Aufgabensammlung von HA und mehr/Analytische Geometrie/Seite 135 Nr. 3).md",
+                "file": "Z_Exklusiv zur Formelsammlung/Aufgabensammlung von HA und mehr/Analysis/Umkehrfunktionsaufgaben 1) 2).md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Seite 135 Nr. 3)"
-            }
-          },
-          {
-            "id": "f7a315efbed63bbf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Z_Exklusiv zur Formelsammlung/Aufgabensammlung von HA und mehr/Analytische Geometrie/Seite 43 Nr. 11).md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Seite 43 Nr. 11)"
+              "title": "Umkehrfunktionsaufgaben 1) 2)"
             }
           }
         ]
@@ -94,8 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 414,
-    "collapsed": true
+    "width": 414
   },
   "right": {
     "id": "1b65db29e51e971a",
@@ -220,7 +204,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Z_Exklusiv zur Formelsammlung/Aufgabensammlung von HA und mehr/Analytische Geometrie/Seite 135 Nr. 3).md",
+                "file": "Z_Exklusiv zur Formelsammlung/Aufgabensammlung von HA und mehr/Analysis/Umkehrfunktionsaufgaben 1) 2).md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -248,7 +232,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Seite 135 Nr. 3)"
+              "title": "Graph of Umkehrfunktionsaufgaben 1) 2)"
             }
           }
         ]
@@ -275,10 +259,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a893b2aee20b2949",
+  "active": "3b51a4aea1ff0e05",
   "lastOpenFiles": [
-    "Z_Exklusiv zur Formelsammlung/Aufgabensammlung von HA und mehr/Analytische Geometrie/Seite 43 Nr. 11).md",
+    "Z_Exklusiv zur Formelsammlung/Aufgabensammlung von HA und mehr/Analysis/Umkehrfunktionsaufgaben 1) 2).pdf",
+    "Analysis/Kurvendiskussion/Funktion(en).md",
+    "Z_Exklusiv zur Formelsammlung/Aufgabensammlung von HA und mehr/Analysis/Umkehrfunktionsaufgaben 1) 2).md",
+    "Analysis/Allgemein/Integralrechnung/Substitution.md",
+    "Pasted image 20250313112302.png",
     "Z_Exklusiv zur Formelsammlung/Aufgabensammlung von HA und mehr/Analytische Geometrie/Seite 135 Nr. 3).md",
+    "Z_Exklusiv zur Formelsammlung/Aufgabensammlung von HA und mehr/Analytische Geometrie/Seite 43 Nr. 11).md",
     "Z_Abbildungen allgemein/Pyramide.png",
     "Z_Exklusiv zur Formelsammlung/Aufgabensammlung von HA und mehr/Analytische Geometrie/Seite 135 Nr. 3).pdf",
     "Z_Exklusiv zur Formelsammlung/Beweisführungen/GeradeInEbene.md",
@@ -306,9 +295,6 @@
     "Allgemeines/Gesetze/Binomischer Lehrsatz.md",
     "Analysis/Allgemein/Tailorpolinomentwicklung.md",
     "Analysis/Steckbriefaufgaben/Trassierung/Krümmungsruckfrei.md",
-    "Stochastik/Allgemein/Verteilungen/Hypergeometrische Verteilung.md",
-    "Stochastik/Allgemein/Verteilungen/Binomialverteilung.md",
-    "Z_Exklusiv zur Formelsammlung/Aufgabensammlung von HA und mehr/Stochastik/Seite 163 Nr. 1) 2) 3ab) 4ab) 5ae) Seite 164 Nr. 7).md",
     "Z_Exklusiv zur Formelsammlung/Aufgabensammlung von HA und mehr/Stochastik/Seite 163 Nr. 1) 2) 3ab) 4ab) 5ae) Seite 164 Nr. 7).pdf",
     "Z_Exklusiv zur Formelsammlung/Aufgabensammlung von HA und mehr/Stochastik/Seite 163 Nr. 1) 2) 3ab) 4ab) 5ae).pdf",
     "Z_Exklusiv zur Formelsammlung/Aufgabensammlung von HA und mehr/Stochastik/Seite 167.pdf",
@@ -321,7 +307,6 @@
     "Z_Abbildungen allgemein/BlattFalten.png",
     "Z_Abbildungen allgemein/Annahmebvereich.png",
     "Z_Abbildungen allgemein/DesmosKreise9a).png",
-    "Z_Abbildungen allgemein/Trassierung0.png",
     "Untitled.canvas"
   ]
 }

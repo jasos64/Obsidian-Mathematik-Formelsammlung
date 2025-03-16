@@ -1,4 +1,4 @@
-Da [Produkte](Multiplikation) von zwei [Funktionen](Funktion(en)) nicht einfach [integriert](Integration) werden können, muss in einem solchen Fall **partiell Integriert** werden.
+Da [Produkte](Multiplikation) von zwei [Funktionen](Funktion(en)) nicht einfach [integriert](Integration.md) werden können, muss in einem solchen Fall **partiell Integriert** werden.
 
 ---
 ## Vorbereitung der Herleitung
