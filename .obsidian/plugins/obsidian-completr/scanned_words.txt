@@ -738,6 +738,7 @@ Dupels
 DYF
 DQU
 DUgD
+Definitionsmengen
 Eine
 Eingangswert
 Einsetzen
@@ -1540,6 +1541,7 @@ Edl
 Entscheidungsfeld
 Einwurfes
 Ereignisfelder
+EuK
 Funktion
 Funktionsnamen
 Form
@@ -3179,6 +3181,7 @@ bedenkt
 beste
 bin
 bijektiv
+bPt
 Namens
 Nullstelle
 Nullstellen
@@ -4511,6 +4514,7 @@ OXl
 Oox
 Oml
 ODh
+Okik
 oder
 oft
 oftmals
@@ -5955,6 +5959,7 @@ investiert
 ihres
 integrieren
 injektiv
+innere
 eine
 eines
 einem
@@ -7681,6 +7686,8 @@ Bestellungen
 BfFqy
 BWu
 Blatt
+Beschränkung
+Bhx
 Rechenvorganges
 Rest
 Rechnung
@@ -8438,6 +8445,8 @@ Rolle
 Rollenkarte
 Ranking
 Rang
+RuQU
+RJKRY
 welcher
 wird
 werden
@@ -10964,6 +10973,7 @@ dJm
 degeb
 dauert
 dazugeschrieben
+dKC
 Abhängigkeit
 Aufgaben
 Achsen
@@ -11789,6 +11799,11 @@ Aktion
 Ausnahme
 Achsenschnittpunkte
 Annahmeweise
+Argument
+AfK
+ABQ
+AyLi
+AIO
 zu
 zwei
 zunächst
@@ -12459,6 +12474,7 @@ zugeteilt
 zählen
 zugewiesen
 zählt
+zVf
 gesetzt
 gegeben
 gelten
@@ -14437,6 +14453,9 @@ sichtbar
 schlecht
 steigendem
 steigende
+surjektiv
+surjekiv
+seIO
 neben
 nach
 nun
@@ -15967,6 +15986,7 @@ Konzept
 Kreisförmigem
 Kehrwert
 Karte
+Kdk
 Variable
 Veränderung
 Veränderungsrate
@@ -16722,6 +16742,7 @@ Verbindungslinie
 Vorletzte
 Verluste
 Verbundene
+Verschiedene
 Platzhalter
 Punkte
 Punkt
@@ -19141,6 +19162,9 @@ aufgerundet
 ausgewürfelt
 ausgeführt
 automatisch
+abdeckt
+aeg
+aAt
 kann
 können
 kleines
@@ -19882,6 +19906,8 @@ kcc
 konkrete
 kFJ
 kyma
+kod
+kUV
 Hier
 Hierbei
 Hierfür
@@ -21367,6 +21393,7 @@ ulW
 uUx
 unT
 ungeradem
+uvIo
 verwendet
 visuell
 von
@@ -22168,6 +22195,7 @@ vdOub
 vertreten
 verfassen
 verringert
+vjx
 frei
 für
 finden
@@ -22987,6 +23015,7 @@ fwI
 fängt
 faul
 fallende
+fci
 haben
 handelt
 hier
@@ -24709,6 +24738,7 @@ Spielzugablauf
 Spielerfigur
 Schnittfläche
 Schrägbild
+SBl
 jede
 jedes
 jeden
@@ -27759,6 +27789,8 @@ MhL
 Medien
 Merkmale
 Minus
+MkI
+MXF
 Gleichsetzen
 Gegeben
 Generalisiert
@@ -29193,6 +29225,7 @@ UBH
 UGzG
 Uhrzeigersinn
 Umkehrfunktionen
+Ulr
 Wenn
 Wert
 Wichtig
@@ -29909,6 +29942,7 @@ Wurf
 Würfelt
 Wertebereich
 Wurzelfunktion
+WOU
 lauten
 lokale
 links
@@ -30718,6 +30752,7 @@ lZv
 llkLt
 landet
 lineare
+lARb
 Quotientenregel
 QL
 Qb
@@ -31349,6 +31384,8 @@ QGE
 Qfk
 QBtn
 QYi
+Quotient
+QHT
 Intervall
 Intervallgrenzen
 Insgesamt
@@ -32047,6 +32084,8 @@ IuB
 IUu
 Interaktion
 Integranden
+Injektivität
+Ijp
 überprüfen
 übrig
 über
@@ -32791,6 +32830,8 @@ LJUf
 Längeneinheiten
 Leiter
 Laufrichtung
+Linearität
+LJp
 punktsymmetrisch
 passenden
 pss
@@ -33692,6 +33733,9 @@ pLd
 peG
 passende
 passiv
+pcM
+pQs
+pOC
 Äquivalenzumformung
 ÄI
 ÄP
@@ -35191,6 +35235,7 @@ tlI
 tKIyX
 tpV
 teilen
+tDZ
 yW
 yT
 yN
@@ -35843,6 +35888,7 @@ yjb
 yzbb
 ywG
 yWu
+yAy
 xx
 xj
 xxlp
@@ -37087,6 +37133,8 @@ YTJ
 YloU
 Yul
 YLF
+Yro
+Yms
 JH
 JA
 JW
@@ -39335,6 +39383,7 @@ clc
 ctA
 cGe
 cjt
+cVAvA
 qyy
 qF
 qZ
