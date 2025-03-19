@@ -26,7 +26,9 @@ $$
 	y-4&=-2x&&\mid\div(-2)\\
 	x&=\frac{y-4}{-2}=-\frac{1}{2}y+2&&\mid (x;y)\to (y;x)\\
 	y&=-\frac{1}{2}x+2\\
-	\overline{f}_1(x)&=-\frac{1}{2}x+2
+	\overline{f}_1(x)&=-\frac{1}{2}x+2\\\hline\\
+	f_1'(x)&=-2\\
+	\overline{f}_1'(x)&=-0,5
 \end{align}
 $$
 
@@ -38,7 +40,9 @@ $$
 	y+3&=2x&&\mid\div2\\
 	x&=\frac{y+3}{2}=\frac{1}{2}y+\frac{3}{2}&&\mid (x;y)\to (y;x)\\
 	y&=\frac{1}{2}x+\frac{3}{2}\\
-	\overline{f}_2(x)&=\frac{1}{2}x+\frac{3}{2}
+	\overline{f}_2(x)&=\frac{1}{2}x+\frac{3}{2}\\\hline\\
+	f_2'(x)&=2\\
+	\overline{f}_2'(x)&=0,5
 \end{align}
 $$
 
@@ -69,7 +73,9 @@ Allgemein erhalten wir:
 - $D_{f_1}=\mathbb{R}$; $W_{f_1}=\mathbb{R}$
 - $D_{\overline{f}_1}=\mathbb{R}$; $W_{\overline{f}_1}=\mathbb{R}$
 ($D_{f_1}=W_{\overline{f}_1}$ und $D_{\overline{f}_1}=W_{f_1}$)
-Durch $\deg f_1(x)=1$ ist $f_1(x)$ bijektiv und $\overline{f}_1(x)$ wohldefinitert.
+> Durch die streng monotone Steigung ($f_1'(x)=-2$) der Funktion $f_1$ ist diese injektiv (Verschiedene Elemente der Definitionsmenge werden auf verschiedene Elemente der Wertemenge abgebildet).
+> Da die Funktion aufgrund ihrer Linearität alle Werte der reellen Zahlen annehmen kann, ist $f_1$ surjektiv (Für jedes $q\in W_{f_1}$ existiert ein $x \in D_{f_1}$, sodass $f_1(x) = q$).
+> Damit ist $f_1$ bijektiv. Folglich muss die Umkehrfunktion $\overline{f}_1$ ebenfalls bijektiv sein.
 
 Die Achsenschnittpunkte sind für $f_1(x)$:
 - $x$-Achse: $2$
@@ -90,7 +96,9 @@ Allgemein erhalten wir:
 - $D_{f_2}=\mathbb{R}$; $W_{f_2}=\mathbb{R}$
 - $D_{\overline{f}_2}=\mathbb{R}$; $W_{\overline{f}_2}=\mathbb{R}$
 ($D_{f_2}=W_{\overline{f}_2}$ und $D_{\overline{f}_2}=W_{f_2}$)
-Durch $\deg f_2(x)=1$ ist $f_2(x)$ bijektiv und $\overline{f}_2(x)$ wohldefinitert.
+> Durch die streng monotone Steigung ($f_2'(x)=2$) der Funktion $f_2$ ist diese injektiv (Verschiedene Elemente der Definitionsmenge werden auf verschiedene Elemente der Wertemenge abgebildet).
+> Da die Funktion aufgrund ihrer Linearität alle Werte der reellen Zahlen annehmen kann, ist $f_2$ surjektiv (Für jedes $q\in W_{f_2}$ existiert ein $x \in D_{f_2}$, sodass $f_2(x) = q$).
+> Damit ist $f_2$ bijektiv. Folglich muss die Umkehrfunktion $\overline{f}_2$ ebenfalls bijektiv sein.
 
 Die Achsenschnittpunkte sind für $f_2(x)$:
 - $x$-Achse: $1,5$
@@ -134,7 +142,10 @@ $$
 	x+2&=\pm\sqrt{y+3}&&\mid-2\\
 	x&=\pm\sqrt{y+3}-2&&\mid (x;y)\to (y;x)\\
 	y&=\pm\sqrt{x+3}-2\\
-	\overline{f}_3(x)&=\pm\sqrt{x+3}-2
+	\overline{f}_3(x)&=\pm\sqrt{x+3}-2\\\hline\\
+	f_3'(x)&=2x+4\\
+	\overline{f}_3'(x)&=\pm\frac{1}{2\sqrt{x+3}}\\
+	\overline{f}_3^{(n)}(x)&=\pm\left(x+3\right)^{\left(0,5-n\right)}\cdot\prod_{i=1}^{n}\left(1,5-i\right)
 \end{align}
 $$
 
@@ -148,7 +159,10 @@ $$
 	-x&=(y+1)^2-4&&\mid\cdot(-1)\\
 	x&=-(y+1)^2+4&&\mid (x;y)\to (y;x)\\
 	y&=-(x+1)^2+4\\
-	\overline{f}_4(x)&=-(x+1)^2+4
+	\overline{f}_4(x)&=-(x+1)^2+4\\\hline\\
+	f_4^{(n)}(x)&=\left(4-x\right)^{\left(0,5-n\right)}\cdot\prod_{i=1}^{d}-\left(1,5-i\right)\\
+	\overline{f}_4'(x)&=-2x-2\\
+	\overline{f}_4''(x)&=-2
 \end{align}
 $$
 
@@ -174,7 +188,7 @@ $$
 
 Für $f_3(x)=(x+2)^2-3$ und $\overline{f}_3(x)=\pm\sqrt{x+3}-2$:
 Der Definitionsbereich von $f_3(x)$ ist $D_{f_3}=\mathbb{R}$, mit dem Wertebereich $W_{f_3}=\{x\in\mathbb{R}\mid x\ge-3\}$. Hierdurch ist der Definitionsbereich von $\overline{f}_3(x)$ ebenfalls $\{x\in\mathbb{R}\mid x\ge-3\}$.
-Da die Funktion $f_3$ nicht injektiv durch $\deg f_3(x)=2$ ist, muss der Definitionsbereich von $f_3(x)$ jeweils der Umkehrfunktion angepasst werden. Wir erhalten:
+Da die Funktion $f_3$ nicht injektiv durch $\deg f_3(x)=2$ ist, muss der Definitionsbereich von $f_3(x)$ so angepasst werden, dass $f_3(x)$ injektiv ist. Dadurch erhalten wir zwei Möglichkeiten für den Definitionsbereich von $f_3(x)$:
 $$
 \begin{align}
 	D_{f_3}=W_{\overline{f}_3}&=
@@ -190,7 +204,8 @@ $$
 Allgemein erhalten wir:
 - $D_{f_3}:\textit{Bedingung direkt oben}$; $W_{f_3}=\{x\in\mathbb{R}\mid x\ge-3\}$
 - $D_{\overline{f}_3}=\{x\in\mathbb{R}\mid x\ge-3\}$; $W_{\overline{f}_3}:\textit{Bedingung direkt oben}$
-($D_{f_1}=W_{\overline{f}_1}$ und $D_{\overline{f}_1}=W_{f_1}$)
+($D_{f_3}=W_{\overline{f}_3}$ und $D_{\overline{f}_3}=W_{f_3}$)
+> Durch die Beschränkung der Definitionsmenge $D_{f_3}$ erhalten wir die Injektivität. Die Wertemenge wurde der Funktion angepasst, sodass diese alle Elemente der Wertemenge abdeckt ($W_{f_3}$). $f_3$ ist surjekiv und injektiv, wodurch sie bijektiv ist. Die Umkehrfunktion ist hierdurch ebenfalls bijektiv, insofern wir die Werte und Definitionsmengen beachten.
 
 Die Achsenschnittpunkte sind für $f_3(x)$:
 - $x$-Achse: $-2\mp\sqrt{3}$. (Minus bei erster Bedingung vom Definitionsbereich $D_{f_3}$, plus bei zweiter Bedingung)
@@ -214,6 +229,8 @@ Allgemein erhalten wir:
 - $D_{f_4}=\{x\in\mathbb{R}\mid x\le4\}$; $W_{f_4}=\{x\in\mathbb{R}\mid x\ge-1\}$
 - $D_{\overline{f}_4}=\{x\in\mathbb{R}\mid x\ge-1\}$; $W_{\overline{f}_4}=\{x\in\mathbb{R}\mid x\le4\}$
 ($D_{f_4}=W_{\overline{f}_4}$ und $D_{\overline{f}_4}=W_{f_4}$)
+> Durch die Beschränkung der Definitionsmenge $D_{f_4}$ erhalten wir die Injektivität. Die Wertemenge wurde der Funktion angepasst, sodass diese alle Elemente der Wertemenge abdeckt ($W_{f_4}$). $f_4$ ist surjekiv und injektiv, wodurch sie bijektiv ist. Die Umkehrfunktion ist hierdurch ebenfalls bijektiv.
+
 
 Die Achsenschnittpunkte sind für $f_4(x)$:
 - $x$-Achse: $3$

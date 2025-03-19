@@ -5209,6 +5209,7 @@ oeG
 ojo
 ooN
 overline
+orientiert
 ist
 in
 im
@@ -5953,6 +5954,7 @@ iHE
 investiert
 ihres
 integrieren
+injektiv
 eine
 eines
 einem
@@ -27756,6 +27758,7 @@ Mjg
 MhL
 Medien
 Merkmale
+Minus
 Gleichsetzen
 Gegeben
 Generalisiert
