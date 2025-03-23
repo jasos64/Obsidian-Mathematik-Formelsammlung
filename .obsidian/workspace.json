@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Z_Exklusiv zur Formelsammlung/Aufgabensammlung von HA und mehr/Analysis/Seite 19 Nr. 1aeg) Seite 20 Nr. 2cdf).md",
+                "file": "Z_Probeabitur/Klausurvorbereitung.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Seite 19 Nr. 1aeg) Seite 20 Nr. 2cdf)"
+              "title": "Klausurvorbereitung"
             }
           }
         ]
@@ -204,7 +204,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Z_Exklusiv zur Formelsammlung/Aufgabensammlung von HA und mehr/Analysis/Seite 19 Nr. 1aeg) Seite 20 Nr. 2cdf).md",
+                "file": "Z_Probeabitur/Klausurvorbereitung.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -232,7 +232,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Seite 19 Nr. 1aeg) Seite 20 Nr. 2cdf)"
+              "title": "Graph of Klausurvorbereitung"
             }
           }
         ]
@@ -261,8 +261,17 @@
   },
   "active": "3b51a4aea1ff0e05",
   "lastOpenFiles": [
-    "Z_Exklusiv zur Formelsammlung/Aufgabensammlung von HA und mehr/Analysis/Seite 19 Nr. 1aeg).pdf",
+    "Z_Probeabitur/Klausurvorbereitung.pdf",
+    "Z_Abbildungen allgemein/Garten_1.png",
+    "Z_Probeabitur/Klausurvorbereitung.md",
+    "Z_Probeabitur/2023 Probeabitur.md",
+    "Pasted image 20250313112302.png",
+    "Z_Abbildungen allgemein/DesmosKreise9a) 1.png",
+    "Z_Abbildungen allgemein/BlattFalten.png",
+    "Z_Abbildungen allgemein/Annahmebvereich.png",
+    "Z_Abbildungen allgemein/Garten.png",
     "Z_Exklusiv zur Formelsammlung/Aufgabensammlung von HA und mehr/Analysis/Seite 19 Nr. 1aeg) Seite 20 Nr. 2cdf).md",
+    "Z_Exklusiv zur Formelsammlung/Aufgabensammlung von HA und mehr/Analysis/Seite 19 Nr. 1aeg).pdf",
     "Z_Exklusiv zur Formelsammlung/Aufgabensammlung von HA und mehr/Analysis/Seite 19 Nr. 1aeg) Seite 20 Nr. 2cdf).pdf",
     "Z_Exklusiv zur Formelsammlung/Aufgabensammlung von HA und mehr/Analysis/Seite 109.md",
     "Z_Exklusiv zur Formelsammlung/Aufgabensammlung von HA und mehr/Analysis/Seite 20 2cdf).md",
@@ -270,7 +279,6 @@
     "Z_Exklusiv zur Formelsammlung/Aufgabensammlung von HA und mehr/Analysis/Umkehrfunktionsaufgaben 1) 2).pdf",
     "Analysis/Kurvendiskussion/Funktion(en).md",
     "Analysis/Allgemein/Integralrechnung/Substitution.md",
-    "Pasted image 20250313112302.png",
     "Z_Exklusiv zur Formelsammlung/Aufgabensammlung von HA und mehr/Analytische Geometrie/Seite 135 Nr. 3).md",
     "Z_Exklusiv zur Formelsammlung/Aufgabensammlung von HA und mehr/Analytische Geometrie/Seite 43 Nr. 11).md",
     "Z_Abbildungen allgemein/Pyramide.png",
@@ -295,17 +303,10 @@
     "Stochastik/Allgemein/Verteilungen/Approximation der Binomialverteilung durch die Normalverteilung.md",
     "Stochastik/Allgemein/Verteilungen/Normalverteilung.md",
     "Stochastik/Allgemein/Verteilungen/Standardisierung.md",
-    "Stochastik/Allgemein/Verteilungen/Flächeninhalt der Normalverteilung.md",
-    "Stochastik/Allgemein/Verteilungen/Geometrische Verteilung.md",
     "Z_Exklusiv zur Formelsammlung/Aufgabensammlung von HA und mehr/Stochastik/Seite 163 Nr. 1) 2) 3ab) 4ab) 5ae) Seite 164 Nr. 7).pdf",
     "Z_Abbildungen allgemein/GausskurveAnnäherung.png",
     "Z_Abbildungen allgemein/Seite.png",
     "Z_Abbildungen allgemein/Pyramide11.png",
-    "Z_Abbildungen allgemein/Dreieck.png",
-    "Z_Abbildungen allgemein/HausForm.png",
-    "Z_Abbildungen allgemein/BlattFalten.png",
-    "Z_Abbildungen allgemein/Annahmebvereich.png",
-    "Z_Abbildungen allgemein/DesmosKreise9a).png",
     "Untitled.canvas"
   ]
 }
