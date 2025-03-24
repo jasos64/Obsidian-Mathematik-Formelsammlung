@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Z_Probeabitur/Klausurvorbereitung.md",
+                "file": "Z_Probeabitur/2023 Probeabitur.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Klausurvorbereitung"
+              "title": "2023 Probeabitur"
             }
           }
         ]
@@ -204,7 +204,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Z_Probeabitur/Klausurvorbereitung.md",
+                "file": "Z_Probeabitur/2023 Probeabitur.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -232,7 +232,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Klausurvorbereitung"
+              "title": "Graph of 2023 Probeabitur"
             }
           }
         ]
@@ -261,10 +261,12 @@
   },
   "active": "3b51a4aea1ff0e05",
   "lastOpenFiles": [
+    "Z_Probeabitur/2024 Probeabitur.md",
+    "Z_Probeabitur/Klausurvorbereitung.md",
+    "Z_Abbildungen allgemein/Trassierung1.png",
+    "Z_Probeabitur/2023 Probeabitur.md",
     "Z_Probeabitur/Klausurvorbereitung.pdf",
     "Z_Abbildungen allgemein/Garten_1.png",
-    "Z_Probeabitur/Klausurvorbereitung.md",
-    "Z_Probeabitur/2023 Probeabitur.md",
     "Pasted image 20250313112302.png",
     "Z_Abbildungen allgemein/DesmosKreise9a) 1.png",
     "Z_Abbildungen allgemein/BlattFalten.png",
@@ -303,10 +305,8 @@
     "Stochastik/Allgemein/Verteilungen/Approximation der Binomialverteilung durch die Normalverteilung.md",
     "Stochastik/Allgemein/Verteilungen/Normalverteilung.md",
     "Stochastik/Allgemein/Verteilungen/Standardisierung.md",
-    "Z_Exklusiv zur Formelsammlung/Aufgabensammlung von HA und mehr/Stochastik/Seite 163 Nr. 1) 2) 3ab) 4ab) 5ae) Seite 164 Nr. 7).pdf",
     "Z_Abbildungen allgemein/GausskurveAnnäherung.png",
     "Z_Abbildungen allgemein/Seite.png",
-    "Z_Abbildungen allgemein/Pyramide11.png",
     "Untitled.canvas"
   ]
 }
