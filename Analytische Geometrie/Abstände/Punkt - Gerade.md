@@ -120,3 +120,35 @@ $$
 Der Verbindungsvektor zwischen dem Punkt außerhalb der Gerade und $\overrightarrow{OS}$ ist in der Länge der Abstand der berechnet werden soll. Der Richtungsvektor dieser beiden Punkte wird gebildet und anschließend in der Länge bestimmt.
 
 ---
+## Generelle Formel
+> Eine Gerade $g:\vec x=\vec p+\lambda\cdot\vec r$ und ein Punkt $\vec q$ sind gegeben, zu denen der Abstand berechnet werden soll.
+
+Wir verwenden eine zu $g$ senkrechte Hilfsebene, die den Punkt $Q$ enthält, und uns den Schnittpunkt des Lotfußpunktes $S$ gibt:
+$$
+\begin{align}
+	\vec r\circ\vec x&=\vec r\circ\vec q\\
+	\vec r\circ\left[\vec p+\lambda\cdot\vec r\right]
+		&=\vec r\circ\vec q\\
+	\vec r\circ\vec p+\lambda\cdot\vec r\circ\vec r
+		&=\vec r\circ\vec q&&\mid-\vec r\circ\vec p\\
+	\lambda\cdot\textcolor{orange}{\vec r\circ\vec r}
+		&=\vec r\circ\vec q-\vec r\circ\vec p\\
+	\lambda\cdot\textcolor{orange}{|\vec r|^2}
+		&=\vec r\circ\left[\vec q-\vec p\right]&&\mid\div|\vec r|^2\\
+	\lambda&=\frac{\vec r\circ\left[\vec q-\vec p\right]}{|\vec r|^2}\\\\
+	\vec s&=\vec p+\lambda\cdot\vec r\\
+	\vec s&=\vec p+\frac{\vec r\circ\left[\vec q-\vec p\right]}{|\vec r|^2}\cdot\vec r
+\end{align}
+$$
+Der Verbindungsvektor $\vec d=\overrightarrow{SQ}$ gibt in der Länge den Abstand zu dem Punkt von der Gerade $g$ an.
+$$
+\begin{align}
+	\vec d&=\overrightarrow{SQ}=\overrightarrow{OQ}-\overrightarrow{OS}\\
+	\vec d&=\vec q-\left[\vec{p}+\frac{\vec r\circ\left[\vec q-\vec p\right]}{|\vec r|^2}\cdot\vec r\right]=
+		\vec q-\vec{p}-\frac{\vec r\circ\left[\vec q-\vec p\right]}{|\vec r|^2}\cdot\vec r\\
+	d(g;Q)&=\left|\vec d\right|=\sqrt{
+		\left(\vec q_1-\vec{p}_1-\frac{\vec r\circ\left[\vec q-\vec p\right]}{|\vec r|^2}\cdot\vec r_1\right)^2+
+		\left(\vec q_2-\vec{p}_2-\frac{\vec r\circ\left[\vec q-\vec p\right]}{|\vec r|^2}\cdot\vec r_2\right)^2+
+		\left(\vec q_3-\vec{p}_3-\frac{\vec r\circ\left[\vec q-\vec p\right]}{|\vec r|^2}\cdot\vec r_3\right)^2}
+\end{align}
+$$

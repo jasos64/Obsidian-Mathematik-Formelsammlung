@@ -11,12 +11,15 @@
             "id": "3b51a4aea1ff0e05",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Z_Probeabitur/Klausurvorbereitung.pdf"
+                "file": "Analysis/Allgemein/Umkehrfunktion.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "lucide-file-text",
-              "title": "Klausurvorbereitung"
+              "icon": "lucide-file",
+              "title": "Umkehrfunktion"
             }
           }
         ]
@@ -201,7 +204,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Z_Probeabitur/Klausurvorbereitung.pdf",
+                "file": "Analysis/Allgemein/Umkehrfunktion.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -229,7 +232,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Klausurvorbereitung"
+              "title": "Graph of Umkehrfunktion"
             }
           }
         ]
@@ -258,50 +261,50 @@
   },
   "active": "3b51a4aea1ff0e05",
   "lastOpenFiles": [
-    "Z_Probeabitur/Klausurvorbereitung.md",
-    "Z_Probeabitur/2023 Probeabitur.md",
-    "Analytische Geometrie/Körper/Spatprodukt.md",
-    "Analytische Geometrie/Körper",
-    "Analytische Geometrie/Untitled.md",
-    "Z_Probeabitur/2024 Probeabitur.md",
-    "Z_Abbildungen allgemein/Trassierung1.png",
+    "Analysis/Allgemein/Tailorpolinomentwicklung.md",
+    "Analytische Geometrie/Abstände/Gerade - Gerade (Windschief).md",
+    "Analytische Geometrie/Abstände/Punkt - Ebene.md",
+    "Analytische Geometrie/Abstände/Punkt - Gerade.md",
+    "Analytische Geometrie/Abstände/Abstand.md",
+    "Analysis/Steckbriefaufgaben/Trassierung/Sprungfrei.md",
+    "Analysis/Steckbriefaufgaben/Trassierung/Krümmungsruckfrei.md",
+    "Analysis/Steckbriefaufgaben/Trassierung/Knickfrei.md",
+    "Analysis/Steckbriefaufgaben/Steckbriefaufgaben.md",
+    "Analysis/Steckbriefaufgaben/Trassierung.md",
+    "Analysis/Allgemein/Grenzverhalten.md",
+    "Analysis/Allgemein/Ableiten/Differenzialquotient.md",
+    "Analysis/Allgemein/Ableiten/Ableitung.md",
+    "Analysis/Allgemein/Ableiten/Cheat-Sheet.md",
+    "Analysis/Allgemein/Definitionsbereich.md",
+    "Analysis/Allgemein/Integralrechnung/Substitution.md",
+    "Analysis/Allgemein/Integralrechnung/Integrationsregeln.md",
+    "Analysis/Allgemein/Integralrechnung/Integration.md",
+    "Analysis/Allgemein/Integralrechnung/Flächeninhalte zwischen zwei Funktionen.md",
+    "Analysis/Allgemein/Verschieben von Funktionen.md",
+    "Analysis/Allgemein/Koeffizientenvergleich.md",
+    "Analysis/Allgemein/Partialbruchzerlegung.md",
+    "Analysis/Nullstellen/Nullstellen.md",
+    "Analysis/Nullstellen/Polynomdivision.md",
+    "Analysis/Nullstellen/Newtonverfahren.md",
+    "Analysis/Nullstellen/Komplexe Nullstellen.md",
+    "Z_Exklusiv zur Formelsammlung/Aufgabensammlung von HA und mehr/Analysis/Umkehrfunktionsaufgaben 1) 2).pdf",
     "Z_Probeabitur/Klausurvorbereitung.pdf",
+    "Analytische Geometrie/Körper",
+    "Z_Abbildungen allgemein/Trassierung1.png",
     "Z_Abbildungen allgemein/Garten_1.png",
     "Pasted image 20250313112302.png",
     "Z_Abbildungen allgemein/DesmosKreise9a) 1.png",
     "Z_Abbildungen allgemein/BlattFalten.png",
     "Z_Abbildungen allgemein/Annahmebvereich.png",
     "Z_Abbildungen allgemein/Garten.png",
-    "Z_Exklusiv zur Formelsammlung/Aufgabensammlung von HA und mehr/Analysis/Seite 19 Nr. 1aeg) Seite 20 Nr. 2cdf).md",
     "Z_Exklusiv zur Formelsammlung/Aufgabensammlung von HA und mehr/Analysis/Seite 19 Nr. 1aeg).pdf",
     "Z_Exklusiv zur Formelsammlung/Aufgabensammlung von HA und mehr/Analysis/Seite 19 Nr. 1aeg) Seite 20 Nr. 2cdf).pdf",
-    "Z_Exklusiv zur Formelsammlung/Aufgabensammlung von HA und mehr/Analysis/Seite 109.md",
-    "Z_Exklusiv zur Formelsammlung/Aufgabensammlung von HA und mehr/Analysis/Seite 20 2cdf).md",
-    "Z_Exklusiv zur Formelsammlung/Aufgabensammlung von HA und mehr/Analysis/Umkehrfunktionsaufgaben 1) 2).md",
-    "Z_Exklusiv zur Formelsammlung/Aufgabensammlung von HA und mehr/Analysis/Umkehrfunktionsaufgaben 1) 2).pdf",
-    "Analysis/Kurvendiskussion/Funktion(en).md",
-    "Analysis/Allgemein/Integralrechnung/Substitution.md",
-    "Z_Exklusiv zur Formelsammlung/Aufgabensammlung von HA und mehr/Analytische Geometrie/Seite 135 Nr. 3).md",
-    "Z_Exklusiv zur Formelsammlung/Aufgabensammlung von HA und mehr/Analytische Geometrie/Seite 43 Nr. 11).md",
     "Z_Abbildungen allgemein/Pyramide.png",
     "Z_Exklusiv zur Formelsammlung/Aufgabensammlung von HA und mehr/Analytische Geometrie/Seite 135 Nr. 3).pdf",
-    "Z_Exklusiv zur Formelsammlung/Beweisführungen/GeradeInEbene.md",
-    "Z_Exklusiv zur Formelsammlung/Aufgabensammlung von HA und mehr/Analytische Geometrie/Seite 198 Nr. 7).md",
-    "Z_Exklusiv zur Formelsammlung/Aufgabensammlung von HA und mehr/Analytische Geometrie/Seite 194 Nr. 7ad).md",
-    "Z_Exklusiv zur Formelsammlung/Anderes/Spiel V.1..md",
     "Z_Exklusiv zur Formelsammlung/Anderes/Spiel V.1..pdf",
-    "Z_Exklusiv zur Formelsammlung/Anderes/PPA.md",
-    "Z_Exklusiv zur Formelsammlung/Aufgabensammlung von HA und mehr/Analytische Geometrie/Seite 43 Nr. 13) 14).md",
     "Z_Exklusiv zur Formelsammlung/Aufgabensammlung von HA und mehr/Analytische Geometrie/Seite 43 Nr. 13) 14).pdf",
-    "Z_Exklusiv zur Formelsammlung/Aufgabensammlung von HA und mehr/Analytische Geometrie/Seite 41 Nr. 1) 2) 5) 6).md",
-    "Z_Exklusiv zur Formelsammlung/Aufgabensammlung von HA und mehr/Stochastik/Stochastikaufgaben.md",
     "Z_Exklusiv zur Formelsammlung/Aufgabensammlung von HA und mehr/Analytische Geometrie/Stochastikaufgaben.pdf",
-    "Z_Exklusiv zur Formelsammlung/Aufgabensammlung von HA und mehr/Analysis/Seite 111 3) 4) 5).md",
     "Z_Exklusiv zur Formelsammlung/Aufgabensammlung von HA und mehr/Analytische Geometrie/Seite 43 Nr. 11).pdf",
-    "Z_Exklusiv zur Formelsammlung/Aufgabensammlung von HA und mehr/Analytische Geometrie/Seite 197 Nr. 2b).md",
-    "Z_Exklusiv zur Formelsammlung/Aufgabensammlung von HA und mehr/Analytische Geometrie/Seite 70 Nr. 6).md",
-    "Z_Exklusiv zur Formelsammlung/Aufgabensammlung von HA und mehr/Analytische Geometrie/Seite 69 Nr. 1b).md",
-    "Stochastik/Allgemein/Verteilungen/Approximation der Binomialverteilung durch die Normalverteilung.md",
     "Z_Abbildungen allgemein/GausskurveAnnäherung.png",
     "Z_Abbildungen allgemein/Seite.png",
     "Untitled.canvas"

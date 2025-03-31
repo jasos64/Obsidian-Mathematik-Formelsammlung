@@ -82,8 +82,7 @@ $$
 \begin{align}
 	0&\gtrless d(q)\\
 	0&\gtrless g(q)-f(q)&&\mid+f(q)\\
-	f(q)&\gtrless g(q)\\\\
-	\left. \frac{\partial }{\partial x} \right\vert_x
+	f(q)&\gtrless g(q)
 \end{align}
 
 $$
