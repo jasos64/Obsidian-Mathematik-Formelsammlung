@@ -8,3 +8,8 @@ $$E_{p}:\vec{x}=\overrightarrow{OP}+\lambda\cdot\overrightarrow{r_1}+\mu\cdot\ov
 Die [[Punktprobe]] kann so erzielt werden, indem der Punkt gleich der Ebene als [[LGS]] gestellt wird.
 
 ---
+## Bildung aus Normalen- und Koordinatenform
+Die [[Parameterform einer Ebene]] kann aus dem [[Normalenvektor]] der [[Koordinatenform einer Ebene]] gebildet werden, wenn man zwei Vektoren findet, die zu diesem orthogonal sind.
+Bei der [[Normalenform einer Ebene]] ist ein Ortsvektor der Ebene bereits gegeben, bei der Koordinatenform muss dieser durch Einsetzen bestimmt werden.
+
+---

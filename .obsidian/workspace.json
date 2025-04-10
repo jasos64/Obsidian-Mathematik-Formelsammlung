@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Analysis/Allgemein/Umkehrfunktion.md",
+                "file": "Z_Probeabitur/Abiturvorbereitung.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Umkehrfunktion"
+              "title": "Abiturvorbereitung"
             }
           }
         ]
@@ -204,7 +204,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Analysis/Allgemein/Umkehrfunktion.md",
+                "file": "Z_Probeabitur/Abiturvorbereitung.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -232,7 +232,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Umkehrfunktion"
+              "title": "Graph of Abiturvorbereitung"
             }
           }
         ]
@@ -261,32 +261,35 @@
   },
   "active": "3b51a4aea1ff0e05",
   "lastOpenFiles": [
-    "Analysis/Allgemein/Tailorpolinomentwicklung.md",
-    "Analytische Geometrie/Abstände/Gerade - Gerade (Windschief).md",
-    "Analytische Geometrie/Abstände/Punkt - Ebene.md",
-    "Analytische Geometrie/Abstände/Punkt - Gerade.md",
-    "Analytische Geometrie/Abstände/Abstand.md",
-    "Analysis/Steckbriefaufgaben/Trassierung/Sprungfrei.md",
-    "Analysis/Steckbriefaufgaben/Trassierung/Krümmungsruckfrei.md",
-    "Analysis/Steckbriefaufgaben/Trassierung/Knickfrei.md",
-    "Analysis/Steckbriefaufgaben/Steckbriefaufgaben.md",
-    "Analysis/Steckbriefaufgaben/Trassierung.md",
-    "Analysis/Allgemein/Grenzverhalten.md",
-    "Analysis/Allgemein/Ableiten/Differenzialquotient.md",
-    "Analysis/Allgemein/Ableiten/Ableitung.md",
-    "Analysis/Allgemein/Ableiten/Cheat-Sheet.md",
-    "Analysis/Allgemein/Definitionsbereich.md",
-    "Analysis/Allgemein/Integralrechnung/Substitution.md",
-    "Analysis/Allgemein/Integralrechnung/Integrationsregeln.md",
+    "Analysis/Allgemein/Integralrechnung/Partielle Integration.md",
     "Analysis/Allgemein/Integralrechnung/Integration.md",
-    "Analysis/Allgemein/Integralrechnung/Flächeninhalte zwischen zwei Funktionen.md",
-    "Analysis/Allgemein/Verschieben von Funktionen.md",
-    "Analysis/Allgemein/Koeffizientenvergleich.md",
-    "Analysis/Allgemein/Partialbruchzerlegung.md",
-    "Analysis/Nullstellen/Nullstellen.md",
-    "Analysis/Nullstellen/Polynomdivision.md",
-    "Analysis/Nullstellen/Newtonverfahren.md",
-    "Analysis/Nullstellen/Komplexe Nullstellen.md",
+    "Z_Probeabitur/Abiturvorbereitung.md",
+    "Z_Probeabitur/Klausurvorbereitung.md",
+    "Analytische Geometrie/Geraden/Schnittpunkt von zwei Geraden.md",
+    "Analytische Geometrie/Ebenen/Schnittgerade Ebene-Ebene.md",
+    "Allgemeines/Zahlen/Variable(n).md",
+    "Analytische Geometrie/Ebenen/Hessesche Normalform einer Ebene.md",
+    "Analytische Geometrie/Ebenen/Koordinatenform einer Ebene.md",
+    "Analytische Geometrie/Ebenen/Parameterform einer Ebene.md",
+    "Analytische Geometrie/Ebenen/Normalenform einer Ebene.md",
+    "Pasted image 20250409153056.png",
+    "Analytische Geometrie/Geraden/Punktprobe.md",
+    "Analytische Geometrie/Ebenen/Ebene(n).md",
+    "Z_Exklusiv zur Formelsammlung/Aufgabensammlung von HA und mehr/Analysis/Seite 109.md",
+    "Analytische Geometrie/LGS/Gaußsches Lösungsverfahren.md",
+    "Analytische Geometrie/LGS/LGS Darstellungen.md",
+    "Analytische Geometrie/LGS/LGS.md",
+    "Z_Exklusiv zur Formelsammlung/Aufgabensammlung von HA und mehr/Analysis/Pyramide.md",
+    "Z_Exklusiv zur Formelsammlung/Aufgabensammlung von HA und mehr/Analysis/Pyramide.pdf",
+    "Z_Exklusiv zur Formelsammlung/Aufgabensammlung von HA und mehr/Analysis/Seite 19 Nr. 1aeg) Seite 20 Nr. 2cdf).md",
+    "Z_Exklusiv zur Formelsammlung/Aufgabensammlung von HA und mehr/Analysis/Hausform.md",
+    "Z_Exklusiv zur Formelsammlung/Aufgabensammlung von HA und mehr/Analysis/Seite 19 Nr. 1aeg) Seite 20 Nr. 2cdf).pdf",
+    "Allgemeines/Gesetze/Binomischer Lehrsatz.md",
+    "Analysis/Allgemein/Tailorpolinomentwicklung.md",
+    "Analysis/Steckbriefaufgaben/Trassierung/Krümmungsruckfrei.md",
+    "Stochastik/Hypothesentestungen/Linksseitiger Hypothesentest.md",
+    "Analytische Geometrie/Ebenen/Schnittmenge Gerade-Ebene.md",
+    "Analytische Geometrie/Geraden/Lagebeziehungen von Geraden.md",
     "Z_Exklusiv zur Formelsammlung/Aufgabensammlung von HA und mehr/Analysis/Umkehrfunktionsaufgaben 1) 2).pdf",
     "Z_Probeabitur/Klausurvorbereitung.pdf",
     "Analytische Geometrie/Körper",
@@ -298,15 +301,12 @@
     "Z_Abbildungen allgemein/Annahmebvereich.png",
     "Z_Abbildungen allgemein/Garten.png",
     "Z_Exklusiv zur Formelsammlung/Aufgabensammlung von HA und mehr/Analysis/Seite 19 Nr. 1aeg).pdf",
-    "Z_Exklusiv zur Formelsammlung/Aufgabensammlung von HA und mehr/Analysis/Seite 19 Nr. 1aeg) Seite 20 Nr. 2cdf).pdf",
     "Z_Abbildungen allgemein/Pyramide.png",
     "Z_Exklusiv zur Formelsammlung/Aufgabensammlung von HA und mehr/Analytische Geometrie/Seite 135 Nr. 3).pdf",
     "Z_Exklusiv zur Formelsammlung/Anderes/Spiel V.1..pdf",
     "Z_Exklusiv zur Formelsammlung/Aufgabensammlung von HA und mehr/Analytische Geometrie/Seite 43 Nr. 13) 14).pdf",
     "Z_Exklusiv zur Formelsammlung/Aufgabensammlung von HA und mehr/Analytische Geometrie/Stochastikaufgaben.pdf",
-    "Z_Exklusiv zur Formelsammlung/Aufgabensammlung von HA und mehr/Analytische Geometrie/Seite 43 Nr. 11).pdf",
     "Z_Abbildungen allgemein/GausskurveAnnäherung.png",
-    "Z_Abbildungen allgemein/Seite.png",
     "Untitled.canvas"
   ]
 }
