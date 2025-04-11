@@ -1698,6 +1698,7 @@ EPb
 EhI
 Einschalten
 Erklären
+Endtemperaturen
 Funktion
 Funktionsnamen
 Form
@@ -5727,6 +5728,7 @@ oUZ
 oPQ
 ohE
 oTOQ
+optimal
 ist
 in
 im
@@ -8434,6 +8436,7 @@ BMn
 BCC
 BZg
 Bdg
+Bestätigen
 Rechenvorganges
 Rest
 Rechnung
@@ -29602,6 +29605,7 @@ Temperaturveränderung
 Topfes
 Topf
 Temperatur
+Tangentengleichung
 Mathematisch
 Maxima
 Möglichkeiten

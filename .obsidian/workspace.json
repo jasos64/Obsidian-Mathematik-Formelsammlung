@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Z_Probeabitur/Abiturvorbereitung.md",
+                "file": "Z_Probeabitur/Analysis-Topf.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Abiturvorbereitung"
+              "title": "Analysis-Topf"
             }
           }
         ]
@@ -204,7 +204,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Z_Probeabitur/Abiturvorbereitung.md",
+                "file": "Z_Probeabitur/Analysis-Topf.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -232,7 +232,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Abiturvorbereitung"
+              "title": "Graph of Analysis-Topf"
             }
           }
         ]
@@ -263,7 +263,7 @@
   "lastOpenFiles": [
     "Analysis/Allgemein/Integralrechnung/Partielle Integration.md",
     "Analysis/Allgemein/Integralrechnung/Integration.md",
-    "Z_Probeabitur/Abiturvorbereitung.md",
+    "Z_Probeabitur/Analysis-Topf.md",
     "Z_Probeabitur/Klausurvorbereitung.md",
     "Analytische Geometrie/Geraden/Schnittpunkt von zwei Geraden.md",
     "Analytische Geometrie/Ebenen/Schnittgerade Ebene-Ebene.md",
