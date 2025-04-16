@@ -42,3 +42,6 @@ aBcYd
 \acute{#}
 \backsim
 \aleph
+\S
+\alpha
+\amalg

@@ -2,7 +2,7 @@
 > Die Temperaturveränderung eines Topfes kann mit der Funktionenschar $t_a(x)=\left(-\frac{16}{5a}x^2+\frac{16}{5}x\right)\cdot e^{-0,2x}$ für $a\ge10$ dargestellt werden. Mittels eines Drehknopfes kann der Topf kurzzeitig, oder Langzeitig aufgeheizt werden. Die Einheit von $t_a(x)$ ist $\left[\frac{\textdegree C}{min}\right]$ (Grad Celsius pro Minute). $x$ gibt die Zeit in Minuten nach Einschalten des Heizmechanismus an an.
 > Der Raum (und somit der Topf zu Beginn auch), hat eine Temperatur von $20\textdegree C$.
 
-> Abb. 1: $f_{10}(x)$
+> Abb. 1: $t_{10}(x)$
 ```functionplot
 ---
 title: 
@@ -63,6 +63,7 @@ $$
 		\left(-\frac{16}{50}x^2+\frac{16}{5}x\right)\right)\cdot e^{-0,2x}\\
 		&=\left(-\frac{16}{25}x+\frac{16}{5}+\frac{8}{125}x^2-\frac{16}{25}x\right)\cdot e^{-0,2x}\\
 		&=\left(\frac{8}{125}x^2-\frac{32}{25}x+\frac{16}{5}\right)\cdot e^{-0,2x}\\\hline\\
+	\text{Notwendiges Kriterium}&\text{ für lokale Extrema:}\quad f_{10}'(x)=0\\
 	0&=f_{10}'(x)\\
 	0&=\left(\frac{8}{125}x^2-\frac{32}{25}x+\frac{16}{5}\right)\cdot e^{-0,2x}&&\mid\boxed{e^{-0,2x}>0}\\
 	0&=\frac{8}{125}x^2-\frac{32}{25}x+\frac{16}{5}&&\mid\cdot\frac{125}{8}\\
@@ -85,7 +86,7 @@ $$
 	&=\left(\left(\frac{16}{125}x-\frac{32}{25}\right)-0,2\left(\frac{8}{125}x^2-\frac{32}{25}x+\frac{16}{5}\right)\right)\cdot e^{-0,2x}\\
 	&=\left(\frac{16}{125}x-\frac{32}{25}-\frac{8}{625}x^2+\frac{32}{125}x-\frac{16}{25}\right)\cdot e^{-0,2x}\\
 	&=\left(-\frac{8}{625}x^2+\frac{48}{125}x-\frac{48}{25}\right)\cdot e^{-0,2x}\\\hline\\
-	
+	\text{Notwendiges Kriterium}&\text{ für Wendestellen:}\quad f_{10}''(x)=0\\
 	0&=f_{10}''(x)\\
 	0&=\left(-\frac{8}{625}x^2+\frac{48}{125}x-\frac{48}{25}\right)\cdot e^{-0,2x}&&\mid\boxed{e^{-0,2x}>0}\\
 	0&=-\frac{8}{625}x^2+\frac{48}{125}x-\frac{48}{25}&&\mid\cdot\left(-\frac{625}8\right)\\
@@ -141,7 +142,9 @@ $$
 	\lim_{x\to\infty}T_a(x)&=\frac{100a-800}{a}\\\hline\\
 	
 	g_1\coloneqq\lim_{x\to\infty}T_{10}(x)&=\frac{1000-800}{10}=\frac{200}{10}=20\\
-	g_2\coloneqq\lim_{x\to\infty}T_{\lim_{a\to\infty}}(x)&=\lim_{a\to\infty}\frac{100a-800}{a}=\lim_{a\to\infty}\left[\frac{100a}{a}-\frac{800}{a}\right]\\
+	g_2\coloneqq
+	\lim_{a\to\infty}\lim_{x\to\infty}T_a(x)
+		&=\lim_{a\to\infty}\frac{100a-800}{a}=\lim_{a\to\infty}\left[\frac{100a}{a}-\frac{800}{a}\right]\\
 	&=\lim_{a\to\infty}\left[100-\underbrace{\frac{800}{a}}_{=0}\right]=100
 \end{align}
 $$
